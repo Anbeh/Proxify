@@ -29,10 +29,7 @@ jobs:
 
     - name: Run Proxy Script
       run: |
-        cd Files
-        python app.py
-        python warp.py
-        python sort.py
+        python proxies.py
 
     - name: Pull Latest Changes from Remote
       run: |
