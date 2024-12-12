@@ -1,4 +1,3 @@
-
 name: Auto Update Proxies
 
 on:
@@ -28,21 +27,18 @@ jobs:
 
     - name: Run Proxy Script
       run: |
-        python proxies.py
-
+        python proxies.py 
     - name: Check Changes
       run: |
         echo "Checking for changes..."
-        git status
-        ls -l Files/
+        git status 
 
     - name: Commit and Push Changes
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: "github-actions"
-        author_email: "github-actions@github.com"
-        message: "Updated proxy files"
-        add: "."
-        push: "true" 
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add .
+        git commit -m "Update proxy files" || echo "No changes to commit"
+        git push origin HEAD:main  
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
