@@ -2,7 +2,7 @@ name: Auto Update Proxies
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *" # 30 minutes
 
 jobs:
   update-proxies:
