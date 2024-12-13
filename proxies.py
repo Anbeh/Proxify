@@ -113,7 +113,7 @@ def get_v2ray():
     with open(output_file, 'w') as output:
         output.write(f'''#profile-title: base64:8J+GkyBHaXRodWI6QW5iZWggfCBURzpaZXJvRGF5VE0=
 #profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10000000000000000; expire=10000000000
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
 ''')
