@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.30:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.30:443
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.112.176:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.112.176:443
 vless://6fbddbd0-6995-4d73-b367-30760d1cefb0@172.66.213.43:443?security=tls&sni=TvotEd.SPaCe&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.43:443
 vless://7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?security=tls&sni=chde.black-melo.store&type=splithttp&host=chde.black-melo.store&path=/melo?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2096&fp=chrome&alpn=h3#🔒 VL-SPLITHTTP-TLS 🇸🇪 SE-185.146.173.39:443
@@ -503,3 +502,4 @@ vless://62357561-a129-4b9e-9614-ce2578020866@210.99.119.3:50000?security=tls&sni
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.202.211.216:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-198.202.211.216:443
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.21.96.1:443?security=tls&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:443
 vless://62357561-a129-4b9e-9614-ce2578020866@43.128.26.74:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-43.128.26.74:443
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.47:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:2053
