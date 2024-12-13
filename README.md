@@ -8,8 +8,7 @@ Proxify is a repository for accessing the latest proxies and V2Ray configuration
 - SOCKS4
 - HTTP
 - HTTPS
-- MTProto
-- SOCKS-TG
+- MTProto / SOCKS For Telegram messenger
 
 ## Contributing
 
