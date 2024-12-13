@@ -89,11 +89,10 @@ def get_proxy(type):
                 continue
             else:
                 for line in data.splitlines():
-                    if line.startswith('socks5://') or line.startswith('socks4://') or line.startswith('http://') or line.startswith('https://'):
-                        line = line.removeprefix('socks5://')
-                        line = line.removeprefix('socks4://')                        
-                        line = line.removeprefix('http://')
-                        line = line.removeprefix('https://')
+                    for prefix in ['socks5://', 'socks4://', 'http://', 'https://']:
+                        if line.startswith(prefix):
+                            line = line.removeprefix(prefix)
+                            break
                     output.write(line + '\n')
         output.close()
 
