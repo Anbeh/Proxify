@@ -1,10 +1,8 @@
 name: Auto Update Proxies
 
-permissions: write-all
-
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/10 * * * *" 
   push:
     branches:
       - main
@@ -20,7 +18,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: "3.11"
+        python-version: "3.x"
 
     - name: Install Dependencies
       run: |
@@ -31,7 +29,7 @@ jobs:
       run: |
         python proxies.py
 
-    - name: Pull Latest Changes from Remote
+    - name: Pull latest changes from remote
       run: |
         git pull origin main --rebase || echo "No changes to pull"
 
