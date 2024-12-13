@@ -97,10 +97,6 @@ def get_proxy(type):
                     output.write(line + '\n')
         output.close()
 
-
-from base64 import b64decode
-from requests import get
-
 def get_v2ray():
     tmp_data = []
     output_file = 'v2ray.txt'
@@ -113,11 +109,10 @@ def get_v2ray():
                 tmp_data.extend(decoded_data.splitlines())
 
         except Exception as e:
-            print(f"Error processing {link}: {e}")
             continue
 
     with open(output_file, 'w') as output:
-        output.write(f'''#profile-title: base64:8J+GkyBHaXRodWI6QW5iZWg=
+        output.write(f'''#profile-title: base64:8J+GkyBHaXRodWI6QW5iZWggfCBURzpaZXJvRGF5VE0=
 #profile-update-interval: 1
 #subscription-userinfo: total={len(tmp_data)}; expire=9999999999999
 #support-url: https://github.com/Anbeh/Proxify
