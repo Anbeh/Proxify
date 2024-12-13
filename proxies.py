@@ -96,6 +96,9 @@ def get_proxy(type):
                     output.write(line + '\n')
         output.close()
 
+from requests import get
+from base64 import b64decode
+
 def get_v2ray():
     tmp_data = []
     output_file = 'v2ray.txt'
@@ -106,19 +109,29 @@ def get_v2ray():
             if data != '404: Not Found':
                 decoded_data = b64decode(data).decode('utf-8')
                 tmp_data.extend(decoded_data.splitlines())
-
         except Exception as e:
+            print(f"Error processing link {link}: {e}")
             continue
 
-    with open(output_file, 'w') as output:
-        output.write(f'''#profile-title: base64:8J+GkyBHaXRodWI6QW5iZWggfCBURzpaZXJvRGF5VE0=
+    chunk_size = 500
+    files_count = len(tmp_data) // chunk_size + (1 if len(tmp_data) % chunk_size else 0)
+
+    for file_num in range(1, files_count + 1):
+        start_index = (file_num - 1) * chunk_size
+        end_index = start_index + chunk_size
+        chunk = tmp_data[start_index:end_index]
+
+        with open(f"Subscription-{file_num}.txt", 'w') as output:
+            output.write(
+                '''#profile-title: base64:8J+GkyBHaXRodWI6IEBBbmJlaCB8IFRHOiBAUXVpY2tIaWRl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-''')
+'''
+            )
+            output.write('\n'.join(chunk) + '\n')
 
-        output.write('\n'.join(tmp_data) + '\n')
 
 def get_mtproto(link_index):
     if link_index == 0:
