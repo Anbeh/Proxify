@@ -98,18 +98,33 @@ def get_proxy(type):
         output.close()
 
 
-def get_v2ray():
-    with open('v2ray.txt', 'wb') as output:
-        for link in v2ray_links:
-            data = get(link).text
-            if data == '404: Not Found':
-                continue
-            else:
-                data = b64decode(data)
-                output.write(data)
-                output.write(b'\n')
-        output.close()
+from base64 import b64decode
+from requests import get
 
+def get_v2ray():
+    tmp_data = []
+    output_file = 'v2ray.txt'
+
+    for link in v2ray_links:
+        try:
+            data = get(link).text
+            if data != '404: Not Found':
+                decoded_data = b64decode(data).decode('utf-8')
+                tmp_data.extend(decoded_data.splitlines())
+
+        except Exception as e:
+            print(f"Error processing {link}: {e}")
+            continue
+
+    with open(output_file, 'w') as output:
+        output.write(f'''#profile-title: base64:8J+GkyBHaXRodWI6QW5iZWg=
+#profile-update-interval: 1
+#subscription-userinfo: total={len(tmp_data)}; expire=9999999999999
+#support-url: https://github.com/Anbeh/Proxify
+#profile-web-page-url: https://github.com/Anbeh/Proxify
+''')
+
+        output.write('\n'.join(tmp_data) + '\n')
 
 def get_mtproto(link_index):
     if link_index == 0:
