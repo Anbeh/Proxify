@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.bEsTdRlImIt.NeT&path=/#15|US_speednode_0037
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.bEsTdRlImIt.NeT&path=/#15|US_speednode_0038
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.bEsTdRlImIt.NeT&path=/#15|US_speednode_0039
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.bEsTdRlImIt.NeT&path=/#15|US_speednode_0040
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.bEsTdRlImIt.NeT&path=/#15|US_speednode_0041
+vless://5e32df7f-dbf7-5bb8-8a37-c189e11365e6@151.101.3.8:80?allowInsecure=0&sni=www.x-ui.com&type=ws&host=www.x-ui.com&path=/vless?ed=1048#15|US_speednode_0042
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?allowInsecure=0&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.bEsTdRlImIt.NeT&path=/fp=chrome&security=tls#15|US_speednode_0043
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.bEsTdRlImIt.NeT&path=/#15|US_speednode_0044
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?allowInsecure=0&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.bEsTdRlImIt.NeT&path=/fp=chrome&security=tls#15|US_speednode_0045
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?allowInsecure=0&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.bEsTdRlImIt.NeT&path=/fp=chrome&security=tls#15|US_speednode_0047
+vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?allowInsecure=0&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.bEsTdRlImIt.NeT&path=/fp=chrome&security=tls#15|US_speednode_0048
+vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.21.80.1:443?allowInsecure=0&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=/fp=chrome&security=tls#15|US_speednode_0049
+vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.21.112.1:443?allowInsecure=0&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=/fp=chrome&security=tls#15|US_speednode_0050
+vless://22641cdb-5137-4a96-915b-5c5fcc761a2d@198.41.209.2:443?allowInsecure=0&sni=gard.starmc.ir&alpn=h2,http/1.1&type=ws&host=gard.starmc.ir&path=/@metavpnnfp=firefox&security=tls#15|US_speednode_0051
+vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.24.15.179:443?allowInsecure=0&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=/fp=chrome&security=tls#15|US_speednode_0052
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
