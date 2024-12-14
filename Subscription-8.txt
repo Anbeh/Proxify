@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@104.19.174.207:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.174.207:443
-trojan://NISHIKUITAN111@104.21.26.75:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.26.75:443
-trojan://blue2024@104.20.18.41:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.18.41:443
-trojan://blue2024@104.16.94.226:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.94.226:443
-trojan://blue2024@104.17.169.219:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.169.219:443
-trojan://28a5128c-34f7-5539-9b0c-466f95dc6301@172.67.151.236:2087?security=tls&sni=apihs.ysrdvukp.workeRS.deV&type=ws&host=apihs.ysrdvukp.workeRS.deV&path=trojan-ws%2F%3Fed&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.151.236:2087
-trojan://dfd7e083-fde5-4626-a5ac-5deb691b487a@151.101.194.228:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&type=ws&host=didnegar.com&path=de%3Fed%3D1048&fp=firefox#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.228:443
-trojan://blue2024@108.162.195.202:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.202:443
-trojan://blue2024@108.162.195.192:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.192:443
-trojan://blue2024@198.41.202.9:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-198.41.202.9:443
-trojan://blue2024@104.27.41.214:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.41.214:443
-trojan://bpb-trojan@172.66.47.128:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.47.128:443
-trojan://NISHIKUITAN111@104.20.140.145:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.140.145:443
-trojan://blue2024@173.245.49.104:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-173.245.49.104:443
 trojan://blue2024@104.19.155.98:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.155.98:443
 trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
 trojan://blue2024@104.18.31.239:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.31.239:443
@@ -503,3 +489,17 @@ trojan://bpb-trojan@190.93.246.121:443?security=tls&sni=fcspring.ggff.net&type=w
 trojan://blue2024@198.41.205.237:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.205.237:443
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
 trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:2053
+trojan://NISHIKUITAN111@104.17.157.109:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.157.109:443
+trojan://blue2024@104.19.214.179:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.214.179:443
+trojan://blue2024@108.162.195.83:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.83:443
+trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-185.176.24.104:443
+trojan://NISHIKUITAN111@172.67.216.159:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.216.159:443
+trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=uhc6rhiubu.com&path=ws%2F%3Fed%3D2048#🔒 TR-WS-TLS 🇺🇸 US-151.101.2.228:443
+trojan://NISHIKUITAN111@154.197.75.248:443?#🔒 TR-TCP-NA 🇸🇨 SC-154.197.75.248:443
+trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.32.69:443
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
+trojan://NISHIKUITAN111@104.21.101.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.101.38:443
+trojan://blue2024@172.64.35.199:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.199:443
+trojan://NISHIKUITAN111@185.176.24.134:443?#🔒 TR-TCP-NA 🇷🇺 RU-185.176.24.134:443
+trojan://blue2024@190.93.247.65:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.247.65:443
+trojan://blue2024@162.159.44.203:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.203:443

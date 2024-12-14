@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%F0%9F%87%AC%F0%9F%87%A7%20%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@194.5.215.59:8080#0%7C--1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbmdab3RUYmtGdERJQ1laeWk2M25B@51.158.252.130:443#0%7C--2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.91.173.159:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.203.0.206:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.200.220.184:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.141.184.102:443#0%7C--8
-vmess://eyJ2IjoiMiIsInBzIjoiMHwtLTMwIiwiYWRkIjoiaXJ2aWRlby5jZmQiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6ImlydmlkZW8uY2ZkIiwidGxzIjoidGxzIn0=
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#0%7C--36
-trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%2013%2C14%7C%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%2013%2C14%7C%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MThiNjExOS0xN2ZiLTQ3MDAtYTNlZC0zMmU4NDE3YTNkYWE@hk02.51feitu.com:10002#%F0%9F%87%AD%F0%9F%87%B0%2013%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OVVCNE9GOFdaMFlYSVBCRA@219.135.227.209:15015#%F0%9F%87%AD%F0%9F%87%B0%2013%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -47,10 +36,7 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkZSTE9FUlRUelpOV2xKRlJVcFJNUQ@219.135.227.209:
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@18.143.139.72:443#%F0%9F%87%B0%F0%9F%87%B7%2014%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.178.84.59:443#%F0%9F%87%AF%F0%9F%87%B5%2014%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.151.196.32:443#%F0%9F%87%B8%F0%9F%87%AC%2014%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-trojan://6307d00e-56e0-4d0d-afe9-254155638bdf@219.135.231.205:18147?allowInsecure=1#15%7CCN_speednode_0003
-trojan://3648425794742788096@54.251.144.236:443?allowInsecure=1&sni=enabling-heron.treefrog761.one#15%7CSG_speednode_0016
-trojan://3648425794742788096@35.168.124.79:443?allowInsecure=1&sni=humble-rodent.treefrog761.one#15%7CUS_speednode_0031
-trojan://wkmY1R4EcP@45.32.137.6:443?allowInsecure=1#15%7CUS_speednode_0032
+trojan://3648425794742788096@loving-boa.treefrog761.one:443?allowInsecure=0&sni=loving-boa.treefrog761.one#15%7CIN_speednode_0003
 vmess://eyJ2IjoiMiIsInBzIjoiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCJhZGQiOiI0Mi4yMzYuNzMuNzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NGYwMTc3LTA2NzUtNGRjZi04OWQ0LTgwNGI2Nzg4ZTUxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_3
 vmess://eyJ2IjoiMiIsInBzIjoi55S15oql576k77yaaHR0cHM6Ly90Lm1lL3Z2a2oxMSIsImFkZCI6IjEwNC4xOC4xMTQuMTUzIiwicG9ydCI6IjIwOTUiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjA3NThiZjktNDU0Yi00MzMxLWJiNDUtZTU2ZGQzOTBmNzQzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5IiwiaG9zdCI6ImExLjk4NDk1Mi54eXoiLCJ0bHMiOiIifQ==
@@ -503,3 +489,17 @@ vless://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&sni=
 vless://61bd51fc-06d2-42d8-854a-2aff6458bacd@95.38.106.175:46284?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.106.175:46284
 vless://68d0f3df-6af0-4fca-82df-5b2ea11cd942@162.159.153.2:2082?security=none&type=ws&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.developer1.dns-dynamic.net.xn--9iqr0tm1r4wg.co&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:2082
 vless://1fdb5366-2a63-48a9-bedb-48ed9318ce2f@84.200.24.123:443?security=tls&sni=token.dd.msk.su&type=grpc&serviceName=jk6nZfsYn1Nrtt1s2J3Vv7O&host=token.dd.msk.su&path=jk6nZfsYn1Nrtt1s2J3Vv7O&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇩🇪 DE-84.200.24.123:443
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@172.64.155.187:8080?type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.187:8080
+vless://6f026cbd-5d4a-4d49-b653-9e02f3c1124d@217.18.90.57:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-217.18.90.57:443
+vless://62357561-a129-4b9e-9614-ce2578020866@198.41.220.127:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.127:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.212.157:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.157:443
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.206.92:443?security=tls&sni=AzAdnET-SemeJ.pAGES.dev&type=ws&host=azADNet-seMEJ.pageS.DeV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.157:2053?security=tls&sni=V2.yUnChUn.TOp&type=ws&host=V2.yUnChUn.TOp&path=%2Fnhg6mxbesb71eu9u%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.157:2053
+vless://c65288e3-4fd7-47ae-a1de-dfeaceeb5683@134.209.239.184:32865?security=none&type=grpc&serviceName=%40roshdcollection%2C%40roshdcollection%2C%40roshdcollection%2C%40roshdcollection%2C#🔒 VL-GRPC-NONE 🇩🇪 DE-134.209.239.184:32865
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.243.147.107:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇫🇷 FR-193.243.147.107:587
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&sni=heY.bACHeBiapAiN.Ir&type=ws&host=hey.bacheBiapAIN.iR&path=%2FiXNpb8TL5D4uHOQC%3Fed&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.216.241:443
+vless://f050cff5-f3a5-4d88-b653-e70fac34dd24@104.18.33.45:2095?security=none&type=httpupgrade&host=bAbAeE.tO.bAzIgOoShI.dIrIdIrIn.kHoNe.mA.dOoReH.dOrEeH.oWj.mIgErAfMaN.cLoUdMaRkEt.sHoP.tEhRaN2.aDs.bLuWaVe.iR&path=%2F%3Fed%3D8080#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.33.45:2095
+vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@104.21.74.214:80?security=none&path=TelegramChanel%3At.me%2F%48%54%54%50%5f%69%6e%6a%65%63%74%6f%72%39%39#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.74.214:80
+vless://b00b9b8c-0e13-476e-95c4-f224b5fd011c@87.248.155.222:18159?security=none&type=tcp&host=host%3Anasa.gov&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.155.222:18159
+vless://7599245e-0605-4365-ae29-6027e5312b76@45.142.120.5:443?security=tls&sni=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&type=ws&host=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&path=%2F@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:443
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.46.162:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.162:8443
