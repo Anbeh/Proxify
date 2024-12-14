@@ -8,6 +8,7 @@ https://t.me/proxy?server=103.161.35.96&port=12&secret=ee52c867dc75983faf4bb37f9
 https://t.me/proxy?server=103.193.148.120&port=443&secret=ee66db87237d47b5afef08b11756a0ad0d617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=103.3.60.129&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae63646e2e646973636f72646170702e636f6d
 https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564
+https://t.me/proxy?server=104.248.140.155&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972
 https://t.me/proxy?server=104.248.203.127&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
 https://t.me/proxy?server=104.248.206.188&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f
 https://t.me/proxy?server=104.248.251.170&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
@@ -44,6 +45,7 @@ https://t.me/proxy?server=134.209.90.99&port=443&secret=ee79e344818749bd7ac51913
 https://t.me/proxy?server=135.181.32.107&port=443&secret=ee000000000000000000000000000000006f6e652e6f6e652e6f6e652e6f6e65
 https://t.me/proxy?server=136.243.223.230&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=137.184.11.122&port=443&secret=eec4d42116432e4e1bb8d184f9f8dc1b627777772e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=138.197.188.1&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972
 https://t.me/proxy?server=138.201.122.231&port=7943&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=138.201.192.158&port=7643&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
@@ -297,6 +299,7 @@ https://t.me/proxy?server=45.56.117.104&port=9999&secret=ee5a8c4f0b530bae6bc18c8
 https://t.me/proxy?server=45.79.203.141&port=9999&secret=eebd9579add4682b8c95f9650ea660a899617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.87.43.211&port=443&secret=eee751840c97f2d111ec833a86762c2fa6736869722e616c692e696f
 https://t.me/proxy?server=45.90.89.66&port=15&secret=eebbb7b615d91c80f538483952ac7713a873332e6f79756e646564656d2e636f6d
+https://t.me/proxy?server=46.101.236.208&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f
 https://t.me/proxy?server=46.101.241.69&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
 https://t.me/proxy?server=47.243.175.205&port=443&secret=eec741b102e5db3e6a1efd1190ff42aaf6617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.76.253.92&port=443&secret=ee1bba5e20cfb5f2c48482b16ddac02821617a7572652e6d6963726f736f66742e636f6d
@@ -360,6 +363,7 @@ https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa
 https://t.me/proxy?server=65.21.108.25&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d
 https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d
 https://t.me/proxy?server=68.183.13.158&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
+https://t.me/proxy?server=68.183.66.65&port=443&secret=ee79e344818749bd7ac519130220c25d09736168616d6564616c61742e6972
 https://t.me/proxy?server=69.197.146.179&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267
 https://t.me/proxy?server=69.197.146.182&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267
 https://t.me/proxy?server=72.5.46.74&port=443&secret=ee6ea63f16082c83dae885959594989704676f6f676c652e636f6d
@@ -486,7 +490,6 @@ https://t.me/proxy?server=all.needhost.ir&port=443&secret=ee796766928008632f04a8
 https://t.me/proxy?server=alloperator.irancell.hamrahaval.rightell.shtell.wifi.mokhaberat.sajadmoghadam.ir&port=6969&secret=ee444fe09b277900a8bd91dcefa666999d73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=almas-digital.ir&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c
 https://t.me/proxy?server=amir.com.ir.co.uk&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
-https://t.me/proxy?server=amir.tava.ivhi.kbkl.margeroya.ir&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=aparat.com.varzesh3.com.digikala.com.torob.com.divar.ir.bamilo.com.snapp.ir.snappfood.ir.shaparak.ir.tehran.ir.shahrekhabar.com.zoomit.ir.bama.ir.filmio.ir.isna.ir.mehrnews.com.irna.ir.tasnimnews.com.farsnews.ir.khabaronline.ir.tabnak.ir.12.newsinfo.cfd&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=api.geohost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e67656f686f73742e6972
 https://t.me/proxy?server=api.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e6e656564686f73742e6972
@@ -513,6 +516,7 @@ https://t.me/proxy?server=bia.pisham.tcp-max.co.uk&port=8443&secret=ee0820820820
 https://t.me/proxy?server=bidex.ir.iranedms.ir.pb-market.ir.anga-ji.ir.digivizhen.com.iran-hub.ir.kalamob.com.da-rbardoor.com.j-ameema.ir.parsmahzoun.com.viratoys.com.bi-powerup.com.vymand.com.mach-insaz.com.pe-hezareh3.ir.iran-bego.com.eduexpo.ir.qomllc.com.mosavimobile.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=blog.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee626c6f672e6e656564686f73742e6972
 https://t.me/proxy?server=bsi5.ir.formgostaran.ir.farhangtools.com.decomile.ir.drsavaby.ir.mikfava.ir.sepahtan.org.maskancto.com.kimia-novin.com.kashan-eng.ir.khanebagheirani.net.vahidielectric.ir.barzintravel.com.yaftamobl.ir.karazmode.ir.hiword.ir.videomakers.ir.helloapart.one&port=999&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2d
+https://t.me/proxy?server=byteshop.ir.irancommax.com.sim-kaart.ir.stu-dio-aghigh.ir.l-frank.ir.majidphp.ir.fi-lick.com.pasargodwl.com.trx-iran.ir.p-uadhesive.net.mo-dirafzar.com.bahmanyadak.com.zir-foro-shi.com.qomllc.com.micropuff.ir.sitac.ir.illaystudio.com.salarplaystore.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=che-jaleb.hamishegi.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.uk.kjasfhkjh-lkdsfj-55.info&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=che-jaleb.hamishegi.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.uk.ojgdljgs-hjdslkh5.info&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.api_internet.karenhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e6b6172656e686f73742e6972
