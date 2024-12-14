@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://dc13ded4-f5a6-781c-a168-6ec47b8a8579@151.101.64.223:80?security=none&type=ws&host=xn--2b5aaaa.speedtest.net.dribbble.comapi.Ru.&path=%2FFastLy%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.223:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443?security=tls&sni=Bloom-cHh.PAGEs.DeV&type=ws&host=Bloom-cHh.PAGEs.DeV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.155:443
-vless://824918b6-6909-44a1-bfab-1943a132e390@45.11.184.240:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.11.184.240:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.10.245.65:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇳🇱 NL-5.10.245.65:443
 vless://e1272d7a-507d-4b39-bd7d-453f7c194214@172.67.68.237:443?security=tls&sni=yelubdu0vdouvdan.lastronin.cloudns.org&type=ws&host=yelan.lastronin.cloudns.org&path=%2FVLESS%2Fuk-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.237:443
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.21.64.1:443?security=tls&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:443
@@ -503,3 +500,6 @@ vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.80.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2096
 vless://62357561-a129-4b9e-9614-ce2578020866@4.230.9.53:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-4.230.9.53:443
 vless://19d13bed-b8c5-4443-920e-12f833fed576@104.21.47.232:2082?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.Imgolden.space.&path=%2FTelegram%40AZARBAYJAB1%2CTelegram%40AZARBAYJAB1%2CTelegram%2C%40AZARBAYJB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.47.232:2082
+vless://2e59cae9-094c-4cdf-92c7-7d13cf479ba1@172.66.46.49:443?security=tls&sni=90817823561545673166562762924388.v2line.net&type=ws&host=90817823561545673166562762924388.v2line.net&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.49:443
+vless://1dffb1fd-09b3-4bbe-9631-a3ae6a9a57d1@104.18.78.200:80?security=none&type=ws&host=gxg7RQ.dL-apArAT.coM&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.78.200:80
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.159.216.188:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.188:443
