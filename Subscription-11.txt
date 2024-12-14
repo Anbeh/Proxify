@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v21.bEsTdRlImIt.NeT&path=/#15|US_speednode_0041
-vless://5e32df7f-dbf7-5bb8-8a37-c189e11365e6@151.101.3.8:80?allowInsecure=0&sni=www.x-ui.com&type=ws&host=www.x-ui.com&path=/vless?ed=1048#15|US_speednode_0042
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?allowInsecure=0&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.bEsTdRlImIt.NeT&path=/fp=chrome&security=tls#15|US_speednode_0043
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.bEsTdRlImIt.NeT&path=/#15|US_speednode_0044
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:443?allowInsecure=0&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.bEsTdRlImIt.NeT&path=/fp=chrome&security=tls#15|US_speednode_0045
