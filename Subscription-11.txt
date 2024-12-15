@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@cfip.cfcdn.vip:2083?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|US_speednode_0075
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@cloudflare.9jy.cc:2087?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|US_speednode_0076
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@cloudflare.9jy.cc:8443?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|US_speednode_0077
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@cloudflare.9jy.cc:443?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|US_speednode_0078
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@cfip.cfcdn.vip:8443?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|US_speednode_0079
