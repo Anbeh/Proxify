@@ -173,6 +173,7 @@ https://t.me/proxy?server=176.9.19.48&port=7943&secret=ee08208208208208208208208
 https://t.me/proxy?server=178.128.21.217&port=520&secret=eeba2e72b900086ae965a93f24337c418e617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=178.62.211.151&port=443&secret=ee79e344818749bd7ac519130220c25d097472616e736c6174652e676f6f
 https://t.me/proxy?server=18.116.23.85&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=18.119.115.61&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.216.7.74&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.221.120.11&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -273,13 +274,11 @@ https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1
 https://t.me/proxy?server=23.88.45.183&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=2865.me.digishimi.com.dar-iran.net.karen-tk.com.foamiran.com.cantonfair.ir.chapotarahi.ir.goltaj.ir.loriscare.com.digirout.ir.dabestanmola.ir.markazetour.co.digibours.com.azadeng.ir.irashan.com.esaving.ir.banatanama.com.hakimiyeshop.ir.ahvazfelafel.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=3.12.136.140&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=3.133.108.47&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.133.135.229&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.133.161.246&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.135.198.212&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.138.119.125&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.141.35.214&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=3.143.3.32&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.144.39.176&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.64.54&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.94.111&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -634,7 +633,6 @@ https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.c
 https://t.me/proxy?server=hardasan-gardash.ke.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.eu.ouwefhoa-jkwfeh3.info&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=hclink.ir.soshiagallery.com.eimanalemi.ir.emdadcartechnic.com.dogina.ir.neghabcity.ir.go-lab.ir.digikalasend.ir.boseiran.com.rahgir.ir.daneshbonyan.ir.virastaronline.ir.ayeha.ir.tania-co.ir.shamimgraphic.ir.lilmedia.ir.succulents.ir.felafelabadan.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=hr4u.ir.negarelaser.ir.missouricosmetic.com.mrwo-odhatamian.com.nashretorang.com.makansangshekan.net.re-somix.com.u-nlabelledd.net.powermta.ir.rahmaniparcham.ir.insuranceofpasargad.ir.migat.ir.drnerd.ir.yufile.ir.ketabdoostan.ir.lighsenterkerman.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-https://t.me/proxy?server=hyperattari.com.masoodsepehr.com.50b50.com.azar-tircheh.ir.novininsur.ir.radox.co.emdadautotehran.com.kamaa.ir.aransair.ir.paven.ir.giftotak.ir.javabgoo.net.instroct.ac.ir.baktaplast.ir.shamehshab.ir.javidins.org.dana-shop.ir.darmanyaran.ir.ghomkala.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=i.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.warehousingexpress.space&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
 https://t.me/proxy?server=incc.ir.tooscarpet.ir.ttfateh.com.isana.ir.mbt-ipro.ir.herisgal-lery.net.photocopies.ir.sgrco.net.flashsepahan.ir.kanoonkaryabi.ir.webservice3.link.hashiyehdt.ir.saydaco.com.namifar.com.mechoom.com.veriamatak.com.toucantourism.ir.kavirmotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=incoming-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
@@ -688,7 +686,6 @@ https://t.me/proxy?server=movahhedan.ir.irsharj.online.ar_tingroup.co.digiclassr
 https://t.me/proxy?server=my.irtower-a.ir&port=3598&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=neoniroo.ir.randola.com.javadzarban.com.tar-hoasargro-up.com.sazheh.com.kanoonnojavan.ir.soniaco.ir.sheykh.shop.behikala.com.ib-dcgramz.ir.eynakha.ir.e-r-om.ir.puadhesi-ves.org.qazvin-ads.ir.k-da.ir.behjooje.ir.leowithleo.net.law-ir.ir.koolackala.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=networkala.ir.drmohammadrezaboostani.com.adglobe.ir.shikoasl.ir.novinsaramad.ir.smodaresi.ir.techn-ogreen.ir.daec.ir.shoraislamshahr.com.pranaveg.com.gfsd.ir.bagherifarzad.com.nibmarket.ir.drrezazadeh.com.instayaar.ir.whyshia.com.kavirmotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-https://t.me/proxy?server=nevisa.co.abnabatchoobi.ir.mohsenabbasnejad.ir.radinex.com.ayatd.ir.doormat1.com.eghtesadi.net.dilmun.ir.farzammohaseb.ir.techno-tam.ir.kamalmaleky.ir.allahgholizadeh.ir.nordicgt.com.toochin.ir.masjedbook.ir.hbb-co.com.paarlift.com.mirfenderskishoes.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=new.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=new.bestlive.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=new.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
@@ -762,7 +759,6 @@ https://t.me/proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096
 https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267
 https://t.me/proxy?server=vira-netcorp.org.iranshoptops.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=wenda.ir.fajr57.ir.sh-hojaji.ir.electronics-delta.com.persianir.info.josti.ir.eslamico.com.vahdatpart.com.killthemlmzombies.ir.netmodern.ir.killthemlmzombies.ir.alvanzarris.com.ruhollahakbari.ir.creditcenter.ir.behfakhr-co.ir.sadratile.ir.stockstore.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.beferestava.ir.jahadtossee.ir.smsjob.ir.nrava.ir.f_ardanmachine.ir.lmzombies.ir.nini3et.ir.vozara-furniture.ir.motabalkalaconpany.online.saatchi.support&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574
 https://t.me/proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 https://t.me/proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd15284e8d5ebd948dd7ce746769746875622e636f6d
