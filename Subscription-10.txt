@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.46:6379
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:5000
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7001
@@ -502,4 +503,3 @@ trojan://NISHIKUITAN111@104.18.159.147:443?#%E6%9C%AA%E7%9F%A5105
 trojan://auto@104.20.21.78:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5106
 trojan://blue2024@104.26.7.112:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A5107
 trojan://blue2024@104.27.45.137:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5108
-trojan://NISHIKUITAN111@104.16.23.120:443?#%E6%9C%AA%E7%9F%A5109
