@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://894e0e6e-d415-47fd-84f5-418896d7a310@104.21.60.152:443?security=tls&sni=freedom2.sepale8166.workers.dev&type=ws&host=freedom2.sepale8166.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.152:443
 vless://028caef1-1852-4074-884b-993e8baf4fd7@156.146.53.35:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-156.146.53.35:80
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:80?sni=ada57.cwvgq.com&type=ws&host=ada57.cwvgq.com&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.67.38:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.139.111:2096?security=tls&sni=967A6f20.HosSeINpOOl.pagEs.deV&type=ws&host=967a6F20.hoSSeinPool.PAGEs.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
@@ -503,3 +502,4 @@ vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&sni=4cb
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.171:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.171:443
 vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.25:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.25:443
 vless://d4f2ad34-54d1-4f31-ee82-69aca3edc5d2@104.17.148.22:2053?security=tls&sni=panelmc.amin8263.ir&type=ws&host=panelmc.amin8263.ir&path=/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.69.44:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=%40iMrV2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:8443
