@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@48.210.29.22:443?sni=vn.mjt000.com#🔒 TR-TCP-NA 🇯🇵 JP-48.210.29.22:443
+trojan://blue2024@104.25.53.167:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.25.53.167:443
+trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.97.119:443
+trojan://blue2024@190.93.245.234:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.234:443
+trojan://blue2024@104.16.252.52:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.252.52:443
 trojan://blue2024@172.67.41.12:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.41.12:443
 trojan://auto@172.66.44.106:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.106:8443
 trojan://blue2024@172.64.149.203:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.149.203:443
@@ -498,8 +503,3 @@ trojan://blue2024@104.26.13.31:443?sni=tb.promote.icu&type=ws&host=tb.promote.ic
 trojan://NISHIKUITAN111@104.20.52.226:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.52.226:443
 trojan://bpb-trojan@162.159.153.172:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.172:443
 trojan://blue2024@104.16.134.27:2083?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.134.27:2083
-trojan://NISHIKUITAN111@104.25.124.93:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.124.93:443
-trojan://NISHIKUITAN111@213.241.198.4:443?#🔒 TR-TCP-NA 🇷🇺 RU-213.241.198.4:443
-trojan://auto@172.67.179.212:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.179.212:443
-trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.84.200:443
-trojan://blue2024@172.67.70.84:443?security=tls&sni=hb.lii2010.us.kg&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.70.84:443
