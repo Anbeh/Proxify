@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@104.25.53.167:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.25.53.167:443
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&sni=customer-94-131-115-71.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-94.131.115.71:443
-trojan://telegram-id-privatevpns@18.169.93.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.93.193:22222
-trojan://aabbcac-abca-bcaa-dacb-bbcaabcabcac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://bpb-trojan@104.18.37.111:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindroom-5cz.pages.dev&path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.37.111:443
+trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-198.41.214.224:2052
+trojan://cabaabc-bcaa-cbaa-cbad-cbcaaabbacbc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ss://bm9uZTpiYWFjYmNhLWJhYWMtYWJjYS1jYWJkLWNjYmJhY2NhYWJhYg==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 THU-29-AZAR-1403 🕑 07:27
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@80.92.204.106:9064#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9064
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#🔒 SS-TCP-NA 🇻🇳 VN-160.19.78.75:443
@@ -503,3 +502,4 @@ ss://auto@104.20.21.78:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.20.21.78:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.105:8000#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.105:8000
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:8118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMXNTdmF2WVBJaU5MTDBnUVRuaktT@178.208.78.170:23822#🔒 SS-TCP-NA 🇳🇱 NL-178.208.78.170:23822
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.108:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:8091
