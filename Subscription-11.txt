@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@158.51.123.253:5003#🔒 SS-TCP-NA 🇨🇦 CA-158.51.123.253:5003
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8882
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.174:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.166.88.198:2375#🔒 SS-TCP-NA 🇨🇭 CH-23.166.88.198:2375
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.125:7001
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.110.1.103:8882#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.103:8882
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.92.55:9102#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.55:9102
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.105:5004
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9011
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.167:443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:5004
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.252:2375#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:2375
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.5:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:5500
@@ -493,13 +503,3 @@ trojan://blue2024@185.148.106.55:443?sni=b.promote.icu#US32
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#US33%202.0MB%2Fs
 trojan://bpb-trojan@185.238.228.210:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A569
 trojan://NISHIKUITAN111@62.72.166.57:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A570
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNzFwRWFGZjVISnRkQUFJM0w3cjZB@46.32.186.234:1080#%E6%9C%AA%E7%9F%A571
-trojan://blue2024@190.93.247.68:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A572
-trojan://9b09534c-4bb1-4943-b2e7-b4c97ccae541@spd.fastly80-3.hosting-ip.com:80?security=none&type=ws&path=/SPdnet?ed=2048&host=service.bomb.clear.spdteam.ir.#%E6%9C%AA%E7%9F%A573
-trojan://blue2024@185.135.9.123:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A574
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.12.70:5003#%E6%9C%AA%E7%9F%A575%20880.2KB%2Fs
-trojan://NISHIKUITAN111@162.159.133.112:443?#%E6%9C%AA%E7%9F%A576
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk=@213.130.141.113:58226#HK
-trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#US34
-trojan://NISHIKUITAN111@92.53.190.87:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A577
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk=@45.158.59.74:58060#%E6%9C%AA%E7%9F%A578
