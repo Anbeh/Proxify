@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@62.72.166.45:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇴 JO-62.72.166.45:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.21:80?security=none&type=ws&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.21:80
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.94.90.200:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-209.94.90.200:2096
 vless://028caef1-1852-4074-884b-993e8baf4fd7@143.244.51.250:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-143.244.51.250:80
@@ -503,3 +502,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@150.241.96.14:2003?security=tls&sni
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.67.162.95:8443?security=tls&sni=xcsz.ylks2024.us.kg&type=ws&host=xcsz.ylks2024.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.95:8443
 vless://531bf100-1477-487c-a979-6adebf8f105f@160.79.104.38:443?security=tls&sni=vdc.bgm2024.us.kg&type=ws&host=vdc.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.38:443
 vless://5ca4947a-3a0e-458e-9701-11e6805dae8f@151.101.130.219:80?security=none&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=%2F%40UnlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D2480#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
+vless://61958b98-d52a-420e-bb42-a3fd22985895@162.159.140.100:2096?security=tls&sni=pol.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.140.100:2096
