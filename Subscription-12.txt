@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxOSIsImFkZCI6IjE5OS4xODAuMTAxLjIzIiwicG9ydCI6IjM4MDA0IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LjcwNzc4NTk4Lnh5eiIsInBhdGgiOiIvcGF0aC8xNzMzNDc3NzgzNzA1IiwidGxzIjoidGxzIiwic25pIjoid3d3LjcwNzc4NTk4Lnh5eiIsInRlc3RfbmFtZSI6IlVTMTkifQ==
-trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.67.184.7:443?security=tls&type=httpupgrade&sni=wwwd7e1909f3a7e4477.jostar-data.nl&path=/quran/deam_net301.67 GB/?ed=2560&host=d7e1909f3a7e4477.jostar-data.nl#%E6%9C%AA%E7%9F%A552
-trojan://blue2024@162.159.21.210:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A553
-trojan://NISHIKUITAN111@172.67.58.58:443?#%E6%9C%AA%E7%9F%A554
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.152.56:6697#US20%201.9MB%2Fs
-trojan://blue2024@188.114.99.181:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A555
-trojan://blue2024@104.16.209.98:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A556
-trojan://3648425794742788096@35.168.124.79:443?security=tls&type=tcp&sni=humble-rodent.treefrog761.one#US21%20160.4MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.26:8009#US22%201.9MB%2Fs
-trojan://blue2024@104.20.198.59:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A557
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.235:9102#US23%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmbW9RcXpMUzdRMjZWWHZFdXo0VlVz@77.91.70.76:443#%E6%9C%AA%E7%9F%A558
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%E6%9C%AA%E7%9F%A559%206.8MB%2Fs
