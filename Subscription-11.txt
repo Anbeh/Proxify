@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.103:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:5499
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGVTlIVUFSNFpQTVhWOVdoODE1YjNGR1BpMkVPZnFIVGR2NWFEVjBaVkpOMjVPV3pjTFVUSG1GbHcyOHhMRTlu@74.119.193.103:42658#🔒 SS-TCP-NA 🇭🇰 HK-74.119.193.103:42658
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.179:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:5498
@@ -502,4 +503,3 @@ trojan://auto@104.21.48.61:443?security=tls&type=ws&sni=nameless-term-9c25.vpnco
 trojan://blue2024@104.19.214.179:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A590
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8882#US25%202.0MB%2Fs
 trojan://blue2024@190.93.244.208:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A591
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.87:2375#US26%201.9MB%2Fs
