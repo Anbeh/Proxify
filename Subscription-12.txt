@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://NISHIKUITAN111@104.18.197.61:443?#%E6%9C%AA%E7%9F%A527
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#US10%201.9MB%2Fs
 trojan://telegram-id-directvpn@18.219.88.64:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US11%20110.5MB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:9090#US12%201.9MB%2Fs
