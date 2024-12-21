@@ -256,6 +256,7 @@ https://t.me/proxy?server=23.225.63.130&port=40193&secret=eeb4b9b34c8b6e94b4b5af
 https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=23.88.45.183&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=2865.me.digishimi.com.dar-iran.net.karen-tk.com.foamiran.com.cantonfair.ir.chapotarahi.ir.goltaj.ir.loriscare.com.digirout.ir.dabestanmola.ir.markazetour.co.digibours.com.azadeng.ir.irashan.com.esaving.ir.banatanama.com.hakimiyeshop.ir.ahvazfelafel.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+https://t.me/proxy?server=3.12.120.94&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.12.164.155&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.135.184.50&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.135.188.124&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -328,6 +329,7 @@ https://t.me/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafe
 https://t.me/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d
 https://t.me/proxy?server=51.210.158.146&port=80&secret=eea6aaf09dbc209529520699e8358264877777772e7961686f6f2e636f6d
 https://t.me/proxy?server=51.79.25.115&port=4044&secret=ee3d666983013d83e480f350ef1982bd9f
+https://t.me/proxy?server=51.83.253.180&port=8080&secret=ee1b3829daae01fd07c0e23c917c664004697669662e6972
 https://t.me/proxy?server=51.89.226.82&port=4442&secret=eea2577dfc3c1f9ac06e5b8736e2cc1f1a7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=51.91.210.213&port=74&secret=ee00ff000fffff00fff5555ffffffffff52d2d6e672e67702d2d
 https://t.me/proxy?server=52.20.188.140&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020
