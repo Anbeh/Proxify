@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://blue2024@172.64.35.159:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A577
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#US28%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.12.70:5003#%E6%9C%AA%E7%9F%A578
+trojan://NISHIKUITAN111@141.101.113.229:443?#%E6%9C%AA%E7%9F%A579
+trojan://blue2024@162.159.44.159:443?security=tls&type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A580
+trojan://blue2024@104.16.211.107:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A581
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#US29%202.0MB%2Fs
 trojan://NISHIKUITAN111@104.18.113.114:443?#%E6%9C%AA%E7%9F%A582
 trojan://telegram-id-privatevpns@99.81.131.216:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A583%2069.4KB%2Fs
