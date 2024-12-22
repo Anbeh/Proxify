@@ -251,6 +251,7 @@ https://t.me/proxy?server=3.133.138.195&port=443&secret=ee0720720720720720720720
 https://t.me/proxy?server=3.135.184.50&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.135.188.124&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.14.131.63&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=3.141.197.187&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.144.96.161&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.162.192&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.17.45&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -614,6 +615,7 @@ https://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.micr
 https://t.me/proxy?server=noon.sangak.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ntz.ir.mehrketab.ir.pishebazar.ir.p-la-stigauge.ir.ka-lanel.ir.deebdaminia.com.kha-nesabt.com.perspolisfs.c-om.smscell.ir.afaridk-ala.ir.thkn.ir.ir-hvacr.com.shikweb.ir.ghallatban.com.ghab-co.com.foodle.ir.mehrrazavi.com.monitorict.ir.karamikalasaz.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=omega.silicon.rho.twitch.dbmjmhir.jgzlsvuntk.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=one.proxyt0p.xyz&port=1001&secret=ee101fe09b277900a8bd91dcefa666999d6769746875622e636f6d
 https://t.me/proxy?server=oops.glass-fivers.auto-semi.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=os.jabama.shop&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
@@ -649,6 +651,7 @@ https://t.me/proxy?server=sendmsg.ir.bimobile.ir.gooyasms.com.ariamhd.ir.trimed.
 https://t.me/proxy?server=server.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=shab-shishe-chashmha-tar-migardad.tnhaei-man-bozorgtar-migardad-yekbar-be-khab-man-bia.quest&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d
 https://t.me/proxy?server=shadiza.ir.youratmsource.ir.am-run.ir.24hash.net.sorolyt.ir.khaletara.ir.aronstone.com.l-frank.ir.rts-pco.com.mkamrannia.ir.khatam--sch.ir.khabaragahi.ir.100sabad.com.iran-dental.com.decosun.ir.dob-aare.ir.fuudfast.com.parsimin.ir.cartoonsazivafa.online&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=sikaas.com.ahadpakhsh.ir.bookee.ir.ro-zb-azar.ir.gplusmarket.com.pkbi14.ir.amol.ir.amine-sokhan.ir.ion-co.ir.jiling-club.com.brsacademy.com.inkabin.com.o-tc-co.ir.no-saziyazd.ir.setare-jav-id.ir.pakzi.co.drkarampour.ir.game-buzz.co.uk.karamikalasaz.shop&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=site-view.ir.kpr-co.com.natanzkala.ir.azarshop.com.niniresalat.ir.oynet.ir.siliconsoft.ir.gooyasms.ir.asim-ac.ir.taxisaf.ir.mojez-e7.ir.rasisafzar.com.setarejahanro.com.idcman.ir.dabestanmola.ir.mali-kheradsch.ir.worldnetwork.ir.mobinnetworkstatic.store&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=sni.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee736e692e6e656564686f73742e6972
 https://t.me/proxy?server=snn.ir.blog.ir.digikala.com.www.enamad.ir.isna.ir.prog.irancell.ir.com.mci.ir.nobitex.ir.wallex.ir.com.filterchi.the.best.dgxxy.pro.csgamee.site&port=8443&secret=eef5daa3208eed34d7bbe600ea6aa2301473332e616d617a6f6e6177732e636f6d
