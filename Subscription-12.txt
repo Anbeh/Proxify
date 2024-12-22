@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.218:5004#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:5004
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:8118
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.53:9101
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5004
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9102
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5004
@@ -503,3 +500,6 @@ trojan://3648425794742788096@13.213.225.221:443?security=tls&type=tcp&sni=carefu
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=internet4everieone7.pages.dev#%E6%9C%AA%E7%9F%A591
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTIiLCJhZGQiOiI5Mi42MC43NC4xNDgiLCJwb3J0IjoiODQ0MyIsImlkIjoiODI0MWRkYzgtYjVjNS00Nzc4LTk2MzUtMzMxNzAwYzZmZjQ4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiamsueWxrYS51cy5rZyIsInBhdGgiOiIvIyIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjkyIn0=
 trojan://NISHIKUITAN111@77.37.33.8:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A593
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#US31%202.0MB%2Fs
+trojan://blue2024@104.16.76.240:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A594
+trojan://blue2024@162.159.44.217:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A595

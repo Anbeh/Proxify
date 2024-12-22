@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://3048b07c-3312-486f-a706-4ce7d67b9652@194.76.18.46:2052?security=none&type=httpupgrade&host=configt.ue.nipytee.info&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.46:2052
-vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:2053?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2FTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:2053
-vless://80a840b8-7d4d-45be-8f53-b7c30116e2f7@104.18.26.87:8080?security=none&type=httpupgrade&host=1.www.speedtest.net.Mact.iR.&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.26.87:8080
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.135.9.57:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.57:8443
 vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:443?security=tls&sni=ELiV2-0.COM&type=ws&host=ELiV2-0.COM&fp=qq&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.79.51:443
 vless://a96e0b3e-bd29-4f71-b7f9-f8031bc05f76@151.101.2.16:80?type=ws&host=WHALEV2R.IR&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.2.16:80
@@ -503,3 +500,6 @@ vless://76b3cbba-e6ac-485a-9481-876a0415eab9@172.67.222.82:443?security=tls&sni=
 vless://f6a036f7-9437-4c90-8320-80200afe84b8@199.232.5.150:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-199.232.5.150:80
 vless://7ebe434e-1dcd-4dee-a739-23a2a6025755@199.232.5.153:443?security=tls&sni=sums.ac.ir&type=ws&host=sums.ac.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.153:443
 vless://092ae4c2-bd39-4217-9eb3-460ef5d4e813@104.22.4.136:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.4.136:443
+vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.63:2087?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.63:2087
+vless://49531eb9-e547-43bf-b34a-992d21c05280@172.64.35.187:443?security=tls&sni=setup10.pages.dev&type=ws&host=setup10.pages.dev&path=%2Fsetup10.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.187:443
+vless://219d848d-60f2-4321-8275-72b9b575b37e@160.79.105.97:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.97:443

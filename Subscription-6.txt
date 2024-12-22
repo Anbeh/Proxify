@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://f6a036f7-9437-4c90-8320-80200afe84b8@151.101.0.1:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.1:80
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.224:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.224:443
-vless://219d848d-60f2-4321-8275-72b9b575b37e@104.16.255.100:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.255.100:443
 vless://0b973691-d6a1-4829-aa24-25a1f40c10e8@188.114.97.4:443?security=tls&sni=PpaL03.yiCAmo8969.wORKErS.dEV&type=ws&host=ppAl03.yicAmO8969.WorKERs.dEV&path=%2F0pfsJgXu8jXHySwu%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.4:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.244:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.244:443
 vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-138.2.18.82:8880
@@ -503,3 +500,6 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.41:443?security=tls&sni
 vless://1af38e1a-33fa-4759-ba5d-4ab1de16b50c@172.236.22.27:2023?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-172.236.22.27:2023
 vless://c4b6ad48-db4a-4348-8e4a-e6a64a863c7d@104.21.7.6:443?security=tls&sni=PpaL03.mOHammAD-sEnGER.WoRKeRS.dev&type=ws&host=PPal03.moHAmMAD-sENGeR.wORKERs.dEV&path=%2F60DQVhzRgjIp-tWO%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.6:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.208.243:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.243:443
+vless://3048b07c-3312-486f-a706-4ce7d67b9652@194.76.18.46:2052?security=none&type=httpupgrade&host=configt.ue.nipytee.info&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.46:2052
+vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:2053?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2FTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:2053
+vless://80a840b8-7d4d-45be-8f53-b7c30116e2f7@104.18.26.87:8080?security=none&type=httpupgrade&host=1.www.speedtest.net.Mact.iR.&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.26.87:8080
