@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5499#US11%201.6MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#US12%201.9MB%2Fs
+trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&type=ws&sni=4cbba020.fastpurnet3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=4cbba020.fastpurnet3.pages.dev#%E6%9C%AA%E7%9F%A525
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%E6%9C%AA%E7%9F%A526%203.7MB%2Fs
+trojan://blue2024@31.43.179.114:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A527
+trojan://NISHIKUITAN111@193.227.99.226:443?#%E6%9C%AA%E7%9F%A528
 trojan://blue2024@104.27.125.51:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A529
 trojan://telegram-id-directvpn@13.36.160.137:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.77.113:443#%E6%9C%AA%E7%9F%A530
