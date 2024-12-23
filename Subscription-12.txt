@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.142:9101#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:9101
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.138:5004#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.138:5004
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.37:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.37:2377
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8091#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.51:8091
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.218:8000#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:8000
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#%E6%9C%AA%E7%9F%A5
 trojan://NISHIKUITAN111@104.22.60.224:443?#%E6%9C%AA%E7%9F%A542
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&type=grpc&sni=hdfyc1.achaemenidempireofpersia.uk#%E6%9C%AA%E7%9F%A543
 trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@hajlab.ucdavis.edu:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#%E6%9C%AA%E7%9F%A544
-trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#%E6%9C%AA%E7%9F%A545
-trojan://bpb-trojan@172.66.44.128:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A546
