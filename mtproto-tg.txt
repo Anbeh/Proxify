@@ -160,7 +160,6 @@ https://t.me/proxy?server=178.217.98.172&port=3598&secret=ee00ff000fffff00fff555
 https://t.me/proxy?server=18.116.23.85&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.188.69.223&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=18.219.88.139&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d
 https://t.me/proxy?server=185.157.215.85&port=118&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
 https://t.me/proxy?server=185.173.36.180&port=443&secret=ee0000f00f0f77fff5555ffffffffff500762e63702d2d
@@ -628,7 +627,6 @@ https://t.me/proxy?server=pooyamehr.com.rampad.ir.kelidefars.ir.soheilesonghor.i
 https://t.me/proxy?server=por-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaaaa55391eaaaaaaabaaeaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.aireacondicionadomurcia.4umobile.ir&port=443&secret=ee1df249140785d40acf0efd95c89657f07777772e7370656564746573742e6e6574
 https://t.me/proxy?server=por.sorat.va.qavi.hivashop.sbs&port=443&secret=eea862b5ce26291ec74acac505415674fc73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=por.sorat.va.qavi.mese.noor.shahbaz.sbs&port=443&secret=ee398b03519e77ace1d35d689a126b821f73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=poxhetethb56898etbwer.aall2in.xyz&port=443&secret=ee6786e382e11dff0b6d8e58254a8a7e3673686579706f6f722e636f6d
 https://t.me/proxy?server=pp.ppppppppppppppppp.mmmeeeeeeeeeeeeeeeeeeeeeeeeheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.dadaliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 https://t.me/proxy?server=pppp.ppppppppppppppppp.mmmeeeeeeeeeeeeeeeeeeeeeeeeheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.hammaliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee6e2e636f6d
 https://t.me/proxy?server=pppppppppppppppppppppp.dddgggggggggggggggggggggheeeeeeeeeee.eeggggggggggggggggggggeeeeeeeeeeee.dadaliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
