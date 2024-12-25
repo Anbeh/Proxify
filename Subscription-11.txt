@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://NISHIKUITAN111@104.129.164.50:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-104.129.164.50:443
+trojan://NISHIKUITAN111@104.20.76.165:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.76.165:443
+trojan://NISHIKUITAN111@62.72.166.57:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇯🇴 JO-62.72.166.57:443
 trojan://telegram-id-directvpn@51.44.149.176:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.149.176:22222
 trojan://NISHIKUITAN111@155.46.213.156:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-155.46.213.156:443
 trojan://bpb-trojan@162.159.153.19:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.19:443
@@ -500,6 +503,3 @@ ss://bm9uZTpjYWJhYmFjLWFjYmEtYmNhYS1jZGJhLWFjY2JjY2JhYWJiYQ==@127.0.0.1:1080#�
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@45.89.52.66:9003#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9003
 ss://SVNTEAM=@162.159.152.2:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.152.2:8080
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:8008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.181:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.14:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpacGVHYTQ=@38.150.12.188:56018#🔒 SS-TCP-NA 🇺🇸 US-38.150.12.188:56018
