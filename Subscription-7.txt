@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.95:80?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.95:80
 vless://13fa0037-5480-446b-8885-714e424677fb@172.64.109.148:80?security=none&type=ws&host=black-wind-7f73lb.jewefe6869.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.109.148:80
 vless://668e148e-de6f-433a-93e0-78f55ef0702c@188.114.97.122:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.122:443
 vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.42.4:443?security=tls&sni=violation-em-pulling-referenced.trycloudflare.com&type=ws&host=violation-em-pulling-referenced.trycloudflare.com&path=%2Fc4ccdba8-dfae-4354-a78c-3d5f113f15d7-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.42.4:443
@@ -503,3 +502,4 @@ vless://ad179afa-18b0-4ae2-eb2d-086b767f08d3@104.17.148.22:2095?security=none&ty
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.61:443
 vless://f6832a9e-50de-4210-b6c3-0777b0ea9fd3@188.121.117.161:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-188.121.117.161:80
 vless://454a8e8b-eef3-41f2-82e2-0bbaa2130843@104.21.94.94:443?security=tls&sni=PpAl03S.felIpE-RuSsel.WOrKeRs.dev&type=ws&host=ppal03S.FELIPe-rUSsel.WORkers.Dev&path=%2F01DCN2mtWZK_PDN-%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.94:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.58:443?security=tls&sni=ppAl03.miBETik520.woRkERs.dEV&type=ws&host=PpAL03.miBEtiK520.WOrKerS.dev&path=%2FZIWojZKixyiiRHif%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.58:443
