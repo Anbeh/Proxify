@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.5:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:9101
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.252:8090#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:8090
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9010
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:3389
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:5003
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5600#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5600
@@ -500,6 +503,3 @@ trojan://NISHIKUITAN111@104.17.226.121:443?#%E6%9C%AA%E7%9F%A5114
 trojan://bpb-trojan@45.131.209.114:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5115
 trojan://6842f2ae-8c18-4e30-8a42-d4632a849f98@57.128.178.253:443?security=tls&headerType=none&type=tcp&sni=en.linceedab.com#%E6%9C%AA%E7%9F%A5116
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%E6%9C%AA%E7%9F%A5117%205.9MB%2Fs
-trojan://NISHIKUITAN111@104.27.44.212:443?#%E6%9C%AA%E7%9F%A5118
-trojan://auto@104.21.50.114:443?security=tls&type=ws&sni=esetsecuritylicense.nzuwcx.workers.dev&path=/&host=esetsecuritylicense.nzuwcx.workers.dev#%E6%9C%AA%E7%9F%A5119
-trojan://blue2024@104.27.116.34:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5120

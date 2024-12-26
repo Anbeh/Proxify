@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://bpb-trojan@172.67.243.254:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.243.254:443
+trojan://blue2024@172.67.68.101:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.68.101:443
+trojan://blue2024@162.159.0.198:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.0.198:443
 trojan://blue2024@104.21.48.1:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.48.1:443
 trojan://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?security=tls&sni=MoSiv2.PaGES.DeV&type=ws&host=channel-mosiv2.pages.dev&path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.169:443
 trojan://telegram-id-privatevpns@54.73.92.235:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.73.92.235:22222
@@ -500,6 +503,3 @@ trojan://blue2024@104.17.169.219:443?security=tls&sni=ha.lii2010.us.kg&type=ws&h
 trojan://blue2024@104.20.25.245:443?sni=td.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.25.245:443
 trojan://bpb-trojan@104.17.133.64:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.133.64:443
 trojan://blue2024@108.162.195.202:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.202:443
-trojan://blue2024@108.162.195.135:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.135:443
-trojan://blue2024@104.18.78.33:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.78.33:443
-trojan://blue2024@104.21.70.175:443?security=tls&sni=ha.lii2010.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.70.175:443
