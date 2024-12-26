@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&flow=xtls-rprx-vision&sni=www.sega.com&type=tcp&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM#🔒 TR-TCP-REALITY 🇹🇷 TR-176.98.41.45:13509
+trojan://ouo@65.75.193.154:14491?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg#🔒 TR-WS-NA 🇺🇸 US-65.75.193.154:14491
 trojan://NISHIKUITAN111@172.64.49.211:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.49.211:443
 trojan://telegram-id-privatevpns@13.39.55.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.55.63:22222
 trojan://blue2024@104.24.144.238:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.144.238:443
@@ -501,5 +503,3 @@ trojan://blue2024@108.162.195.194:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍�
 trojan://NISHIKUITAN111@198.41.217.62:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.217.62:443
 trojan://dns68@104.21.92.73:443?sni=trojan.putata.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.92.73:443
 trojan://blue2024@185.251.83.221:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇪🇸 ES-185.251.83.221:443
-trojan://NISHIKUITAN111@104.18.223.98:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.223.98:443
-trojan://blue2024@162.159.197.109:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.197.109:443
