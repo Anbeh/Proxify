@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?security=tls&sni=dd.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.84:443
-vless://283ee7c1-69ca-4af9-a812-2c87e6dc6cd1@192.0.63.44:8080?security=none&path=%2Fspeedtest.net%3Fed%3D512#🔒 VL-TCP-NONE 🇺🇸 US-192.0.63.44:8080
 vless://876c612d-a6e5-4799-bc3e-80f880cffc71@172.67.204.84:8880?type=httpupgrade&host=joinbede-daily-configs.broken-dreams.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-172.67.204.84:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.128.29:443?security=tls&sni=ppaL03.KEsaP55326.WoRkerS.DEV&type=ws&host=Ppal03.KesaP55326.WORkeRS.DeV&path=%2Fk11HV31UhyTA9Lnw%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.29:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.166:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.166:443
@@ -503,3 +501,5 @@ vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?security=tls&sni=m
 vless://4c3dd5be-d0bc-4bc5-a4f1-c00b95533556@45.131.6.6:8443?security=tls&sni=akilelaxub.eessgrgrgrgr.cloudns.nz&type=ws&host=akilelaxub.eessgrgrgrgr.cloudns.nz&path=%2Fuhfuiheuifhefeeeeeeee&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.6:8443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.48.218.31:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-69.48.218.31:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.167:443?security=tls&sni=ax.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.167:443
+vless://daa0e358-5062-45ea-8ca4-87121759f950@151.101.129.57:80?type=ws&host=edu.tabligh.au&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.129.57:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.150.55:443?security=tls&sni=plAiN-frOsT-882C.C3AA983adf.wORKErs.DEv&type=ws&host=pLaiN-FRoST-882c.c3Aa983aDf.WoRKeRs.DEV&path=%2FTrNXCXRYcRWTpAl3%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.150.55:443
