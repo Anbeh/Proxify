@@ -166,6 +166,7 @@ https://t.me/proxy?server=177-wz.ir&port=443&secret=ee85b6346b5c6446edb974b34889
 https://t.me/proxy?server=178.128.21.217&port=520&secret=eeba2e72b900086ae965a93f24337c418e617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=18.116.23.85&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.119.113.78&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=18.189.157.108&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=185.105.90.16&port=443&secret=ee6575860df1848335b7110ca37d01f14a7777772e66616365626f6f6b2e636f6d
 https://t.me/proxy?server=185.173.36.180&port=443&secret=ee0000f00f0f77fff5555ffffffffff500762e63702d2d
@@ -244,7 +245,6 @@ https://t.me/proxy?server=3.14.253.189&port=443&secret=ee07207207207207207207207
 https://t.me/proxy?server=3.145.15.217&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.163.150&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.169.110&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=3.147.78.223&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.148.102.200&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.21.46.250&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=37.1.209.131&port=8008&secret=eea5b4df3cac508b4ee73790dcaf510f0a617a7572652e6d6963726f736f66742e636f6d
@@ -645,6 +645,7 @@ https://t.me/proxy?server=sadxqe.iwxhwenxwex.eiwexwkejxlkr.eoa3jrxiqhrxxeq.rxeqr
 https://t.me/proxy?server=sahabcard.ir.parisanclinic.ir.sharifnanopars.com.parsvirashid.ir.woobazar.com.maharatyar-club.ir.shirinmaneshgaz.com.rayzansamaneh.com.biakooh.ir.at-amalek.ir.atinsanatemertat.com.adaka.ir.qli-kcenter.ir.tkrtehran.ir.iranedms.ir.raofikalacompany.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=saman-shimi.ir.iuui.ir.ghoghnoospc.ir.shekambe.ir.rezomehsaz.ir.saffron1torbat.com.zaringiftca-rd.com.ru-bytradingcompany.com.armins-et.ir.coolero.ir.professionalism-tev.ir.nejatrayaneh.com.ebne-masouyeh.com.giyahfanavar.com.4w4.ir.parksahelimoji.online&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=sarfarazan.com.sand84.ir.a_rsell.ir.renaissance-ads.com.metghalart.ir.m-narjes.ir.r_ou_berou.ir.zakee.ir.sarbotri.ir.iranjabino.com.tiltak.ir.hamyardiesel.ir.karsao_ffice.c_om.arvand-home.ir.cipmashhad.com.ahmadzolfaghari.com.mikhak-co.com.mokabkala.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+https://t.me/proxy?server=sby.ir.atlaszeus.com.iraniansms.co.limo20.ir.r-oytak.ir.sabkhooneshow.ir.foodlehost.com.ferialmostofi.c-om.1398-04-12.ir.calco.ir.candokala.com.xn-----dt-dmathpcd3a8mvccx1aif.com.armity.ir.yazdiec.ir.akamlock.com.sadeghdehghani.com.zakhmkariseries.store&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=segalint.co.ir4n0ny.ir.debounce.ml.7healthclinic.com.mobiledaran.ir.arashjahani.com.site-view.ir.behjooje.ir.ip-atrin.ir.signal.ir.zagrosdns.com.upstabriz.ir.iranboo.ir.altonaeurop.com.tabanelec.ir.irfurnitures.com.mehrabseir.com.englishwithrahil.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=senator.bullshet.immo&port=443&secret=ee83e29319c1b8a7c8abb38061eae6f3536c69622e617276616e636c6f75642e636f6d
 https://t.me/proxy?server=sendmsg.ir.bimobile.ir.gooyasms.com.ariamhd.ir.trimed.ir.tak-electric.ir.electronics-delta.com.p-edalat.ir.fuzzypsychology.ir.kheirema-ndegar.com.rgrs.ir.arta-riagroup.com.manvaketab.com.injayadbegir.com.azarsanat.com.takkalastore.ir.salarplaystore.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
