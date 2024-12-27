@@ -248,6 +248,7 @@ https://t.me/proxy?server=3.145.163.150&port=443&secret=ee0720720720720720720720
 https://t.me/proxy?server=3.145.169.110&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.147.78.223&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.148.102.200&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=3.149.214.171&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=37.1.209.131&port=8008&secret=eea5b4df3cac508b4ee73790dcaf510f0a617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=37.27.10.227&port=443&secret=ee0000000000000000000000000000000076616e2e6e616a76612e636f6d
 https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20562616c61642e6972
@@ -285,6 +286,7 @@ https://t.me/proxy?server=5.161.41.74&port=443&secret=ee010101010101010101010101
 https://t.me/proxy?server=5.161.52.236&port=443&secret=ee1100e547d760f0e3b53eb430c871f1886170706c652e636f6d
 https://t.me/proxy?server=5.164.29.116&port=443&secret=ee473ce5d4647563ce6b7320706172ed74958eb5f968c87680a23854a0676f6d
 https://t.me/proxy?server=5.180.82.11&port=443&secret=ee1603010200010001fc030386e24c3add7777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=5.180.82.12&port=443&secret=ee1603010200010001fc030386e24c3add662e6b6f2d2d
 https://t.me/proxy?server=5.223.41.18&port=2443&secret=ee212212212212212212212212212212212d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2d
 https://t.me/proxy?server=5.223.48.144&port=443&secret=ee104462821249bd7ac519130220c25d097777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=5.252.118.142&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
@@ -427,6 +429,7 @@ https://t.me/proxy?server=adsl.kamcal.ir&port=443&secret=ee1603010200010001fc030
 https://t.me/proxy?server=afad.ir.meysammusic.com.zarv-an724.ir.ticafe.ir.sarayketabqom.ir.khodadadian.space.samelectro.ir.kelidefars.ir.khanehdavaran.ir.worldnetwork.ir.dokal.ir.kamoochogan.ir.hdtannery.com.motop2p.com.takderakhtshop.com.pardisnoorclinic.ir.mosavimobile.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=ai-detector.zero.gpt.is.ready_one123-wewilldoithey.there.222.factor-authentication.my&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ai-detector.zero.gpt.is.ready_one123-wewilldoithey.there.222.khabar.my&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=ai-detector.zero.gpt.is.ready_one123-wewilldoithey.there.222.ssh-connected.autos&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ai-detector.zero.gpt.is.ready_one123-wewilldoithey.there.222.udpoutgoin.website&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ai-detector.zero.gpt.is.ready_one123-wewilldoithey.there.222.uptvs.my&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ai-detector.zero.gpt.is.ready_one123-wewilldoithey.there.233.tcpconnection.my&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
