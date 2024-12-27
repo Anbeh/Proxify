@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@69.48.218.165:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-69.48.218.165:443
 trojan://blue2024@104.19.162.122:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.162.122:443
 trojan://NISHIKUITAN111@77.37.33.8:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇩🇪 DE-77.37.33.8:443
 trojan://blue2024@104.20.8.70:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.20.8.70:443
@@ -503,3 +502,4 @@ trojan://bpb-trojan@198.41.204.23:443?security=tls&sni=bpb.my79801.com&type=tcp&
 trojan://NISHIKUITAN222@104.16.68.95:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.68.95:443
 trojan://auto@172.66.44.106:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.106:8443
 trojan://NISHIKUITAN111@185.193.28.17:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.28.17:443
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&sni=customer-94-131-115-71.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-94.131.115.71:443

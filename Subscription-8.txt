@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@92.53.191.97:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇮 SI-92.53.191.97:8443
 vless://76b3cbba-e6ac-485a-9481-876a0415eab9@172.67.222.82:443?security=tls&sni=lUckY-DReam-1d82.rEpes67653.workeRs.DeV&type=ws&host=lUckY-DreAm-1D82.REpes67653.wOrKerS.DEv&path=%2FENNWr66A0wJ7F5E7%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.82:443
 vless://e4508f77-3d5c-4429-ba48-02e92ec595b2@104.21.69.44:2087?security=tls&sni=0f78d564-wild-lAb-02b2.pohexI6973.WORkerS.dev&type=ws&host=0f78d564-wild-lab-02b2.pohexi6973.workers.dev&path=/EucSWPwylD5Pj7V2?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
 vless://de6677da-e02c-4935-8ec0-24ed23fadfe9@37.156.45.179:1210?security=none&sni=ubuntu.com&type=grpc&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-NONE 🇨🇭 CH-37.156.45.179:1210
@@ -503,3 +502,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.147.50:443?security=tls&sni=
 vless://1af38e1a-33fa-4759-ba5d-4ab1de16b50c@172.236.22.27:2023?type=tcp#🔒 VL-TCP-NA 🇬🇧 GB-172.236.22.27:2023
 vless://ee62291f-97e6-4b8f-ad61-5b150b227003@104.21.235.205:2087?security=tls&sni=edg.comorg.us.kg&type=ws&serviceName=👨‍🚀Free👨‍🚀&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.235.205:2087
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.118:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.118:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.80.43:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.80.43:443
