@@ -137,7 +137,6 @@ https://t.me/proxy?server=172.105.115.233&port=443&secret=ee3eecca377d8f06217ac3
 https://t.me/proxy?server=172.233.121.96&port=155&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=172.234.107.246&port=65&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2d
 https://t.me/proxy?server=172.234.99.216&port=65&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2d
-https://t.me/proxy?server=174.138.23.233&port=443&secret=ee79e344818749bd7ac519130220c25d096d792e7461782e676f762e6972
 https://t.me/proxy?server=176.65.128.185&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d
 https://t.me/proxy?server=176.65.128.190&port=85&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=176.65.128.229&port=85&secret=ee0000f00f0f77fff5555ffffffffff500762e63702d2d
@@ -165,7 +164,6 @@ https://t.me/proxy?server=176.9.19.48&port=7943&secret=ee08208208208208208208208
 https://t.me/proxy?server=177-wz.ir&port=443&secret=ee85b6346b5c6446edb974b34889b313017777772e766964632e6f7267
 https://t.me/proxy?server=178.128.21.217&port=520&secret=eeba2e72b900086ae965a93f24337c418e617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=18.116.23.85&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=18.119.113.78&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.189.157.108&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.217.174.64&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -243,6 +241,7 @@ https://t.me/proxy?server=23.225.63.130&port=40193&secret=eeb4b9b34c8b6e94b4b5af
 https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=23.88.45.183&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=2865.me.digishimi.com.dar-iran.net.karen-tk.com.foamiran.com.cantonfair.ir.chapotarahi.ir.goltaj.ir.loriscare.com.digirout.ir.dabestanmola.ir.markazetour.co.digibours.com.azadeng.ir.irashan.com.esaving.ir.banatanama.com.hakimiyeshop.ir.ahvazfelafel.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+https://t.me/proxy?server=3.133.120.70&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.137.167.113&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.15.217&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.163.150&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -415,6 +414,7 @@ https://t.me/proxy?server=95.211.214.134&port=80&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=95.216.175.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c
 https://t.me/proxy?server=95.216.199.56&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
 https://t.me/proxy?server=95.217.139.129&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
+https://t.me/proxy?server=95.217.139.130&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=96.126.100.132&port=443&secret=ee0000000000000000000000000000000075706c6f6164626f792e636f6d
 https://t.me/proxy?server=adsl.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=afad.ir.meysammusic.com.zarv-an724.ir.ticafe.ir.sarayketabqom.ir.khodadadian.space.samelectro.ir.kelidefars.ir.khanehdavaran.ir.worldnetwork.ir.dokal.ir.kamoochogan.ir.hdtannery.com.motop2p.com.takderakhtshop.com.pardisnoorclinic.ir.mosavimobile.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
@@ -441,6 +441,7 @@ https://t.me/proxy?server=armantrc.ir.forcecms.ir.ntkcms.com.asadi.info.iranserv
 https://t.me/proxy?server=arvin-trade.com.uast12.ir.gas-cooler-split.c-om.frotelserver.com.singelkala.ir.marche.ir.frotel.in.gan-ji-watches.com.vahidielectric.ir.blueray-co.com.me-likadaryabari.ir.gildames.com.regazaminsakht.com.bonchaagh.org.saeedian-co.com.beroozkalacompany.my&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=asanbit.com.kobeko.ir.wp4u.ir.t_ooscarpet.ir.nropt.ir.kor_dkuyiau.ac.ir.tscaspian.com.moham_m_adsalehpour.ir.vanoosh.ir.toorangoil.c_om.peikemobile.com.spst.ir.decormarketapp.ir.septonet.ir.otra_gh.com.pichomohreh.com.networkala.ir.sammotors.motorcycles&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
 https://t.me/proxy?server=ash.reshteh.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=ask-qazvin.ir.haftvadi724.com.a-srzagros.ir.frotel.net.aveejeh.ir.dr-mahnazboroumand.ir.irancham.com.karbalakhorasaniha.com.sabkhooneshow.com.mizbanex.com.movahhedan.ir.alializade-hphotograp-hy.com.dr-pournasr.com.iran-dental.com.tplinkmodemcompany.bond&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=ask.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee61736b2e6e656564686f73742e6972
 https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=atsine.ir.netmodern.ir.goodfollower.ir.persian--power.com.bazargol.com.zirbana.cloud.advertisingphotography.ir.tisshop.ir.touristchoice.ir.etkfz.com.isotope.ir.barzintravel.com.sheetplaza.ir.demancegroup.com.drdoostidrugstore.ir.almacompanymobile.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
