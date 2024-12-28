@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.111:7306#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.111:7306
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:9102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Y0kyYm1GUEtLcVkySmZxeEZtTGZD@141.105.64.231:60092#🔒 SS-TCP-NA 🇷🇺 RU-141.105.64.231:60092
+ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@45.142.246.232:19994#🔒 SS-TCP-NA 🇷🇺 RU-45.142.246.232:19994
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:4444
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5000#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:5000
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.27.48:989
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8881#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.72:8881
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeDhua0FvcnFPR1VBbkljajFKYzgy@212.113.106.76:29149#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:29149
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:5001#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:5001
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.223.152:443#🔒 SS-TCP-NA 🇺🇸 US-54.200.223.152:443
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.110.1.103:8882#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.103:8882
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@156.146.38.169:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.169:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.217:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:5499
@@ -492,14 +503,3 @@ trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?security=none&type
 trojan://NISHIKUITAN111@104.24.10.122:443?#%E6%9C%AA%E7%9F%A5119
 trojan://auto@104.17.147.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&path=/?ed=2560&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A5120
 trojan://NISHIKUITAN111@173.245.49.151:443?#%E6%9C%AA%E7%9F%A5121
-trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5122
-trojan://blue2024@108.162.195.217:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5123
-trojan://blue2024@172.64.35.192:443?security=tls&type=ws&sni=tb.promote.icu&path=/&host=tb.promote.icu#%E6%9C%AA%E7%9F%A5124
-trojan://blue2024@104.18.123.217:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5125
-ss://YWVzLTEyOC1nY206YmQxMmY3OWUtMzIwOS00OTcwLTgzY2QtNWUxZjM1MjZmZjUx@91.103.122.32:38792#HK2
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI2IiwiYWRkIjoiOTUuODEuODIuMzYiLCJwb3J0IjoiMzczMjQiLCJpZCI6ImZhNjI0NjU3LTA0YWUtNDA4ZS05YzE0LWRiMWM2ZmQ0NjBlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiZmFzdC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEyNiJ9
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#US38%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#%E6%9C%AA%E7%9F%A5127%201.2MB%2Fs
-trojan://Trojan-Hqv2rayNG@151.101.130.219:443?security=tls&type=ws&sni=speedtest.net&path=/&host=dontskii.hqv2rayng.xyz#US39
-trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?security=tls&type=ws&sni=vbbc.ylks2024.us.kg&path=/youlingkaishi&host=vbbc.ylks2024.us.kg#US40
-trojan://blue2024@162.159.9.72:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5128
