@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A5140
-trojan://blue2024@172.64.156.166:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5141
-trojan://blue2024@188.114.96.186:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A5142
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#US32%20192.7MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#US33%202.0MB%2Fs
-trojan://blue2024@104.17.57.75:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5143
-trojan://ouo@18.162.246.4:18443?type=ws&sni=tr.koiok.us.kg&host=tr.koiok.us.kg#HK3
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&type=ws&sni=bPB-V.pageS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=Bpb-v.PAges.deV#%E6%9C%AA%E7%9F%A5144
 trojan://blue2024@172.64.146.66:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5145
 trojan://NISHIKUITAN111@104.25.31.240:443?#%E6%9C%AA%E7%9F%A5146
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#US34%20105.3MB%2Fs
