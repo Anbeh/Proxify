@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@172.64.35.161:443?sni=tc.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.161:443
 trojan://blue2024@104.26.7.89:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.7.89:443
 trojan://NISHIKUITAN111@164.38.155.246:443?#🔒 TR-TCP-NA 🇬🇧 GB-164.38.155.246:443
 trojan://blue2024@104.16.239.100:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.239.100:443
@@ -503,3 +502,4 @@ trojan://blue2024@104.16.110.37:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍�
 trojan://NISHIKUITAN111@141.101.122.171:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.122.171:443
 trojan://NISHIKUITAN111@104.27.42.14:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.42.14:443
 trojan://blue2024@5.182.84.179:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.179:443
+trojan://blue2024@190.93.247.65:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.247.65:443
