@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://ce87300f-02c9-4993-ac78-a3d2c0ed1c6e@104.17.148.22:8080?security=none&type=ws&path=/?ed=1048&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.kolsvslp.ir.#%E6%9C%AA%E7%9F%A528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.25.251:443#%E6%9C%AA%E7%9F%A529
+trojan://NISHIKUITAN111@5.10.245.142:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A530
 trojan://3648425794742788096@54.254.194.91:443?security=tls&type=tcp&sni=polished-ox.treefrog761.one#%E6%9C%AA%E7%9F%A531
 trojan://blue2024@104.19.253.28:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A532
 trojan://NISHIKUITAN111@108.162.192.252:443?#%E6%9C%AA%E7%9F%A533
