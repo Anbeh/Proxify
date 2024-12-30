@@ -3,27 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#US14
-trojan://NISHIKUITAN111@104.24.236.157:443?#%E6%9C%AA%E7%9F%A531
-trojan://blue2024@104.20.73.186:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A532
-trojan://blue2024@104.16.214.5:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A533
-trojan://blue2024@104.23.113.250:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A534
-trojan://blue2024@104.24.148.233:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A535
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#US15%201.9MB%2Fs
-trojan://bpb-trojan@162.159.153.19:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A536
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#US16%20174.4MB%2Fs
-trojan://NISHIKUITAN111@104.18.18.138:443?#%E6%9C%AA%E7%9F%A537
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.179:5498#US17%201.9MB%2Fs
-trojan://blue2024@185.176.26.193:443?sni=b.promote.icu#%E6%9C%AA%E7%9F%A538
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9101#US18%201.6MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%E6%9C%AA%E7%9F%A539%201.9MB%2Fs
-trojan://blue2024@172.64.83.38:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A540
-trojan://auto@104.20.18.34:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A541
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%E6%9C%AA%E7%9F%A542%2012.7MB%2Fs
-trojan://takaz%3Fcuswo-r%3F_ojuMit%40i%3DrAcrETl&lb1fro%3FL1uP%3D%40me%3D*NlWEbrlsP%23t%40d_8@172.67.5.14:8443?security=tls&type=ws&sni=quiz.vidio.com.vidio.us.kg&path=/pyip=s10.serv00.com:15661&host=quiz.vidio.com.vidio.us.kg#%E6%9C%AA%E7%9F%A543
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#US19%201.9MB%2Fs
-trojan://blue2024@104.17.65.98:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A544
-trojan://NISHIKUITAN111@162.159.133.112:443?#%E6%9C%AA%E7%9F%A545
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#%E6%9C%AA%E7%9F%A546%20331.1KB%2Fs
 trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@139.162.121.178:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A547
 trojan://blue2024@104.26.7.112:443?sni=tb.promote.icu#%E6%9C%AA%E7%9F%A548
