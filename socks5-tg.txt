@@ -1,3 +1,7 @@
+https://t.me/proxy?server=140.245.115.151&port=1080
+https://t.me/proxy?server=184.168.121.153&port=64744
+https://t.me/proxy?server=51.75.126.150&port=19366
+https://t.me/proxy?server=98.152.200.61&port=8081
 https://t.me/proxy?server=184.168.121.153&port=64744
 https://t.me/proxy?server=91.239.23.189&port=1080
 https://t.me/proxy?server=51.75.126.150&port=54612
@@ -6,9 +10,9 @@ https://t.me/proxy?server=98.152.200.61&port=8081
 https://t.me/proxy?server=35.223.22.95&port=1080
 https://t.me/proxy?server=51.210.111.216&port=39811
 https://t.me/proxy?server=184.168.121.153&port=64744
+https://t.me/proxy?server=51.210.111.216&port=22302
 https://t.me/proxy?server=135.148.32.193&port=54198
 https://t.me/proxy?server=51.75.126.150&port=13960
-https://t.me/proxy?server=51.210.111.216&port=22302
 https://t.me/proxy?server=51.75.126.150&port=19366
 https://t.me/proxy?server=98.152.200.61&port=8081
 https://t.me/proxy?server=51.75.121.63&port=33881
@@ -28,10 +32,10 @@ https://t.me/proxy?server=51.75.126.150&port=19366
 https://t.me/proxy?server=140.245.115.151&port=1080
 https://t.me/proxy?server=184.168.121.153&port=64744
 https://t.me/proxy?server=51.210.111.216&port=22302
+https://t.me/proxy?server=51.75.126.150&port=19366
 https://t.me/proxy?server=205.185.113.92&port=1080
 https://t.me/proxy?server=98.152.200.61&port=8081
 https://t.me/proxy?server=45.56.216.197&port=58323
-https://t.me/proxy?server=51.75.126.150&port=19366
 https://t.me/proxy?server=51.210.111.216&port=62160
 https://t.me/proxy?server=51.210.111.216&port=60686
 https://t.me/proxy?server=98.152.200.61&port=8081
@@ -42,9 +46,5 @@ https://t.me/proxy?server=140.245.115.151&port=1080
 https://t.me/proxy?server=51.75.126.150&port=62889
 https://t.me/proxy?server=135.148.32.193&port=54198
 https://t.me/proxy?server=51.75.121.63&port=52515
-https://t.me/proxy?server=205.185.113.92&port=1080
 https://t.me/proxy?server=98.152.200.61&port=8081
-https://t.me/proxy?server=51.75.206.235&port=60428
-https://t.me/proxy?server=35.223.22.95&port=1080
-https://t.me/proxy?server=51.75.121.63&port=52515
-https://t.me/proxy?server=51.210.111.216&port=11926
+https://t.me/proxy?server=205.185.113.92&port=1080
