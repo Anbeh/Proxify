@@ -250,7 +250,6 @@ https://t.me/proxy?server=37.27.18.198&port=443&secret=eecf09e5861586f39dafe5aa1
 https://t.me/proxy?server=37.27.18.76&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f20563646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=37.27.22.248&port=443&secret=ee08c672729aa5fae4dcf8cd8c36312e7573686579706f6f722e636f6d
 https://t.me/proxy?server=38.181.219.235&port=8443&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=38.60.211.92&port=9527&secret=eef9bc0847497f91c6398c2f00e7d942ab617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.143.222.84&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d
 https://t.me/proxy?server=45.146.7.22&port=443&secret=ee8d7bae4a594dd151ccfec81f46668063676f64616464792e636f6d
@@ -596,6 +595,7 @@ https://t.me/proxy?server=pp.ppppppppppppppppp.mmmeeeeeeeeeeeeeeeeeeeeeeeeheeeee
 https://t.me/proxy?server=pppp.ppppppppppppppppp.mmmeeeeeeeeeeeeeeeeeeeeeeeeheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.hammaliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee6e2e636f6d
 https://t.me/proxy?server=pppppppppppppppppppppp.dddgggggggggggggggggggggheeeeeeeeeee.eeggggggggggggggggggggeeeeeeeeeeee.dadaliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 https://t.me/proxy?server=products.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee70726f64756374732e6e656564686f73742e6972
+https://t.me/proxy?server=prox.gkalabar.ir&port=443&secret=ee05bb9febf6dcf436843c9eb38a190c227777772e7370656564746573742e6e6574
 https://t.me/proxy?server=proxy.mainshop.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=proxy.mr-thunder.com&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=proxy.zanborv.ir&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
