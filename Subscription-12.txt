@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@108.162.195.202:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.202:443
 trojan://blue2024@14.102.229.63:443?security=tls&sni=b.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-14.102.229.63:443
 trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
 trojan://blue2024@162.159.44.209:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.209:443
@@ -503,3 +502,4 @@ trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev
 trojan://blue2024@141.101.114.199:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.114.199:443
 trojan://NISHIKUITAN111@5.10.245.142:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-5.10.245.142:443
 trojan://blue2024@172.64.35.207:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒 TR-WS-NA 🏴‍☠️ NA-172.64.35.207:443
+trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443?security=tls&sni=is2.trojanvpn.xyz&type=ws&host=is2.trojanvpn.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.155:443
