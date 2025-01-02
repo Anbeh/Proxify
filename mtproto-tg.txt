@@ -62,6 +62,7 @@ https://t.me/proxy?server=14.102.10.125&port=85&secret=ee00ff000fffff00fff5555ff
 https://t.me/proxy?server=14.102.10.127&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
 https://t.me/proxy?server=14.102.10.128&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
 https://t.me/proxy?server=14.102.10.131&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
+https://t.me/proxy?server=14.102.10.132&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
 https://t.me/proxy?server=14.102.10.133&port=85&secret=ee00ff000ff00fff5555fffffff5662e6b6f2d2d
 https://t.me/proxy?server=14.102.10.134&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
 https://t.me/proxy?server=14.102.10.135&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
@@ -253,6 +254,7 @@ https://t.me/proxy?server=38.54.84.148&port=22025&secret=ee61a9d9969448cf85c301b
 https://t.me/proxy?server=38.60.211.8&port=54556&secret=ee7d24589ac7786becf4cd4d3f00480f41617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=38.60.249.190&port=64650&secret=eee646b92e182673b2a2f6fae0c87152ff617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=38.60.249.80&port=64656&secret=ee589ac0f497bce5a264be73fcf7f3f72e617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=38.60.250.187&port=3456&secret=ee0a4587e01c421ff0fef238ba663d2f4a617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.12.138.141&port=23&secret=ee0671b0dbb50bf74bac6abe5ef11a36597a756c612e6972
 https://t.me/proxy?server=45.143.222.84&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d
@@ -568,7 +570,6 @@ https://t.me/proxy?server=neka.ir.paakzi.com.esktruck.com.rahbarancomplex.com.pt
 https://t.me/proxy?server=neoniroo.ir.randola.com.javadzarban.com.tar-hoasargro-up.com.sazheh.com.kanoonnojavan.ir.soniaco.ir.sheykh.shop.behikala.com.ib-dcgramz.ir.eynakha.ir.e-r-om.ir.puadhesi-ves.org.qazvin-ads.ir.k-da.ir.behjooje.ir.leowithleo.net.law-ir.ir.koolackala.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=new.arantak.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=new.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
-https://t.me/proxy?server=new.bestlive.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=new.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental.tele-too.com&port=440&secret=eec84af64ba5a68532dd6393acc238549773332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
