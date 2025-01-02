@@ -500,6 +500,6 @@ vless://0dfe13b6-3439-452e-ad97-d749cdbe5087@145.223.100.61:8080?security=realit
 vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?security=reality&flow=xtls-rprx-vision&sni=dl.google.com&type=tcp&fp=chrome&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#🔒 VL-TCP-RLT 🇲🇩 MD-45.142.212.154:443
 vless://6055498e-8d10-4ee2-b3b1-2488b360701a@37.27.217.12:1615?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#🔒 VL-TCP-RLT 🇫🇮 FI-37.27.217.12:1615
 vless://aacabbc-aabc-caab-dbca-aabcccbbacba@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://aaaccbb-baca-abca-adbc-abbcaababccc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-13-DEY-1403 🕑 06:50
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.66.47.7:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:8443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.151:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.151:443
+vless://bcacaab-aacb-caab-cdab-cbccaabaabbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-13-DEY-1403 🕑 07:22
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.137.37:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.37:443
+vless://648d41d2-ae83-4ee0-961a-a6c0acbece13@172.67.200.97:443?security=tls&sni=hashemjavid1367.hashemjavid1988.workers.dev&type=ws&host=hashemjavid1367.hashemjavid1988.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.200.97:443
