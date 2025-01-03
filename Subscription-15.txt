@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%E6%9C%AA%E7%9F%A537%201.6MB%2Fs
+trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&type=httpupgrade&sni=wwwd7e1909f3a7e4477.jostar-data.nl&path=/quran/deam_net301.67 GB/?ed=2560&host=d7e1909f3a7e4477.jostar-data.nl#%E6%9C%AA%E7%9F%A538
+trojan://blue2024@104.17.28.100:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A539
+trojan://NISHIKUITAN111@104.24.207.14:443?#%E6%9C%AA%E7%9F%A540
+trojan://d4f89111885.wns.windows.com@123.125.94.170:1466?security=tls&type=tcp&sni=frsource1.mzsourcenode.info#%E6%9C%AA%E7%9F%A541
+trojan://bpb-trojan@162.159.153.229:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A542
+trojan://blue2024@162.159.22.29:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A543
+trojan://NISHIKUITAN111@172.67.67.8:443?#%E6%9C%AA%E7%9F%A544
+trojan://NISHIKUITAN111@216.116.134.236:443?#US17
+trojan://527c25e5-6b7c-464f-8930-230b5955d582@85.9.120.200:8888?security=none&headerType=none&type=tcp#%E6%9C%AA%E7%9F%A545
+trojan://blue2024@198.41.215.238:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A546
+trojan://blue2024@104.19.223.79:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A547
+trojan://bpb-trojan@104.17.133.64:443?security=tls&type=ws&sni=bpb.my79801.com&path=/tr?ed=2560&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A548
 trojan://blue2024@104.21.14.176:443?security=tls&type=ws&sni=tc.promote.icu&path=/?ed&host=tc.promote.icu#%E6%9C%AA%E7%9F%A549
 trojan://blue2024@104.19.168.73:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A550
 trojan://bpb-trojan@198.202.211.146:443?sni=bpb.my79801.com#US18
