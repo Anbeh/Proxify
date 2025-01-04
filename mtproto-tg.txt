@@ -28,7 +28,6 @@ https://t.me/proxy?server=128.199.56.193&port=443&secret=ee79e344818749bd7ac5191
 https://t.me/proxy?server=13.250.47.198&port=8633&secret=eeeaee92818cc06fe2abf69eb66dbc390e6177732e616d617a6f6e2e636f6d
 https://t.me/proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972
 https://t.me/proxy?server=134.122.55.2&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
-https://t.me/proxy?server=134.122.58.23&port=443&secret=ee0000f00f0f77fff5555ffffffffff500726161682e6972
 https://t.me/proxy?server=134.209.215.10&port=8443&secret=ee01f010a10c0d0e0d101e100101ffaeee7265736561726368676174652e6e6574
 https://t.me/proxy?server=135.181.188.114&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=135.181.193.117&port=4&secret=ee00ff000fffff00fff5555ffffffffff6662e6b6f2d2d2d
@@ -578,7 +577,6 @@ https://t.me/proxy?server=my.moon-night.ir&port=443&secret=ee612dc96b14b1ee08df2
 https://t.me/proxy?server=myfol.ir.mosame.ir.shahed-asco.com.amidenglish.com.wheelchairclinic.ir.persianir.info.marcotravelco.com.bg.co.ir.asnafyab.com.caspianres.com.broker549.ir.agrado.ir.hajjavadmohammadi.ir.rspersia.com.m-narjes.org.aogpc.ir.farhadi.biz.bazarkadehstore.click&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=neka.ir.paakzi.com.esktruck.com.rahbarancomplex.com.ptsc.ir.dalanshop.ir.faraboom.co.amlakeshahresaheli.com.bazaarema.ir.sarvdecor.com.sarai.ir.anahita-store1.ir.rahasazanjob.ir.iranf.com.pezhart.com.in1min.ir.bonyadmostazafan.ir.purementoscompany.store&port=3444&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=neoniroo.ir.randola.com.javadzarban.com.tar-hoasargro-up.com.sazheh.com.kanoonnojavan.ir.soniaco.ir.sheykh.shop.behikala.com.ib-dcgramz.ir.eynakha.ir.e-r-om.ir.puadhesi-ves.org.qazvin-ads.ir.k-da.ir.behjooje.ir.leowithleo.net.law-ir.ir.koolackala.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-https://t.me/proxy?server=new.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=new.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental.tele-too.com&port=440&secret=eec84af64ba5a68532dd6393acc238549773332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
