@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#US7%2025.2MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8009#US8%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.252:8090#US9%201.8MB%2Fs
-trojan://NISHIKUITAN111@162.159.20.17:443?#%E6%9C%AA%E7%9F%A518
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxMCAyNS4xTUIvcyIsImFkZCI6IjIuNTguODcuMjIxIiwicG9ydCI6IjEyMjY5IiwiaWQiOiJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTAifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#US11%201.6MB%2Fs
-trojan://blue2024@141.101.120.231:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A519
-trojan://bpb-trojan@190.93.244.66:443?security=tls&type=ws&sni=zeming13.us.kg&path=/tr?ed&host=zeming13.us.kg#%E6%9C%AA%E7%9F%A520
-trojan://NISHIKUITAN111@185.193.28.17:443?#%E6%9C%AA%E7%9F%A521
-trojan://NISHIKUITAN111@141.101.121.30:443?#%E6%9C%AA%E7%9F%A522
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%E6%9C%AA%E7%9F%A523%201.7MB%2Fs
 trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#US12
 trojan://NISHIKUITAN111@104.129.164.50:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#US13
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.61.111:8000#US14%201.7MB%2Fs
