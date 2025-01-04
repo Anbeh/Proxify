@@ -1,7 +1,6 @@
 https://t.me/proxy?server=1-0-0-1.esfand.itemdb.com&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=1.font-bartar.ir&port=443&secret=eeff620b1c16c47bfc28f6dc76a3891a2e7765622e65697461612e636f6d
 https://t.me/proxy?server=1.magalevarzeshi.ir&port=443&secret=ee82b10ac506a90a25e9970f370fc69e027765622e65697461612e636f6d
-https://t.me/proxy?server=103.105.48.30&port=8443&secret=ee214da4660e5d0af28552cdd4d66df6476e7330382e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=103.126.50.25&port=443&secret=ee0000f00f0f775555fffffff5006e2e69612d2d2d2d2d2d2d2d
 https://t.me/proxy?server=103.126.50.38&port=443&secret=ee071071071071071071071071071071076d6963726f736f66742e636f6f
 https://t.me/proxy?server=103.161.35.17&port=443&secret=ee0000f00f0f775555fffffff5006e2e69612d2d2d2d2d2d2d2d
