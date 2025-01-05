@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://blue2024@104.19.120.87:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A582
+trojan://13e7f6f8-4ec2-4060-a1b2-e78eba835ab2@103.76.128.241:12187?security=tls&type=tcp&sni=xj.cokecloud.top#%E6%9C%AA%E7%9F%A583
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#US25%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.18.75:5004#%E6%9C%AA%E7%9F%A584%20495.8KB%2Fs
+trojan://blue2024@104.19.54.222:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A585
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5000#US26%201.8MB%2Fs
+trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&host=pardazeshvpn-tg18.pages.dev#%E6%9C%AA%E7%9F%A586
+trojan://NISHIKUITAN111@194.53.53.140:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A587
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5003#US27%201.7MB%2Fs
+trojan://telegram-id-privatevpns@51.44.100.147:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A588
+trojan://5e454ad1-f158-4608-a51f-5f8700964e2e@62.60.155.47:39357?security=none&headerType=http&type=tcp&host=speedtest.net#%E6%9C%AA%E7%9F%A589
+trojan://NISHIKUITAN111@172.64.38.107:443?#%E6%9C%AA%E7%9F%A590
 trojan://blue2024@172.64.174.37:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A591
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.196.69:443?security=tls&type=tcp&sni=ssp2.100896.xyz#%E6%9C%AA%E7%9F%A592
 trojan://blue2024@104.17.131.154:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A593
