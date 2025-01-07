@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://3723507166611775488@boss-hound.boa152.lol:443?allowInsecure=1&sni=boss-hound.boa152.lol#15|GB_speednode_0037
+trojan://3723507166611775488@62.112.221.46:443?allowInsecure=0&sni=boss-hound.boa152.lol#15|GB_speednode_0038
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#15|JP_speednode_0044
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=tw02.trojanyyds.xyz#15|JP_speednode_0045
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@my01.trojanyyds.xyz:443?allowInsecure=0&sni=my01.trojanyyds.xyz#15|JP_speednode_0046
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=0&sni=de01.trojanyyds.xyz#15|JP_speednode_0047
