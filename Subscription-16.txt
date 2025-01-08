@@ -3,6 +3,46 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://blue2024@108.162.195.205:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5111
+trojan://blue2024@172.64.106.205:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5112
+trojan://blue2024@188.114.99.181:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5113
+trojan://telegram-id-privatevpns@13.38.171.109:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5114%201.4MB%2Fs
+trojan://blue2024@198.41.209.124:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A5115
+trojan://NISHIKUITAN111@104.20.140.145:443?#%E6%9C%AA%E7%9F%A5116
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7306#US41%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#%E6%9C%AA%E7%9F%A5117%201.7MB%2Fs
+trojan://blue2024@190.93.247.68:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5118
+trojan://blue2024@104.21.70.175:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed#%E6%9C%AA%E7%9F%A5119
+trojan://SSorg@65.109.199.131:443?sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A5120
+trojan://bpb-trojan@92.60.74.143:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5121
+trojan://NISHIKUITAN222@104.20.19.100:443?#%E6%9C%AA%E7%9F%A5122
+trojan://3723507166611775488@major-reindeer.boa152.lol:443?sni=major-reindeer.boa152.lol#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://bpb-trojan@188.114.97.88:2053?security=tls&type=ws&sni=G1-21N.paGEs.dev&host=g1-21n.pages.dev#%E6%9C%AA%E7%9F%A5123
+trojan://blue2024@104.22.72.111:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5124
+trojan://blue2024@188.114.96.186:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A5125
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#US42%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE=@185.5.38.111:55988#%E6%9C%AA%E7%9F%A5126
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI3IiwiYWRkIjoiNDUuMTU1LjI0OS4xMDEiLCJwb3J0IjoiMzgxODgiLCJpZCI6IjU3NDYxMGY1LTk5MWMtNDFiNi04NTdiLTA3MzE4OWYwM2ZjMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMjcifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#%E6%9C%AA%E7%9F%A5128
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.19:6697#US43
+trojan://NISHIKUITAN111@173.245.58.6:443?#%E6%9C%AA%E7%9F%A5129
+trojan://NISHIKUITAN111@104.25.155.56:443?#%E6%9C%AA%E7%9F%A5130
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:3389#US44%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.215:8119#US45%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#%E6%9C%AA%E7%9F%A5131
+trojan://NISHIKUITAN111@172.67.233.168:443?#%E6%9C%AA%E7%9F%A5132
+trojan://auto@104.20.19.168:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A5133
+trojan://auto@104.20.20.212:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5134
+trojan://4687b1d7-dbc4-49f4-95d7-74b5048696de@wb.kaiqsz.com:28721?sni=mmbiz1.redapricotcloud.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM1IiwiYWRkIjoiNjUuMTA5LjIxNi4xNzEiLCJwb3J0IjoiNTE0NTgiLCJpZCI6IjY1YjIyMDgyLTE4NmYtNGUwMy1hZjFiLTEyMjhkZDIyZmI1NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTM1In0=
+trojan://blue2024@172.64.35.207:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A5136
+trojan://3723507166611775488@166.1.227.35:443?sni=allowed-primate.boa152.lol#US46%2020.7MB%2Fs
+trojan://blue2024@162.159.44.203:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5137
+trojan://SSorg@199.34.228.71:8443?sni=ssjj.esslh.filegear-sg.me#US47
+trojan://bpb-trojan@198.41.204.23:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5138
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#US48%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8091#US49%202.0MB%2Fs
+trojan://telegram-id-privatevpns@3.125.70.201:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5139%206.8MB%2Fs
 trojan://NISHIKUITAN111@45.159.219.89:443?#US50
 trojan://NISHIKUITAN111@104.24.20.3:443?#%E6%9C%AA%E7%9F%A5140
 trojan://telegram-id-directvpn@18.169.114.76:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5141
