@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://auto@104.20.20.212:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5134
+trojan://4687b1d7-dbc4-49f4-95d7-74b5048696de@wb.kaiqsz.com:28721?sni=mmbiz1.redapricotcloud.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM1IiwiYWRkIjoiNjUuMTA5LjIxNi4xNzEiLCJwb3J0IjoiNTE0NTgiLCJpZCI6IjY1YjIyMDgyLTE4NmYtNGUwMy1hZjFiLTEyMjhkZDIyZmI1NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTM1In0=
+trojan://blue2024@172.64.35.207:443?type=ws&sni=tb.promote.icu&host=tb.promote.icu#%E6%9C%AA%E7%9F%A5136
+trojan://3723507166611775488@166.1.227.35:443?sni=allowed-primate.boa152.lol#US46%2020.7MB%2Fs
+trojan://blue2024@162.159.44.203:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5137
+trojan://SSorg@199.34.228.71:8443?sni=ssjj.esslh.filegear-sg.me#US47
+trojan://bpb-trojan@198.41.204.23:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5138
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#US48%201.8MB%2Fs
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8091#US49%202.0MB%2Fs
 trojan://telegram-id-privatevpns@3.125.70.201:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5139%206.8MB%2Fs
 trojan://NISHIKUITAN111@45.159.219.89:443?#US50
