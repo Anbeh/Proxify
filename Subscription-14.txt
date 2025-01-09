@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://blue2024@104.18.216.135:443?sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.18.216.135:443
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=👨‍🚀Free👨‍🚀&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.149.124:443
 trojan://SSorg@46.254.92.142:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-46.254.92.142:2087
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&sni=09jzus.zdzdzd.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.67.64:443
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:5498
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:7307
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.6.202:8080#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:8080
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.252:6379#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:6379
