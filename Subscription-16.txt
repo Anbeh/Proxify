@@ -3,6 +3,32 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5001#%E6%9C%AA%E7%9F%A591%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9101#%E6%9C%AA%E7%9F%A592%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#US20%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.202:8008#US21%201.9MB%2Fs
+trojan://blue2024@190.93.244.159:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A593
+trojan://blue2024@172.67.218.47:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A594
+trojan://WOeXShhJpL@104.18.183.139:443?security=tls&type=ws&sni=08jzus.zdzdzd.xyz&path=/juzigongyi&host=08jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A595
+trojan://46153d1a-ebe7-4218-9155-19618285a286@89.47.200.2:1720?security=none&headerType=http&type=tcp&host=speedtest.net#%E6%9C%AA%E7%9F%A596
+trojan://blue2024@104.19.168.73:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A597
+trojan://blue2024@195.85.59.161:443?security=tls&type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A598
+trojan://NISHIKUITAN111@162.159.133.112:443?#%E6%9C%AA%E7%9F%A599
+trojan://SSorg@188.164.159.234:2083?sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
+trojan://NISHIKUITAN111@162.159.58.108:443?#%E6%9C%AA%E7%9F%A5101
+trojan://blue2024@46.254.93.66:443?security=tls&type=ws&sni=b.promote.icu&path=/?ed&host=tb.promote.icu#%E6%9C%AA%E7%9F%A5102
+ss://YWVzLTI1Ni1nY206ZVVJVTRrNDQ0eXRZZzUvbEJhTFpCQ2FlWjBSOXRDVTVTRkVvVnJkakcxZz0=@85.9.112.204:443#%E6%9C%AA%E7%9F%A5103
+trojan://UipJV58NIw@104.16.11.112:443?security=tls&type=ws&sni=t2.rtx.al&path=/cfisthebest&host=t2.rtx.al#%E6%9C%AA%E7%9F%A5104
+trojan://NISHIKUITAN111@104.24.133.61:443?#%E6%9C%AA%E7%9F%A5105
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#US22%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#%E6%9C%AA%E7%9F%A5106%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.143.66.244:7307#US23%202.0MB%2Fs
+trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.67.184.7:443?security=tls&type=httpupgrade&sni=wwwd7e1909f3a7e4477.jostar-data.nl&path=/quran/deam_net301.67 GB/?ed=2560&host=d7e1909f3a7e4477.jostar-data.nl#%E6%9C%AA%E7%9F%A5107
+trojan://NISHIKUITAN111@104.17.157.109:443?#%E6%9C%AA%E7%9F%A5108
+trojan://blue2024@104.25.90.16:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5109
+trojan://SSorg@209.208.227.79:443?sni=ssjj.esslh.filegear-sg.me#US24
+trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A5110
+trojan://3723507166611775488@91.206.179.179:443?security=tls&type=tcp&sni=holy-seahorse.boa152.lol#%E6%9C%AA%E7%9F%A5111%202.7MB%2Fs
 trojan://NISHIKUITAN111@198.41.218.39:443?#%E6%9C%AA%E7%9F%A5112
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&type=tcp&sni=us08.ssr.ee#US25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNzFwRWFGZjVISnRkQUFJM0w3cjZB@46.32.186.234:1080#%E6%9C%AA%E7%9F%A5113
