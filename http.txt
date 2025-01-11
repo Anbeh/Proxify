@@ -30303,16 +30303,16 @@
 46.48.94.246:8080
 183.215.23.242:9091
 8.211.194.78:8443
-47.90.221.81:10006
-122.51.39.108:20020
-46.47.197.210:3128
-46.47.197.210:3128
-14.204.56.156:8085
-159.65.245.255:80
-47.101.57.253:80
-188.32.100.60:8080
-23.94.136.205:80
-14.204.56.156:8085
+47.119.151.74:8000
+93.157.248.108:88
+192.166.119.254:3128
+49.235.131.16:80
+183.247.199.51:30001
+47.97.94.40:20009
+43.251.133.179:8080
+101.108.118.182:8080
+50.114.33.54:8080
+152.26.229.34:9443
 <!DOCTYPE HTML>
 <HTML lang="en"><HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -30370,8 +30370,8 @@ function show_contact_form()
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
-var multiproxy_org_8780 = '619';
-_gaq.push(['_setAccount', 'UA-2'+multiproxy_org_8780+'35-5']);
+var multiproxy_org_7025 = '619';
+_gaq.push(['_setAccount', 'UA-2'+multiproxy_org_7025+'35-5']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
