@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&host=pardazeshvpn-tg18.pages.dev#%E6%9C%AA%E7%9F%A543
+trojan://bpb-trojan@198.41.204.23:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A544
+trojan://auto@104.20.21.97:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A545
+trojan://NISHIKUITAN111@162.159.20.17:443?#%E6%9C%AA%E7%9F%A546
+trojan://blue2024@172.67.207.26:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A547
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20700.9KB%2Fs
+trojan://blue2024@198.41.202.9:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A548
+trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&type=tcp&sni=google.com#%E6%9C%AA%E7%9F%A549
+trojan://blue2024@188.114.99.181:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A550
+trojan://blue2024@104.17.236.240:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A551
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:9090#US14%201.9MB%2Fs
+trojan://948b5904-d702-46c1-8f76-1c4d3ba01705@188.245.208.177:26745?security=none&headerType=http&type=tcp&host=speedtest.net#%E6%9C%AA%E7%9F%A552
+trojan://blue2024@172.64.33.52:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A553
+trojan://NISHIKUITAN111@104.18.202.154:443?#%E6%9C%AA%E7%9F%A554
+trojan://blue2024@104.17.131.154:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A555
+trojan://f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443?security=tls&type=ws&sni=rayan.sahel.us.kg&path=/?ed=2560&host=rayan.sahel.us.kg#%E6%9C%AA%E7%9F%A556
 trojan://NISHIKUITAN111@104.26.9.14:443?#%E6%9C%AA%E7%9F%A557
 trojan://NISHIKUITAN111@104.25.118.140:443?#%E6%9C%AA%E7%9F%A558
 trojan://SSorg@154.211.8.220:2096?sni=ssjj.esslh.filegear-sg.me#US15
