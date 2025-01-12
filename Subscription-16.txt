@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.153.2:80?security=none&type=ws&path=/xmlrpc.php?ed=1080&id=dfc1a9ab-6241-4b73-92f7-b299fc6b7751&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.#%E6%9C%AA%E7%9F%A512
-trojan://blue2024@92.60.74.73:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A513
-trojan://blue2024@108.162.195.202:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A514
-trojan://auto@104.20.22.158:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A515
-trojan://SSorg@108.165.152.130:2083?sni=ssjj.esslh.filegear-sg.me#US2
-trojan://SSorg@135.84.74.27:8443?sni=ssjj.esslh.filegear-sg.me#US3
-trojan://blue2024@172.67.122.48:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A516
-trojan://blue2024@104.16.134.27:2083?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A517
-trojan://bpb-trojan@45.131.209.114:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A518
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#US4%201.9MB%2Fs
-trojan://NISHIKUITAN111@104.25.10.14:443?#%E6%9C%AA%E7%9F%A519
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#%E6%9C%AA%E7%9F%A520
-trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev#%E6%9C%AA%E7%9F%A521
 trojan://NISHIKUITAN111@104.24.207.14:443?#%E6%9C%AA%E7%9F%A522
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#%E6%9C%AA%E7%9F%A523%201.6MB%2Fs
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#US5%201.8MB%2Fs
