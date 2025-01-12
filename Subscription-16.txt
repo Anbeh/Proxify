@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://3723507166611775488@91.206.179.73:443?security=tls&type=tcp&sni=perfect-beagle.boa152.lol#%E6%9C%AA%E7%9F%A524
-trojan://blue2024@172.67.252.230:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A525
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#%E6%9C%AA%E7%9F%A526
-trojan://dns68@66.179.48.88:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#US13
-trojan://SSorg@154.9.249.242:443?sni=ssjj.esslh.filegear-sg.me#US14
 trojan://SSorg@45.136.199.77:443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A527
 trojan://SSorg@154.197.64.155:2053?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A528
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#US15%202.0MB%2Fs
