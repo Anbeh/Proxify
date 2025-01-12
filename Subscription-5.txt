@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://48b94941-d602-11ee-aaa8-00505603e70d@172.67.193.108:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.108:443
-vless://62357561-a129-4b9e-9614-ce2578020866@162.159.38.101:2096?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.19:443?security=tls&sni=uxa.vs2024.us.kg&type=ws&host=uxa.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.19:443
-vless://a96e0b3e-bd29-4f71-b7f9-f8031bc05f76@151.101.2.16:80?type=ws&host=WHALEV2R.IR&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.2.16:80
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.220:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-185.170.166.220:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.150:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.150:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.121.183:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇬🇧 GB-154.197.121.183:8443
@@ -503,3 +499,7 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@129.151.204.91:443?security=tls&sni
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.14.19:2095?security=none&type=ws&host=0103.x8r4itwg.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:2095
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@185.59.218.247:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.247:443
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.12:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.12:443
+vless://9df625ba-7d04-405d-9d54-2c8c1e5fbccb@198.62.62.170:443?security=tls&sni=cc.aimercc.filegear-sg.me&type=ws&host=cc.aimercc.filegear-sg.me&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.170:443
+vless://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@172.67.40.158:443?security=tls&sni=mHsa5sRv2.FArVAHARfOrevEr.cOm&type=ws&host=mHsa5sRv2.FArVAHARfOrevEr.cOm&path=%2FFdNQQ9YwZaJCzXHFXJO9ry6uLKVQz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.40.158:443
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.186:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-171.22.125.186:2198

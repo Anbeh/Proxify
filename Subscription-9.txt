@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://219d848d-60f2-4321-8275-72b9b575b37e@185.16.110.107:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.107:443
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.66.44.249:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.249:8443
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.113.156:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-188.119.113.156:2198
-vless://9df625ba-7d04-405d-9d54-2c8c1e5fbccb@69.84.182.234:443?security=tls&sni=cc.aimercc.filegear-sg.me&type=ws&host=cc.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.234:443
 vless://297121ff-c2a0-4f7a-b17c-8517e1e43707@172.67.209.25:443?security=tls&sni=easynet23.mfrpb.workers.dev&type=ws&host=easynet23.mfrpb.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.25:443
 vless://07c19a2d-d04f-45c6-acb2-fa0a53f80d4b@188.114.97.1:443?security=tls&sni=bzdownload.segstar.info&type=ws&host=barbarian.segstar.info&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:443
 vless://a35455ae-1b58-4b62-bf8f-562dce2e0403@45.131.6.53:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.53:80
@@ -503,3 +499,7 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052?security=none&t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.161.106:443?security=tls&sni=FAlLING-moUNTaIn-feDa.0aFcB2f493.woRkeRs.DEV&type=ws&host=fALlING-MOUntAiN-FEDA.0AfCB2F493.WORkeRS.dEv&path=%2FN39iaguwplzJWORX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.106:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.247.117:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.117:2083
 vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@104.20.24.185:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.24.185:8443
+vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@162.159.48.84:443?security=tls&sni=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&type=ws&host=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.48.84:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.251:443
+vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@167.82.92.21:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-167.82.92.21:80
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.117.112.140:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇹 LT-89.117.112.140:443
