@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6679#US%201.9MB%2Fs
-trojan://blue2024@104.27.61.81:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A52
-trojan://3723507166611775488@154.205.151.46:443?security=tls&type=tcp&sni=settled-seal.treefrog761.one#%E6%9C%AA%E7%9F%A53
-trojan://blue2024@104.18.138.78:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A54
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&type=tcp&sni=bangladeshipatri.com#%E6%9C%AA%E7%9F%A55
-trojan://blue2024@104.26.14.203:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRHRaJGQxbGN6@150.241.95.63:12271#%E6%9C%AA%E7%9F%A57
-trojan://NISHIKUITAN111@104.25.227.104:443?#%E6%9C%AA%E7%9F%A58
 trojan://9b09534c-4bb1-4943-b2e7-b4c97ccae541@151.101.0.155:80?security=none&type=ws&path=/SPdnet?ed=2048&host=service.bomb.clear.spdteam.ir.#US2
 trojan://NISHIKUITAN111@45.159.218.63:443?#US3
 trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&type=ws&sni=meti-u9d.pages.dev&host=meti-u9d.pages.dev#%E6%9C%AA%E7%9F%A59
