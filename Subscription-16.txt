@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://NISHIKUITAN111@104.24.207.14:443?#%E6%9C%AA%E7%9F%A522
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#%E6%9C%AA%E7%9F%A523%201.6MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#US5%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%E6%9C%AA%E7%9F%A524%201.3MB%2Fs
-trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A525
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.27:7002#US6%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A526%208.1MB%2Fs
-trojan://SSorg@108.165.152.143:2087?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#US7
-trojan://blue2024@104.24.148.233:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A527
-trojan://ac00d98b-a311-4ef2-b3a3-89f9f930b3aa@162.159.129.67:443?security=tls&type=ws&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A528
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#US8%201.9MB%2Fs
-trojan://NISHIKUITAN111@104.20.8.252:443?#%E6%9C%AA%E7%9F%A529
-trojan://blue2024@104.20.198.59:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A530
-trojan://blue2024@104.17.83.149:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A531
-trojan://blue2024@172.64.35.155:443?security=tls&type=ws&sni=tb.promote.icu&path=/?ed=2560&host=tb.promote.icu#%E6%9C%AA%E7%9F%A532
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:3389#US9%202.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4emxPcXkydjZ2SjBYdkZUTjh6SUJI@185.190.250.103:57328#%E6%9C%AA%E7%9F%A533
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#%E6%9C%AA%E7%9F%A534
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzUiLCJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwicG9ydCI6IjIwODMiLCJpZCI6ImIyMTU2MjA4LTVkZWQtNGM0MC05Mjg2LTE0NmFiYTgyOTgyZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InVzYS5tYnBwYWlybmRhcGFyYWZkdmFkYXJiZWhlc2h0dG9oYW1ib3JvLmlyIiwicGF0aCI6Ii93d3cuc3BlZWR0ZXN0Lm5ldD9lZD0xMDI0IiwidGxzIjoidGxzIiwic25pIjoidXNhLm1icHBhaXJuZGFwYXJhZmR2YWRhcmJlaGVzaHR0b2hhbWJvcm8uaXIiLCJ0ZXN0X25hbWUiOiIzNSJ9
 trojan://NISHIKUITAN222@141.101.121.176:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A536
 trojan://SSorg@27.50.48.239:8443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A537
