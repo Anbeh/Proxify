@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://SSorg@188.164.159.234:2083?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.234:2083
+trojan://blue2024@198.41.202.9:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-198.41.202.9:443
+trojan://NISHIKUITAN111@141.101.121.30:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.30:443
+trojan://blue2024@108.162.195.155:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.155:443
+trojan://NISHIKUITAN111@104.21.18.51:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.18.51:443
+trojan://auto@104.20.18.34:443?security=tls&sni=b96ef9a...&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.34:443
+trojan://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.24.45:2053
+trojan://blue2024@205.233.181.227:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-205.233.181.227:443
+trojan://blue2024@69.48.218.217:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-69.48.218.217:443
+trojan://blue2024@104.24.28.137:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.24.28.137:443
 trojan://auto@104.20.21.229:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.229:443
 trojan://NISHIKUITAN111@104.25.70.145:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.70.145:443
 trojan://blue2024@104.17.19.93:443?security=tls&sni=ha.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.19.93:443
@@ -493,13 +503,3 @@ trojan://NISHIKUITAN111@193.227.99.226:443?#🔒 TR-TCP-NA 🇲🇹 MT-193.227.9
 trojan://blue2024@104.18.216.135:443?sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.18.216.135:443
 trojan://telegram-id-directvpn@3.133.45.94:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.133.45.94:22222
 trojan://bpb-trojan@104.18.181.179:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.181.179:443
-trojan://SSorg@5.182.84.244:443?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.244:443
-trojan://blue2024@160.153.0.167:443?security=tls&sni=b.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-160.153.0.167:443
-trojan://NISHIKUITAN111@104.21.73.209:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.73.209:443
-trojan://blue2024@104.18.152.170:443?security=tls&sni=ha.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.152.170:443
-trojan://NISHIKUITAN111@69.48.218.190:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//&allowInsecure=1#🔒 TR-WS-NA 🇺🇸 US-69.48.218.190:443
-trojan://SSorg@154.197.64.104:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.104:8443
-trojan://SSorg@5.182.84.52:2083?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.52:2083
-trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.155.16:2053
-trojan://blue2024@88.216.66.18:443?security=tls&sni=b.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇱🇹 LT-88.216.66.18:443
-trojan://SSorg@27.50.49.242:8443?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-27.50.49.242:8443
