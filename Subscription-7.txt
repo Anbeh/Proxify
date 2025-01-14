@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://ec442af6-d565-4032-a37c-b60c7d4f3048@174.138.103.226:1286?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-174.138.103.226:1286
-vless://0fb53a60-2372-412a-a693-5157b58ecc94@172.67.148.227:80?security=none&sni=v2raylandd-85.upftsx.workers.Dev&type=ws&host=v2raylandd-85.upftsx.workers.Dev&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.148.227:80
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.213:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.213:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.167:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.167:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.12:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.12:443
 vless://85b82e66-e9cb-49c7-be5b-81b3ae1bda90@104.22.22.164:443?security=tls&sni=mehdiama.vpntestvpn794.workers.dev&type=ws&host=mehdiama.vpntestvpn794.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.22.164:443
@@ -503,3 +500,6 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.172:443?security=tls&sni
 vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:8080
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-167.82.0.37:80
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@13.248.169.48:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-13.248.169.48:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.211:443?security=tls&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.211:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@27.50.48.181:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.181:443
+vless://78f34fa6-e5bf-4ad4-aa51-2bb50850ca7c@172.66.46.213:443?security=tls&sni=speedtest1.svgspeedtest.net&type=ws&host=speedtest1.svgspeedtest.net&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:443
