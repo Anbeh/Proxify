@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWE4MDVmMi00MWE3LTRjZDgtODQwNi0wNDcwYzNjZGUwZDM=@45.250.184.183:6181#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MzAwMiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
-ss://YWVzLTI1Ni1nY206TkZZRFZYRTNETVdJMk0zVw==@8tv68qhq.slashdevslashnetslashtun.net:15005#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206WVBOTkJYR1JOQ0FYQjlONw==@ti3hyra4.slashdevslashnetslashtun.net:15010#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTJiYTg2My1jYmNlLTQ5OTEtODRhYy00NTA1YzIyNTMxODM=@dns.a123.my:44471#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
-trojan://315f744a-c705-3e58-96d9-35f0a8d3310c@gy.58n.net:24603?allowInsecure=0&sni=z259.hongkongnode.top#13,14|香港8|@ripaojiedian
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?allowInsecure=0&sni=tw01.trojanyyds.xyz#13,14|台湾|@ripaojiedian
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=0&sni=tw02.trojanyyds.xyz#13,14|台湾2|@ripaojiedian
 ss://YWVzLTI1Ni1nY206M2EyYmE4NjMtY2JjZS00OTkxLTg0YWMtNDUwNWMyMjUzMTgz@dns.a123.my:11170#13%7C%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE3%7C%40ripaojiedian
 trojan://e279c494-c426-443a-a034-a04516409242@naiu-jp.05vr9nyqg5.download:13012?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|日本|@ripaojiedian
