@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206ZVVJVTRrNDQ0eXRZZzUvbEJhTFpCQ2FlWjBSOXRDVTVTRkVvVnJkakcxZz0=@85.9.112.204:443#%E6%9C%AA%E7%9F%A5117
-trojan://SSorg@45.67.214.3:2096?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A5118
-trojan://telegram-id-privatevpns@34.246.205.106:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5119
-trojan://blue2024@141.101.120.231:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5120
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#US30%202.0MB%2Fs
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%E6%9C%AA%E7%9F%A5121%201.7MB%2Fs
 trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?security=tls&type=ws&sni=4cbba020.fastpurnet3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=4cbba020.fastpurnet3.pages.dev#%E6%9C%AA%E7%9F%A5122
