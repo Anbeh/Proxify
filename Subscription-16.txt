@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@108.165.216.88:443?security=tls&type=ws&sni=b.promote.icu&path=/?ed&host=tb.promote.icu#US42
-trojan://auto@162.159.44.217:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#%E6%9C%AA%E7%9F%A5120
-trojan://blue2024@172.64.106.205:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5121
 trojan://bpb-trojan@104.17.76.107:443?security=tls&type=ws&sni=bpb.my79801.com&path=/tr?ed=2560&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A5122
 trojan://bpb-trojan@104.17.217.238:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.60:2377#TW
