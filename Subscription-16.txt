@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:8118
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:8118
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:6697
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@210.217.18.68:10113#🔒 SS-TCP-NA 🇰🇷 KR-210.217.18.68:10113
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.85:6697
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRmgxMWM2dktZOEtJZXhzeXlQZWU3@62.133.60.60:21712#🔒 SS-TCP-NA 🇩🇪 DE-62.133.60.60:21712
