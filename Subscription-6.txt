@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@162.120.94.90:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-162.120.94.90:443
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&sni=147135010103.sec19org.com&type=tcp&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.153.78:443
 vless://2d0b88c0-bdd0-46a3-ad5a-f32cb639197d@104.21.80.1:2095?type=httpupgrade&host=www.speedtest.net.www.speedtest.net.www.speedtest.net.www.speedtest.net.www.speedtest.net.dEver-dev.iR.#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.80.1:2095
 vless://16b3cbba-e6ac-495a-9481-976a0415eab9@172.67.217.183:443?security=tls&sni=ESEtSECURItYlIcENse.shPnmm.WoRkeRS.Dev&type=ws&host=eSEtSeCURITYlICEnsE.sHpnmM.WOrKeRS.DEv&path=%2FrAQuyPffj94byXJx%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.183:443
@@ -502,4 +503,3 @@ vless://19d13bed-b8c5-4443-920e-12f833fed576@172.67.148.116:80?security=none&typ
 vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.46.162:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.162:8443
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.18:2083?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-154.211.8.18:2083
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@103.116.7.189:443?security=tls&sni=ssvvl.esslh.filegear-sg.me&type=ws&host=ssvvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.189:443
-vless://14cde25f-e50e-4599-8d4b-441cf5fad72c@104.18.41.138:8443?security=tls&sni=ta.ylkszy.eu.org&type=ws&host=ta.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.138:8443

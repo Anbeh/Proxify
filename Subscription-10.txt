@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.103:80?type=ws#🔒 VL-WS-NA 🇺🇸 US-167.82.0.103:80
 vless://11338fbe-71f7-47da-bc29-e74780eda3d3@104.18.38.147:8443?security=tls&sni=server39.998877.best&type=ws&host=server39.998877.best&path=%2Fdrtgoiuy%2Ffd%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.38.147:8443
 vless://a35455ae-1b58-4b62-bf8f-562dce2e0403@45.131.4.68:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.68:80
 vless://bc280439-2732-493a-8e60-f0607be2b295@104.18.41.208:443?security=tls&sni=rvseprxysrv2.parthianempire.org&type=ws&host=rvseprxysrv2.parthianempire.org&path=%2Fbc280439-2732-493a-8e60-f0607be2b295&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.208:443
@@ -502,4 +503,3 @@ vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.98:2087?security=tls&sni=
 vless://5c4f6ca8-b824-48de-8f33-ec3c9eda1c5e@49.12.185.64:80?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-49.12.185.64:80
 vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.65.193:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.126:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.126:443
-vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@46.254.92.36:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-46.254.92.36:443
