@@ -268,7 +268,6 @@ https://t.me/proxy?server=4.2.2.4.1.1.1.1.1.1.1.tololop-bomazhin.info&port=5225&
 https://t.me/proxy?server=4.majalehelmi.ir&port=443&secret=ee230254403069672e8d2bfac6574ee2a37765622e65697461612e636f6d
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.128.52.26&port=2096&secret=ee6fada74059e8d9bb144aed34817a85fa7a756c612e6972
-https://t.me/proxy?server=45.143.222.84&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1666172616b61762e636f6d
 https://t.me/proxy?server=45.146.7.22&port=443&secret=ee8d7bae4a594dd151ccfec81f46668063676f64616464792e636f6d
 https://t.me/proxy?server=45.156.21.225&port=443&secret=eeb2c3e527bda1040e438b13deaf03078c7765622e62616c652e6972
 https://t.me/proxy?server=45.56.117.104&port=9999&secret=ee5a8c4f0b530bae6bc18c890d717d383d617a7572652e6d6963726f736f66742e636f6d
