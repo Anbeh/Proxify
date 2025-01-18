@@ -35,7 +35,6 @@ https://t.me/proxy?server=134.209.90.136&port=443&secret=ee1a15f6e25405d9f2ded42
 https://t.me/proxy?server=135.181.193.117&port=4&secret=ee00ff000fffff00fff5555ffffffffff6662e6b6f2d2d2d
 https://t.me/proxy?server=135.181.32.107&port=443&secret=ee000000000000000000000000000000006f6e652e6f6e652e6f6e652e6f6e65
 https://t.me/proxy?server=137.184.11.122&port=443&secret=eec4d42116432e4e1bb8d184f9f8dc1b627777772e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=138.124.115.67&port=6&secret=eedf244041b642510a3230c5efae4725cb
 https://t.me/proxy?server=138.201.122.231&port=7943&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=138.201.246.30&port=5&secret=ee03f55ffff55fff55ffeefff5455ffeef2d2d2d662e666f702d2d
 https://t.me/proxy?server=139.59.133.255&port=443&secret=ee79e344818749bd7ac519130220c25d09636865636b2d686f73742e6e6574
@@ -534,7 +533,6 @@ https://t.me/proxy?server=my.irtower-a.ir&port=3598&secret=ee0000f00f0f775555fff
 https://t.me/proxy?server=my.moon-night.ir&port=443&secret=ee612dc96b14b1ee08df2cd9c2297c61e17777772e7370656564746573742e6e6574
 https://t.me/proxy?server=myfol.ir.mosame.ir.shahed-asco.com.amidenglish.com.wheelchairclinic.ir.persianir.info.marcotravelco.com.bg.co.ir.asnafyab.com.caspianres.com.broker549.ir.agrado.ir.hajjavadmohammadi.ir.rspersia.com.m-narjes.org.aogpc.ir.farhadi.biz.bazarkadehstore.click&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=neoniroo.ir.randola.com.javadzarban.com.tar-hoasargro-up.com.sazheh.com.kanoonnojavan.ir.soniaco.ir.sheykh.shop.behikala.com.ib-dcgramz.ir.eynakha.ir.e-r-om.ir.puadhesi-ves.org.qazvin-ads.ir.k-da.ir.behjooje.ir.leowithleo.net.law-ir.ir.koolackala.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-https://t.me/proxy?server=ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental.tele-too.com&port=440&secret=eec84af64ba5a68532dd6393acc238549773332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=nobify.org.maseravi.info&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_css.scooper.events&port=443&secret=ee000000000000000000000000000000006d792e736861706172616b2e6972
