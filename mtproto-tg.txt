@@ -232,7 +232,6 @@ https://t.me/proxy?server=2865.me.digishimi.com.dar-iran.net.karen-tk.com.foamir
 https://t.me/proxy?server=3.12.147.165&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.12.155.91&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.12.71.41&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=3.133.109.140&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.137.218.146&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.139.97.98&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.141.2.32&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -611,7 +610,6 @@ https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64
 https://t.me/proxy?server=vira-netcorp.org.iranshoptops.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=web.majalekari.ir&port=443&secret=eeade6f9170923e69eeecb2db2345aa0057765622e727562696b612e6972
-https://t.me/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.beferestava.ir.jahadtossee.ir.smsjob.ir.nrava.ir.f_ardanmachine.ir.lmzombies.ir.nini3et.ir.vozara-furniture.ir.motabalkalaconpany.online.saatchi.support&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574
 https://t.me/proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 https://t.me/proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd15284e8d5ebd948dd7ce746769746875622e636f6d
 https://t.me/proxy?server=www.help-man.info-film.site&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d7777772e6170617261742e636f6d2d
