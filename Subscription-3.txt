@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@129.146.46.164:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-129.146.46.164:443
+vless://cd6e8c65-904b-4509-9812-9bde8e30beba@104.24.196.20:8080?security=none&type=httpupgrade&host=web-cdn-829ytdd0zy-rubika.ir.google.xn--aaaaaaaaaaaaaaaaaaaaaa-v150bgai.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab.tnw.of.to&path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.196.20:8080
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.96.186:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.186:80
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2FTelegram%40Linkvws%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.233.139:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.53.54:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.53.54:80
@@ -501,5 +503,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.35:443?security=tls&sni
 vless://fcddd0d0-d60d-4ae6-be61-d9525e487036@151.101.64.155:80?security=none&type=ws&host=vipfast_7.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.52.108:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.52.108:80
 vless://8e4c1245-49d1-4d2c-9caf-ab21a0e96d4c@188.114.97.9:443?security=tls&sni=xvklqowuxstxdudeqokjvvxfvmigl7uxdcubhqszg2iwie9usafao7kgolyl79k.1czwnc.workers.Dev&type=ws&host=xvklqowuxstxdudeqokjvvxfvmigl7uxdcubhqszg2iwie9usafao7kgolyl79k.1czwnc.workers.Dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.9:443
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.14:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.14:443
-vless://2c79b667-b103-4d22-86d0-5ef23f303c06@45.67.214.101:80?security=tls&sni=japan.freenods-8d6.workers.dev&type=ws&host=japan.freenods-8d6.workers.dev&path=telegram@wangcai2/?ed%3D2048#🔒 VL-WS-TLS 🇨🇾 CY-45.67.214.101:80

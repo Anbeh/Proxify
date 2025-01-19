@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://1f2f0b4c-e5f2-4122-8f91-9ec61792098f@104.19.54.231:8080?security=none&type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.54.231:8080
+vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.16:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.16:443
 vless://144033be-bccd-443e-9ce6-390b7f205e84@188.114.97.3:443?security=tls&sni=JFJGhjBvB8788.PAgEs.dEV&type=ws&host=jfjghjbvb8788.pages.dev&path=%2Fv9cEI01ySuwt7Vhb%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:443
 vless://5d8b1149-8f78-4154-a647-16563ec99c8a@104.21.40.155:443?security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.155:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.11:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.11:443
@@ -501,5 +503,3 @@ vless://76d432b7-89e3-4cbb-b02c-584b1d2333ca@185.146.173.39:2095?security=none&t
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.228.115:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.228.115:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.106:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.106:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@108.162.192.160:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.160:443
-vless://a90f08e4-3548-4741-af3d-9dad08b06b63@104.19.6.48:443?security=tls&sni=46771119909676129223555549792065.v2line.net&type=ws&host=46771119909676129223555549792065.v2line.net&path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.6.48:443
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.223:443
