@@ -500,6 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag@45.140.146.223:8388#%F0%9F%87%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1%20_%E8%8D%B7%E5%85%B0
 trojan://3648425794742788096@5.8.35.208:443?allowInsecure=1&sni=loving-boa.treefrog761.one#%F0%9F%87%B3%F0%9F%87%B1%20_%E8%8D%B7%E5%85%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFpoTlRBeg@89.221.224.166:8388#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://acbcaba-cbaa-acab-bdca-ccacbcaaabbb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-01-BAHMAN-1403 🕑 11:12
-vless://5ce2776c-6573-4be1-97fb-ed3aa618ba89@216.9.226.17:1620?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-TCP-RLT 🇹🇷 TR-216.9.226.17:1620
-vless://41bb7247-c37a-48ab-8421-c9f76f4ed570@135.125.244.42:2030?security=reality&sni=refersion.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-RLT 🇫🇷 FR-135.125.244.42:2030
+vless://cabacba-baca-aabc-dbca-bcbcacbcbaaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-01-BAHMAN-1403 🕑 12:55
+vless://68c1d65d-d267-4510-9f42-804a2eb13ce4@5.75.138.241:443?security=reality&sni=eset.com&type=tcp&fp=chrome&pbk=xN-XAQT2CHoGE8BEDimTmCHt_F-4ceebHjfiXzkuNlo&sid=87cddfb6#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.138.241:443
+vless://2add6241-8fe8-3922-8347-da25e8ced601@156.229.162.139:1443?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=random&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#🔒 VL-TCP-RLT 🇺🇸 US-156.229.162.139:1443
