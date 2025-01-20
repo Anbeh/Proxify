@@ -572,7 +572,6 @@ https://t.me/proxy?server=s.sviplei.top&port=14908&secret=ee098f8ba1b43ab0c680cb
 https://t.me/proxy?server=s1.proxytun.com&port=443&secret=eef7c2b8d3a4e9f1b5c6d8a7e3f2b9c4a17a756c612e6972
 https://t.me/proxy?server=s1.proxytun.store&port=2087&secret=ee8318f151edb0da2dc254e67407b419777a756c612e6972
 https://t.me/proxy?server=s2.proxytun.store&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
-https://t.me/proxy?server=s3.proxytun.com&port=8443&secret=ee41d6b1dec3481baffaa36d5b0152c9067a756c612e6972
 https://t.me/proxy?server=s3.proxytun.store&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 https://t.me/proxy?server=s4.proxytun.store&port=443&secret=ee3dd667aaec75459c7934d470dff106d77a756c612e6972
 https://t.me/proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
