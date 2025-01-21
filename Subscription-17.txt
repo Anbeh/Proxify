@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://auto@104.21.21.129:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.21.129:443
+trojan://blue2024@5.10.245.62:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🇳🇱 NL-5.10.245.62:443
+trojan://bpb-trojan@162.159.153.19:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.19:443
+trojan://SSorg@27.50.49.37:2053?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-27.50.49.37:2053
+trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&sni=damn-mci-again-3.danesh-bonyan.Store&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.176.206:2053
 trojan://NISHIKUITAN111@104.16.23.120:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.23.120:443
 trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#🔒 TR-TCP-NA 🇦🇺 AU-192.65.217.110:443
 trojan://bpb-trojan@198.41.222.155:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.222.155:443
@@ -498,8 +503,3 @@ ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🔒 SS-TCP-NA 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.143.66.244:7307#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.244:7307
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.136:8080
-ss://YWVzLTI1Ni1nY206WTBVVDhLWFgyUjlNNVhZQQ==@154.196.244.16:16006#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.16:16006
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.27:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:8008
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7002#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:7002
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@45.89.52.66:9030#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9030
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.204:8000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.204:8000

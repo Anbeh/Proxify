@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206WTBVVDhLWFgyUjlNNVhZQQ==@154.196.244.16:16006#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.16:16006
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.27:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:8008
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7002#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:7002
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@45.89.52.66:9030#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9030
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.204:8000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.204:8000
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.103:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:8091
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9001
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:3306
@@ -498,8 +503,3 @@ trojan://blue2024@104.16.97.152:443?security=tls&type=ws&sni=ta.promote.icu&path
 trojan://SSorg@45.134.21.8:2053?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A5102
 trojan://NISHIKUITAN111@141.11.203.203:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#%E6%9C%AA%E7%9F%A5103
 trojan://blue2024@190.93.245.62:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A5104
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA1IiwiYWRkIjoiMTMuMTEyLjQ5LjE3MSIsInBvcnQiOiI0ODg5NyIsImlkIjoiMzM3NGRlN2ItNjFjYS00ZWY0LWFlOTQtYWQwZTBlNzU5ZGIwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA1In0=
-trojan://telegram-id-directvpn@3.133.45.94:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5106
-trojan://blue2024@104.16.209.98:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#%E6%9C%AA%E7%9F%A5107
-trojan://NISHIKUITAN111@198.41.205.240:443?#%E6%9C%AA%E7%9F%A5108
-trojan://NISHIKUITAN111@185.193.29.193:443?#%E6%9C%AA%E7%9F%A5109
