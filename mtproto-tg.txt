@@ -392,7 +392,6 @@ https://t.me/proxy?server=95.217.139.129&port=443&secret=ee1603010200010001fc030
 https://t.me/proxy?server=95.217.139.130&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.139.131&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.139.132&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
-https://t.me/proxy?server=a.sviplei.top&port=54849&secret=eeea165d7c3a8a1f58dbb4f9502b3cffc6617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=actor.mactor.wector.bactor.hokanon-soldeir.info&port=3030&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2d
 https://t.me/proxy?server=adsl.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=afad.ir.buysalestore.ir.sandogh-almahdi.com.topit.ir.sayehsokhan.com.azarantik.com.bahmanmotors.ir.doricdesign.ir.childfr.com.omidmountain.ir.dr-ghadirian.com.behengamstone.com.mofidgostar.com.padiz.co.honartandis.com.zagrosdns.com.jafaristocknew.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
