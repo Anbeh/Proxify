@@ -499,7 +499,7 @@ trojan://oKvQbooo8d77of0x7@154.21.92.100:2651?allowInsecure=0&sni=usiio.motrix.x
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#%F0%9F%87%B5%F0%9F%87%B1%20_%E6%B3%A2%E5%85%B0
 trojan://3763495894587285504@3.67.55.100:443?allowInsecure=0&sni=exact-stud.goat627.mom#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://3763495894587285504@artistic-vulture.goat627.mom:443?allowInsecure=0&sni=artistic-vulture.goat627.mom#%F0%9F%87%AB%F0%9F%87%B7%20_%E6%B3%95%E5%9B%BD
-vless://bcbacaa-abca-cbaa-cdba-bacbaccabacb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-08-BAHMAN-1403 🕑 11:20
-vless://abcaacb-aacb-bcaa-abdc-abbcabacbcac@127.0.0.1:2080?security=tls&type=tcp#💻 ARTIFICIAL-INTELLIGENCE-SERVICES 🧠 TELEGRAM-CHANNEL NEUROVANCE
-vless://97364abe-a27e-4be3-b0d7-0c3c1d64bc07@5.199.138.77:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-5.199.138.77:8443
-vless://1b0614e2-ce51-496e-a7a8-c26c18df5950@188.245.212.4:2083?security=reality&sni=refersion.com&type=grpc&fp=randomized&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&sid=11a4b6bca8#🔒 VL-GRPC-RLT 🇩🇪 DE-188.245.212.4:2083
+vless://cabcaab-aabc-cbaa-bdac-ccbbcabcaaba@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-08-BAHMAN-1403 🕑 12:33
+vless://ccbaaba-aabc-abac-bacd-abbccccbabaa@127.0.0.1:2080?security=tls&type=tcp#💻 ARTIFICIAL-INTELLIGENCE-SERVICES 🧠 TELEGRAM-CHANNEL NEUROVANCE
+vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@146.59.242.234:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🔒 VL-GRPC-RLT 🇫🇷 FR-146.59.242.234:2053
+vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@140.245.115.11:55560?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=Dvv84goWLMnFoZWWLI8xtEErCIao_XnzXUVz9ryVSAU&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇸🇬 SG-140.245.115.11:55560
