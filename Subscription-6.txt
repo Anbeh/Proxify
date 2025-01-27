@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.97.152:443
+trojan://NISHIKUITAN111@172.67.49.68:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.49.68:443
+trojan://3763495982449565696@43.200.42.151:443?sni=crack-muskrat.treefrog761.one&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-43.200.42.151:443
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@195.133.53.121:17615?security=tls&sni=data.52daishu.life&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇷🇺 RU-195.133.53.121:17615
 trojan://96cad374-7573-4463-8804-4665c2c3d932@42.98.209.41:6001?sni=ho82IA13QmjF5Atv.apple.com#🔒 TR-TCP-NA 🇭🇰 HK-42.98.209.41:6001
 trojan://Aimer@206.238.236.134:443?sni=ameqo.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.134:443
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@152.69.199.204:17722?security=tls&sni=data.52daishu.life&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-152.69.199.204:17722
@@ -499,7 +503,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:5601#🔒 SS-TCP-NA 🇺�
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@128.199.172.224:8080#🔒 SS-TCP-NA 🇸🇬 SG-128.199.172.224:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2MxNDEyNy1jZjRlLTRlNmItYTIyMi1iZWVkZGIwMmZmNjY=@68.183.225.139:30443#🔒 SS-TCP-NA 🇸🇬 SG-68.183.225.139:30443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#🔒 SS-TCP-NA 🇰🇿 KZ-213.156.137.67:989
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8119
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:5500
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3389#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:3389
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.86:8888
