@@ -302,7 +302,6 @@ https://t.me/proxy?server=51.159.149.220&port=8000&secret=eee72cf91a4fee79028967
 https://t.me/proxy?server=51.159.157.218&port=7743&secret=eedbe97246f57a3e90ccc1c3f25b8e15ef7777772e736974652e636f6d
 https://t.me/proxy?server=51.159.165.172&port=7549&secret=eeff9890eed0a3c6fbfafeb2608a4aedb37777772e736974652e636f6d
 https://t.me/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d
-https://t.me/proxy?server=52.14.91.83&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=52.20.188.140&port=443&secret=eed67a1a1090d4d87392bc208c980694f02020202020
 https://t.me/proxy?server=62.112.221.162&port=6&secret=ee0f0ffbef55ffefe5ffef5555ffffee1e2d262d666f666f2d26
 https://t.me/proxy?server=62.112.221.198&port=8&secret=eeffffffffffffe7ffffffffffffffffff262d676f6f662e666f262d
@@ -613,7 +612,6 @@ https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.acz
 https://t.me/proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096636c292cbf4aa3673332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=utab.ir.traintour.ir.cblog.ir.mrghasab.com.hydrocenter-co.net.chemehouse.ir.sajademashhadalreza.com.bo-okap.ir.amildan.com.irangallerian.com.iranedms.ir.isshinryukarate.ir.nationshealth.ir.textudent.com.sarvhotel.ir.radyabestan.ir.cartoonsazivafa.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267
-https://t.me/proxy?server=vira-netcorp.org.iranshoptops.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=web.majalekari.ir&port=443&secret=eeade6f9170923e69eeecb2db2345aa0057765622e727562696b612e6972
 https://t.me/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.beferestava.ir.jahadtossee.ir.smsjob.ir.nrava.ir.f_ardanmachine.ir.lmzombies.ir.nini3et.ir.vozara-furniture.ir.motabalkalaconpany.online.saatchi.support&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574
