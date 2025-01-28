@@ -3,18 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://Aimer@27.50.49.154:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@206.238.236.16:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@206.238.236.221:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?allowInsecure=0#%F0%9F%87%A6%F0%9F%87%BA%20_%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-trojan://38571ca6-6692-4559-b901-0bc5826b7661@221.131.165.206:60194?allowInsecure=0#_%E4%B8%AD%E5%9B%BD
-trojan://38571ca6-6692-4559-b901-0bc5826b7661@221.131.165.207:60194?allowInsecure=0#_%E4%B8%AD%E5%9B%BD
-trojan://38571ca6-6692-4559-b901-0bc5826b7661@221.131.165.210:60194?allowInsecure=0#_%E4%B8%AD%E5%9B%BD
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX+e+juWbvSIsImFkZCI6InNocy54aWFvcWk2NjYueHl6IiwicG9ydCI6IjIwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiM2ZkN2I5NTgtMjE2MS00NmUxLWI2ZmMtYmQ2YmIyMTY1MzEyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoic2hzLnhpYW9xaTY2Ni54eXoiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6IjE4My4yMzYuNTEuNjAiLCJwb3J0IjoiMjUyMzAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjQzZWFiNTItOWFjMS00MDVjLTg4N2MtZWIxMTJjMDk4NWI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiMTgzLjIzNi41MS42MCIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6ImNtMS5hd3NsY24uaW5mbyIsInBvcnQiOiIyNTIzMCIsInR5cGUiOiJub25lIiwiaWQiOiIyNDNlYWI1Mi05YWMxLTQwNWMtODg3Yy1lYjExMmMwOTg1YjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJjbTEuYXdzbGNuLmluZm8iLCJ0bHMiOiIifQ==
-trojan://3763495894587285504@35.180.240.183:443?allowInsecure=0&sni=honest-cow.goat627.mom#%F0%9F%87%AB%F0%9F%87%B7%20_%E6%B3%95%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgX+S8iuaclyIsImFkZCI6InNwZWVkLmVyZmFucmFraS5zaG9wIiwicG9ydCI6IjM3MTk4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjZmMzM4OTI2LWUzMjMtNDNiZC04ZGM4LWI0MWYyOWM0OTc5OCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJzcGVlZC5lcmZhbnJha2kuc2hvcCIsInRscyI6IiJ9
 vless://ccbabaa-caab-bcaa-adbc-cccbbacabbaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-10-BAHMAN-1403 🕑 00:26
 vless://accabba-acab-bcaa-bcda-cbcabbabaacc@127.0.0.1:2080?security=tls&type=tcp#💻 ART-INTL-TOOLS 🧠 TELEGRAM-CHANNEL NEUROVANCE
@@ -503,3 +491,15 @@ vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&path=%2F
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.88.89.194:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-35.88.89.194:2222
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.177:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇬 SG-92.243.75.177:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@185.59.218.78:443?security=tls&sni=us-tg-fxnodes.sfacg.uk&type=ws&host=us-tg-fxnodes.sfacg.uk&path=/tg@fxnodes#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.78:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.158:8880
+vless://3a5cf97f-e2c2-4b0e-d17d-23ea33935ce5@49.12.200.119:2053?security=none&type=ws&host=chess.com&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#🔒 VL-WS-NONE 🇩🇪 DE-49.12.200.119:2053
+vless://575d2e5e-e7a4-48b8-a55e-aa38e16a3106@104.24.161.187:80?security=none&type=ws&host=flat-bird-3aa7-ppal03.hesiwap437.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.161.187:80
+vless://bc9a01cf-181f-446e-9e0e-5d05827389ae@151.101.1.6:80?security=none&type=ws&host=kazemi1zerofun.coM.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.6:80
+vless://819e9374-8e2e-5d5d-91bd-1afd4fe2c78c@91.207.183.91:8880?security=none&sni=ru2.vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇷🇺 RU-91.207.183.91:8880
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443?security=tls&sni=uk1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇬🇧 GB-195.181.165.134:8443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.246.165:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.246.165:443
+vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?security=tls&sni=www.zitian.cn&fp=chrome&alpn=http/1.1#🔒 VL-TCP-TLS 🇨🇳 CN-42.236.73.72:443
+vless://2ad5564d-f77b-400d-a5a9-fcc4cf76f46f@108.162.194.232:443?security=tls&sni=4enfhr.isfshzist.com&type=ws&host=4enfhr.isfshzist.com&path=%2Fwss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.232:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.21:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.30.21:80
+vless://cc6b985d-0362-4129-8763-38564174fb3e@184.174.80.114:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-184.174.80.114:443
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.100:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.152.100:443
