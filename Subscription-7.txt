@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@80.92.204.106:9042#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9042
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@80.92.204.106:9025#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9025
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.103:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:5500
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:4444#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:4444
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173
 trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&type=ws&sni=vbbb.ylks2024.us.kg&path=/youlingkaishi&host=vbbb.ylks2024.us.kg#%E6%9C%AA%E7%9F%A5119
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.143.66.87:443#US43%201.9MB%2Fs
 trojan://NISHIKUITAN111@104.20.65.198:443?#%E6%9C%AA%E7%9F%A5120
-trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5121
