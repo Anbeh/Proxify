@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@188.164.159.138:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+trojan://Aimer@3.71.189.51:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@213.241.198.189:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://Aimer@104.129.166.131:8443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@154.197.64.252:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX+e+juWbvSIsImFkZCI6Inl4Mi5jaGFuZ3lvdVZQTi50b3AiLCJwb3J0IjoiODg4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0MjU3NTI1ZS1iNWE3LTQxNjUtOTcyYy1mZDM2NmFhMmE1NjUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwiaG9zdCI6InlnLmNoYW5neW91VlBOLnRvcCIsInRscyI6IiJ9
+trojan://Aimer@154.211.8.18:2083?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@78.135.110.152:2053?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%B9%F0%9F%87%B7%20_%E5%9C%9F%E8%80%B3%E5%85%B6
+trojan://Aimer@188.164.159.55:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+trojan://Aimer@5.182.84.52:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX+e+juWbvSIsImFkZCI6InMyLmNuLWRiLnRvcCIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjZlMDdiZjBjLTA2ZDAtM2IzYi05NDY4LTk0NjNiMTE5ZTY0YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFiYWkuaW4xNzIuNjQuNTMuMTAxIiwiaG9zdCI6IjEwMC0xMTktMTA2LTEzOS5zMi5jbi1kYi50b3AiLCJ0bHMiOiIifQ==
+trojan://Aimer@51.107.9.31:8443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%AC%F0%9F%87%A7%20_%E8%8B%B1%E5%9B%BD
+trojan://Aimer@3.75.149.151:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@3.64.205.189:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@35.181.77.67:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%AB%F0%9F%87%B7%20_%E6%B3%95%E5%9B%BD
 trojan://Aimer@135.84.74.27:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@77.238.236.134:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -489,17 +503,3 @@ vless://fb1209ab-d967-4d57-8776-ed44e1e12bb6@151.101.192.223:80?type=ws&host=JOI
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.160.215.129:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-35.160.215.129:2222
 vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.252:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-14.102.228.252:443
 vless://a8036e83-fd91-4fd6-8c20-ac340966536c@27.50.49.61:2096?sni=ngedx.ambercc.filegear-sg.me&type=ws&host=ngedx.ambercc.filegear-sg.me#🔒 VL-WS-NA 🇸🇬 SG-27.50.49.61:2096
-vless://d5e4bac0-3777-5c82-8482-0784f5a7f79c@151.101.130.228:443?security=tls&sni=fishlab.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&path=%2Fvless%3Fed%3D443&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.228:443
-vless://34dac174-e3f4-5d6e-987f-0942559c3404@94.131.98.90:2052?security=none&sni=se2.vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇸🇪 SE-94.131.98.90:2052
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.210.230:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.230:80
-vless://4c9617f4-6137-4255-9d25-0eeb0fa819e6@151.101.64.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.155:80
-vless://cc6b985d-0362-4129-8763-38564174fb3e@27.50.49.200:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇬 SG-27.50.49.200:443
-vless://02500334-97ea-4952-b648-e27c42dd3a65@151.101.194.133:443?security=tls&sni=clearcreditrepair.com&type=ws&host=ELiV2RAY.cc&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.133:443
-vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@45.149.12.166:443?security=tls&sni=fawpvpcyp.wwtraveler.com&type=grpc&serviceName=michi#🔒 VL-GRPC-TLS 🇳🇱 NL-45.149.12.166:443
-vless://f9d584aa-4d6d-4f76-ae93-d13947bd3606@172.64.32.85:443?security=tls&sni=t7ezhi.fivegravity.com&type=ws&host=t7ezhi.fivegravity.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.85:443
-vless://84aa37ab-2ef9-4883-a9c6-c2920ab439c7@185.161.251.211:1633?flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔒 VL-TCP-NA 🇩🇪 DE-185.161.251.211:1633
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.14.65.88:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-3.14.65.88:2222
-vless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.24:8880
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:2086
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.200.8.156:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-44.200.8.156:2222
-vless://0b75a90a-0a57-489d-a6f1-77c927b56dae@216.24.57.134:2096?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.134:2096
