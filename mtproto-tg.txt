@@ -491,7 +491,6 @@ https://t.me/proxy?server=hami.lovethosetrains.com&port=1053&secret=eea7f0d1bb32
 https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-rejected.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=hclink.ir.soshiagallery.com.eimanalemi.ir.emdadcartechnic.com.dogina.ir.neghabcity.ir.go-lab.ir.digikalasend.ir.boseiran.com.rahgir.ir.daneshbonyan.ir.virastaronline.ir.ayeha.ir.tania-co.ir.shamimgraphic.ir.lilmedia.ir.succulents.ir.felafelabadan.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-https://t.me/proxy?server=hk1.mantouvpn.top&port=443&secret=ee01caba52954d67af6314244c1d513bae617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=hmrah.mokhaberat.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 https://t.me/proxy?server=holone.chriamastree.ir&port=6351&secret=ee248e3b409b7cafd3b07031a021789b6f66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
 https://t.me/proxy?server=holtoo.chriamastree.ir&port=6351&secret=ee248e3b409b7cafd3b07031a021789b6f66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
