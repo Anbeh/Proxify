@@ -3,6 +3,20 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@18.153.94.168:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@154.219.5.55:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@63.141.128.66:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@199.34.228.187:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@162.159.38.103:2083?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@106.240.1.52:20443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
+trojan://Aimer@206.238.236.16:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@45.194.53.13:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@35.181.77.67:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%AB%F0%9F%87%B7%20_%E6%B3%95%E5%9B%BD
+trojan://Aimer@211.252.12.227:50000?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
+trojan://Aimer@3.73.124.222:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@40.233.70.7:8443?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://Aimer@154.197.64.173:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
+trojan://Aimer@35.155.38.149:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX+e+juWbvSIsImFkZCI6InMyLmNuLWRiLnRvcCIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjZlMDdiZjBjLTA2ZDAtM2IzYi05NDY4LTk0NjNiMTE5ZTY0YyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFiYWkuaW4xNzIuNjQuNTMuMTAxIiwiaG9zdCI6IjEwMC0xMTktMTA2LTEzOS5zMi5jbi1kYi50b3AiLCJ0bHMiOiIifQ==
 trojan://Aimer@51.44.86.78:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%AC%F0%9F%87%A7%20_%E8%8B%B1%E5%9B%BD
 trojan://Aimer@103.137.63.3:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B5%F0%9F%87%B0%20_%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6
@@ -489,17 +503,3 @@ vless://48eccebc-1e36-4c60-b088-55fb793f6688@92.243.74.23:2096?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.44:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.0.44:443
 vless://b382ca86-09ba-491f-9f40-407a9ec135e8@151.101.2.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.192.63.127:2501?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-85.192.63.127:2501
-vless://adcf449b-3b1a-475d-a394-0a539113411c@44.204.200.90:8080?path=/?JOKERRVPNTelEgram#🔒 VL-TCP-NA 🇺🇸 US-44.204.200.90:8080
-vless://a39f8b05-b666-4a11-8515-64fcbffffb35@149.56.95.142:443?security=tls&flow=xtls-rprx-vision&sni=tor5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇨🇦 CA-149.56.95.142:443
-vless://22dc6600-7cce-4c73-80cd-41e89e84d098@91.242.241.45:443?security=tls&flow=xtls-rprx-vision&sni=sin5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-91.242.241.45:443
-vless://86883d84-162c-42c4-af65-11dd80eb2ffa@172.67.141.40:2052?security=none&type=ws&host=tg20.dnopxqcx.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.141.40:2052
-vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.51:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇫🇷 FR-141.11.203.51:443
-vless://a87093cb-fb95-46ff-9970-0d85b005ecb1@138.199.145.159:13281?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-138.199.145.159:13281
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80?sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-167.82.65.119:80
-vless://cc6b985d-0362-4129-8763-38564174fb3e@167.68.42.11:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-167.68.42.11:443
-vless://27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?path=/vless#🔒 VL-TCP-NA 🇬🇧 GB-77.91.101.131:2052
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.121.254:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇬🇧 GB-154.197.121.254:443
-vless://bc9a01cf-181f-446e-9e0e-5d05827389ae@151.101.1.6:80?security=none&type=ws&host=kazemi1zerofun.coM.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.6:80
-vless://e8c30ec3-ef19-4294-91e1-1f896fe6c169@151.101.66.133:443?security=tls&sni=live.989bull.com&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.133:443
-vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@57.129.58.147:22671?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-57.129.58.147:22671
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.167.1:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.229.167.1:22222
