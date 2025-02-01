@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://Aimer@27.50.49.166:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@45.67.215.250:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6%20_%E4%B9%8C%E5%85%8B%E5%85%B0
-trojan://Aimer@154.211.8.152:2053?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@3.132.116.250:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@209.208.227.79:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@107.174.79.149:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://wb6368@103.116.7.103:2083?allowInsecure=0&sni=hsdgbuys.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20_%E6%97%A5%E6%9C%AC
-trojan://Aimer@125.142.156.70:50000?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20_%E9%9F%A9%E5%9B%BD
-trojan://Aimer@178.250.159.120:2053?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@188.164.159.55:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
-trojan://Aimer@103.116.7.103:2083?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%AF%F0%9F%87%B5%20_%E6%97%A5%E6%9C%AC
 trojan://Aimer@104.129.166.131:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://Aimer@198.62.62.192:2083?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
@@ -503,3 +492,14 @@ vless://cc6b985d-0362-4129-8763-38564174fb3e@184.174.80.136:443?security=tls&sni
 vless://eb0fa191-7c71-45db-aa94-502a53784e17@108.162.195.157:443?security=tls&sni=g9qely.p1vpn.com&type=ws&host=g9qely.p1vpn.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.157:443
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.48.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:2096
 vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?security=none&type=ws&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.189.102:80
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.188.180:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.53.188.180:443
+vless://8185cea6-0540-4f23-9182-b608d22dc620@185.146.173.185:2052?security=none&type=httpupgrade&host=hshshshsh.gdggdvdvvdbbdhhdbdbdbhdhdhdbdbdgshshsyir.BLOG&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#🔒 VL-HTTPUPGRADE-NONE 🇸🇪 SE-185.146.173.185:2052
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.189.37:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.53.189.37:443
+vless://94b95e67-e126-4d9b-b57d-5241e0e6c234@172.67.69.236:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.69.236:2087
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.223:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇱🇹 LT-45.153.7.223:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.167:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-14.102.228.167:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.245.142:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.245.142:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.81.58.52:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇱🇹 LT-45.81.58.52:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.51.114:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.114:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.232:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-45.194.53.232:443
