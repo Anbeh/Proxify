@@ -205,6 +205,7 @@ https://t.me/proxy?server=192.155.95.52&port=9999&secret=ee96ac8fa158ca9e689cf1f
 https://t.me/proxy?server=192.168.1.1.apt-kernel.org.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 https://t.me/proxy?server=192.168.1.102.ads2-cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.littlepig-littlepig-letmein.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 https://t.me/proxy?server=192.248.184.176&port=443&secret=eefdbf5d6c4073581ca6486e828359bf2c7777772e7370656564746573742e6e6574
+https://t.me/proxy?server=193.187.172.62&port=8658&secret=ee542b6641e667f5703f180aba1566286e73332e676f6f676c652e636f6d
 https://t.me/proxy?server=193.93.153.119&port=443&secret=ee6ea63f16082c83dae8859595949897046d63692e6972
 https://t.me/proxy?server=194.116.215.197&port=3565&secret=ee502b6941e967f5723f180aba1561286e73332e676f6f676c652e636f6d
 https://t.me/proxy?server=194.120.230.172&port=85&secret=ee00ff000fffff00fff5555ffffffffff5662e6b6f2d2d
@@ -463,6 +464,7 @@ https://t.me/proxy?server=eeedddddddddddddddddddddddddddddddddheeeeeeeeeeeeeeee.
 https://t.me/proxy?server=engone.chriamastree.ir&port=2250&secret=ee7a414abb8dd2d853af1b22746087297b66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
 https://t.me/proxy?server=engtoo.chriamastree.ir&port=2250&secret=ee7a414abb8dd2d853af1b22746087297b66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
 https://t.me/proxy?server=eta.shbcfxpd.elilrgoom.zjgsjmen.zinc.dciyku.svkdglzw.flickr.security-marketing.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 https://t.me/proxy?server=gblpro.pahlevanporiaye.vali.pahlevanheidar.varzesh.proteinandwheyanddrtiger.drtigervpn.netghavisorat.infoo.v2ryng01.ru&port=443&secret=ee1603010200010001fc030386e24c3ab
@@ -597,6 +599,7 @@ https://t.me/proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.br
 https://t.me/proxy?server=tis-ir.com.joombarg.com.fros-ervice.ir.id-c1359.ir.morvaridaras.com.dmf.ir.bazarche24.com.hydroce-nter-co.net.fanavasg.com.sayeroshanco.com.shahzadarabi.ir.hisportshop.ir.pezhvakoptic.ir.pamenarcarpet.com.byst.ir.samiyusufstore.ir.tolidibanehstore.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=topcvs.ir.hourgashtpars.ir.alializadehpho-tography.com.chbccim.com.nikcool.ir.qazvin-ads.ir.rezasamadi.ir.shahabe-dalatian.ir.gag-eli.com.bio-dac.ir.babakjob.ir.renaissance-a-ds.com.mrshirazi.ir.axomaks.ir.ziba.academy.partolaser.com.pouriacatooni.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=travel.arvancloud.tech&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020
+https://t.me/proxy?server=tsmsco.ir.tta2.ir.irfurnitures.com.nafaspourmatin.com.iranexpress.ir.eshelstore.ir.misaghteymoori.ir.zwinker.net.takaane.ir.psycode.ir.karyabianaj.ir.tisashop.ir.amin8953.com.shafashiraz.com.radmanfeed.ir.bornagostaran.ir.rozila.ir.bandarstorekala.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096636c292cbf4aa3673332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=utab.ir.traintour.ir.cblog.ir.mrghasab.com.hydrocenter-co.net.chemehouse.ir.sajademashhadalreza.com.bo-okap.ir.amildan.com.irangallerian.com.iranedms.ir.isshinryukarate.ir.nationshealth.ir.textudent.com.sarvhotel.ir.radyabestan.ir.cartoonsazivafa.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
