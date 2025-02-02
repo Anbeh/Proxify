@@ -241,7 +241,6 @@ https://t.me/proxy?server=3.138.118.234&port=443&secret=ee0720720720720720720720
 https://t.me/proxy?server=3.141.192.108&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.145.163.150&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.148.102.200&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=3.149.23.52&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.majalehelmi.ir&port=443&secret=ee0eaaa16b6e86b128f341d141b79d41b17765622e65697461612e636f6d
 https://t.me/proxy?server=37.1.209.131&port=8008&secret=eea5b4df3cac508b4ee73790dcaf510f0a617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=37.156.46.105&port=23&secret=eea81a65f859260328489a451e9f15ef4f75742e61632e6972
@@ -457,7 +456,6 @@ https://t.me/proxy?server=dj.nyctophilia.ir&port=443&secret=eefe5a5364e3f844e181
 https://t.me/proxy?server=dkkh.ir.ppramin.ir.pakagro-up.ir.rata24.com.drham-idrezaeghbali.com.iranianhelal.ir.karajbehtaacad-emy.ir.asreshia.com.metisclinic.ir.dapnaco.com.nav-ayemandegar.com.khaneshomah.com.ajil-hosaini.com.chemehouse.com.balisahome.com.lighsenterkerman.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=dns.geohost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e6b6172656e686f73742e6972
 https://t.me/proxy?server=doogh.gooshfil.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=dr-pournasr.com.mehrfmpor-tarafdar.ir.sitac.ir.doranbrick.ir.shouba.ir.dargahtablighat.com.vacuumpouya.com.makushop.ir.avanma.com.samitco.ir.f-aris.fr.arm-anv-alian.com.fr-otel.net.navidpouyan.com.moein-support.ir.bistland.com.taaknetnewinternet.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=dramamahaleh.com.siesco.ir.armanpouyesh.ir.arttic.ir.moghadamgohar.com.andisheh-bart-ar.c-om.karakar.ir.samplingart.com.ob-giran.com.automation7.com.shirazepl-us.ir.digishimi.com.razavishamskala.ir.tehranupvc.com.xn--hgbkak5kj55g.net.pouriacatooni.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=drmarjanazarshab.ir.fhamm-ami.ir.4seasoniran.com.azar-tircheh.ir.ies-co-group.ir.tarikhgozar.com.hdtannery.com.ell-afood.ir.madreseonline.ir.mywebjob.ir.interpack.ir.ion-co.ir.shop--sha-lamcheh.ir.tu-nnelfalatpars.ir.tajaroosmah.ir.parksahelimoji.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=eeedddddddddddddddddddddddddddddddddheeeeeeeeeeeeeeee.dddgggggggggggggggggggggheeeeeeeeeee.eeggggggggggggggggggggeeeeeeeeeeee.nanoliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
