@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.244.240:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-18.191.244.240:2222
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.142:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇸🇬 SG-154.194.12.142:443
 vless://cc6b985d-0362-4129-8763-38564174fb3e@94.242.228.132:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇱🇺 LU-94.242.228.132:443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@47.238.197.26:587?sni=ngedp.ambercc.filegear-sg.me&type=ws&host=ngedp.ambercc.filegear-sg.me#🔒 VL-WS-NA 🇭🇰 HK-47.238.197.26:587
@@ -502,4 +503,3 @@ vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.122:443?security=tls&sn
 vless://a51396aa-8ce4-4e7f-fdc6-8014bf0b712e@185.156.108.128:58437?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇨🇾 CY-185.156.108.128:58437
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.42.18:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-3.145.42.18:2222
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.43.209:2222?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-18.116.43.209:2222
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.154.211:443?security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.154.211:443
