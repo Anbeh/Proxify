@@ -536,7 +536,6 @@ https://t.me/proxy?server=proxy.mainshop.news&port=443&secret=ee2c9935dcec47525a
 https://t.me/proxy?server=proxy.mr-thunder.com&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=proxy.zanborv.ir&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=proxyi.gkalabar.ir&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
-https://t.me/proxy?server=psri.ir.fixhm.ir.aftabcloudy.ir.behzadalizadeh.ir.justdigital.ir.pirouzpack.ir.azari-trading.com.feizarch.com.nr-group.ir.aamelec.com.majdgroup.ir.mbarani.ir.aran-es.com.metghalart.ir.youratmsource.ir.eblms.ir.mohammadsalehpour.ir.cartoonsazivafa.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=public.cbloudcdn.com&port=1100&secret=ee111400000000000000000000002221117777772e6b68616e6f6d692e636f6d
 https://t.me/proxy?server=pwtyzmewb32f.librekit.com&port=443&secret=ee915818963f39435ebc8d07feb36afcb76564782e636f6d
 https://t.me/proxy?server=rakadron.komperiistaionnop.info&port=443&secret=ee151151151151151151151151151151152d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2da
