@@ -3,6 +3,28 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://blue2024@190.93.244.198:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A537
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdXdzSWVqT3lReDV6Um43Mk9jU1M5@150.241.102.95:21771#%E6%9C%AA%E7%9F%A538
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#US17%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#US18%201.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%E6%9C%AA%E7%9F%A539%205.4MB%2Fs
+trojan://Aimer@173.245.59.109:2087?sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
+trojan://Aimer@167.68.4.199:2053?sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
+trojan://telegram-id-directvpn@13.50.120.25:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A540
+trojan://Aimer@192.200.160.109:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US19
+trojan://Aimer@45.147.50.154:443?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
+trojan://bpb-trojan@108.165.216.155:443?security=tls&type=tcp&sni=bpb.my79801.com#US20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%E6%9C%AA%E7%9F%A541%201.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#%E6%9C%AA%E7%9F%A542%2017.5MB%2Fs
+trojan://333d4654-cab4-3726-9c6c-06a9c27ae680@gy.58n.net:20279?sni=z279.hongkongnode.top#%E6%9C%AA%E7%9F%A543
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@207.246.101.50:1633#US21%2017.8MB%2Fs
+trojan://NISHIKUITAN111@104.24.184.159:443?#%E6%9C%AA%E7%9F%A544
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#US22%201.7MB%2Fs
+trojan://3770966768580042752@52.89.149.132:443?sni=fitting-foxhound.goat627.mom#US23
+trojan://Aimer@154.211.8.240:443?sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B5%F0%9F%87%ADPH%E8%8F%B2%E5%BE%8B%E5%AE%BE
+trojan://telegram-id-privatevpns@13.51.248.233:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A545%20637.0KB%2Fs
+trojan://blue2024@104.16.97.152:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A546
+trojan://blue2024@104.18.121.158:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A547
 trojan://auto@104.20.22.149:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A548
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y2JmNjA2OS0yOWYwLTQ5ZDUtOTY1Zi1hYzc1MjE3NGRlODM=@183.214.197.27:34102#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://3763495894587285504@62.112.221.46:443?security=tls&type=tcp&sni=enabling-cat.goat627.mom#%E6%9C%AA%E7%9F%A549
