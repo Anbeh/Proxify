@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.57.90:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.57.90:443
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@172.67.204.84:2087?security=tls&sni=Tp813LfVx5.AnA-sOfT.iR&type=ws&host=Tp813LfVx5.AnA-sOfT.iR&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
-vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@104.26.0.117:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.117:2095
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@138.3.240.63:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-138.3.240.63:443
 vless://d5012012-a850-49fc-bb81-17a4bf6876bd@104.17.148.22:443?security=tls&sni=Kasler.lol&type=xhttp&host=Kasler.lol&path=%2Fannn%3Fed%3D443&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.148.22:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.1:443
@@ -503,3 +500,6 @@ vless://452d4d88-ab7e-403d-a49a-473b73a83f8a@103.184.44.104:2052?security=none&t
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.155.10:443?security=tls&sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.155.10:443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@183.102.71.200:50000?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒 VL-WS-NA 🇰🇷 KR-183.102.71.200:50000
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.196.20:8443?security=tls&sni=hastI.frEEaIrlAiNes.Com&type=ws&host=HAsti.FrEeAiRLAIneS.com&path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:8443
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.0:443?security=tls&sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.0:443
+vless://e5dd37d6-4fd0-4027-90b2-c445333f63d6@190.93.247.155:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:80
+vless://25d5ece5-8952-4529-98fa-30b09bacd307@104.21.78.12:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.78.12:2053

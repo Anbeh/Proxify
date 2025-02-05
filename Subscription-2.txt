@@ -3,16 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.155:443?allowInsecure=0#%EF%B8%8F_%E6%9C%AA%E7%9F%A5
-trojan://Aimer@45.67.215.217:2087?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%A6%20_%E4%B9%8C%E5%85%8B%E5%85%B0
-trojan://Aimer@176.124.223.40:2053?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BA%20_%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://Aimer@35.83.185.225:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@219.135.231.205:21019?allowInsecure=0#_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@154.219.5.55:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#_%E4%B8%AD%E5%9B%BD
-trojan://Aimer@52.41.218.4:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://Aimer@161.129.41.140:6352?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
-trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@219.135.231.205:21019?allowInsecure=0#_%E4%B8%AD%E5%9B%BD
-trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@219.135.231.205:21019?allowInsecure=0#_%E4%B8%AD%E5%9B%BD
+trojan://65086520307764900@relieved-raccoon.shiner427.skin:443?allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://65086520307764900@robust-redfish.shiner427.skin:443?allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://65086520307764900@moral-rat.shiner427.skin:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.143.78.171:443#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.197.177:443#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.192.75.193:443#%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ@185.234.64.35:8388#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%7C%40ripaojiedian
 vless://caacabb-acab-cbaa-bdca-cabcaacbbbca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-17-BAHMAN-1403 🕑 08:23
 vless://abcacab-baca-baca-dcab-bcccbacaabba@127.0.0.1:2080?security=tls&type=tcp#💻 TELEGRAM-CHANNEL NEUROVANCE 🧠
 vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@45.95.233.11:8443?security=reality&flow=xtls-rprx-vision&sni=bunny.net&type=tcp&fp=chrome&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&sid=f8d8d12585198cb5#🔒 VL-TCP-RLT 🇫🇷 FR-45.95.233.11:8443
@@ -503,3 +500,6 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.120.187:2052?security=none&t
 vless://259d07bc-ae4a-4fb7-8421-2296c6c4e487@103.184.44.104:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-103.184.44.104:8880
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=/@vemessvpn-channel-telegram#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.2:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.99:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.57.90:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.57.90:443
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@172.67.204.84:2087?security=tls&sni=Tp813LfVx5.AnA-sOfT.iR&type=ws&host=Tp813LfVx5.AnA-sOfT.iR&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
+vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@104.26.0.117:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.117:2095
