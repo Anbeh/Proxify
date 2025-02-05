@@ -13,9 +13,7 @@ https://t.me/proxy?server=103.3.60.129&port=443&secret=eef0912426e90160d3d2cbb38
 https://t.me/proxy?server=103.71.22.75&port=7143&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=104.238.180.203&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564
 https://t.me/proxy?server=104.248.26.196&port=443&secret=eec80ff604fa45408f1d152624d3bffcf276616e2e6e616a76612e636f6d
-https://t.me/proxy?server=108.181.121.210&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=108.181.121.216&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=108.181.121.219&port=8443&secret=ee104462821249bd7ac519130220c25d096e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=108.181.70.27&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=108.181.71.97&port=465&secret=ee082082082082082082082082082082087a716b746c77697561767676717174347962766776693774796f34686a6c357867667576706466366f746a69796367777162796d327161642e6f6e696f6e
@@ -396,7 +394,6 @@ https://t.me/proxy?server=asanbit.com.kobeko.ir.wp4u.ir.t_ooscarpet.ir.nropt.ir.
 https://t.me/proxy?server=ash.reshteh.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ask.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee61736b2e6e656564686f73742e6972
 https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer-tous.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=atsine.ir.netmodern.ir.goodfollower.ir.persian--power.com.bazargol.com.zirbana.cloud.advertisingphotography.ir.tisshop.ir.touristchoice.ir.etkfz.com.isotope.ir.barzintravel.com.sheetplaza.ir.demancegroup.com.drdoostidrugstore.ir.almacompanymobile.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d
 https://t.me/proxy?server=baharaktvto.ir.khabarresan.com.dilyshop.ir.ahwazkh-a-bar-14.ir.barno.ir.radmanfeed.ir.dabi-nkala.com.tel-egram-add-member.org.alp-hanm.com.al-icolor.ir.drsadrerfani.ir.behtarinha.ir.tanineyas.ir.beroozfile.ir.drahmadalimossaddeghi.com.babnoeilkala.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=bazaar-e.ir&port=3598&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
@@ -510,7 +507,6 @@ https://t.me/proxy?server=new.bestlive.ir&port=443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=nobify.org.maseravi.info&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_css.scooper.events&port=443&secret=ee000000000000000000000000000000006d792e736861706172616b2e6972
-https://t.me/proxy?server=noon.sangak.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=omega.silicon.rho.twitch.dbmjmhir.jgzlsvuntk.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=oops.glass-fivers.auto-semi.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
