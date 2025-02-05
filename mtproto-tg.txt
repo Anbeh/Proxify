@@ -236,6 +236,7 @@ https://t.me/proxy?server=23.88.45.183&port=443&secret=eecf09e5861586f39dafe5aa1
 https://t.me/proxy?server=2865.me.digishimi.com.dar-iran.net.karen-tk.com.foamiran.com.cantonfair.ir.chapotarahi.ir.goltaj.ir.loriscare.com.digirout.ir.dabestanmola.ir.markazetour.co.digibours.com.azadeng.ir.irashan.com.esaving.ir.banatanama.com.hakimiyeshop.ir.ahvazfelafel.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=3.12.160.168&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.131.13.39&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=3.135.192.215&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.141.192.108&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.144.107.107&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=3.144.233.50&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -538,7 +539,6 @@ https://t.me/proxy?server=pwtyzmewb32f.librekit.com&port=443&secret=ee915818963f
 https://t.me/proxy?server=rakadron.komperiistaionnop.info&port=443&secret=ee151151151151151151151151151151152d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2da
 https://t.me/proxy?server=rockalla.ir.arashnasiri.com.navidpouyan.com.nilperc.ir.i-ranfrotel.com.karnosazeh.ir.raadshop.ir.sa-jademashhadalreza.com.dram-irzade.ir.karoondaru.ir.herisgallery.net.sapip-ay.ir.homepasargad.ir.ro-khdesigngroup.ir.atiyehmehr.ir.bandargenavehkala.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=rog.happyground.ir&port=443&secret=ee33d929ccfff64f2ca7dbaac5eaed8c497a756c612e6972
-https://t.me/proxy?server=rtch.ir.parsaz.com.amoozande.ir.tolideiran-i-an.com.r-shakeri.ir.hashemiacademy.ir.sekkekala.ir.parsitak.com.persianwatch.ir.touristchoice.ir.ade-la.ir.m-asjedaljavad.ir.m-azdamavand.ir.changizy.com.highfile.ir.abtinfurniture.ir.almacompanymobile.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=ru.shanlian.app&port=8443&secret=ee1d13459cf7db52309ab5498eae6a1650617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=s1.proxytun.store&port=2087&secret=ee8318f151edb0da2dc254e67407b419777a756c612e6972
 https://t.me/proxy?server=s2.proxytun.store&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
