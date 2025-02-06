@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.193.123:3229?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-18.191.193.123:3229
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:8443?security=tls&sni=nl36.vlessx.us&type=ws&host=nl36.vlessx.us&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.41:8443
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@149.104.29.121:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-149.104.29.121:443
+vless://1f791eef-eb66-4e39-a850-a6a86271a8ca@104.26.14.16:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&path=%2F%40V2rayyNGvpn%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.26.14.16:2087
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.186:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇱🇹 LT-45.153.7.186:443
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:2053
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048fp%3Dios#🔒 VL-WS-TLS 🇷🇺 RU-46.254.92.33:443
+vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@104.26.0.117:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.0.117:2095
 vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&type=tcp#🔒 VL-TCP-NONE 🇷🇺 RU-95.142.37.74:20011
 vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.13:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.165.13:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.242:443
@@ -495,11 +503,3 @@ trojan://3770966768580042752@13.53.150.57:443?security=tls&sni=mighty-urchin.goa
 trojan://4c96bd90-e296-11ef-a6d2-1239d0255272@51.38.65.155:443?#🔒 TR-TCP-NA 🇬🇧 GB-51.38.65.155:443
 trojan://Aimer@92.63.192.110:444?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-92.63.192.110:444
 trojan://telegram-id-privatevpns@18.135.14.252:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.135.14.252:22222
-trojan://Aimer@3.64.205.189:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-3.64.205.189:443
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?security=tls&sni=customer-77-91-72-197.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇺 HU-77.91.72.197:443
-trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-45.67.215.95:443
-trojan://blue2024@172.67.160.28:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.160.28:443
-trojan://Aimer@103.137.63.3:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇹🇼 TW-103.137.63.3:443
-trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.88:2053
-trojan://Aimer@162.159.44.50:2087?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.50:2087
-trojan://Aimer@59.22.103.99:18077?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-59.22.103.99:18077
