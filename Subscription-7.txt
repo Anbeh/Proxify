@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJ5d3R3ZXBjbndsb3UueG4tLWZpcXM4c2p6MmJ1bGwuY29tIiwgInBvcnQiOiA2MDcxNywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImExNzNkNGNkLTQwNTYtNDFkZC04N2EzLTkxYzg4NGU0NzJmYSJ9
+trojan://65086520307764900@engaged-cattle.shiner427.skin:443?allowInsecure=0&sni=engaged-cattle.shiner427.skin#13|🇰🇷 韩国|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuPCfh6wg5paw5Yqg5Z2hfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjUwMDEyLmJhaWR1LWNkbi50b3AiLCAicG9ydCI6IDUwMDEyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjI0ZTNlZDQtOTZkMi00YWUwLThkMjQtMDcwYjAwMzkwNzRlIn0=
 trojan://65086520307764900@dynamic-shrew.shiner427.skin:443?allowInsecure=0&sni=dynamic-shrew.shiner427.skin#13|🇸🇬 新加坡2|@ripaojiedian
 trojan://65086520307764900@summary-sawfish.shiner427.skin:443?allowInsecure=0&sni=summary-sawfish.shiner427.skin#13|🇸🇬 新加坡3|@ripaojiedian
