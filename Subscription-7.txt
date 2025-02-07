@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50039?sni=v1jp01.fuqiangren.com#%E6%9C%AA%E7%9F%A5100
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%E6%9C%AA%E7%9F%A5101%201.8MB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAyIDU3LjhNQi9zIiwiYWRkIjoiNzkuMTI3LjIyOS41NCIsInBvcnQiOiIxODAwMCIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTAyIn0=
 trojan://Aimer@211.217.26.23:20256?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5103
 trojan://blue2024@104.17.246.107:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A5104
