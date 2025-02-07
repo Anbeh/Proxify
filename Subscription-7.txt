@@ -3,6 +3,48 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@173.245.59.202:2083?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5119
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.87:5499#US38%201.8MB%2Fs
+trojan://Aimer@45.59.187.105:26443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US39
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#%E6%9C%AA%E7%9F%A5120%201.8MB%2Fs
+trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#%E6%9C%AA%E7%9F%A5121
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#%E6%9C%AA%E7%9F%A5122
+trojan://Aimer@77.232.140.101:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5123
+trojan://Aimer@121.186.173.204:10022?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5124
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%E6%9C%AA%E7%9F%A5125%2017.9MB%2Fs
+trojan://Aimer@108.162.193.144:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5126
+trojan://telegram-id-privatevpns@51.20.100.246:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5127
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%E6%9C%AA%E7%9F%A5128%2011.2MB%2Fs
+trojan://Aimer@108.165.152.25:2087?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US40
+trojan://Aimer@216.24.57.207:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US41
+trojan://15c33952@152.67.228.132:443?security=tls&type=tcp&sni=sj.5216818.xyz#US42
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%E6%9C%AA%E7%9F%A5129%2014.5MB%2Fs
+trojan://bpb-trojan@104.18.107.117:443?security=tls&type=tcp&sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5130
+trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNHpNbnBLUDlXOFB0RjdvNWtDekdX@213.176.66.228:24495#%E6%9C%AA%E7%9F%A5131
+trojan://Aimer@46.254.92.142:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5132
+trojan://Aimer@162.159.44.227:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5133
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3306#US43%201.8MB%2Fs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#US44%201.7MB%2Fs
+trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.47.170:2053?security=tls&type=ws&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV&path=/trIFLHqMRiIx9In1rG?ed=2560&host=joinmahdiserver-333.pages.dev#%E6%9C%AA%E7%9F%A5134
+trojan://SSorg@154.197.64.104:8443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A5135
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.119:5601#US45%201.9MB%2Fs
+trojan://Aimer@221.165.64.92:50000?sni=ngepz.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD6
+trojan://3774827088566296576@18.139.99.11:443?sni=probable-drum.treefrog761.one#%E6%9C%AA%E7%9F%A5136%20200.2KB%2Fs
+ss://YWVzLTEyOC1nY206YjJlNWMzNmMtMjU3Yy00YTExLWFlMjAtNGZiOTlkNDQ2MDZh@mdss-hk.04z3susick.download:12001#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.15.28:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%206.8MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.0.37:443#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%2010.9MB%2Fs
+trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:20300?allowInsecure=1&sni=z300.hongkongnode.top#0|🇯🇵1 |  9.1MB/s
+trojan://3774827088566296576@more-tomcat.insect388.motorcycles:443?allowInsecure=1&sni=more-tomcat.insect388.motorcycles#0|🇯🇵2 |  4.5MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4et8J+HsDEgfCAgMS4zTUIvcyIsICJhZGQiOiAieGcuZGFzaHVhaS5jeW91IiwgInBvcnQiOiAxOTkwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImJmZjc3M2JiLWZjNWUtNGQ1MS05Nzk5LTQ2MmZmNGI4Zjg0MSJ9
+trojan://3774827088566296576@sunny-jackal.insect388.motorcycles:443?allowInsecure=1&sni=sunny-jackal.insect388.motorcycles#0|🌀1- |  4.9MB/s
+ss://Y2hhY2hhMjA6eld5UXZKYlFSWmFW@14.18.253.178:8341#0%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%2028.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#0%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%201.9MB%2Fs
+trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#0|🇯🇵4 |  4.2MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2FmOGNkMS1iMzc4LTQ5MGUtYmNjZi1mMDQ2MjhiYzhkYjQ=@vip.baima360.com:41004#0%7C%F0%9F%87%B9%F0%9F%87%BC1%20%7C%20%201.1MB%2Fs
+trojan://43af8cd1-b378-490e-bccf-f04628bc8db4@107.149.254.26:158?allowInsecure=1#0|🇺🇸4 |  4.7MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.229.102:443#0%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%204.9MB%2Fs
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.211.144:443#0%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%206.7MB%2Fs
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.24.255:443#0%7C%F0%9F%87%B8%F0%9F%87%AC4%20%7C%20%202.5MB%2Fs
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.99.8:443#0%7C%F0%9F%87%B8%F0%9F%87%AC5%20%7C%20%202.8MB%2Fs
