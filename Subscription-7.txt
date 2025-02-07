@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://3774827088566296576@robust-insect.insect388.motorcycles:443?allowInsecure=1&sni=robust-insect.insect388.motorcycles#0|🇺🇸2 |  5.9MB/s
 vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@lucky.cepu.us.kg:443?sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg&path=/198.13.42.58-32954fp=chrome&security=tls#0|🇺🇸3 |  5.2MB/s
 trojan://3774827088566296576@amused-buzzard.insect388.motorcycles:443?allowInsecure=1&sni=amused-buzzard.insect388.motorcycles#0|🇺🇸4 |  2.5MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTc1ZDY2Zi03Y2Y1LTQ3YWEtODNiZS1hOGU5NjljZGJlMmQ=@rk1.boost1.top:40000#0%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%201.3MB%2Fs
