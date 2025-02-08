@@ -20,7 +20,6 @@ https://t.me/proxy?server=109.120.177.110&port=443&secret=ee2856ece893f585747464
 https://t.me/proxy?server=109.176.203.122&port=2052&secret=ee32ad62c8dd67da25897132f6aa45b402617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=109.205.195.213&port=443&secret=ee833719d7990f1644c3c6617f122ce3637777772e676f6f676c652e636f6d
 https://t.me/proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
-https://t.me/proxy?server=111.173.106.199&port=16208&secret=ee319d43daaf906f6a195ce26570d226d2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000
 https://t.me/proxy?server=116.203.149.201&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205726161682e6972
 https://t.me/proxy?server=12.12.12.ads1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.gustavofring.shop&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
@@ -162,6 +161,7 @@ https://t.me/proxy?server=176.9.19.48&port=7943&secret=ee08208208208208208208208
 https://t.me/proxy?server=176.97.73.119&port=32891&secret=eeb707f96f5c5faae889ce0e3f8f4a05b77777772e50617950616c2e636f6d
 https://t.me/proxy?server=177-wz.ir&port=443&secret=ee85b6346b5c6446edb974b34889b313017777772e766964632e6f7267
 https://t.me/proxy?server=178.255.244.51&port=1&secret=ee4beebfa158dbdff3512a6e6553690053617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=18.117.254.77&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.188.237.118&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.216.253.134&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
