@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://229c8276-8b51-4255-bf69-f6a478665248@77.239.99.180:15334?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&sid=c1#🔒 VL-TCP-RLT 🇫🇮 FI-77.239.99.180:15334
-vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@57.129.30.192:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🔒 VL-GRPC-RLT 🇩🇪 DE-57.129.30.192:2053
 vless://62691f06-0cf1-41b1-bab7-193b7c4d83a7@195.15.215.198:443?security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&type=tcp&fp=chrome&pbk=FpsSPBGXGa6c1mIGmCMmrnsdnVSHQAYnQNur-QMiDTw&sid=65bd65cb739aeebe#🔒 VL-TCP-RLT 🇨🇭 CH-195.15.215.198:443
 vless://d8ca77c4-668c-44b8-a621-763b4067490d@54.36.117.43:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🔒 VL-GRPC-RLT 🇫🇷 FR-54.36.117.43:2053
 vless://f5399f86-de05-04d2-9908-ea9a384a5a35@174.138.107.204:2093?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM#🔒 VL-TCP-RLT 🇳🇱 NL-174.138.107.204:2093
@@ -503,3 +501,5 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@141.193.213.30:2087?security=tls&sn
 vless://108aebfd-e42d-484e-a0e0-1ae07e98edd5@79.137.93.131:22671?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-79.137.93.131:22671
 vless://25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.41.138:8880?sni=config-proxy-vl.telegram-config-proxy.workers.dev&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.41.138:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.174:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.174:443
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@101.32.40.116:8888?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-101.32.40.116:8888
+vless://6865584d-f1ed-4791-9f64-f9544bc14391@104.21.96.1:443?security=tls&sni=join.kiava.fun&type=ws&host=join.kiava.fun&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:443
