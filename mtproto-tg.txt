@@ -381,7 +381,6 @@ https://t.me/proxy?server=adsl.kamcal.ir&port=443&secret=ee1603010200010001fc030
 https://t.me/proxy?server=alibaba.com.digikala.ir.apparat.com.grizzzlyyyy.ir&port=8443&secret=ee01f010a10c0d0e0d101e100101ffaeee7265736561726368676174652e6e6574
 https://t.me/proxy?server=all.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee616c6c2e6e656564686f73742e6972
 https://t.me/proxy?server=amir.com.ir.co.uk&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
-https://t.me/proxy?server=amolparks.ir.snt-internal.ir.sana-karaj.ir.roshandeltile.com.parsiantea.ir.dndsms.ir.nikbanoo.com.instagainer.ir.akhavanpaper.com.siavashmirkhani.com.morteza-taherkhani.ir.snuggie.ir.dr-pariaravanfar.ir.rcs-co.ir.setarejavid.ir.samanshoesorginal.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=android.mobile-worldav.ir&port=443&secret=eeae9cbf67228055cc0726cb81d75b0db37765622e65697461612e636f6d
 https://t.me/proxy?server=aparat.com.varzesh3.com.digikala.com.torob.com.divar.ir.bamilo.com.snapp.ir.snappfood.ir.shaparak.ir.tehran.ir.shahrekhabar.com.zoomit.ir.bama.ir.filmio.ir.isna.ir.mehrnews.com.irna.ir.tasnimnews.com.farsnews.ir.khabaronline.ir.tabnak.ir.12.newsinfo.cfd&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=api.geohost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e67656f686f73742e6972
@@ -395,7 +394,6 @@ https://t.me/proxy?server=bazaar-e.ir&port=3598&secret=ee0000f00f0f775555fffffff
 https://t.me/proxy?server=be.sorat.vasl.sho.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 https://t.me/proxy?server=berke.wikimoon.sale&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1646d797765622e636c6f756466726f6e742e6e6574
 https://t.me/proxy?server=bmw.nyctophilia.ir&port=443&secret=ee33d929ccfff64f2ca7dbaac5eaed8c497a756c612e6972
-https://t.me/proxy?server=byteshop.ir.irancommax.com.sim-kaart.ir.stu-dio-aghigh.ir.l-frank.ir.majidphp.ir.fi-lick.com.pasargodwl.com.trx-iran.ir.p-uadhesive.net.mo-dirafzar.com.bahmanyadak.com.zir-foro-shi.com.qomllc.com.micropuff.ir.sitac.ir.illaystudio.com.salarplaystore.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=caripoltng.spacyictrucar.space&port=443&secret=ee119119119119119119119119119119112d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2df
 https://t.me/proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.api_internet.karenhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e6b6172656e686f73742e6972
 https://t.me/proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.che_internet.turkeyone.org&port=443&secret=ee796766928008632f04a82ff64abdabee63616368652e7475726b65796f6e652e6f7267
