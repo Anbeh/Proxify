@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2376
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.110:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🔒 SS-TCP-NA 🇲🇽 MX-147.78.1.27:990
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#🔒 SS-TCP-NA 🇫🇷 FR-195.154.185.174:989
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.236.232:443#🔒 SS-TCP-NA 🇺🇸 US-34.213.236.232:443
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.102.200:443#🔒 SS-TCP-NA 🇰🇷 KR-43.201.102.200:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.86:6679
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#🔒 SS-TCP-NA 🇺🇸 US-184.170.241.194:443
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#🔒 SS-TCP-NA 🇺🇸 US-185.172.129.91:56220
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.184.129:1866#🔒 SS-TCP-NA 🇬🇧 GB-64.176.184.129:1866
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@89.213.140.30:40034#🔒 SS-TCP-NA 🇫🇷 FR-89.213.140.30:40034
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ==@185.231.205.179:8388#🔒 SS-TCP-NA 🇫🇷 FR-185.231.205.179:8388
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.207.193:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.207.193:443
@@ -492,14 +503,3 @@ trojan://yaml777@104.21.61.73:443?security=tls&type=ws&sni=yaml7.ggff.net&path=/
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#%E6%9C%AA%E7%9F%A5115%20125.5KB%2Fs
 trojan://Aimer@3.230.207.59:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#US37
 trojan://Aimer@92.53.190.161:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5116
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50011?sni=sk05.zygbx.com#%E6%9C%AA%E7%9F%A5117
-trojan://blue2024@172.67.142.60:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A5118
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#US38%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#US39%201.8MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE5IiwiYWRkIjoiMTMuMTEyLjQ5LjE3MSIsInBvcnQiOiI0ODg5NyIsImlkIjoiMzM3NGRlN2ItNjFjYS00ZWY0LWFlOTQtYWQwZTBlNzU5ZGIwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTE5In0=
-trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5120
-trojan://Aimer@154.197.64.173:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5121
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a2NZbUt6bFI4RWJ4aU4zcHNIMTVp@2.56.122.207:28711#%E6%9C%AA%E7%9F%A5122
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#%E6%9C%AA%E7%9F%A5123%201009.4KB%2Fs
-trojan://Aimer@35.167.93.200:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US40
-trojan://bpb-trojan@104.21.30.195:443?security=tls&type=tcp&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv#%E6%9C%AA%E7%9F%A5124
