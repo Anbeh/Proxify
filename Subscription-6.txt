@@ -3,6 +3,22 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTXZYZ3JDSzMwZDRUUTBrOEhvV0p1@5.180.45.142:18429#🔒 SS-TCP-NA 🇨🇾 CY-5.180.45.142:18429
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#🔒 SS-TCP-NA 🇬🇧 GB-35.176.197.229:443
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.244:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#🔒 SS-TCP-NA 🇸🇰 SK-156.146.40.194:989
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.226.50:443#🔒 SS-TCP-NA 🇰🇷 KR-13.125.226.50:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.164:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#🔒 SS-TCP-NA 🇸🇬 SG-64.176.85.73:1866
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYU0dSU3RvNTZha3NpWGxlaG95ZHJS@81.19.141.45:443#🔒 SS-TCP-NA 🇩🇪 DE-81.19.141.45:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:5500
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🔒 SS-TCP-NA 🇬🇧 GB-141.98.101.182:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🔒 SS-TCP-NA 🇵🇱 PL-92.118.205.228:990
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9031
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.110:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#🔒 SS-TCP-NA 🇻🇳 VN-160.19.78.75:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#🔒 SS-TCP-NA 🇪🇸 ES-37.235.53.254:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#🔒 SS-TCP-NA 🇺🇸 US-104.207.155.64:1633
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@188.253.5.199:40005#🔒 SS-TCP-NA 🇸🇬 SG-188.253.5.199:40005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.202:8080
@@ -487,19 +503,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.101:7306#US36%2013.3MB%2Fs
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.87:5499#US37%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206RUozR09MUExBQVVYOVdDWQ==@156.231.104.23:18013#%E6%9C%AA%E7%9F%A5105
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50011?sni=sk05.zygbx.com#%E6%9C%AA%E7%9F%A5106
-trojan://Aimer@125.142.156.70:50000?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5107
-trojan://Aimer@192.200.160.15:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US38
-ss://YWVzLTI1Ni1nY206T0pDTVRLQ1U0T01SVFpCMA==@qh62onjn.slashdevslashnetslashtun.net:15007#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://telegram-id-directvpn@54.195.179.253:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5108%2029.5MB%2Fs
-trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me#US39
-trojan://Aimer@83.229.123.36:8443?sni=ngepo.ambercc.filegear-sg.me#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD2
-trojan://Aimer@162.159.44.48:443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5109
-trojan://Aimer@176.53.144.206:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5110
-trojan://Aimer@199.34.228.190:2083?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US40
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.95:8000#US41%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.87:4444#US42%201.9MB%2Fs
-trojan://0000000@3.168.86.35:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprOWNCSUIwT1JQNVNVTHpmeFV0ZDZm@150.241.101.222:25543#%E6%9C%AA%E7%9F%A5111
-trojan://3763495894587285504@216.238.77.127:443?security=tls&type=tcp&sni=climbing-racer.treefrog761.one#%E6%9C%AA%E7%9F%A5112
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%E6%9C%AA%E7%9F%A5113%2015.0MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080#US44
