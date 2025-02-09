@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://3774827088566296576@63.177.221.114:443?sni=natural-aphid.insect388.motorcycles&allowInsecure=1#🔒 TR-TCP-NA 🇩🇪 DE-63.177.221.114:443
+trojan://0000000@3.168.86.96:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-3.168.86.96:443
+trojan://telegram-id-directvpn@15.157.238.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.238.153:22222
+trojan://blue2024@104.19.185.248:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.185.248:443
 trojan://SSorg@77.232.140.7:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp/1.1&path=/?ed#🔒 TR-WS-TLS 🇷🇺 RU-77.232.140.7:443
 trojan://Aimer@162.159.44.231:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.231:2053
 trojan://65086520307764900@43.202.207.140:443?security=tls&sni=engaged-cattle.shiner427.skin&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-43.202.207.140:443
@@ -499,7 +503,3 @@ ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@80.92.204.106:9000#🔒 SS-TCP-NA 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aXgxOWJlRjJkd1dJQmZnR2RzRWVQ@45.95.232.236:4248#🔒 SS-TCP-NA 🇨🇭 CH-45.95.232.236:4248
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:8008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.164:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#🔒 SS-TCP-NA 🇯🇵 JP-54.248.54.190:1234
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMHpjOFY2VWkyWWY4SjlIREdZQ0hI@62.133.63.21:65262#🔒 SS-TCP-NA 🇹🇷 TR-62.133.63.21:65262
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ==@95.164.36.59:8388#🔒 SS-TCP-NA 🇦🇹 AT-95.164.36.59:8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#🔒 SS-TCP-NA 🇨🇦 CA-185.213.20.227:990
