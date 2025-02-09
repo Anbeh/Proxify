@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://blue2024@104.24.92.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.92.234:443
-trojan://er668@104.21.32.1:443?sni=kfjdi.pages.dev#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.32.1:443
-trojan://Aimer@27.50.48.186:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-27.50.48.186:2083
-trojan://Aimer@91.107.253.14:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇩🇪 DE-91.107.253.14:8443
-trojan://accaabb-abca-baca-dbca-ababcccbbcaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTphY2FjYmJhLWFjYWItY2FiYS1kYmFjLWJiY2NhYWFhYmNiYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SUN-21-BAHMAN-1403 🕑 10:31
-ss://bm9uZTpjYmNiYWFhLWFiYWMtY2FhYi1jYmRhLWJhYWJjYWNhY2NiYg==@127.0.0.1:2080#💻 TELEGRAM-CHANNEL NEUROVANCE 🧠
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
-ss://YWVzLTI1Ni1nY206YXVQRDg5ejdKbmVSc0ZBMjI4WXdGTXJoR0tBbUczMEF0cTZIYlpZNEthOD0=@46.202.130.110:49693#🔒 SS-TCP-NA 🇫🇷 FR-46.202.130.110:49693
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#🔒 SS-TCP-NA 🇪🇸 ES-194.87.45.189:443
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.221.167.203:443#🔒 SS-TCP-NA 🇺🇸 US-34.221.167.203:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:6697
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.248.97:443#🔒 SS-TCP-NA 🇰🇷 KR-54.180.248.97:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🔒 SS-TCP-NA 🇳🇱 NL-103.104.247.47:8080
@@ -503,3 +492,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4YUdiTnBucmVKY252d0pyeERHclFWR290bkRLWTZoVld
 trojan://telegram-id-v2rayvpnchannel@98.82.252.171:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#US14
 trojan://Aimer@107.174.79.149:443?sni=ngepy.ambercc.filegear-sg.me#US15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag==@45.140.146.223:8388#%E6%9C%AA%E7%9F%A553
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTQgMzIuNk1CL3MiLCJhZGQiOiIxMDQuMTcuMjEzLjI0MSIsInBvcnQiOiIyMDk1IiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIxMDAtMzMtMTA4LTE5Ny5zMS5kYi1saW5rMDIudG9wIiwicGF0aCI6Ii9kYWJhaS5pbjEwNC4yNC4yNDguNjQiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1NCJ9
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.143.66.87:5003#%E6%9C%AA%E7%9F%A555%202.0MB%2Fs
+trojan://20a84ebf-9341-4f5f-8245-3975e2fdeee5@219.135.231.205:21019?#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
+ss://YWVzLTI1Ni1nY206SDBQODg5Q1gwN0VRTkdOVg==@156.231.104.15:18005#%E6%9C%AA%E7%9F%A556
+trojan://Aimer@162.159.44.76:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A557
+trojan://auto@104.21.35.43:443?security=tls&type=ws&sni=esetsecuritylicense3.wawafec355.workers.dev&path=/&host=esetsecuritylicense3.wawafec355.workers.dev#%E6%9C%AA%E7%9F%A558
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E6%9C%AA%E7%9F%A559%205.5MB%2Fs
+trojan://0000000@18.238.109.41:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US16
+trojan://blue2024@104.16.112.144:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A560
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjEiLCJhZGQiOiI4NS4xMzMuMjUzLjE4MyIsInBvcnQiOiIxNDA5IiwiaWQiOiJhYmIwYjA1ZC00NjgzLTQyZjEtOTgxZi1mMzUzNzAyNmFjMmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InJ1YmlrYS5pcixpZ2FwLm5ldCxzcGx1cy5pcixza3lyb29tLm9ubGluZSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjEifQ==
+trojan://telegram-id-directvpn@3.10.80.242:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A562
