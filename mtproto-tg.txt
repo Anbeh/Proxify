@@ -253,6 +253,7 @@ https://t.me/proxy?server=38.180.95.171&port=17736&secret=ee12bcdc8bb5f1bb7b6dab
 https://t.me/proxy?server=38.180.95.99&port=32196&secret=ee410d6f7acfce485535dd7e14a078948b7777772e50617950616c2e636f6d
 https://t.me/proxy?server=38.181.219.235&port=8443&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=4.majalehelmi.ir&port=443&secret=ee230254403069672e8d2bfac6574ee2a37765622e65697461612e636f6d
+https://t.me/proxy?server=42.193.192.181&port=53831&secret=ee763c1bb6d39855e4b03faad8ca93e680617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.134.12.150&port=8880&secret=ee11111111111111111111111111111111d0b8d0b3d180d0b02a73616d73756e672e6b72
 https://t.me/proxy?server=45.134.12.36&port=65&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d7472616e736c6174652e676f6f2d2d2d2d2d2d
@@ -346,6 +347,7 @@ https://t.me/proxy?server=88.151.192.57&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=88.198.230.131&port=7343&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=88.198.47.49&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=88.210.11.133&port=443&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000
+https://t.me/proxy?server=89.39.70.43&port=6&secret=eedb6db6db6db6db6db6db6db6db6db6db2d2d
 https://t.me/proxy?server=91.107.159.62&port=443&secret=eef51526c0838f7ade42c55c307beed2b473332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=91.107.177.128&port=443&secret=ee86ded775f7fb6fd644c0b0752aaaaf0863646e6e79656b74616e65742e636f6d666172616b6176692e636f6d76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=91.107.240.18&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
@@ -358,6 +360,7 @@ https://t.me/proxy?server=94.130.36.36&port=3443&secret=ee0820820820820820820820
 https://t.me/proxy?server=94.131.109.73&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 https://t.me/proxy?server=94.131.2.159&port=443&secret=eea93c297d237f4756c1a01ffa9b2debb86177732e616d617a6f6e2e636f6d
 https://t.me/proxy?server=94.75.232.117&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
+https://t.me/proxy?server=95.163.176.219&port=23&secret=ee5f37f8fa5b2ffca739abd97f26bbb819d0b8d0b3d180d0b02c7370656564746573742e6e6574
 https://t.me/proxy?server=95.164.37.177&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 https://t.me/proxy?server=95.169.173.153&port=85&secret=ee0000f00f0f775555fffffff5006e2e69612d2d2d2d2d2d2d2d
 https://t.me/proxy?server=95.169.173.179&port=85&secret=ee0000f00f0f775555fffffff5006d2e692d2d2d2d2d2d2d2d2d2d
@@ -436,6 +439,7 @@ https://t.me/proxy?server=d.deehost.ir&port=443&secret=ee796766928008632f04a82ff
 https://t.me/proxy?server=davda.ir.angaji.ir.cm5.ir.ecompanypoll.com.sorc.ir.broker549.ir.kikx.ir.pl-ib.com.zhikmezon.ir.cartroubleshoot.com.mashhadsoghat.com.kouroshacademy.ir.satyarco.ir.atlasshimi.com.tarhsanat.com.saffaran.com.fardanmachine.ir.fa-machinery.com.almamobile.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=dd.dddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.dddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeheeeeeeeeeee.eedddddddddddddddddddddddddeeeeeeeeeeee.babaliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 https://t.me/proxy?server=dj.nyctophilia.ir&port=443&secret=eefe5a5364e3f844e1815f41dafad186637a756c612e6972
+https://t.me/proxy?server=dl2.soft20.ir.harry-potter.top&port=9915&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
 https://t.me/proxy?server=dns.geohost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e6b6172656e686f73742e6972
 https://t.me/proxy?server=doogh.gooshfil.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=e.deehost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee652e646565686f73742e6972
