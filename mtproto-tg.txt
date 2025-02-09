@@ -254,7 +254,6 @@ https://t.me/proxy?server=4.majalehelmi.ir&port=443&secret=ee230254403069672e8d2
 https://t.me/proxy?server=42.193.192.181&port=53831&secret=ee763c1bb6d39855e4b03faad8ca93e680617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.134.12.150&port=8880&secret=ee11111111111111111111111111111111d0b8d0b3d180d0b02a73616d73756e672e6b72
-https://t.me/proxy?server=45.134.12.36&port=65&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d7472616e736c6174652e676f6f2d2d2d2d2d2d
 https://t.me/proxy?server=45.134.12.51&port=8095&secret=eebcdfbcdfbcdfbcdfbcdfbcdfbcdf6699697669662e6972
 https://t.me/proxy?server=45.14.245.114&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
 https://t.me/proxy?server=45.146.7.22&port=443&secret=ee8d7bae4a594dd151ccfec81f46668063676f64616464792e636f6d
@@ -337,7 +336,6 @@ https://t.me/proxy?server=78.46.135.59&port=2443&secret=ee7227e98a7af39dc82329ea
 https://t.me/proxy?server=8.217.199.182&port=443&secret=eefd984b30f92a405a0fde7ab941b72e56617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.217.214.42&port=443&secret=ee4b6ce075f4476cf9d0647371610745ac68756177656979756e2e636f6d
 https://t.me/proxy?server=82.117.87.231&port=443&secret=eed0d6e111bada5511fcce9584deadbeef7777772e646967696b616c612e636f6d
-https://t.me/proxy?server=83.147.216.175&port=3128&secret=eebcdfbcdfbcdfbcdfbcdfbcdfbcdfbcdfd984d8b9d8a8d8a92e7373686b69742e636f6d
 https://t.me/proxy?server=85.198.110.192&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=85.9.97.22&port=2053&secret=eed7888dc86d09166335db50991d609aa973332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=87.98.182.154&port=443&secret=ee17e3af44e2a74a72a686821eb1e471216d6963726f736f66742d7570646174652e636f6d
