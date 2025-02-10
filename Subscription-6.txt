@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8881
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.35:9102#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.35:9102
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:6679
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.241:443
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#🔒 SS-TCP-NA 🇹🇼 TW-185.189.160.98:64759
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#🔒 SS-TCP-NA 🇸🇪 SE-46.246.98.155:44013
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@80.92.204.106:9098#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9098
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.87:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:5499
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.228:4231#🔒 SS-TCP-NA 🇭🇰 HK-112.213.102.228:4231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.166:8080
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#🔒 SS-TCP-NA 🇰🇿 KZ-213.156.137.67:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY=@176.124.202.137:81#🔒 SS-TCP-NA 🇸🇪 SE-176.124.202.137:81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
@@ -503,3 +492,14 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIyIiwiYWRkIjoiUmV6YS5ucy5jbG91ZGZsYXJlLmNv
 trojan://Aimer@104.25.252.184:8443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5123
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&type=tcp&sni=customer-94-131-115-71.stark-industries.solutions#%E6%9C%AA%E7%9F%A5124
 trojan://3774827088566296576@185.67.125.78:443?security=tls&type=tcp&sni=deciding-mantis.treefrog761.one#%E6%9C%AA%E7%9F%A5125%20292.2KB%2Fs
+trojan://Aimer@8.20.125.1:443?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#US40
+trojan://Aimer@160.79.104.131:8443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US41
+trojan://blue2024@104.17.246.107:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A5126
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@89.213.150.45:40000#HK%20187.4KB%2Fs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#%E6%9C%AA%E7%9F%A5127%201.7MB%2Fs
+trojan://Aimer@44.224.24.91:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US42
+trojan://Aimer@31.43.179.27:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5128
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZVRob3I2WHJBSDBWbHc4aFA2MG5i@81.19.141.45:443#%E6%9C%AA%E7%9F%A5129%2012.6MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3389#US43%201.9MB%2Fs
+trojan://Aimer@175.192.27.197:16992?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5130
+trojan://Aimer@162.159.38.103:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5131
