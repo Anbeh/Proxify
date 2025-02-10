@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@27.50.49.179:2096?sni=ngepx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-27.50.49.179:2096
+trojan://Aimer@199.34.228.50:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-199.34.228.50:2053
+trojan://a1b36c4d-446b-4402-9370-ec6dbf79e143@107.149.254.26:159?allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-107.149.254.26:159
+trojan://Aimer@188.164.159.174:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇦🇲 AM-188.164.159.174:2053
+trojan://Bw5Mz7QkVp@144.202.24.22:443?security=tls&sni=z-v2-077036.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-144.202.24.22:443
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-92.243.75.49:2087
+trojan://NISHIKUITAN111@162.159.16.224:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.16.224:443
+trojan://Aimer@104.19.239.137:2087?sni=ngepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.239.137:2087
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-165.22.74.230:443
+trojan://Bw5Mz7QkVp@66.42.76.182:443?security=tls&sni=z-v2-076956.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-66.42.76.182:443
+trojan://telegram-id-privatevpns@13.51.78.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.78.35:22222
 trojan://Aimer@104.19.107.190:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.107.190:2096
 trojan://Aimer@172.64.33.110:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=ws&host=ngepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.33.110:443
 trojan://telegram-id-privatevpns@13.50.63.228:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.63.228:22222
@@ -492,14 +503,3 @@ trojan://telegram-id-privatevpns@3.9.200.101:22222?security=tls&sni=trojan.burge
 trojan://Aimer@35.81.207.167:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-35.81.207.167:443
 trojan://V%2B%40iFj2PAdz.%7D_Hq@172.66.47.183:8443?security=tls&sni=jOinmAhdIsERveR-62E.PaGes.dEv&type=ws&host=joinmahdiserver-62e.pages.dev&path=%2FtrKKbFfqnLnKjEyatm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.183:8443
 trojan://Aimer@178.250.159.120:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-178.250.159.120:2053
-trojan://Aimer@103.116.7.103:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-103.116.7.103:2083
-trojan://Aimer@209.94.90.64:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-209.94.90.64:443
-trojan://telegram-id-directvpn@63.177.133.180:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-63.177.133.180:22222
-trojan://Aimer@162.159.44.230:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.230:2053
-trojan://Aimer@82.115.6.219:8443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-82.115.6.219:8443
-trojan://Aimer@108.165.152.29:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.29:2096
-trojan://Aimer@52.32.90.142:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-52.32.90.142:80
-trojan://Aimer@146.56.155.102:20003?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-146.56.155.102:20003
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&sni=blOOM-cHh.pAges.DeV&type=ws&host=blOOM-cHh.pAges.DeV#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.192.163:443
-trojan://Aimer@108.165.152.55:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.55:2096
-trojan://Aimer@211.227.87.99:50000?sni=ngepx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-211.227.87.99:50000
