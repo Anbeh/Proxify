@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://SSorg@108.165.152.92:2053?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.92:2053
+trojan://NISHIKUITAN111@104.24.140.72:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.140.72:443
+trojan://bpb-trojan@198.41.211.21:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-198.41.211.21:443
+trojan://Aimer@167.68.4.199:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-167.68.4.199:2053
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:10465?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:10465
+trojan://Aimer@222.97.9.166:50004?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-222.97.9.166:50004
+trojan://Aimer@188.164.159.174:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇦🇲 AM-188.164.159.174:2053
+trojan://SSorg@199.34.228.71:8443?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.71:8443
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-92.243.75.49:2087
+trojan://SSorg@172.67.156.115:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.156.115:2087
+trojan://fuck@42.236.73.72:443?security=tls&sni=www.zitian.cn&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-42.236.73.72:443
 trojan://Aimer@154.211.8.18:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-154.211.8.18:2083
 trojan://Aimer@5.182.84.66:2083?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.66:2083
 trojan://Aimer@206.238.236.134:443?sni=ameqo.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.134:443
@@ -492,14 +503,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#🔒 SS-TCP-NA 🇵�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RndsZWJXbEdHRWtxQlRlWUl3TGZM@87.251.79.34:20684#🔒 SS-TCP-NA 🇺🇸 US-87.251.79.34:20684
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2375
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9010
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🔒 SS-TCP-NA 🇨🇿 CZ-195.181.160.6:990
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MGM5VXRtTDFlemZkM3B3YlNGOUlS@89.185.84.185:443#🔒 SS-TCP-NA 🇬🇧 GB-89.185.84.185:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg==@45.140.167.94:1443#🔒 SS-TCP-NA 🇬🇧 GB-45.140.167.94:1443
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:8118
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9042
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ==@146.19.247.183:1443#🔒 SS-TCP-NA 🇩🇪 DE-146.19.247.183:1443
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@80.92.204.106:9084#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9084
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8008#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:8008
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#🔒 SS-TCP-NA 🇵🇱 PL-45.144.48.63:57456
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9084
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.193:443
