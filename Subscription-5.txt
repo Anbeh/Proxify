@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyBJTi00LjI0MC43My41NToxNDExOCIsICJhZGQiOiAiNC4yNDAuNzMuNTUiLCAicG9ydCI6IDE0MTE4LCAiaWQiOiAiZDUxM2JmYjItYjdjMi00ZGM2LWEzZjktNTUxNDVmMTk4NzA1IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBGUi0zOC4xMDkuMjI4LjExMzoyMTgwOSIsICJhZGQiOiAiMzguMTA5LjIyOC4xMTMiLCAicG9ydCI6IDIxODA5LCAiaWQiOiAiYTYxNzk0NzUtNDg5Yy00YmNjLWIwNWMtNDgxMzg2Mjk1YjkzIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
+vmess://eyJhZGQiOiAiMTg1LjE3NC4xMzguMTk2IiwgImFpZCI6ICIwIiwgImhvc3QiOiAieWVsbG93LXBhcGVyLTAyOWMueXZvbm5hLndvcmtlcnMuZGV2IiwgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXowNS5iZXlvbmR5LmNmZC9saW5rPy9UTUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMUBBWkFSQkFZSkFCMS8/ZWQ9MjU2MCIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBSVS0xODUuMTc0LjEzOC4xOTY6MjA4MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTAzLjE0OS4xODMuMTc4IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjNhOTA3OTU2LWY2NjgtNGU2Yi1lYTAzLTA5NDlmMGM5YzBhNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTQ2NzUiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEstMTAzLjE0OS4xODMuMTc4OjU0Njc1IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiNDYuMjkuMTY2LjIzNyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIwYzQ5Y2QxOS0yNzU4LTRkMzgtZTZhOC0xMWYyZDY2MzU4NjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ3NTU1IiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFJVLTQ2LjI5LjE2Ni4yMzc6NDc1NTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImFwaTIud2FsdG9ud2ViLmlyIiwgImlkIjogIjRhYzNhOGZjLWRhZTQtNGI2ZS1hNThjLTBmNmIwYTFhMDJlYyIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAicGF0aCI6ICIvYXBpMj9lZD0xMDI0IiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tSFRUUFVQR1JBREUtVExTIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMTcuMTQ4LjIyOjIwODMiLCAic2N5IjogImF1dG8iLCAic25pIjogImFwaTIud2FsdG9ud2ViLmlyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmYSBBVS0xNTQuMjYuMTUzLjE3MzoyODY4NiIsICJhZGQiOiAiMTU0LjI2LjE1My4xNzMiLCAicG9ydCI6IDI4Njg2LCAiaWQiOiAiNmRmN2Q1NmYtNDk1My00YTEwLWJlMmUtYTg4Y2M5Zjk0ZTQ4IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYmFhY2EtYmNhYS1hYWNiLWFjZGItYmJhY2NiYWNhY2JhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+trojan://aacbbca-abac-abca-abdc-cbbaabbccaac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-25-BAHMAN-1403 🕑 12:29
+trojan://cacabba-aacb-acba-bacd-aacbbbcaccab@127.0.0.1:2080?security=tls&type=tcp#🤖 JOIN-TELEGRAM-CHANNEL 💡 @NEUROVANCE 🧠
+trojan://Aimer@175.192.27.197:16992?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-175.192.27.197:16992
 trojan://Aimer@173.245.59.109:2087?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.59.109:2087
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.105.103.27:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇦 CA-172.105.103.27:443
 trojan://SSorg@108.165.152.92:2053?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.92:2053
@@ -492,14 +503,3 @@ trojan://Aimer@27.50.49.166:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&t
 trojan://NISHIKUITAN111@104.19.44.160:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.44.160:443
 trojan://SSorg@154.197.64.104:8443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp/1.1&path=/?ed#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.104:8443
 trojan://65086441068973800@3.147.196.132:443?allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-3.147.196.132:443
-trojan://blue2024@104.16.93.142:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.93.142:443
-trojan://telegram-id-directvpn@13.51.102.111:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.102.111:22222
-trojan://Aimer@154.197.64.173:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.173:2053
-trojan://Aimer@173.245.59.202:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.59.202:2083
-trojan://Aimer@154.197.64.206:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.206:443
-trojan://er668@104.21.48.1:443?sni=kfjdi.pages.dev#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.48.1:443
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50042?sni=v2hgc03.fuqiangren.com#🔒 TR-TCP-NA 🇬🇧 GB-5.83.221.31:50042
-trojan://Aimer@175.208.140.189:50000?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-175.208.140.189:50000
-trojan://Aimer@185.204.109.190:8443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-185.204.109.190:8443
-trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.149:443
-trojan://Aimer@206.238.236.137:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.236.137:8443
