@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@45.86.229.28:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A573
+trojan://trojan@172.64.155.16:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A574
+trojan://65086441068973800@3.132.42.236:443?#US24
+trojan://65086520307764900@44.226.147.221:443?security=tls&type=tcp&sni=moral-rat.shiner427.skin#US25%2021.7MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%E6%9C%AA%E7%9F%A575%2014.7MB%2Fs
+trojan://3763495982449565696@185.67.125.160:443?security=tls&type=tcp&sni=topical-gibbon.goat627.mom#%E6%9C%AA%E7%9F%A576
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%E6%9C%AA%E7%9F%A577%2017.6MB%2Fs
+trojan://6557bf4a-852b-4a69-ad35-d53293386a13@52.175.24.103:443?security=tls&type=tcp&sni=it.mjt000.com#HK7
+ss://YWVzLTI1Ni1nY206VTNGRVBXUEFGTlVXVlZOUg==@23.185.248.17:17007#US26
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50039?sni=v1jp01.fuqiangren.com#%E6%9C%AA%E7%9F%A578
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8881#US27%201.9MB%2Fs
 trojan://Aimer@162.159.134.143:2096?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A579
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:42881?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK8
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:27101?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK9
