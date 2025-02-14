@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#US31%20868.0KB%2Fs
-trojan://Bw5Mz7QkVp@38.54.75.167:443?security=tls&type=tcp&sni=z-v2-076194.kailib.com#US32
-trojan://Aimer@108.165.152.76:2096?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US33
-trojan://NISHIKUITAN111@104.21.84.200:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A5120
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIxIiwiYWRkIjoiMTA0LjE3LjE0OC4yMiIsInBvcnQiOiIyMDUzIiwiaWQiOiIyNDFjNmJiMy1kN2M1LTQ3NWEtYTBmNC0wZDU3ZDhhYmFlYjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYXBpMTEuaHR2ZS5pciIsInBhdGgiOiIvcGFuZWw/ZWQ9MjU2MCIsInRscyI6InRscyIsInNuaSI6ImFwaTExLmh0dmUuaXIiLCJ0ZXN0X25hbWUiOiIxMjEifQ==
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#%E6%9C%AA%E7%9F%A5122%20398.0KB%2Fs
-trojan://65086441068973800@useful-jennet.shiner427.skin:443?sni=useful-jennet.shiner427.skin#%E6%9C%AA%E7%9F%A5123
-trojan://Aimer@220.121.230.236:21325?sni=agepq.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50011?sni=sk05.zygbx.com#%E6%9C%AA%E7%9F%A5124
-trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443?security=tls&type=ws&sni=zmaoz.faculty.ucdavis.edu.&host=fonmelo.com#US34
-trojan://Aimer@162.159.44.230:2053?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5125
 trojan://Aimer@198.62.62.192:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US35
 trojan://Aimer@65.109.199.131:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5126
 trojan://Aimer@108.162.195.199:443?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5127
