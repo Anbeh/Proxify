@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50011?sni=sk05.zygbx.com#%E6%9C%AA%E7%9F%A5124
+trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.2.133:443?security=tls&type=ws&sni=zmaoz.faculty.ucdavis.edu.&host=fonmelo.com#US34
+trojan://Aimer@162.159.44.230:2053?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5125
+trojan://Aimer@198.62.62.192:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US35
+trojan://Aimer@65.109.199.131:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5126
+trojan://Aimer@108.162.195.199:443?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5127
+trojan://telegram-id-privatevpns@13.49.160.18:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8
+trojan://Aimer@107.175.37.135:443?sni=ngepo.ambercc.filegear-sg.me#US36
+trojan://Bw5Mz7QkVp@45.32.223.2:443?security=tls&type=tcp&sni=z-v2-080515.kailib.com#US37
+trojan://6557bf4a-852b-4a69-ad35-d53293386a13@20.255.101.175:443?security=tls&type=tcp&sni=au.mjt000.com#HK11
+trojan://SSorg@172.67.156.115:2087?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A5128
 trojan://telegram-id-directvpn@3.10.66.133:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5129%20644.3KB%2Fs
 trojan://blue2024@104.26.14.203:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5130
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#%E6%9C%AA%E7%9F%A5131
