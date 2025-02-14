@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://NISHIKUITAN111@104.20.65.198:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.65.198:443
+trojan://3774827088566296576@13.37.126.60:443?sni=amused-buzzard.insect388.motorcycles&allowInsecure=1#🔒 TR-TCP-NA 🇫🇷 FR-13.37.126.60:443
+trojan://Bw5Mz7QkVp@108.61.177.142:443?security=tls&sni=z-v2-082548.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-108.61.177.142:443
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&sni=cmc1.5gsieuvip.vn&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇻🇳 VN-103.173.66.192:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.235.251.59:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇮🇩 ID-172.235.251.59:443
+trojan://Aimer@8.20.125.1:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-8.20.125.1:443
+trojan://0000000@18.238.109.28:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-18.238.109.28:443
+trojan://Aimer@172.64.35.227:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=ws&host=ngepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.227:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@170.64.220.25:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇦🇺 AU-170.64.220.25:443
+trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.4.60:443
+trojan://Bw5Mz7QkVp@95.179.232.3:443?security=tls&sni=z-v2-077930.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-95.179.232.3:443
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-103.211.32.110:443
 trojan://Aimer@5.182.84.66:2083?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.66:2083
 trojan://3747000103274291200@51.20.11.237:443?security=tls&sni=quiet-burro.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.11.237:443
@@ -492,14 +503,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.221.167.203:443#🔒 SS-TCP-NA 🇺🇸 US-34.221.167.203:443
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#🔒 SS-TCP-NA 🇪🇪 EE-147.45.60.33:16356
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.101.151:443#🔒 SS-TCP-NA 🇸🇬 SG-47.129.101.151:443
-ss://YWVzLTI1Ni1nY206WTdZQUZJRklGTFM5WjNQWA==@156.231.104.17:18007#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.17:18007
-ss://YWVzLTI1Ni1nY206UUVWNUJHNFlMRUFCVzZMQg==@154.196.244.22:16012#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.22:16012
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.189:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.227:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.227:8080
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#🔒 SS-TCP-NA 🇬🇧 GB-141.98.101.180:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.132:8080
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9025
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#🔒 SS-TCP-NA 🇫🇮 FI-37.143.129.230:989
