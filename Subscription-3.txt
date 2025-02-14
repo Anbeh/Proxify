@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.163:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.64.163:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.228:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.228:443
 vless://d1aca49a-e5bc-48b2-870a-d590004099b0@185.16.110.44:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.44:2096
 vless://55520747-311e-4015-83ce-be46e2060ce3@202.37.33.80:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fre.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇳🇿 NZ-202.37.33.80:443
@@ -503,3 +502,4 @@ vless://f99be234-51a7-4295-96b9-294a8b00fce5@91.242.241.45:443?security=tls&flow
 vless://0a89db06-d950-458d-a527-d63a9d62e7c9@193.151.152.27:30369?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-193.151.152.27:30369
 vless://568ba1ae-3b93-4587-885c-f4185bb2dbac@87.249.49.138:2052?security=none&type=grpc&serviceName=8880vless#🔒 VL-GRPC-NONE 🇷🇺 RU-87.249.49.138:2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.249:443?security=tls&sni=V2NgfAst-2Zn.pageS.dEv&type=ws&host=V2NgFast-2zn.pAgES.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
+vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.214.133:443?security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.232.214.133:443
