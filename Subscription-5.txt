@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.194.216:80?security=none&type=ws&host=marzneshinestonia.car&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.216:80
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.162:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇦🇹 AT-212.183.88.162:443
-vless://477e4fff-b9b4-4479-a042-d6058422386c@152.42.199.110:443?security=tls&flow=none&sni=telegram.hutch.lk&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.199.110:443
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@47.239.195.179:587?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒 VL-WS-NA 🇭🇰 HK-47.239.195.179:587
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.85:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-95.164.87.85:2198
-vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@172.67.41.50:443?security=tls&sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.41.50:443
-vless://d687fb60-b650-4429-9187-58bad6d689d5@162.159.24.142:443?security=tls&sni=messi10.pages.dev&type=ws&host=messi10.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:443
-vless://3c4ba95f-dae4-4fa5-b875-44cc7a59f5c5@172.66.47.42:2083?security=tls&sni=mAhdIserVer-9Tq.pAgES.Dev&type=ws&host=mahdiserver-9tq.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.42:2083
-vless://a80892ad-98ca-4fa0-86dd-b9ea1a66eed9@37.32.11.216:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.11.216:443
-vless://af928cd3-dc5c-44cf-a6f3-28169539628f@104.16.103.112:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=/2096/@VRayyNGvpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.103.112:2096
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.191.23:443?security=tls&sni=147135010072.sec21org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-15.204.191.23:443
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@188.214.133.205:8443?security=tls&sni=lt2.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇱🇹 LT-188.214.133.205:8443
 vless://79d40805-c7eb-49cb-bb88-61d18b6c52b2@172.66.45.29:2053?security=tls&sni=mAHDiseRveR-ac2.pagEs.deV&type=ws&host=mahdiserver-ac2.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.29:2053
 vless://55520747-311e-4015-83ce-be46e2060ce3@192.200.160.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.99:443
@@ -503,3 +492,14 @@ trojan://b80Iy90Fma@104.26.9.227:443?security=tls&sni=usa03.rtx.al&type=ws&host=
 trojan://Aimer@209.208.227.79:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-209.208.227.79:443
 trojan://Aimer@211.57.90.42:50000?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-211.57.90.42:50000
 trojan://V8Ggxghv8Z@104.21.32.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.32.1:2096
+trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.79.171:443
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?sni=tw01.trojanyyds.xyz#🔒 TR-TCP-NA 🇯🇵 JP-74.226.136.204:443
+trojan://Aimer@206.238.236.16:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.236.16:443
+trojan://Aimer@108.165.152.1:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.1:2087
+trojan://Aimer@108.165.152.76:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.76:2096
+trojan://3767107462583558144@95.110.142.205:443?security=tls&sni=grown-cardinal.treefrog761.one&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-95.110.142.205:443
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-165.22.74.230:443
+trojan://auto@104.26.3.36:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.3.36:443
+trojan://NISHIKUITAN111@104.20.65.198:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.65.198:443
+trojan://Aimer@162.159.44.199:443?sni=ngepo.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.199:443
