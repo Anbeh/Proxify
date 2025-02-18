@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@3.124.196.164:443?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A584
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:27401?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK5
+trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&type=ws&sni=vbbb.ylks2024.us.kg&path=/youlingkaishi&host=vbbb.ylks2024.us.kg#%E6%9C%AA%E7%9F%A585
+trojan://Aimer@188.164.159.174:2053?sni=agept.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2AM%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&type=tcp&sni=yourjobnavigator.online#%E6%9C%AA%E7%9F%A586%202.9MB%2Fs
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK6
+trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.45.36:2083?security=tls&type=ws&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&path=/trLhvs4PDHp1EVcZxf?ed=2560&host=joinmahdiserver-6qj.pages.dev#%E6%9C%AA%E7%9F%A587
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNelpqTg==@146.19.106.5:8388#%E6%9C%AA%E7%9F%A588
+trojan://bpb-trojan@104.19.223.79:443?security=tls&type=ws&sni=qq.vvii.us.kg&path=/tr?ed=2560&host=qq.vvii.us.kg#%E6%9C%AA%E7%9F%A589
+trojan://Aimer@104.19.239.137:2087?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A590
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#US22%20108.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#%E6%9C%AA%E7%9F%A591
 trojan://Aimer@161.145.150.14:443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#US23
 trojan://fnufMt%3AsQ%26rC0HUu@172.66.44.172:2083?security=tls&type=ws&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&host=joinmahdiserver-6vv.pages.dev#%E6%9C%AA%E7%9F%A592
