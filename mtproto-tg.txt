@@ -18,7 +18,6 @@ https://t.me/proxy?server=104.248.26.196&port=443&secret=eec80ff604fa45408f1d152
 https://t.me/proxy?server=108.165.128.253&port=443&secret=ee5167eccdd4fa5b57c1f66bf54db1eebf7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=108.181.70.27&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=109.120.177.110&port=443&secret=ee2856ece893f58574746495861afd10e873332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=109.205.195.213&port=443&secret=ee833719d7990f1644c3c6617f122ce3637777772e676f6f676c652e636f6d
 https://t.me/proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 https://t.me/proxy?server=116.202.229.151&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
@@ -535,7 +534,6 @@ https://t.me/proxy?server=svic.ir.iran-side.com.fullkickboxing.org.behintrans.co
 https://t.me/proxy?server=tebnew.ir.penhanak.ir.poiesis.ir.psaic.ir.ri3.gallery.acompgp.ir.tosegostar.com.3030b_oxes.com.firozeonline.ir.drsavaby.ir.xn----5mckejo2ne97b.com.kamalmalek_ei.com.ayandehnegar-mehr.ir.tad_birtsa.com.ariasoftware.ir.kolije.com.amlaksepahanshahr.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=telsm.ir.dokal.ir.feizarch.ir.manaarts.ir.yaabalfazl.ir.taninsalon.com.betonboresh.com.idealand1.ir.cpanel4.ir.takcactus.com.drnerd.ir.hajicompani.com.ahc.ir.shiirak.ir.yugioh-iran.com.anipasand.ir.kfhalmontazar.ir.ion-co.ir.drangaji.com.hadronstore.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.brings.life.to.every.meal.and.makes.every.snack.delightful.easyfrance.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
-https://t.me/proxy?server=travel.arvancloud.tech&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020
 https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096636c292cbf4aa3673332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267
