@@ -160,6 +160,7 @@ https://t.me/proxy?server=176.9.11.219&port=8443&secret=ee0820820820820820820820
 https://t.me/proxy?server=176.9.19.48&port=7943&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=176.97.73.119&port=32891&secret=eeb707f96f5c5faae889ce0e3f8f4a05b77777772e50617950616c2e636f6d
 https://t.me/proxy?server=18.116.36.217&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=18.117.185.98&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.188.237.118&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.191.200.243&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -494,7 +495,6 @@ https://t.me/proxy?server=n.cdnhub.ir&port=443&secret=ee796766928008632f04a82ff6
 https://t.me/proxy?server=new.bestlive.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_css.scooper.events&port=443&secret=ee000000000000000000000000000000006d792e736861706172616b2e6972
-https://t.me/proxy?server=olala.loanodubleserc.info&port=443&secret=ee151151151151151151151151151151152d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2da
 https://t.me/proxy?server=omega.silicon.rho.twitch.dbmjmhir.jgzlsvuntk.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=oops.glass-fivers.auto-semi.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
