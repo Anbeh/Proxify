@@ -17,6 +17,7 @@ https://t.me/proxy?server=104.248.26.196&port=443&secret=eec80ff604fa45408f1d152
 https://t.me/proxy?server=108.165.128.253&port=443&secret=ee5167eccdd4fa5b57c1f66bf54db1eebf7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=108.181.70.27&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=108.181.71.97&port=465&secret=ee082082082082082082082082082082087a716b746c77697561767676717174347962766776693774796f34686a6c357867667576706466366f746a69796367777162796d327161642e6f6e696f6e
 https://t.me/proxy?server=109.205.195.213&port=443&secret=ee833719d7990f1644c3c6617f122ce3637777772e676f6f676c652e636f6d
 https://t.me/proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 https://t.me/proxy?server=116.202.229.151&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
@@ -164,6 +165,7 @@ https://t.me/proxy?server=18.117.185.98&port=443&secret=ee0720720720720720720720
 https://t.me/proxy?server=18.119.255.196&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.188.237.118&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.219.108.109&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=18.220.146.174&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.221.193.41&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.223.241.70&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=18.226.177.97&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
@@ -496,6 +498,7 @@ https://t.me/proxy?server=new.bestlive.ir&port=443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_css.scooper.events&port=443&secret=ee000000000000000000000000000000006d792e736861706172616b2e6972
 https://t.me/proxy?server=omega.silicon.rho.twitch.dbmjmhir.jgzlsvuntk.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
 https://t.me/proxy?server=oops.glass-fivers.auto-semi.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=oxes.ir.tajhizara.ir.babol-ads.ir.ali-n_oo__ri.ir.ne_gincms.ir.mandana_cont.com.s__ivancells.ir.openport.ir.lego-megamind.ir.vshareei.com.ebrahimahmadi.com.shirinmaneshgaz.com.resomix.ir.wimsky.ir.raikashop.ir.sayarehnarenji.com.tinos.ir.hypershoma.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
