@@ -26771,15 +26771,15 @@ body{
 46.48.94.246:8080
 183.215.23.242:9091
 8.211.194.78:8443
-23.88.116.40:80
-47.102.86.138:9997
-106.117.235.112:9788
-211.251.236.253:80
-58.240.211.251:7890
+95.66.138.21:8880
 178.177.54.157:8080
-23.88.116.40:80
-89.23.112.143:80
+72.10.164.178:20367
+172.233.78.254:7890
+106.117.235.112:9788
+14.204.56.42:8085
+14.204.56.42:8085
 142.44.210.174:80
+72.10.164.178:20367
 65.108.159.129:999
 <!DOCTYPE HTML>
 <HTML lang="en"><HEAD>
@@ -26842,8 +26842,8 @@ Play <a href="https://ichess.com">chess</a> online
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
-var multiproxy_org_8355 = '619';
-_gaq.push(['_setAccount', 'UA-2'+multiproxy_org_8355+'35-5']);
+var multiproxy_org_2603 = '619';
+_gaq.push(['_setAccount', 'UA-2'+multiproxy_org_2603+'35-5']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
