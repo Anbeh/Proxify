@@ -512,7 +512,6 @@ https://t.me/proxy?server=pwtyzmewb32f.librekit.com&port=443&secret=ee915818963f
 https://t.me/proxy?server=rakadron.komperiistaionnop.info&port=443&secret=ee151151151151151151151151151151152d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2da
 https://t.me/proxy?server=rog.happyground.ir&port=443&secret=ee33d929ccfff64f2ca7dbaac5eaed8c497a756c612e6972
 https://t.me/proxy?server=ru.shanlian.app&port=8443&secret=ee1d13459cf7db52309ab5498eae6a1650617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=s5.proxytun.online&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 https://t.me/proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 https://t.me/proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 https://t.me/proxy?server=sar.dar.gom.bodam.hame.omr.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
