@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.68.84:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.79.68.84:22222
 vless://d4f0d5b6-66ff-4a38-fa36-d5b92379d588@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=vibkmcactusbic2.ir&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
 vless://1dddb054-1d6d-4f33-831e-ea3a0cd3ebe8@172.67.157.34:443?security=tls&sni=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&type=ws&host=dce3fsg3hho43e4bxvbowf6jtnu2bhdewpvfysrzgv4pw7gqrtkgbuslfdsfsfs.aeh4d7u.workers.Dev&path=Telegram%20channel%20%3A%20%40pandavpntc#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.34:443
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.58.158:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-193.122.58.158:443
@@ -502,4 +503,3 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@135.84.76.115:443?security=tls&sni=
 vless://73039c19-caee-48e5-af88-e6c74197c1a1@81.28.12.12:443?security=tls&sni=playemlive.com&type=ws&host=sjjfjsjs.ai&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-81.28.12.12:443
 vless://e4cb2d9f-61ef-4738-a3f2-a8889cdf91e6@162.159.136.234:80?security=none&type=ws&host=shhproxy-free.xn--85-pv2cl2k5x3fipr.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:80
 vless://097d9986-299e-495b-a72a-35998f4064cc@151.101.66.46:80?security=none&type=xhttp&host=Vpnmizbanyour-name.global.ssl.fastly.net&path=%2FVpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban------VpnMizban#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.66.46:80
-vless://ad179afa-18b0-4ae2-eb2d-086b767f08d3@190.93.247.155:2095?security=none&type=ws&host=Da8.speedtest.hopeserver1.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:2095

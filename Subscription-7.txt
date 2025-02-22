@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@188.164.159.248:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.248:2053
 trojan://V%2B%40iFj2PAdz.%7D_Hq@172.66.44.73:8443?security=tls&sni=jOinmAhdIsERveR-62E.PaGes.dEv&type=ws&host=joinmahdiserver-62e.pages.dev&path=%2FtrKKbFfqnLnKjEyatm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.73:8443
 trojan://Aimer@118.35.88.114:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-118.35.88.114:50000
 trojan://Aimer@218.152.197.93:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-218.152.197.93:50000
@@ -502,4 +503,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6697
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#🔒 SS-TCP-NA 🇪🇪 EE-147.45.60.33:16356
 ss://YWVzLTI1Ni1nY206WDRZYWxWdHV0aTkxR0o5OGxpalNqYUY5ZHRlbUlLa0dpZXIxZndjanRZaz0=@95.164.4.51:8443#🔒 SS-TCP-NA 🇧🇷 BR-95.164.4.51:8443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8881
