@@ -19,7 +19,6 @@ https://t.me/proxy?server=108.181.70.27&port=3443&secret=ee082082082082082082082
 https://t.me/proxy?server=108.181.71.115&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=108.181.71.97&port=465&secret=ee082082082082082082082082082082087a716b746c77697561767676717174347962766776693774796f34686a6c357867667576706466366f746a69796367777162796d327161642e6f6e696f6e
 https://t.me/proxy?server=109.205.195.213&port=443&secret=ee833719d7990f1644c3c6617f122ce3637777772e676f6f676c652e636f6d
-https://t.me/proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 https://t.me/proxy?server=116.202.229.151&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=116.203.137.250&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000
 https://t.me/proxy?server=116.203.149.201&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205726161682e6972
@@ -193,7 +192,6 @@ https://t.me/proxy?server=188.245.233.174&port=343&secret=ee735f4f4dbf418db88c10
 https://t.me/proxy?server=188.34.159.181&port=443&secret=eed3674083a322d5440eacc4489e8b5dc76e74677265656e2e73686f70
 https://t.me/proxy?server=188.34.166.237&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 https://t.me/proxy?server=192.168.1.1.apt-kernel.org.copan-moban.jahandent.com&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
-https://t.me/proxy?server=192.168.1.102.ads2-cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.littlepig-littlepig-letmein.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 https://t.me/proxy?server=192.248.184.176&port=443&secret=eefdbf5d6c4073581ca6486e828359bf2c7777772e7370656564746573742e6e6574
 https://t.me/proxy?server=193.68.89.220&port=67&secret=eeb81a29b7a3d4ee62bbd4194126c454cc646f63732e676f6f676c652e636f6d
 https://t.me/proxy?server=193.93.153.119&port=443&secret=ee6ea63f16082c83dae8859595949897046d63692e6972
