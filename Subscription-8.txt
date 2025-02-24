@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://qCfu8t%24s%7B2m%3BsTxm@172.66.47.62:2053?security=tls&sni=JOinMaHdISeRvEr-C1C.PaGES.dEV&type=ws&host=joinmahdiserver-c1c.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.62:2053
+trojan://Aimer@92.53.190.161:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇸🇮 SI-92.53.190.161:2087
+trojan://Aimer@107.174.79.149:443?sni=ngepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-107.174.79.149:443
+trojan://Aimer@206.238.237.146:2083?sni=agept.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.146:2083
+trojan://NISHIKUITAN111@104.19.44.160:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.44.160:443
 trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
 trojan://Aimer@45.67.214.41:2083?sni=agepw.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇨🇾 CY-45.67.214.41:2083
 trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.1.234:443
@@ -498,8 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7001
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8882
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8090
-ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@45.196.248.148:53003#🔒 SS-TCP-NA 🇲🇺 MU-45.196.248.148:53003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.4.123:443#🔒 SS-TCP-NA 🇧🇭 BH-16.24.4.123:443
-ss://YWVzLTI1Ni1nY206QjBVUEdMMklVU0IwVVY0Qg==@23.185.248.16:17006#🔒 SS-TCP-NA 🇺🇸 US-23.185.248.16:17006
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@80.92.204.106:9019#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9019
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.244.0.4:443#🔒 SS-TCP-NA 🇺🇸 US-54.244.0.4:443
