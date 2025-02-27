@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@3.64.205.189:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A533
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#US14%20602.5KB%2Fs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#%E6%9C%AA%E7%9F%A534%201.8MB%2Fs
+trojan://Aimer@108.165.152.36:2096?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&host=agepy.ambercc.filegear-sg.me#US15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E6%9C%AA%E7%9F%A535%20893.3KB%2Fs
+trojan://Aimer@188.253.6.210:443?sni=ngepz.ambercc.filegear-sg.me#TW
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A536
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&type=ws&sni=vfarid.xcdi.wOrKERS.DEV&host=vfarid.xcdi.wOrKERS.DEV#%E6%9C%AA%E7%9F%A537
+trojan://fa693e86-151e-3f46-95f5-49bb45c4ef8e@gy.58n.net:20142?sni=z142.hongkongnode.top#%E6%9C%AA%E7%9F%A538
+trojan://3747000103274291200@216.238.99.123:443?security=tls&type=tcp&sni=fancy-javelin.treefrog761.one#%E6%9C%AA%E7%9F%A539
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%E6%9C%AA%E7%9F%A540%2074.5KB%2Fs
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#%E6%9C%AA%E7%9F%A541
 trojan://bpb-trojan@172.67.70.92:443?security=tls&type=ws&sni=zamim340.ggff.net&path=/tr?ed=2560&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A542
 trojan://Aimer@192.200.160.109:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US16
