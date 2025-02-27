@@ -3,26 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8118
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.165.101:5498#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.101:5498
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZGY5ZDlmMC1jNWRiLTRlNjYtYmUwYy1jOTY3YzBkNjU4OGU=@38.150.12.187:39029#🔒 SS-TCP-NA 🇺🇸 US-38.150.12.187:39029
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.102:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UTVLYjRyMTBXQ1hzallsVDNxVVhi@128.199.117.46:44106#🔒 SS-TCP-NA 🇸🇬 SG-128.199.117.46:44106
-ss://bm9uZTphYmJjYWFjLWNhYmEtYWJhYy1iY2RhLWJhY2JjYWJjYWFjYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMi0yNyAxNzoyNSBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
-trojan://Aimer@108.165.152.29:2096?sni=agept.ambercc.filegear-sg.me#US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%E6%9C%AA%E7%9F%A5%2011.2MB%2Fs
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:46668?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK
-trojan://Aimer@213.109.205.45:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A52
-trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?security=tls&type=tcp&sni=uknode.soon.guru#%E6%9C%AA%E7%9F%A53
-trojan://Aimer@27.50.49.188:2096?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#%E6%9C%AA%E7%9F%A55%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.64.138.145:443#US2%201.7MB%2Fs
-trojan://Bw5Mz7QkVp@156.244.31.84:443?security=tls&type=tcp&sni=z-v2-082689.kailib.com#%E6%9C%AA%E7%9F%A56
-trojan://3747000103274291200@23.22.196.39:443?security=tls&type=tcp&sni=quick-viper.adder289.quest#US3
-trojan://Aimer@14.32.9.120:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A57
-trojan://Aimer@103.116.7.189:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US4
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#%E6%9C%AA%E7%9F%A58%201.7MB%2Fs
 trojan://Aimer@66.81.247.88:2083?security=tls&type=tcp&sni=ameqo.esslh.filegear-sg.me#US5
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5600#US6%201.7MB%2Fs
 trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A59
