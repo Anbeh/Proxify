@@ -3,9 +3,37 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://367d189c-dccf-38be-833a-70ea50bf2b47@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#2%7C%F0%9F%87%AF%F0%9F%87%B52%20%7C%20%206.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31213#%F0%9F%87%BA%F0%9F%87%B8%200%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%AE%BD%2002%20%7C%201x%20US%20Los%20Angeles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31215#%F0%9F%87%BA%F0%9F%87%B8%200%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2003%20%7C%201x%20US%20Washington
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31271#%F0%9F%87%AC%F0%9F%87%A7%200%7C%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E5%AE%B6%E5%AE%BD%2001%20%7C%201x%20UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31741#%F0%9F%87%B9%F0%9F%87%AD%200%7C%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD01%20%20%7C%201x%20TH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31721#%F0%9F%87%B2%F0%9F%87%BE%200%7C%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A01%20%7C%201x%20MY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31371#%F0%9F%87%AE%F0%9F%87%B3%200%7C%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6%2001%20%7C%201x%20IN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31411#%F0%9F%87%A6%F0%9F%87%BA%200%7C%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001%20%7C%201x%20AU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31441#%F0%9F%87%A8%F0%9F%87%A6%200%7C%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001%20%7C%201x%20CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31471#%F0%9F%87%A9%F0%9F%87%AA%200%7C%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2001%20%7C%201x%20DE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31511#%F0%9F%87%B7%F0%9F%87%BA%200%7C%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%2001%20%7C%201x%20RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31571#%F0%9F%87%B9%F0%9F%87%B7%200%7C%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31611#%F0%9F%87%BA%F0%9F%87%A6%200%7C%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31641#%F0%9F%87%BB%F0%9F%87%B3%200%7C%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31671#%F0%9F%87%A7%F0%9F%87%B7%200%7C%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
+trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:20298?allowInsecure=1&sni=z298.hongkongnode.top#2%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%204.4MB%2Fs
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.99:7002#2%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%201.1MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MjQzNzQ1OTE5ZDZkZTQ5YTVkYg@console.02.aliyun.aq.kunlunaqs.com:45578#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%202.3MB%2Fs
+trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#2%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%201.9MB%2Fs
+trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:16895?allowInsecure=1&sni=x40.flybar.work#2%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%201.2MB%2Fs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@169.197.142.99:8009#2%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%201.1MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.128.243.171:443#2%7C%F0%9F%87%A8%F0%9F%87%A61%20%7C%20%205.9MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.250.96.5:443#2%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%206.2MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.48.255:443#2%7C%F0%9F%87%A8%F0%9F%87%A62%20%7C%20%206.0MB%2Fs
+trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:20294?allowInsecure=1&sni=z294.hongkongnode.top#2%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%205.6MB%2Fs
+trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:20279?allowInsecure=1&sni=z279.hongkongnode.top#2%7C%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%206.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@hk01.x.quickcht3.club:52611#%F0%9F%87%AD%F0%9F%87%B0%202%2C12%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:20295?allowInsecure=1&sni=z295.hongkongnode.top#2%7C%F0%9F%87%A8%F0%9F%87%A63%20%7C%20%205.6MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.91.187.73:443#2%7C%F0%9F%87%BA%F0%9F%87%B813%20%7C%20%202.4MB%2Fs
+vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e68J+HuDE0IHwgIDUuNU1CL3MiLCJhZGQiOiIxNS5tYW1hbWFqZC5zaXRlIiwicG9ydCI6IjIzNjE1IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijk4YmZkZGIxLWFhNmYtMzM1NC05ZmM3LTVlYzk0YmExNWFlMSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjE1Lm1hbWFtYWpkLnNpdGUiLCJ0bHMiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#2%7C%F0%9F%8C%801-%20%7C%20%201.7MB%2Fs
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?allowInsecure=1&sni=hezijiasuqi.com#%F0%9F%87%AD%F0%9F%87%B0%2012%2C13%7C%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@hk01.x.quickcht3.club:52611#%F0%9F%87%AD%F0%9F%87%B0%2012%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 trojan://Vad3.123a%29asd1234-asdasd.asdazzS.123@43.154.83.213:443?allowInsecure=0&sni=xx.tc.hk.go.107421.xyz#%F0%9F%87%AD%F0%9F%87%B0%2012%2C13%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206TFpRMFI5Qkw2OUdDQzZGUw@8tv68qhq.slashdevslashnetslashtun.net:15005#%F0%9F%87%AD%F0%9F%87%B0%2012%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Mkg5OFVaVDlMVDFURTNYOQ@w72tapyb.slashdevslashnetslashtun.net:15008#%F0%9F%87%AD%F0%9F%87%B0%2012%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
@@ -475,31 +503,3 @@ vless://bcf52004-0af2-4f73-adf8-42579c0d385d@188.245.254.106:2053?security=none&
 vless://b3ec1385-e08f-422e-b32a-9d032f80ea01@172.66.44.197:443?security=tls&sni=MahDISERveR-xnr.pAgES.dev&type=ws&host=mahdiserver-xnr.pages.dev&path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.197:443
 vless://dbdb2d44-06a6-4696-bcc2-f3c765836553@81.28.12.12:443?type=ws&host=nl-gghty.maxima.us.kg&path=/vless?#🔒 VL-WS-NA 🇳🇱 NL-81.28.12.12:443
 vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?security=tls&sni=hq3.newretr432as.info&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:443
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.22.237:443
-vless://11aa66f6-19db-4858-9a42-0b7ab2b141e7@104.21.71.8:443?security=tls&sni=esna.itn24.ir&type=grpc&serviceName=%2F24464%2Fmehdi&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.8:443
-vless://78f34fa6-e5bf-4ad4-aa51-2bb50850ca7c@172.66.46.213:443?security=tls&sni=speedtest1.svgspeedtest.net&type=ws&host=speedtest1.svgspeedtest.net&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:443
-vless://3100c077-31fe-4539-bdb4-bdf965065ecf@185.79.158.142:8051?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.79.158.142:8051
-vless://95d42931-5fcc-4886-82a6-594c671a3286@199.232.38.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-199.232.38.133:443
-vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.32.1:8080?sni=201.58vtg99l.workers.dev&type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.32.1:8080
-vless://f0ba4f19-e910-4ffc-8540-1aa0f2155780@172.64.34.232:443?security=tls&sni=44j18o.iranlosangles.com&type=ws&host=44j18o.iranlosangles.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.232:443
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.29:443?security=tls&sni=147135004002.sec20org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-51.81.37.29:443
-vless://45ca1fb4-7da0-44b6-93e9-842ab28ae6c2@104.17.147.22:8443?security=tls&sni=03.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:8443
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.121.110:80
-vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.154:2053
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.174.232:8880?type=grpc#🔒 VL-GRPC-NA 🇩🇪 DE-138.199.174.232:8880
-vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.224:8443
-vless://c541d285-fc13-4c63-bdc5-e798f4c46a1b@37.202.232.228:4040?type=tcp&host=cafebazaar.ir&path=/&headerType=http&allowInsecure=1#🔒 VL-TCP-NA 🇮🇷 IR-37.202.232.228:4040
-vless://f0ba4f19-e910-4ffc-8540-1aa0f2155780@108.162.194.232:443?security=tls&sni=44j18o.iranlosangles.com&type=ws&host=44j18o.iranlosangles.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.232:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.229.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.229.57:2083
-vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&type=tcp&host=uptv.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.47.197.231:2020
-vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.102:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.102:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.228:8880?security=none&type=ws&host=redw.pooriam.ir&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇵🇭 PH-154.83.2.228:8880
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.154.232:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.154.232:443
-vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.32:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.32:80
-vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇹🇷 TR-95.164.34.105:2082
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.161:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-130.250.137.161:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.7.40:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.40:443
-vless://dad060e4-bfdc-438e-8400-05c15cfec3ba@173.245.58.100:80?security=none&type=httpupgrade&host=ger1.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.40.206:443
-vless://51308808-d262-46d6-b8a4-d580de802bea@151.101.2.228:80?security=none&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
-vless://f1d94c72-66c9-4eab-b66a-6ea7528a5837@173.245.58.100:2052?security=none&type=httpupgrade&host=5.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir&path=%2FGoodLuck%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:2052

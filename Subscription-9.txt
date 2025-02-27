@@ -3,6 +3,34 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206TDRKT1lVWlhGV0ZYOUUwTg==@154.196.244.15:16005#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.15:16005
+ss://bm9uZTphYmJhY2FjLWFiY2EtYWJhYy1iYWRjLWFhYmFiYmFiY2NjYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMi0yOCAwMToyOCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5
+trojan://Bw5Mz7QkVp@45.76.14.107:443?security=tls&type=tcp&sni=z-v2-076978.kailib.com#US
+trojan://Aimer@46.29.235.31:2053?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A52
+trojan://Aimer@14.32.9.120:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A53
+trojan://IY4gWQIsHV@104.21.96.1:2087?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/mehdi&host=esna.twn24.ir#%E6%9C%AA%E7%9F%A54
+trojan://Aimer@14.41.85.118:12101?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A55
+trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&type=grpc&sni=007.com#TW
+trojan://Aimer@108.165.152.252:2096?sni=agept.ambercc.filegear-sg.me#US2
+trojan://SSorg@77.232.140.7:443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A56
+trojan://Aimer@154.21.93.92:37955?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsLUNvd1ZtNGVkY2YyZ3AtV2NKRDFn@45.14.247.49:5555#%E6%9C%AA%E7%9F%A57
+trojan://TUFfeTYV56@172.67.141.68:2096?security=tls&type=httpupgrade&sni=mizban.ITN24.IR&path=/?ed=2048&host=mizban.ITN24.IR#%E6%9C%AA%E7%9F%A58
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&type=ws&sni=vfarid.xcdi.wOrKERS.DEV&host=vfarid.xcdi.wOrKERS.DEV#%E6%9C%AA%E7%9F%A59
+trojan://Aimer@59.1.59.225:50000?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A510
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50018?#HK
+trojan://Aimer@154.17.228.203:443?sni=agepq.ambercc.filegear-sg.me#US4
+trojan://auto@104.20.22.149:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A511
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.59:2376#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8%201.9MB%2Fs
+trojan://Aimer@121.180.184.145:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A512
+trojan://edZItoAdBZ@172.67.141.68:443?security=tls&type=ws&sni=mehrnews.ITN24.IR&path=/14755/?ed=2048#%E6%9C%AA%E7%9F%A513
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4=@103.174.86.113:51348#%E6%9C%AA%E7%9F%A514%201.2MB%2Fs
+trojan://telegram-id-directvpn@63.34.124.205:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A515%207.4MB%2Fs
+trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A516
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#%E6%9C%AA%E7%9F%A517
+trojan://3747000103274291200@216.238.77.127:443?security=tls&type=tcp&sni=grateful-glowworm.treefrog761.one#%E6%9C%AA%E7%9F%A518
 trojan://3747000103274291200@43.202.142.243:443?security=tls&type=tcp&sni=humble-rodent.treefrog761.one#%E6%9C%AA%E7%9F%A519
 trojan://bpb-trojan@104.21.75.193:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&path=/tr?ed=2560&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A520
 ss://YWVzLTI1Ni1nY206WU1CM1FMODVMN0YxS0pSNw==@8tv68qhq.slashdevslashnetslashtun.net:18013#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
