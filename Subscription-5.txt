@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.112.1:8080?type=ws&host=gshsgshs.jqxkqk.workers.dev&path=%2FG5osp2zVyKHC9gj0%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.112.1:8080
+vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.254:8443?security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev&type=ws&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.149.12.254:8443
 vless://fa06b45e-f7b8-4c13-968e-5a9251ccf009@172.66.47.165:2083?security=tls&sni=maHdIsERveR-33Y.pAGes.Dev&type=ws&host=mahdiserver-33y.pages.dev&path=%2Fi22zFcGKtNowaZdY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.165:2083
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@108.162.195.199:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.199:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.240.216:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇫🇮 FI-37.27.240.216:8880
@@ -501,5 +503,3 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.38.176:443?security=tls&sni=
 vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?security=tls&sni=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&type=ws&host=37c60f8d.albangurakuqi.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.68:443
 vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.21:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.21:80
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.2.60:443?security=tls&sni=nikuw.sspeednetokala.uS.kg&type=ws&host=nikuw.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.2.60:443
-vless://9f476b31-5b9f-4b03-8846-2b5dc9efcee7@172.66.168.201:443?security=tls&sni=tR-Full.PRIvatEIP.Net&type=ws&host=tR-Full.PRIvatEIP.Net&path=%2FVLESS#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.201:443
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.191:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.191:80

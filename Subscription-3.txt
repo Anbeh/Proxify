@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.211.208:443
+vless://d7c8dc05-cde7-404a-9245-021b97fabe27@78.157.63.60:49342?security=none&type=ws&host=yBYTT.divarcdn.com,kDhBx.snappfood.ir,vOAjf.yjc.ir,Lpi2l.digikala.com,N5NBR.tic.ir&path=/Zarin3#🔒 VL-WS-NONE 🇮🇷 IR-78.157.63.60:49342
 vless://308a14d1-cfae-405f-9d69-2922f87ee79b@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.21.1.12:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.1.12:80
 vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=pPaL03.JesSy-PADBerg.WorkeRS.DEv&type=ws&host=pPAL03.JESSy-pAdbErg.workERs.deV&path=%2FlMuv-8IfB5AOf3_-%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.87:443
@@ -501,5 +503,3 @@ vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&sni
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@104.18.123.117:2053?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.123.117:2053
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&type=ws&host=w26io.deonta-yancy.workers.dev&path=%2F%3Fed%3D2048@alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi%2C@alpha_v2ray_fazayi&fp=edge&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.43:443
 vless://723af342-568e-4332-9233-6f33a9ca2de8@104.20.18.168:80?security=none&sni=v2raylandd-88.vmjisexa.workers.dev&type=ws&host=v2raylandd-88.vmjisexa.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:80
-vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=%2FV2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.157.124:80
-vless://e80a5c54-ea7d-4eeb-80a4-76d1c6a0b1c6@173.245.58.100:8880?security=none&type=httpupgrade&host=iraniV2ray.nanowaash-shop.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:8880
