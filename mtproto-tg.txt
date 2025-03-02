@@ -301,6 +301,7 @@ https://t.me/proxy?server=65.108.84.7&port=443&secret=ee000000000000000000000000
 https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000
 https://t.me/proxy?server=65.109.194.15&port=3598&secret=ee00000000000000000000000000000000636f6465782e6972
 https://t.me/proxy?server=65.109.215.85&port=3598&secret=ee00000000000000000000000000000000636f6465782e6972
+https://t.me/proxy?server=65.109.221.188&port=3598&secret=ee00000000000000000000000000000000636f6465782e6972
 https://t.me/proxy?server=65.21.1.2&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000
 https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d
@@ -507,10 +508,8 @@ https://t.me/proxy?server=sni.needhost.ir&port=443&secret=ee796766928008632f04a8
 https://t.me/proxy?server=some.json.healthcare&port=443&secret=ee83e29319c1b8a7c8abb38061eae6f3536c69622e617276616e636c6f75642e636f6d
 https://t.me/proxy?server=spider.hackquest.com&port=443&secret=ee4202e1c80d4eacf5cb93b629830f9c9f7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=spider.ohbah.com&port=443&secret=ee7dd05021c48215d900aed3158f8ee01e7777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=spider.raspberryip.com&port=443&secret=ee2264dad0a112195a397b44d74940956f7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=spider.servernux.com&port=443&secret=ee41a4c3951d31b042f4bbac7801fb33c77777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=spider.serverpit.com&port=443&secret=eeef1350c96e7794f4ac2a15da8be007937777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=spider.synoserver.com&port=443&secret=eeac4e10848f6bc0250d1660875987e2447777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=sport.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020
 https://t.me/proxy?server=svic.ir.iran-side.com.fullkickboxing.org.behintrans.com.dacmk.ir.bahardl.ir.tikalcenter.ir.tak-miveh.ir.mahta.ir.bornaonline.com.iranhankooktire.ir.sardkhooneh.com.boo-kap.ir.zanaax.ir.fdderp.ir.tikin.org.poolshomar.com.kimiacarbon.com.tipaxcompany.site&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=taranesora.ertafoo.xyz&port=8443&secret=ee3b2f1bdd794a2fa001350192ff7a02c56769746875622e636f6d
