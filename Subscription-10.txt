@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://Aimer@104.18.123.117:2053?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#%E6%9C%AA%E7%9F%A52
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#US%201.7MB%2Fs
-trojan://blue2024@104.16.93.142:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@95.164.122.61:54075#US2%2023.4KB%2Fs
-trojan://Aimer@162.159.44.229:8443?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A54
-trojan://3747000103274291200@62.112.221.57:443?security=tls&type=tcp&sni=integral-malamute.adder289.quest#%E6%9C%AA%E7%9F%A55
-trojan://fsoOufuTGmSKzRDaAwAbww@185.226.93.9:443?security=none&type=tcp#%E6%9C%AA%E7%9F%A56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmNlNTFlMy1mNjFlLTQ0ODktYTc0OS0xNjI2NzgxNDJjYzA=@free.2weradf.xyz:36115#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&type=grpc&sni=cdn-21.gsmxreality.com#%E6%9C%AA%E7%9F%A57
-trojan://Aimer@5.182.86.252:2053?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A58
-trojan://3747000103274291200@185.67.125.147:443?security=tls&type=tcp&sni=polished-collie.adder289.quest#%E6%9C%AA%E7%9F%A59
-trojan://Aimer@45.59.187.105:26443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@93.115.10.213:40019#%E6%9C%AA%E7%9F%A510
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.254.209:443#%E6%9C%AA%E7%9F%A511%20192.2KB%2Fs
 trojan://telegram-id-privatevpns@18.169.169.38:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A512
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmNlNTFlMy1mNjFlLTQ0ODktYTc0OS0xNjI2NzgxNDJjYzA=@free.2weradf.xyz:36721#%F0%9F%87%B2%F0%9F%87%BEMY%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#%E6%9C%AA%E7%9F%A513%20277.3KB%2Fs
