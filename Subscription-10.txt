@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206N1U0WTFXUUJIS0lNR0ZCUg==@156.231.104.16:18006#%E6%9C%AA%E7%9F%A541
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@170.64.220.25:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A542
+trojan://Aimer@154.218.15.250:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#HK8
+trojan://Aimer@209.208.227.79:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#US23
+trojan://3747000103274291200@185.67.127.69:443?security=tls&type=tcp&sni=ultimate-civet.adder289.quest#%E6%9C%AA%E7%9F%A543
+trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%E6%9C%AA%E7%9F%A544
 trojan://Aimer@154.197.64.196:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A545
 trojan://blue2024@104.129.167.128:443?security=tls&type=tcp&sni=ta.promote.icu#US24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg==@89.221.224.166:8388#%E6%9C%AA%E7%9F%A546%209.1MB%2Fs
