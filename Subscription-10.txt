@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjMiLCJhZGQiOiIxMDQuMjEuNDQuMTg1IiwicG9ydCI6IjIwOTYiLCJpZCI6ImRiN2U0ODJmLWM4MzYtNDM4ZC05YmQ4LWZmYmZkYjQyOGM3ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJtdWx0aSIsImhvc3QiOiJGcmVlZG9taXNuZWFyLm9uZXR3b3RocmVlMTIzLmlyIiwicGF0aCI6Ii9tZWhkaSIsInRscyI6InRscyIsInNuaSI6IkZyZWVkb21pc25lYXIub25ldHdvdGhyZWUxMjMuaXIiLCJ0ZXN0X25hbWUiOiI2MyJ9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#%E6%9C%AA%E7%9F%A564%201.8MB%2Fs
-trojan://Aimer@162.159.44.235:2053?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A565
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUFZvZUFPNE1CNTRMN01MczJza2RY@94.131.3.203:45230#%E6%9C%AA%E7%9F%A566
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@217.182.198.219:8118#%E6%9C%AA%E7%9F%A567%201.8MB%2Fs
-trojan://telegram-id-privatevpns@18.170.75.104:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A568
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#%E6%9C%AA%E7%9F%A569%201.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#%E6%9C%AA%E7%9F%A570
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.29:443?security=tls&sni=trus.moonfree.top#US16
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:10465?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK6
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#US17%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#US18%201.9MB%2Fs
