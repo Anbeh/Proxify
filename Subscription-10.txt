@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:10465?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK6
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#US17%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#US18%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#%E6%9C%AA%E7%9F%A571%201.8MB%2Fs
-trojan://ouo@65.75.193.154:14491?type=ws&sni=tr.koiok.us.kg&host=tr.koiok.us.kg#US19
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#US20
-ss://YWVzLTI1Ni1nY206WUtCNDJKR0tLOEg1RElXRg==@23.185.248.12:17002#US21
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%E6%9C%AA%E7%9F%A572%201.7MB%2Fs
-trojan://NISHIKUITAN222@141.101.121.176:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A573
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&type=tcp&sni=nextstepcareer.online#%E6%9C%AA%E7%9F%A574
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#%E6%9C%AA%E7%9F%A575%20376.8KB%2Fs
-trojan://Aimer@45.66.216.162:50000?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A576
-trojan://Aimer@161.145.150.26:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US22
-trojan://Aimer@178.128.198.120:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A577
 trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#%E6%9C%AA%E7%9F%A578
 trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.172:10465?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK7
 trojan://Aimer@5.182.84.52:2083?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A579
