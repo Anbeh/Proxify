@@ -3,6 +3,21 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.135.208:2375#US25%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.135.18:6697#US26%201.8MB%2Fs
+trojan://Aimer@23.94.136.126:8080?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US27
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTggMjY1LjJLQi9zIiwiYWRkIjoiMTkzLjEwOC4xMTcuMTQzIiwicG9ydCI6IjI0MTY0IiwiaWQiOiJhYTNjNWMxOC02NTc4LTRkZTMtYjg5MC0yZmQyNWMzYThmMzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1OCJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#US28%201.7MB%2Fs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#%E6%9C%AA%E7%9F%A559%2021.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%E6%9C%AA%E7%9F%A560%2012.9MB%2Fs
+ss://YWVzLTI1Ni1nY206TE44NTVCQUNNWldDMUNSNw==@156.245.190.21:15012#HK4
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#%E6%9C%AA%E7%9F%A561%201.8MB%2Fs
+trojan://SSorg@154.197.64.104:8443?security=tls&type=ws&sni=ssjj.esslh.filegear-sg.me&path=/?ed&host=ssjj.esslh.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A562
+trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@165.227.229.34:443?security=tls&sni=uk2-full.privateip.net#%E6%9C%AA%E7%9F%A563
+trojan://fnufMt%3AsQ%26rC0HUu@172.66.44.172:2083?security=tls&type=ws&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&host=joinmahdiserver-6vv.pages.dev#%E6%9C%AA%E7%9F%A564
+trojan://blue2024@172.67.135.57:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A565
+ss://YWVzLTI1Ni1nY206UUZSM0ZTUU1RUlpMNEhRMg==@156.231.104.12:18002#%E6%9C%AA%E7%9F%A566
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&sni=NOp-55q.pAgEs.dEv#%E6%9C%AA%E7%9F%A567
 trojan://Aimer@210.99.204.14:10044?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A568
 trojan://Aimer@162.159.44.227:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A569
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%E6%9C%AA%E7%9F%A570%2012.4MB%2Fs
