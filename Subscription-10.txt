@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%E6%9C%AA%E7%9F%A513%208.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNmZkMDI1NC1iYmFmLTQ5YjktYjRkOC0zMGVhYTViMDU3NTg=@free.2weradf.xyz:36243#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.6:443?security=tls&sni=trus.moonfree.top#US5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWI3NTc4OC1iMGNiLTRmMzgtYTM5YS03Mjc1OWU1MzFjMzg=@free.2apzhfa.xyz:31113#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://Aimer@65.109.199.131:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A514
+trojan://b80Iy90Fma@104.26.9.227:443?security=tls&type=ws&sni=usa03.rtx.al&path=/cfyyds&host=usa03.rtx.al#%E6%9C%AA%E7%9F%A515
+trojan://NISHIKUITAN111@104.24.60.239:443?#%E6%9C%AA%E7%9F%A516
+trojan://Aimer@213.109.205.45:443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A517
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@198.199.78.30:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#US6
 trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&type=ws&sni=za.ylks.xyz&path=/&host=za.ylks.xyz#US7
 trojan://Aimer@104.25.254.197:2096?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A518
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%E6%9C%AA%E7%9F%A519%2036.6MB%2Fs
