@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://19282dc7-eed7-5656-b489-93b5ddf266c9@151.101.193.6:80?type=ws&host=Join-shokhmiplus.ir&path=%2F#🔒 VL-WS-NA 🇺🇸 US-151.101.193.6:80
-vless://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?security=none&type=ws&host=divine-limit-e9df-ppal03.jorekon645.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.158.124:80
-vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@172.67.151.188:8880?security=none&type=kcp#🔒 VL-KCP-NONE 🏴‍☠️ NA-172.67.151.188:8880
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:80?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.161:80
 vless://255b4df3-080b-4846-866c-24992a29467d@151.101.74.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.74.133:443
 vless://3cf80f1a-1d9e-4d49-af99-c64a8f0398df@66.235.200.20:2096?security=tls&sni=Channel-telegram-eiiim.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.20:2096
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?type=grpc#🔒 VL-GRPC-NA 🇫🇮 FI-157.180.35.109:8880
@@ -503,3 +499,7 @@ vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.16.1:8080?type=ws&host=gshsg
 vless://68b48c28-92c7-4f0b-bd39-21e5699f50cc@172.67.2.238:443?security=tls&sni=v2raylandd-89.vmjisexa.workers.Dev&type=ws&host=v2raylandd-89.vmjisexa.workers.Dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
 vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@172.67.160.179:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.160.179:8880
 vless://98caf934-d51f-47d3-89ec-09ea781839c2@108.162.198.103:443?security=tls&sni=tunnel.amclubsss.us.kg&type=ws&host=tunnel.amclubsss.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.198.103:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?security=tls&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.131:2087
+vless://aba23245-8389-4d61-a6c3-b72e8603b1bb@151.101.59.75:80?security=none&type=xhttp&host=jabervistaroham.com&path=%2F%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.59.75:80
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.25.165.81:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.165.81:443
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@108.162.192.154:2087?security=tls&sni=a17.nnotamel-01.fun&type=grpc&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.192.154:2087
