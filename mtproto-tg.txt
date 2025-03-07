@@ -492,7 +492,6 @@ https://t.me/proxy?server=pr.v2abprime.com&port=443&secret=ee83f362ff70064c668de
 https://t.me/proxy?server=proxy.domainpanel.blog&port=45&secret=eebf1e173c14bf16a330fcd02deac65e247777772e73332e616d617a6f6e2e636f6d
 https://t.me/proxy?server=proxy.mainshop.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=pwtyzmewb32f.librekit.com&port=443&secret=ee915818963f39435ebc8d07feb36afcb76564782e636f6d
-https://t.me/proxy?server=rakadron.komperiistaionnop.info&port=443&secret=ee151151151151151151151151151151152d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2da
 https://t.me/proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.sbs&port=70&secret=ee583d7d7bcd6a0b8f8b2314d75d993eec7777772e7370656564746573742e6e6574
 https://t.me/proxy?server=rog.happyground.ir&port=443&secret=ee33d929ccfff64f2ca7dbaac5eaed8c497a756c612e6972
 https://t.me/proxy?server=ru.shanlian.app&port=8443&secret=ee1d13459cf7db52309ab5498eae6a1650617a7572652e6d6963726f736f66742e636f6d
