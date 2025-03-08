@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?security=tls&sni=5c53ca21.vpn-aryoo.pages.dev&type=ws&host=5c53ca21.vpn-aryoo.pages.dev&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.7:443
 vless://31348b17-4ab2-40c0-b79e-c81032331d30@185.135.9.138:2086?security=none&sni=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev&type=ws&host=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇩🇪 DE-185.135.9.138:2086
 vless://3618c3e4-b322-4553-b776-61556bea3757@104.21.96.1:2096?security=tls&sni=MAHdIServEr-3Xv.paGeS.DEv&type=ws&host=mahdiserver-3xv.pages.dev&path=%2FHOEtfSgg9GnPDz38%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:2096
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.138.178:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.138.178:2087
@@ -503,3 +502,4 @@ vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?security=tls&sni
 vless://f3562b04-2f2b-433a-80b4-45f60d659004@172.67.187.251:2095?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:2095
 vless://df69d52e-c136-4087-b4de-11c7cd083a9b@104.19.223.79:80?security=none&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996speed02.bluemizban.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.223.79:80
 vless://ff4d8542-220d-52be-8efb-d1fc0c43bc83@45.89.55.188:80?security=none&type=ws&host=rs1.vless.sitespeedtest.net#🔒 VL-WS-NONE 🇷🇸 RS-45.89.55.188:80
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.212:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.212:443
