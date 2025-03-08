@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.212:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.212:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.83:443
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.124.80:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-51.81.124.80:443
 vless://0422e520-c34a-43d9-a76b-e77e266f484a@188.245.96.137:1717?security=none&type=grpc&serviceName=1717vless#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.96.137:1717
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.209.27:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.27:80
@@ -501,5 +503,3 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@140.238.218.65:8443?security=tls&sn
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?security=tls&sni=GrOupYOUNeS.PAGes.DEV&type=ws&host=GrOupYOUNeS.PAGes.DEV&path=%2FQKSAoBjr7TCbZcjm%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.25:443
 vless://62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?security=tls&sni=pardazeshvpn-tg62.pages.dev&type=ws&host=pardazeshvpn-tg62.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.127:8443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.233:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.233:443
-vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?security=none&type=kcp#🔒 VL-KCP-NONE 🏴‍☠️ NA-104.21.1.12:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.244.221:8443?security=tls&sni=HAStI.FreEAiRlaineS.CoM&type=ws&host=HAStI.FreEAiRlaineS.CoM&path=%2F%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.221:8443
