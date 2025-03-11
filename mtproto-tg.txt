@@ -190,7 +190,6 @@ https://t.me/proxy?server=1a236c5ab82fe111.digiarray.xyz&port=443&secret=ee07207
 https://t.me/proxy?server=1a2a27fc18402a2a.digiarray.xyz&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=1bf5cd9f390cf470.digiarray.xyz&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=1caf7cb4f5dc232a.digiarray.xyz&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
-https://t.me/proxy?server=2.56.179.136&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 https://t.me/proxy?server=2.vrem-noroi.pro&port=443&secret=ee8f6b1c675b5f0ad69a5d21db3966382e73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=203b119d27169cd4.digiarray.xyz&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
 https://t.me/proxy?server=204.12.192.218&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267
