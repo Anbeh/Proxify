@@ -174,7 +174,6 @@ https://t.me/proxy?server=212.33.198.29&port=443&secret=ee0000000000000000000000
 https://t.me/proxy?server=212.33.205.58&port=80&secret=eef4359a9b325ff1d1e5084df0e0f7537b7777772e6972616e2e676f762e6972
 https://t.me/proxy?server=212.34.148.183&port=443&secret=ee0000f00f0f775555fffffff5006e2e69612d2d2d2d2d2d2d2d
 https://t.me/proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
-https://t.me/proxy?server=213.159.72.30&port=2098&secret=ee95b881e1e7f3817d0873ca2865a94f1c7a756c612e6972
 https://t.me/proxy?server=213.35.99.65&port=443&secret=eecfa593a46b9154342c3681da1856673a617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=23.225.63.130&port=40193&secret=eeb4b9b34c8b6e94b4b5af857deca1e439617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=23.88.41.166&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
@@ -217,6 +216,7 @@ https://t.me/proxy?server=47.238.172.25&port=443&secret=ee58711f5a76ed5fa89c68e9
 https://t.me/proxy?server=47.238.176.203&port=443&secret=eeb0c9d18703217cfc5d5b760d00786556617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.238.177.170&port=443&secret=eec71b738a5ba0d417193f8ba2124946a5617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.238.182.19&port=443&secret=ee1d87fa81bce64d208c1e814b7ef62b2c617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.238.194.194&port=443&secret=ee46801e297a9729a587d91422d09ef972617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.238.200.8&port=443&secret=ee24c533cde8a236b80032fb5f5c89e870617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.238.230.80&port=443&secret=eebaa422c4debf712c4d31bd2e7d052341617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.130.87&port=443&secret=ee7ea2df83d447e8f95002949498ad6e28617a7572652e6d6963726f736f66742e636f6d
@@ -399,7 +399,6 @@ https://t.me/proxy?server=astatine.delta.lg.snapchat.paypal.phi.omicron.transfer
 https://t.me/proxy?server=backend.chandplus.com&port=443&secret=ee796766928008632f04a82ff64abdabee6261636b656e642e6368616e64706c75732e636f6d
 https://t.me/proxy?server=bazaar-e.ir&port=3598&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=berke.wikimoon.sale&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1646d797765622e636c6f756466726f6e742e6e6574
-https://t.me/proxy?server=bido.bido.bib.bib.habib.ir.ir.com.ir.tekvibe2.ir&port=443&secret=ee00000000000000000000000000000000046c2e677f6f6766652e636f6d
 https://t.me/proxy?server=bmw.nyctophilia.ir&port=443&secret=ee33d929ccfff64f2ca7dbaac5eaed8c497a756c612e6972
 https://t.me/proxy?server=caripoltng.spacyictrucar.space&port=443&secret=ee119119119119119119119119119119112d2d2d2d2d2d7765622e61707063656e7465722e6d73692d2d2d2d2d2df
 https://t.me/proxy?server=cdn01-letv.chemistrycode.org&port=443&secret=eebb0fb8c55c75c3e561e242fb440a846d697263646e2e7a68616b65742e636f6d
@@ -480,6 +479,7 @@ https://t.me/proxy?server=mmm.mmmmmmmmmmmm.eeeeeeeeeeeeeeeeeeeeeee.eeeeeeeeeeeee
 https://t.me/proxy?server=my.irtower-a.ir&port=3598&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=my.moon-night.ir&port=443&secret=ee612dc96b14b1ee08df2cd9c2297c61e17777772e7370656564746573742e6e6574
 https://t.me/proxy?server=n.cdnhub.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6e2e63646e6875622e6972
+https://t.me/proxy?server=new.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=new.bestlive.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=nobify.org.line-ir.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_p_css.scooper.events&port=443&secret=ee000000000000000000000000000000006d792e736861706172616b2e6972
