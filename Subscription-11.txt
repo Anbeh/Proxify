@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-hysteria2://999fe97a-5cd1-4f9f-9826-85db2b50a6ef@yingguo1.su8.lol:8899?sni=yingguo1.su8.lol#10%7C%E8%8B%B1%E5%9B%BD%E4%BC%A6%E6%95%A6-1
-hysteria2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=www.bing.com#10%7CHysteria%20%F0%9F%87%AC%F0%9F%87%A7%20%40v2meowcf
-hysteria2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=www.bing.com#10%7CHysteria%20%F0%9F%87%B3%F0%9F%87%B1%20%40v2meowcf
 hysteria2://e20abb22a245edb0@fast.yxmm.xyz:8443?insecure=1&sni=TG频道@zqnb122100#10%7C%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0%20HY2
 hysteria2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=www.bing.com#10%7CHysteria%20%F0%9F%87%B7%F0%9F%87%B4%20%40v2meowcf
 hysteria2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=ELiV2RAY.eliv2.top&obfs=salamander&obfs-password=8c3ce17b#10%7C%40ToYoTA_PRoXY
