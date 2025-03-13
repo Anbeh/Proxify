@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTova0dwWU13QlVmSlVTM0FOQ0l2YnI3RnpPRDdmclUvVDd3bVhMa0RJSDVRPQ==@23.88.54.248:443#🔒 SS-TCP-NA 🇩🇪 DE-23.88.54.248:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZGY5ZDlmMC1jNWRiLTRlNjYtYmUwYy1jOTY3YzBkNjU4OGU=@38.150.12.187:39029#🔒 SS-TCP-NA 🇺🇸 US-38.150.12.187:39029
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5004#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5004
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9006
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@217.30.10.18:9059#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9059
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8080
@@ -498,8 +503,3 @@ hysteria2://2e123ad7-ef52-4277-805c-25637ae506ad@oracle-br.mmaccc.top:33017?inse
 hysteria2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443?insecure=1&sni=www.bing.com#9%7CHysteria%20%F0%9F%87%B8%F0%9F%87%AC%20%40v2meowcf
 hysteria2://8ec9bcb6-328c-4182-bcfa-52d89881a523@sgv1.tigrdn1.xyz:443?insecure=1&sni=sgv1.tigrdn1.xyz#9%7C%5BHy2%5D%E6%96%B0%E5%8A%A0%E5%9D%A1v1%28x2%29
 hysteria2://999fe97a-5cd1-4f9f-9826-85db2b50a6ef@yingguo1.su8.lol:8899?sni=yingguo1.su8.lol#9%7C%E8%8B%B1%E5%9B%BD%E4%BC%A6%E6%95%A6-1
-hysteria2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443?insecure=1&sni=www.bing.com#9%7CHysteria%20%F0%9F%87%AC%F0%9F%87%A7%20%40v2meowcf
-hysteria2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443?insecure=1&sni=www.bing.com#9%7CHysteria%20%F0%9F%87%B3%F0%9F%87%B1%20%40v2meowcf
-hysteria2://e20abb22a245edb0@fast.yxmm.xyz:8443?insecure=1&sni=TG频道@zqnb122100#9%7C%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0%20HY2
-hysteria2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443?insecure=1&sni=www.bing.com#9%7CHysteria%20%F0%9F%87%B7%F0%9F%87%B4%20%40v2meowcf
-hysteria2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=ELiV2RAY.eliv2.top&obfs=salamander&obfs-password=8c3ce17b#9%7C%40ToYoTA_PRoXY
