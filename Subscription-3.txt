@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://2c699fc7-cc37-4ca3-a7fe-c7ab9355a248@129.159.227.221:443?security=tls&flow=xtls-rprx-vision&sni=767w1-7kjd0-9kcf2.xn--4gq62f52gppi29k.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇮🇳 IN-129.159.227.221:443
-vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.245.156:2087
 vless://80ce1755-a23c-4bd3-9683-da7d9d33d604@151.101.66.133:443?security=tls&sni=minnanoshare.net&type=xhttp&host=test8375828.global.ssl.fastly.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.66.133:443
 vless://563709ea-3663-4f86-b413-5299897659a5@104.18.12.149:2053?security=tls&sni=laj.iranianmobail.ir&type=ws&host=laj.iranianmobail.ir&path=/telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----telegram-@alo_v2rayng----9KsgRW1AnYtwZOVz&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.149:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
@@ -503,3 +501,5 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?security=tls&sni
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.226:2052?security=none&type=ws&host=gozargah.validbv7996.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.226:2052
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-135.148.152.108:443
 vless://d687fb60-b650-4429-9187-58bad6d689d5@162.159.24.142:443?security=tls&sni=messi10.pages.dev&type=ws&host=messi10.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:443
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@172.64.151.234:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.151.234:443
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.21.92.241:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.241:443

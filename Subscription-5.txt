@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.96.113:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.113:443
-vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.17.233.79:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.233.79:443
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.67.209.163:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=@VPNHTTPInjectorfree#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.209.163:80
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.138.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.138.232:8880
 vless://655309ff-3b17-4c47-8984-7646d1581bdd@104.26.13.54:443?security=tls&sni=joinmahdiserver.colib63603.workers.dev&type=ws&host=joinmahdiserver.colib63603.workers.dev&path=%2Fjoinmahdiserver.colib63603.workers.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
@@ -503,3 +501,5 @@ vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@172.67.204.84:2087?path=/#🔒 VL-T
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.46.246:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.246:2087
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@45.194.53.81:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.81:2096
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.80:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-92.243.75.80:443
+vless://b3903a4d-d9e7-4b7d-82a3-292116fbceb8@104.17.221.248:443?security=tls&sni=de.oldcloud.online&type=ws&host=de.oldcloud.online&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.221.248:443
+vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-185.16.110.30:2052
