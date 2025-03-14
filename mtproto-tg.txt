@@ -227,6 +227,7 @@ https://t.me/proxy?server=47.242.153.178&port=443&secret=eea4a3abbcf6277344cd761
 https://t.me/proxy?server=47.242.16.201&port=443&secret=eec03c2ff1e6606b8253bba5fb42b93426617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.173.235&port=443&secret=ee11cbb208eb7211674171e9854cba86f0617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.223.207&port=443&secret=ee3dd4cd438e9a7b8511c1a9d9ca73b0b9617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.242.236.147&port=443&secret=ee1cd0d76f754387a05018ef0079f02b1b617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.80.195&port=443&secret=ee147d67265db53e8bc62be847c1b0ff43617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.82.156&port=443&secret=ee94f130f13536d37c051a5541fd68813f617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.90.21&port=443&secret=eefb328f8c69e34ef5023a400e7113c701617a7572652e6d6963726f736f66742e636f6d
@@ -478,7 +479,6 @@ https://t.me/proxy?server=interfaces-eth0-eth1-allow.firewall.ufw.iptables.mikro
 https://t.me/proxy?server=interfaces-eth1-eth0-allow.firewall.ufw.iptables.mikrotik.sfp.all-rules.allowed.allow-icmp.popular-firewalls.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-interfaces.rejectall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=iran.ir.aparat.ir.digikala.com.snapfood.ir.varzesh3.com.xn--ne-rv2cvta065cca7403eea3192d.cr-goveaccept-et01.com&port=18&secret=ee52c867dc75983faf4bb37f91d5164f092d
 https://t.me/proxy?server=irancell.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=irancell.irancell.irancell.irancell.irancell.irancell.iral.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irance.portiontel.space&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=jooje.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
