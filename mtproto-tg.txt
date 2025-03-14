@@ -401,7 +401,6 @@ https://t.me/proxy?server=95.217.149.17&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=95.217.149.18&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.149.19&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=adsl.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
-https://t.me/proxy?server=alibaba.com.digikala.ir.apparat.com.grizzzlyyyy.ir&port=8443&secret=ee01f010a10c0d0e0d101e100101ffaeee7265736561726368676174652e6e6574
 https://t.me/proxy?server=all.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee616c6c2e6e656564686f73742e6972
 https://t.me/proxy?server=amir.com.ir.co.uk&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=android.mobile-worldav.ir&port=443&secret=eeae9cbf67228055cc0726cb81d75b0db37765622e65697461612e636f6d
