@@ -29337,16 +29337,16 @@
 46.48.94.246:8080
 183.215.23.242:9091
 8.211.194.78:8443
-47.243.113.74:5555
-158.255.77.169:80
-50.218.208.14:80
+122.5.194.38:1001
+194.150.255.207:3128
 158.255.77.168:80
-47.107.108.88:1443
-212.69.125.33:80
-60.187.244.13:8085
-23.88.116.40:80
+47.88.59.79:82
+39.175.75.144:30001
+4.155.2.13:80
+71.14.218.2:8080
 85.26.146.169:80
-218.75.224.4:3309
+47.97.121.189:1000
+158.255.77.169:80
 <!DOCTYPE HTML>
 <HTML lang="en"><HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29408,8 +29408,8 @@ Play <a href="https://ichess.com">chess</a> online
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
-var multiproxy_org_3024 = '619';
-_gaq.push(['_setAccount', 'UA-2'+multiproxy_org_3024+'35-5']);
+var multiproxy_org_2870 = '619';
+_gaq.push(['_setAccount', 'UA-2'+multiproxy_org_2870+'35-5']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
