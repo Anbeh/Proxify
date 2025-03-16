@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@162.159.192.155:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.155:443
 vless://95d42931-5fcc-4886-82a6-594c671a3286@199.232.66.133:80?security=none&type=xhttp&host=hormozvpnnnnnnnnnnn.global.ssl.fastly.net&path=/#🔒 VL-XHTTP-NONE 🇺🇸 US-199.232.66.133:80
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.154:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.154:80
 vless://b3d4cf64-be93-4bc5-a58f-3145a70e29c3@172.66.44.124:2083?security=tls&sni=mAHDiSeRver-D9N.PAGES.Dev&type=ws&host=mahdiserver-d9n.pages.dev&path=%2F0nV5bznLGDhgkift%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.124:2083
@@ -503,3 +502,4 @@ vless://16c0a741-9e93-4fc0-8479-ce582203860f@65.21.181.218:8880?type=grpc&servic
 vless://8faf943c-9f25-4052-93a6-3359bbdd3baa@172.66.47.101:8443?security=tls&sni=maHdiSERveR-HJA.pAGES.DEv&type=ws&host=mahdiserver-hja.pages.dev&path=%2Fb6C76B0qVLCG0tcY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.101:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:2083
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2086?type=ws&host=0210.uous1wog.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.95:2086
+vless://e7ad5be6-ac54-49e0-94fa-b2bdfdd62e7a@57.129.43.114:8880?security=none&type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024#🔒 VL-GRPC-NONE 🇩🇪 DE-57.129.43.114:8880

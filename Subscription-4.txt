@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://e7ad5be6-ac54-49e0-94fa-b2bdfdd62e7a@57.129.43.114:8880?security=none&type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024#🔒 VL-GRPC-NONE 🇩🇪 DE-57.129.43.114:8880
 vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=pPaL03.JeSSy-pAdbeRG.wORkeRs.DEv&type=ws&host=PpaL03.jessY-PaDbErg.WORkers.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.87:443
 vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?security=none&type=tcp&host=myket.ir%2C%20tamin.ir%2C%20rubika.ir%2C%20varzesh3.com%2C%20cafebazaar.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-85.133.218.156:2053
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?security=tls&sni=crolinde.carlotta.cloudns.org&type=ws&host=crolinde.carlotta.cloudns.org&path=telegramFreeV2Alpha%3D88.218.78.212&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.18:443
@@ -503,3 +502,4 @@ vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni
 vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.95:80?type=ws&host=0215.kiefcascz.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.95:80
 vless://255b4df3-080b-4846-866c-24992a29467d@151.101.74.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.74.133:443
 vless://623fac94-84fb-42cd-9e85-6142649b542d@51.89.226.95:45477?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-GRPC-NA 🇬🇧 GB-51.89.226.95:45477
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.232:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=/#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.232:80
