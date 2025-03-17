@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.16.182.65:80?allowInsecure=0&type=ws&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&path=/Telegramfp=chrome#1%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%203.8MB/s
-trojan://Au8FD7eTewSu46Y3xa90ZB3YxeYg3COORSapYaRl4DEDIl3A9Z8yCDj8gnyACSxSKx3Z6@derrick.meijireform.com:28335?sni=derrick.meijireform.com#1%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%201.2MB/s
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.230.142.42:443#1%7C%F0%9F%87%AF%F0%9F%87%B52%20%7C%20%201.1MB/s
 trojan://YZCCXpEN94la0wz4a6jFuO5pS0uCZ3BR9yX3cOcR3IDRDy2glqDexSNF683FE3DYlKnay@peruby.protocolbuffer.com:28332?sni=peruby.protocolbuffer.com#1%7C%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%202.5MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4es8J+HpzEgfCAgMi4wTUIvcyIsICJhZGQiOiAiMTcyLjY3LjE2OS40MCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJmYTViNTVjZC1jYWZjLTRkZTAtYTRjOC03MjJlMDJhOWY1OGUiLCAic25pIjogImhtczAzLmRvbmdmZW5nLmNmZCIsICJob3N0IjogImhtczAzLmRvbmdmZW5nLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
