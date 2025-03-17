@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://b4b4a987-1cbb-490c-a060-8309cabc93b5@151.101.2.228:80?security=none&type=ws&host=joinxvproxybedee.ir&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
+vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@151.101.130.219:80?security=none&type=ws&host=JoiIInNn--DIgiv2Ray.Ir.&path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://767dfba2-ac34-4507-913d-a70703f81a36@104.21.95.172:443?security=tls&sni=mehdiama.mehdiama840.workers.dev&type=ws&host=mehdiama.mehdiama840.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.172:443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.253:443
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@144.24.243.207:443?security=tls&sni=147135004002.sec20org.com&type=tcp#🔒 VL-TCP-TLS 🇨🇭 CH-144.24.243.207:443
@@ -501,5 +503,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@149.5.52.148:587?security=tls&sni=a
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.121:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.121:80
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.236.29:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.29:2087
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.29.246:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-45.144.29.246:2198
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.59:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.59:80
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.6.179:80?sni=workerr.dimon22287.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.6.179:80
