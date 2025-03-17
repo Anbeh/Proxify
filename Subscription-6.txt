@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.22.0.106:443?security=tls&sni=bugskti.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg.bxie84k3ndk.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg&type=ws&host=bugskti.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg.bxie84k3ndk.zifxoyfpuf0uf0ycphcoyf0684wd.us.kg&path=%2FFree-CF-Proxy-DK1&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.0.106:443
-vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws&host=vl31.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.131:443
-vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.80.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.1:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?security=none&type=ws&host=redw.pooriam.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.31:80
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@104.234.233.57:35911?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-104.234.233.57:35911
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.10.203:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-3.10.10.203:22222
@@ -503,3 +500,6 @@ vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:2086?security=none&typ
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.46.246:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.246:2087
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@194.53.53.0:2087?security=tls&sni=a2.flcode.ir&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-194.53.53.0:2087
 vless://17d87202-4ca2-49d2-9c90-5eca029c97f6@52.213.114.86:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇪 IE-52.213.114.86:80
+vless://3f5eba46-f9c9-4d49-985c-2a4345da4f5a@104.16.52.146:80?security=none&type=ws&host=billowing-recipe-c066-ppal03.kerocel835.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.146:80
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@162.159.192.245:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.245:443
+vless://74405eef-1eb0-44c9-bec0-80f43ff5db59@172.66.47.92:2052?security=none&type=ws&host=seyyed.webdade.ddns-ip.net&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.92:2052
