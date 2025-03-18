@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9031
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🔒 SS-TCP-NA 🇺🇸 US-103.36.91.23:8388
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@156.244.36.170:8080#🔒 SS-TCP-NA 🇲🇲 MM-156.244.36.170:8080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#🔒 SS-TCP-NA 🇺🇸 US-79.110.53.169:8080
@@ -503,3 +501,5 @@ trojan://Aimer@172.245.156.126:2053?security=tls&type=ws&sni=ageph.ambercc.fileg
 trojan://Aimer@108.165.152.29:2096?sni=agept.ambercc.filegear-sg.me#US40
 trojan://Aimer@104.196.250.34:2087?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US41
 trojan://Aimer@175.192.27.197:16992?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A585
+trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&type=grpc&sni=frtgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A586
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#US42
