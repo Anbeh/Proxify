@@ -3,21 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@43.249.36.70:443#HK13
-trojan://Aimer@152.70.245.66:12693?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5109
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#%E6%9C%AA%E7%9F%A5110%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#US33%201.7MB%2Fs
-trojan://Aimer@14.41.85.118:12101?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5111
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:27101?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK14
-trojan://Aimer@154.211.8.18:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US34
-trojan://trojan@104.18.4.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=/?ed=2560&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A5112
-trojan://4j9FMSQUO%3BG.jV%7BT@104.21.16.1:2083?security=tls&type=ws&sni=JOINmahDIsERVEr-53k.paGeS.Dev&path=/trrcw6qyykco0os1n1?ed=2560&host=joinmahdiserver-53k.pages.dev#%E6%9C%AA%E7%9F%A5113
-trojan://blue2024@104.17.1.234:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A5114
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:9090#US35%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.19:5500#US36
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#US37%2060.1KB%2Fs
-trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.45.36:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#%E6%9C%AA%E7%9F%A5115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRGxqWW1OaA==@95.164.68.37:1443#%E6%9C%AA%E7%9F%A5116%2016.4MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMThkNTc1NDM0MjEyZTQ4@82.197.66.69:11208#US38%2023.5MB%2Fs
 trojan://Aimer@108.162.193.128:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5117
 trojan://1%5D%3AT%3CL4h4%24H5ZF8%3C@104.21.112.1:2087?security=tls&type=ws&sni=joiNMAhdiserVeR-H7d.Pages.deV&path=/trnnMTv8TwvxZyPsLM?ed=2560&host=joinmahdiserver-h7d.pages.dev#%E6%9C%AA%E7%9F%A5118
