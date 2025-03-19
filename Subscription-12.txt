@@ -3,22 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#%E6%9C%AA%E7%9F%A5130
-hysteria2://0aed82ca-fd08-11ef-8cf9-f23c93136cb3@107.167.18.123:443?insecure=1&sni=06a68208-st69s0-su9bm5-1phl.la.shifen.uk#2%2C10%7C%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%20%D8%B1%D8%B1%20%40vmess_ir
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.84:2086?type=ws&host=redw.pooriam.ir&path=/TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET/?ed=2048#2%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%203.1MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4ep8J+HqjEgfCAgMy4yTUIvcyIsICJhZGQiOiAiMTYubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTYsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE5NWMxZTBiLWVmOTAtMzMyMS05OGU4LWVjY2QwNjg4MDg0NiIsICJob3N0IjogIjE2Lm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
-trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:20306?allowInsecure=1&sni=z306.hongkongnode.top#2%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%202.3MB/s
-vless://433f4c30-7b28-4d4e-b573-a6624231700a@31.22.116.16:443?sni=usa.xzncr.asia&type=ws&host=usa.xzncr.asia&path=/bingfp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%202.7MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4ep8J+HqjIgfCAgNS41TUIvcyIsICJhZGQiOiAiOTEuMTA3LjI0MS4zNiIsICJwb3J0IjogMTA2ODMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDJhNmIzZmYtOWYzNi00YjFjLWEwZWEtODJmMmZkMTQ3MmY5In0=
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:2096?sni=LeAwZwUv6.SwImVoRa.iNfO&type=ws&host=LeAwZwUv6.SwImVoRa.iNfO&path=/fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA3%20%7C%20%202.0MB/s
-trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:20071?allowInsecure=1&sni=x71.flybar.work#2%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%204.2MB/s
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?allowInsecure=0&sni=redw.pooriam.ir&type=ws&host=redw.pooriam.ir&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560fp=chrome#2%2C14%7CSC_speednode_0049
-trojan://576c81b6-4976-4fe3-b1a9-05a9c302e98e@192.3.130.103:443?sni=us10-01zl.huangshang.filegear-sg.me&type=grpc&serviceName=i8oL7PsxV002zYFTmiIeg#2%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%203.8MB/s
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?allowInsecure=0&type=ws&host=redw.pooriam.ir&path=/TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1fp=chrome#2%7C%F0%9F%87%AB%F0%9F%87%AE1%20%7C%20%203.5MB/s
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.230:8880?allowInsecure=0&sni=redw.pooriam.ir&type=ws&host=redw.pooriam.ir&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560fp=chrome#2%2C14%7CSC_speednode_0050
-trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:21247?allowInsecure=1&sni=x91.flybar.work#2%7C%F0%9F%87%B9%F0%9F%87%BC1%20%7C%20%203.3MB/s
-trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#2%7C%F0%9F%87%AF%F0%9F%87%B52%20%7C%20%206.0MB/s
-trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:20307?allowInsecure=1&sni=z307.hongkongnode.top#2%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%203.4MB/s
 trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:20142?allowInsecure=1&sni=z142.hongkongnode.top#2%7C%F0%9F%87%AF%F0%9F%87%B53%20%7C%20%206.2MB/s
 vless://00cb16a4-4170-4e97-a5a3-852dea723681@91.107.255.255:443?sni=eset.com&fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA4%20%7C%20%205.3MB/s
 trojan://93e7a8d5-c477-3ef2-8056-307a6e766b5a@gy.58n.net:36821?allowInsecure=1&sni=z262.hongkongnode.top#2%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%206.1MB/s
