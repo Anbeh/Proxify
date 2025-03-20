@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#🔒 SS-TCP-NA 🇨🇴 CO-154.223.16.212:989
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:3389
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.6.202:7001#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:7001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.58:8080
+ss://YWVzLTI1Ni1nY206UFJDVUo4SU5QTjlLWlc3Mg==@185.186.78.220:20035#🔒 SS-TCP-NA 🇸🇪 SE-185.186.78.220:20035
+ss://YWVzLTI1Ni1nY206S1JNQzRZQVhXMklJQzc2MQ==@206.245.211.22:19012#🔒 SS-TCP-NA 🇬🇧 GB-206.245.211.22:19012
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9060
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.138:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1kxTg==@103.35.189.50:8388#🔒 SS-TCP-NA 🇺🇸 US-103.35.189.50:8388
@@ -497,9 +503,3 @@ trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.80.1:443?security=tls&type=
 trojan://Aimer@107.175.37.135:443?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#US20
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTQgMzMuN0tCL3MiLCJhZGQiOiIxOTMuMTA4LjExOC4xMzYiLCJwb3J0IjoiMTU3MTMiLCJpZCI6ImY3NGUyNzdlLTg0YjMtNDZhMi04YWJkLTI3NzdmYTVlNGFmOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijk0In0=
 trojan://NcguCi3hdF@104.21.32.1:2087?security=tls&type=ws&sni=tasnim.twn24.ir&path=/?ed=2048&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A595
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@23.172.40.143:17742?#US21
-trojan://ZJU29smXwp@172.67.176.206:2053?security=tls&type=tcp&sni=damn-mci-again-3.danesh-bonyan.Store#%E6%9C%AA%E7%9F%A596
-trojan://Aimer@108.165.152.202:2083?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&path=/?ed=2560&host=agepy.ambercc.filegear-sg.me#US22
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#%E6%9C%AA%E7%9F%A597%202.4MB%2Fs
-trojan://Aimer@173.245.59.203:443?sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
-ss://YWVzLTI1Ni1nY206WDFHQkxXUTNVNFVMTzZYVg==@23.185.248.15:17005#US23
