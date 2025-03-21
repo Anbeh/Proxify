@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.62:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.47.62:443
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.24.195:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.69:2095?security=none&type=ws&host=fuckingxijinping.ceo-a6b.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.21.69:2095
 vless://83a12171-c65f-48dc-afef-78e61b62b945@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
 vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.64.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.1:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.104:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.104:80
@@ -503,3 +500,6 @@ vless://1077c841-97d9-45a4-8663-7876e6b0f053@146.75.8.88:80?security=none&type=w
 vless://d154eff1-379b-4f8b-9bd8-887018f64611@172.67.204.84:2053?security=tls&sni=all32.kikforwindows.com&type=ws&host=all32.kikforwindows.com&path=%2Fcontainers%2Fde&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:2053
 vless://6311942c-d33f-4acf-97af-ceb225b4c049@51.178.56.158:443?security=tls&sni=api.dota.website&type=ws&host=intimate.dota.website&path=%2Fws%2F63b84876f2e89b42bbc19e48%2FX&alpn=http%2F1.1#🔒 VL-WS-TLS 🇫🇷 FR-51.178.56.158:443
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@103.224.182.210:443?security=tls&sni=cndb9wjin2i7vab5vvcg.khodavakili.top&type=ws&host=dl.khodavakili.top&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-103.224.182.210:443
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.7.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.7.215:443
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-154.81.182.74:32040
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.153.2:2053

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@104.18.7.215:443?security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.7.215:443
-vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-154.81.182.74:32040
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.153.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.153.2:2053
 vless://46153d1a-ebe7-4218-9155-19618285a286@188.212.96.165:1720?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.96.165:1720
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.135:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.19.135:80
 vless://b8b2a654-9c48-4373-90b8-e4335d386d8f@151.101.66.228:80?security=none&type=ws&host=foffmelo.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
@@ -503,3 +500,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443?security=tls&sni=f
 vless://ed335936-9285-4c26-9d9a-a829f7e4ce4b@108.162.195.157:443?security=tls&sni=r36e69.alligator27app.com&type=ws&host=r36e69.alligator27app.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.157:443
 vless://40d44ae2-94bf-4510-bb8b-117c3315376c@172.66.44.168:2083?security=tls&sni=MaHDisErVEr-KsL.pAGes.dEv&type=ws&host=mahdiserver-ksl.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:2083
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.193:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.193:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.134:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.134:80
+vless://639241df-db2e-4dbb-90c7-55f5eea2ad81@193.123.80.245:80?sni=syyed.nobaarne.Space.&type=ws&path=/telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed#🔒 VL-WS-NA 🇦🇪 AE-193.123.80.245:80
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.25.135.62:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.135.62:443
