@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTEyOC1nY206Vk1oR3A1d0VJeUNEZjkwVA==@agaungzhou01.bumbleshrimp.com:13483#%F0%9F%87%A8%F0%9F%87%B3%E5%B9%BF%E4%B8%9C
-trojan://Aimer@108.165.152.252:2096?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD19
-trojan://telegram-id-directvpn@13.37.138.36:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD20%201.1MB%2Fs
-trojan://Aimer@77.74.228.4:2087?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A540
-trojan://Aimer@45.194.53.81:2087?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
-ss://YWVzLTEyOC1nY206OGNjMDY1YTctZmFkYS00NjI4LTkzOTctYjliZDYxNDI2MWE1@mdss-other.04z3susick.download:12038#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
-trojan://0979046d-90cc-4f58-9595-75ba19550d1c@aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz:42881?sni=q08m.vgraxiw73s.hasyaf.cn#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
-trojan://0597af27-0972-45de-a32f-d320348cb765@aafrtpfxr.vnl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43396?sni=q08m.vgraxiw73s.hasyaf.cn#%E6%9C%AA%E7%9F%A541
-trojan://0597af27-0972-45de-a32f-d320348cb765@aafrtpfxr.jpl03i9zjfegelp.5xfsur8v62.gosdk.xyz:22271?sni=q08m.vgraxiw73s.hasyaf.cn#%E6%9C%AA%E7%9F%A542
 trojan://e338dac0-36d3-3700-8675-7fb501a7e57f@gy.58n.net:20299?sni=x299.flybar.work#%E6%9C%AA%E7%9F%A543
 ss://YWVzLTI1Ni1nY206Q0ZaSjVHR0FSWFdWVUNZSg==@183.240.211.76:15012#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF6
 trojan://0597af27-0972-45de-a32f-d320348cb765@aafrtpfxr.aul01i9zjfegelp.5xfsur8v62.gosdk.xyz:34017?sni=q08m.vgraxiw73s.hasyaf.cn#%E6%9C%AA%E7%9F%A544
