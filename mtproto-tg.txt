@@ -429,6 +429,7 @@ https://t.me/proxy?server=95.217.149.17&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=95.217.149.18&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.149.19&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=aaaaaaaa.aaaaaaaaaaaaaaaa.faridam.com.tr&port=1212&secret=ee98e481d85586a7f86b6327d96f77071e7777772e676f6f676c652e636f6d
+https://t.me/proxy?server=accelerate1.getmalus.app&port=30000&secret=ee31dc2e348ec78357d354cdca940dc940617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=adsl.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=all.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee616c6c2e6e656564686f73742e6972
 https://t.me/proxy?server=amir.com.ir.co.uk&port=443&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
