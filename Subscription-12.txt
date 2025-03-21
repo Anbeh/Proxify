@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31641#%F0%9F%87%BB%F0%9F%87%B3VN%E8%B6%8A%E5%8D%97
 trojan://Aimer@167.68.5.248:2087?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
 trojan://Aimer@213.109.205.55:2096?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzM1NTExMi00MzUzLTQ4MDktOWVjYS04ZDk3ODJhYWMxOGI=@free.2apzhfa.xyz:31313#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
