@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://2155145a-b1b5-443a-8977-670f6bd10f02@54.250.7.3:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com#%E6%9C%AA%E7%9F%A596
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:2053?security=tls&sni=official.tokyometropolis.odessa.ua#%E6%9C%AA%E7%9F%A597
+trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A598
+trojan://Aimer@46.254.93.37:8443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
+trojan://123456@104.25.165.83:8443?security=tls&type=ws&sni=top-azx.pages.dev&path=/Az1.vpn.33.TOP/?ed=2560&host=top-azx.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
+trojan://bpb-trojan@162.159.152.227:443?security=tls&type=tcp&sni=cf.090227.xyz#%E6%9C%AA%E7%9F%A5101
+trojan://telegram-id-privatevpns@35.181.124.214:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD%202.9MB%2Fs
+trojan://telegram-id-directvpn@13.37.138.36:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5102%2023.0MB%2Fs
 trojan://Aimer@173.245.59.128:443?sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjIwNzg2ZjAxNmY1YTdj@198.244.149.246:15273#%E6%9C%AA%E7%9F%A5104%202.9MB%2Fs
 trojan://cababca-baca-caab-cbad-caacbbacbbca@127.0.0.1:2080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A5105
