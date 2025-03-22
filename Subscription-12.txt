@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTEyOC1nY206NjRkZGI3ZTctNjE4Yi00NDEzLWJkMTQtOGIyODM3MmNjMmEz@45.196.248.148:59001#HK8
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODgiLCJhZGQiOiIxMzguMTk5LjE1OC4yNDUiLCJwb3J0IjoiMTAwIiwiaWQiOiIzZjY1MGNjNC0zOWQzLTRlYjUtODJmMS0xNDljY2EwYzM0MmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4OCJ9
+trojan://bpb-trojan@104.16.4.103:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&path=/tr?ed=2560&host=bpb-hd.aaronchin.xyz#%E6%9C%AA%E7%9F%A589
+trojan://s42%26umY%28K5n*csP4@104.21.16.1:8443?security=tls&type=ws&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&host=JOInMAHDiseRVer-EEu.pAGEs.dEv#%E6%9C%AA%E7%9F%A590
+trojan://Trevely@172.64.33.110:443?security=tls&type=tcp&sni=trojan.trevely.us.kg#%E6%9C%AA%E7%9F%A591
 ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@106.55.9.70:24502#%E6%9C%AA%E7%9F%A592
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:445#%E6%9C%AA%E7%9F%A593%201.8MB%2Fs
 ss://YWVzLTI1Ni1nY206NEFLUDhXRkRUSTAwMVEyOQ==@129.232.133.62:20015#%E6%9C%AA%E7%9F%A594
