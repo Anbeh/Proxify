@@ -3,23 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:3306#US44
-ss://YWVzLTI1Ni1nY206ME5SV0tJM01YS1Y3RVNLSA==@206.245.211.21:19011#%E6%9C%AA%E7%9F%A5118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTFjODhkZi00M2Y4LTRiNWYtYjE3Ni0zNjIzYjkxMTQ5NDI=@free.2weradf.xyz:36173#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A5119
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#%E6%9C%AA%E7%9F%A5120%201.9MB%2Fs
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.193:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A5121
-ss://YWVzLTI1Ni1nY206MEhMS1dYVTJNVjVLR0VYNA==@156.245.190.22:15013#HK12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E6%9C%AA%E7%9F%A5122%20103.9KB%2Fs
-trojan://Aimer@176.124.223.133:2096?sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
-trojan://Aimer@176.124.223.40:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5123
-trojan://Aimer@108.165.152.67:2053?sni=agepq.ambercc.filegear-sg.me#US45
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:8888#%E6%9C%AA%E7%9F%A5124%201.9MB%2Fs
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.156.154:443?security=tls&sni=jp.mjt001.com#HK13
-trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@5.83.221.31:30051?security=tls&sni=v2vn01.fuqiangren.com#HK14
-trojan://trojan@104.17.148.22:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A5125
-trojan://576c81b6-4976-4fe3-b1a9-05a9c302e98e@192.3.130.103:443?sni=us10-01.iran2030.ggff.net#US46
-trojan://Aimer@118.37.220.10:11300?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5126
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#US36%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%E6%9C%AA%E7%9F%A5117%201.4MB%2Fs
+trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@95.164.116.35:443?security=tls&sni=tr-full.privateip.net#%E6%9C%AA%E7%9F%A5118
+trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp#%E6%9C%AA%E7%9F%A5119
+ss://YWVzLTI1Ni1nY206TUhaVUVPWDNLQlhBVjA5Sw==@156.245.190.16:15007#HK17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#%E6%9C%AA%E7%9F%A5120
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#%E6%9C%AA%E7%9F%A5121%20756.1KB%2Fs
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.83.114.105:5498#US37%201.9MB%2Fs
+trojan://e393f59c-9cd0-33ec-8a2f-235c5b30a220@gy.58n.net:50355?sni=z264.hongkongnode.top#%E6%9C%AA%E7%9F%A5122
+trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@fgh9jkr5.890617.xyz:443?sni=Fgh9JkR5.890617.xYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://73456460-0e3c-46cd-a1aa-92d4fc17584c@45.146.232.172:27102?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#HK18
+trojan://7wzLwK55Dw@104.21.44.185:443?security=tls&type=ws&sni=Freedomisnear.onetwothree123.ir&path=/19992/mehdi&host=Freedomisnear.onetwothree123.ir#%E6%9C%AA%E7%9F%A5123
+trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@104.21.112.1:443?security=tls&type=ws&sni=us7-02.890624.xyZ&path=/Zseq8mE8wMzbGFtV&host=us7-02.890624.xyz#%E6%9C%AA%E7%9F%A5124
+trojan://73456460-0e3c-46cd-a1aa-92d4fc17584c@45.146.232.173:43586?sni=q08m.vgraxiw73s.hasyaf.cn#HK19
+trojan://Aimer@199.34.228.190:2083?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US38
+trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A5125
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.123:443#US39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDg3MzJjOC1mZTMwLTQyNWQtYTlmNi0yYzUyZDczMzBkNjM=@free.2weradf.xyz:36141#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001%20%7C%201x%20HK
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDg3MzJjOC1mZTMwLTQyNWQtYTlmNi0yYzUyZDczMzBkNjM=@free.2weradf.xyz:36143#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002%20%7C%201x%20HK
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDg3MzJjOC1mZTMwLTQyNWQtYTlmNi0yYzUyZDczMzBkNjM=@free.2weradf.xyz:36145#0%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%E4%BD%8F%E5%AE%85IP%2003%20%7C%201x%20HK
