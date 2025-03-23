@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&type=tcp&sni=uk-02.allhubb.info#%E6%9C%AA%E7%9F%A5128
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E6%9C%AA%E7%9F%A5129%2018.4MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MGRjZGYxZS1lM2MxLTQ4MjQtOTY0MS02ZGMyMGM4MTQwMjA=@free.2apzhfa.xyz:31175#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://DHvwod7oq7@104.21.44.185:2083?security=tls&type=ws&sni=Freedomisnear.onetwothree123.ir&path=/mehdi&host=Freedomisnear.onetwothree123.ir#%E6%9C%AA%E7%9F%A5130
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.149.225:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A5131
