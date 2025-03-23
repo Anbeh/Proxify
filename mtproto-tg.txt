@@ -348,6 +348,7 @@ https://t.me/proxy?server=65.21.1.2&port=443&secret=ee1603010200010001fc030386e2
 https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d
 https://t.me/proxy?server=7.vrem-noroi.pro&port=443&secret=eeb33db775b107a1d4d27ba64cf062d72673332e616d617a6f6e6177732e636f6d
+https://t.me/proxy?server=77.232.36.136&port=3895&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=77.232.38.188&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=77.232.39.203&port=443&secret=ee00000000000000000000000000000000636f6465782e6972
 https://t.me/proxy?server=77.232.40.118&port=443&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
@@ -529,7 +530,6 @@ https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee
 https://t.me/proxy?server=oxes.ir.tajhizara.ir.babol-ads.ir.ali-n_oo__ri.ir.ne_gincms.ir.mandana_cont.com.s__ivancells.ir.openport.ir.lego-megamind.ir.vshareei.com.ebrahimahmadi.com.shirinmaneshgaz.com.resomix.ir.wimsky.ir.raikashop.ir.sayarehnarenji.com.tinos.ir.hypershoma.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef262510972636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=products.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee70726f64756374732e6e656564686f73742e6972
-https://t.me/proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&port=70&secret=ee16f1e58b6db8d631bc1cae9a30838ea07777772e646967696b616c612e636f6d
 https://t.me/proxy?server=proxy.mainshop.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=proxy.myirancell.digikala.fastfood.snapp.sheypoor.pers.est.aria.ahmadp206.sbs&port=443&secret=ee591c23895b2084bf86cfcb0bc478c3ec7777772e7370656564746573742e6e6574
 https://t.me/proxy?server=pwtyzmewb32f.librekit.com&port=443&secret=ee915818963f39435ebc8d07feb36afcb76564782e636f6d
