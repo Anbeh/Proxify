@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://33003801-8cb0-32da-af43-032cd5e944fa@gy.58n.net:20294?allowInsecure=1&sni=z294.hongkongnode.top#1%7C%F0%9F%87%AD%F0%9F%87%B04%20%7C%20%206.0MB/s
-vless://a6b40242-7a3c-4346-97a2-439d8fd06250@gl.9901154.xyz:443?sni=gl.9901154.xyz&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=gl.9901154.xyz&path=/fp=chrome&security=tls#1%7C%F0%9F%8C%806-GL%20%7C%20%205.8MB/s
-trojan://33003801-8cb0-32da-af43-032cd5e944fa@gy.58n.net:41767?allowInsecure=1&sni=x114.flybar.work#1%7C%F0%9F%87%AF%F0%9F%87%B57%20%7C%20%206.1MB/s
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@braden.ns.cloudflare.com:443?allowInsecure=1&sni=nl.ylkszy.eu.org&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%8C%807-%20%7C%20%204.9MB/s
-trojan://33003801-8cb0-32da-af43-032cd5e944fa@gy.58n.net:20129?allowInsecure=1&sni=x129.flybar.work#1%7C%F0%9F%8C%808-%20%7C%20%205.5MB/s
-trojan://33003801-8cb0-32da-af43-032cd5e944fa@gy.58n.net:20279?allowInsecure=1&sni=z279.hongkongnode.top#1%7C%F0%9F%87%AD%F0%9F%87%B05%20%7C%20%206.3MB/s
 vless://2fec7227-9abe-46f2-af18-78302b836c45@104.21.15.232:443?sni=3g.2030.pp.ua&type=ws&host=3g.2030.pp.ua&path=/qF5dXhCllosLcFpqdDoAgkondVWlflow=-udp443&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%201.0MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:31735?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AF%F0%9F%87%B58%20%7C%20%203.0MB/s
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.whatismyip.com:443?allowInsecure=1&sni=nl.ylkszy.eu.org&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%201.3MB/s
