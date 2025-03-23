@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDg3MzJjOC1mZTMwLTQyNWQtYTlmNi0yYzUyZDczMzBkNjM=@free.2weradf.xyz:36173#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@64.23.162.126:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#US21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQ25zajJsd29TUzNOSWwzbTFaSFNk@128.199.220.170:18022#%E6%9C%AA%E7%9F%A593
+trojan://Aimer@59.9.154.15:21300?sni=agepl.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A594
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.107.226.250:7001#US22%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206STZEUlZWUTRPT01JUk1KRA==@154.196.244.25:16015#%E6%9C%AA%E7%9F%A595
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13680?security=tls&type=tcp&sni=jp.lihua.click#HK12
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.156.219:443?security=tls&sni=jp.iamnotagoodman.com#HK13
 trojan://Y0IweO6223CjwZD8FFZAaCz3yTYxDKX9yOAlXp5FTRONDaZl3zSeS7a3D4cYuCxFRx7yS@154.31.112.95:28337?security=tls&sni=tenderly.meijireform.com#%E6%9C%AA%E7%9F%A596%2012.2MB%2Fs
 trojan://Aimer@154.218.15.250:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#HK14
 trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@172.67.163.14:443?security=tls&type=ws&sni=df6xxxx.2031.pp.ua&path=/I4L1BP2DQVYmx5NYQ76MGGq&host=df6xxxx.2031.pp.ua#%E6%9C%AA%E7%9F%A597
