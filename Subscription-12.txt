@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NDE5OTQ4OS0yODY0LTQ1OTgtYWRiZi1kMjgzMzEwNTNiNDI=@free.2apzhfa.xyz:31571#1%7C%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%2001%20%7C%201x%20TR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NDE5OTQ4OS0yODY0LTQ1OTgtYWRiZi1kMjgzMzEwNTNiNDI=@free.2apzhfa.xyz:31611#1%7C%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%2001%20%7C%201x%20UA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NDE5OTQ4OS0yODY0LTQ1OTgtYWRiZi1kMjgzMzEwNTNiNDI=@free.2apzhfa.xyz:31641#1%7C%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NDE5OTQ4OS0yODY0LTQ1OTgtYWRiZi1kMjgzMzEwNTNiNDI=@free.2apzhfa.xyz:31671#1%7C%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NDE5OTQ4OS0yODY0LTQ1OTgtYWRiZi1kMjgzMzEwNTNiNDI=@free.2apzhfa.xyz:31677#1%7C%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:12791?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%206.1MB/s
-trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43394?sni=q08m.vgraxiw73s.hasyaf.cn#2%7C%F0%9F%8C%801-ID%20%7C%20%205.9MB/s
-trojan://fd5cd906-c72b-3e1c-8eba-11dfa31614df@gy.58n.net:20140?allowInsecure=1&sni=z140.hongkongnode.top#2%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%206.1MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:37809?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC1%20%7C%20%202.2MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:16704?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%206.1MB/s
-hysteria2://82febca6-8856-41fe-84df-c8bda0b72c7b@tw3.akebi.cc:2000?insecure=0&sni=hk03.akebi.cc#2%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%204.4MB/s
-hysteria2://71f3646f-5db0-4313-b741-a1271095d7cf@212.192.12.56:31003?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ==#2%7C%F0%9F%8C%803-CN%20%7C%20%207.9MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:60677?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%804-SA%20%7C%20%204.4MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4eu8J+HszIgfCAgMy41TUIvcyIsICJhZGQiOiAiMTEubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTEsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImZhMTU1YzJmLWM0YTMtM2ZhMi1hYzU4LThiZTZjYjUxN2ExYSIsICJob3N0IjogIjExLm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
-vless://72d7ab94-4849-4a27-a840-ece6c8b53355@188.114.96.3:443?sni=BeSTVPN-7qP.pagES.dEv&type=ws&host=bestvpn-7qp.pages.dev&path=/KF0tSQa0F6CajVAI?ed=2560flow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A6%F0%9F%87%AA1%20%7C%20%205.3MB/s
-trojan://fd5cd906-c72b-3e1c-8eba-11dfa31614df@gy.58n.net:20130?allowInsecure=1&sni=x130.flybar.work#2%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%206.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:65428?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%206.6MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:34313?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC3%20%7C%20%201.5MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:11555?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%206.3MB/s
 trojan://fd5cd906-c72b-3e1c-8eba-11dfa31614df@gy.58n.net:59021?allowInsecure=1&sni=x100.flybar.work#2%7C%F0%9F%87%B9%F0%9F%87%BC4%20%7C%20%206.3MB/s
 vless://33cbb5fa-9647-4571-91b5-612be7de51bc@192.200.160.188:2087?sni=crm.iranigamebaz.ir&type=ws&host=crm.iranigamebaz.ir&path=/V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizbansecurity=tls#2%7C%F0%9F%87%AB%F0%9F%87%AE1%20%7C%20%205.6MB/s
