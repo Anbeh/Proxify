@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@108.165.152.76:2096?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US16
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.15.85:2083?security=tls&type=tcp&sni=mailbox.CPIFOrpersiA.UK#%E6%9C%AA%E7%9F%A555
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#%E6%9C%AA%E7%9F%A556%201.5MB%2Fs
+trojan://Aimer@46.254.93.251:2087?security=tls&type=ws&sni=ageph.ambercc.filegear-sg.me&path=/&host=ageph.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A557
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@173.244.56.9:443#US17
+trojan://NISHIKUITAN111@185.193.29.193:443?#%E6%9C%AA%E7%9F%A558
 trojan://87ec85ad-8e8e-40a0-9b23-1fa8217c9647@67.205.182.15:443?security=tls&sni=us-full.privateip.net#US18
 trojan://d041d96a-09a5-405f-ba3d-f56e3b444fb9@45.146.232.171:43383?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#HK8
 trojan://SQXdz0p1cP@95.216.13.176:110?security=tls&sni=fr1.ftpcomand.com#%E6%9C%AA%E7%9F%A559
