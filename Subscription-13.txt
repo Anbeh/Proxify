@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8773?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503170996717-JTU8BAQVaE.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8771?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503170996717-JTU8BAQVaE.download.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 hhysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8761?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503170996717-JTU8BAQVaE.download.microsoft.com#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian

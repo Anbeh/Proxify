@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@43.129.171.137:443?sni=agepj.ambercc.filegear-sg.me#HK2
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A58
 trojan://Aimer@66.81.247.88:2083?security=tls&type=tcp&sni=ameqo.esslh.filegear-sg.me#US2
 vmess://eyJ2IjoiMiIsInBzIjoiSEszIDgwLjlLQi9zIiwiYWRkIjoiMTAzLjE0OS4xODMuMTc4IiwicG9ydCI6IjI3NTEyIiwiaWQiOiI5NmQzODY4My0wODE3LTRkOTEtYmZmYS02ZjAzZGYxOGQ5ZGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISzMifQ==
@@ -502,4 +503,3 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.191:80?allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?allowInsecure=0&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=/#14%7CUS_speednode_0097
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?allowInsecure=0&sni=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&type=ws&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&path=/?ed=1080#14%7CUS_speednode_0099
 vless://dd0d29f2-c6fd-4518-bed6-618ef8b12e86@45.62.114.221:443?allowInsecure=0&sni=usb.sevco.me&type=ws&host=usb.sevco.me&path=/bingsecurity=tls#14%7CUS_speednode_0100
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8773?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503170996717-JTU8BAQVaE.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
