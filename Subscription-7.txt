@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://b2b7f2fd-58af-46c3-aa31-b00a32e3c781@104.18.20.69:443?security=tls&sni=in1.xn--ghqu5fm27b67w.com&type=ws&host=in1.xn--ghqu5fm27b67w.com&path=%2Fpq%2Fin1&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.69:443
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.232:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.232:2082
+vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.86.2:80
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.78:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.78:80
 vless://bca5e12c-e30e-4430-9729-5a4ea40b90a6@37.27.211.10:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.211.10:1522
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.5:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.5:80
@@ -500,6 +503,3 @@ vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?sni=esetsecurityli
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.4.118:80?type=ws&host=a.mifeng.us.kg&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.118:80
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.148.184:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3DMARAMBASHI_MARAMBASHI/?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.19:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.174:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.174:80
-vless://de6f1d99-acc6-4c6b-9820-f3a8922cc736@185.59.218.69:80?type=ws&host=hk1-tg-fxnodes.sfacg.uk&path=%2Ftg%40fxnodes#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.69:80
-vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@188.114.97.112:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.112:443
