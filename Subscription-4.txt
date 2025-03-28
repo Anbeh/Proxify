@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.108:2087
+vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@162.159.192.25:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.25:443
+vless://e7466ee9-073c-477a-8fab-e9b3792b7990@170.114.46.6:80?security=none&type=ws&host=group.darkshadoww.shop&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-170.114.46.6:80
 vless://faa76923-8a6b-4338-ceea-3acb145080ca@104.17.148.22:2086?security=none&type=httpupgrade&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2086
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.48:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.48:443
 vless://41398380-2073-4d85-878a-24194a6f04a3@172.67.176.159:80?security=none&type=ws&host=3.azadteam.workers.dev&path=%2FSy0HOf5sZffep0QQ%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.159:80
@@ -500,6 +503,3 @@ vless://eb50d091-51ed-4f89-bc4e-8b04320585d7@141.193.213.20:2096?security=tls&fl
 vless://1d7a7b23-725f-41a4-96e8-517c4af78e58@172.66.44.245:443?security=tls&sni=mAHDIseRVer-PjA.pages.DEv&type=ws&host=mahdiserver-pja.pages.dev&path=%2F4SRctKJJ08D87Q3k%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.245:443
 vless://dda234b4-3989-4db4-b3f8-b3ea2431e173@109.95.66.25:8080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.95.66.25:8080
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@92.243.74.23:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.23:2096
-vless://d778cbd9-bfd0-433e-ad6b-e957b5dfc776@104.17.148.22:2053?security=tls&sni=g.yUSEFkharE.SBS&type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@AnGuS_VPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.127:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.127:80
-vless://846b7b71-a913-4761-bd8c-b844e287cb71@151.101.2.216:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
