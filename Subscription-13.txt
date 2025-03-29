@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:11839?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B57%20%7C%20%205.7MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:50200?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%203.7MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@theo.ns.cloudflare.com:443?allowInsecure=1&sni=edfgv.aimercc.filegear-sg.me&type=ws&host=edfgv.aimercc.filegear-sg.me&path=/?ed=2560security=tls#2%2C14%7CUS_speednode_0040
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU=@183.240.255.75:12364#2%7C%F0%9F%87%AC%F0%9F%87%A73%20%7C%20%202.3MB/s
