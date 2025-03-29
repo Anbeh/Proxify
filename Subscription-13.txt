@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:45883?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AD%F0%9F%87%B011%20%7C%20%206.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:38311?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%205.6MB/s
-trojan://6849c459-9b04-46e6-8dd8-f92812711563@aafrtpfxr.arl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43590?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#2%7C%F0%9F%8C%8010-AR%20%7C%20%204.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:11733?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%8011-KZ%20%7C%20%203.5MB/s
-vless://fdd7d333-033c-43d6-aaf4-3cd4a1ad4018@vpnmizban.iranigamebaz.ir:2087?sni=crm.iranigamebaz.ir&type=ws&host=crm.iranigamebaz.ir&path=/V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizbanflow=-udp443&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%AE2%20%7C%20%205.5MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:21578?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%206.1MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:25768?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B58%20%7C%20%206.3MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@test123.zlqhdns.top:10860?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AD%F0%9F%87%B012%20%7C%20%206.1MB/s
 vless://fe069d77-882c-4175-b48e-c79e3fe65a81@65.109.191.227:443?sni=nextgenerationaiplatform.ir&type=ws&host=nextgenerationaiplatform.ir&path=/fsafasfsafAflow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%AE3%20%7C%20%205.2MB/s
