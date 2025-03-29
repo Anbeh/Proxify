@@ -152,6 +152,7 @@ https://t.me/proxy?server=195.201.47.5&port=443&secret=ee05bb9febf6dcf436843c9eb
 https://t.me/proxy?server=195.62.32.119&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d
 https://t.me/proxy?server=198.16.107.91&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
 https://t.me/proxy?server=198.16.107.93&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d
+https://t.me/proxy?server=198.45.114.148&port=443&secret=ee4533bcfa2df2d10a76259f61b76b812c7777772e676f6f676c652e636f6d
 https://t.me/proxy?server=2.vrem-noroi.pro&port=443&secret=ee8f6b1c675b5f0ad69a5d21db3966382e73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=204.12.192.218&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267
 https://t.me/proxy?server=204.12.192.220&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267
@@ -209,9 +210,11 @@ https://t.me/proxy?server=47.238.200.8&port=443&secret=ee24c533cde8a236b80032fb5
 https://t.me/proxy?server=47.238.230.80&port=443&secret=eebaa422c4debf712c4d31bd2e7d052341617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.238.231.211&port=443&secret=ee70f60105788a25a0dbe2e46c5c9bf457617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.239.16.195&port=443&secret=ee97b3b4d458d9a6310844f173aa596402617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.239.22.89&port=443&secret=eebaa94940fb3e3a5283cc6836c707a37e617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.239.23.149&port=443&secret=ee922d34861ec734008b069ce23a5418a2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.239.24.99&port=443&secret=ee4c60319876810f9f1f9ca73aaac1998b617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.239.25.8&port=443&secret=ee7d790b4c9668c41f66400fa6f26263cd617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.239.26.164&port=443&secret=ee2a2d6117bdec6ae88642d46afc58c151617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.239.31.148&port=443&secret=eed0d2b9e5b286752af9ae3654b9a46cb7617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.239.4.152&port=443&secret=ee170696e12c8d6632296ee3d8eb374a47617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.242.119.195&port=443&secret=eed12666050da234025968f34fc24bad19617a7572652e6d6963726f736f66742e636f6d
@@ -350,6 +353,8 @@ https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb9339
 https://t.me/proxy?server=65.108.31.119&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
 https://t.me/proxy?server=65.108.84.7&port=443&secret=ee0000000000000000000000000000000064656570696e73616e652e636f6d
 https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000
+https://t.me/proxy?server=65.109.153.69&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
+https://t.me/proxy?server=65.109.153.70&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=65.21.1.2&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616b61762e636f6d190902050004000400000000000000000000000000000000
 https://t.me/proxy?server=65.21.107.132&port=443&secret=eecf09e5861586f39dafe5aa1f2ff9f205636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=65.21.108.27&port=443&secret=ee000000000000000000000000000000006d6170732e676f6f676c652e636f6d
@@ -469,13 +474,10 @@ https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.tcp_internet.tls-ssl.info&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.tls-ssl.info&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.toatlwebbest.info&port=3798&secret=ee0000f00f0f775555fffffff5006d2e692d2d2d2d2d2d2d2d2d2d2d2d2d
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.transaction0-top.info&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.transfer-email.info&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.azidata.rest&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.fit-orldpvbuz.one&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.orange-juicee.one&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.ponisha.online&port=443&secret=ee0000000000000000000000000000000074676a752e6f7267
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.golrang-shampoo-kachal0-1.info&port=7443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=cloudflaress.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ssl_cloud.asve.ir&port=9080&secret=ee0e4f3f04239b4e25dbaa17be3fe8b3fc6b68616d656e6569692e6972
 https://t.me/proxy?server=cointoin.ir.litcoin-plus.info&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b74676a752e6f7267
 https://t.me/proxy?server=coveri.ir.ab-ups.ir.ilyasanat-avanloo.com.wp4u.ir.kermanshahr.ir.v-skill.ir.acicg.ir.livesupp.net.shahrazma.com.part-loader.ir.rent4cariran.com.asys_ac.ir.mujez.ir.meysammusic.com.tget24.ir.kiasaze.com.ipdaco.com.ezexpert.ir.fanavadc.com.rigsaji.network&port=443&secret=eeda411655b684fe87abf58ec2235e2816746865677561726469616e2e636f6d
