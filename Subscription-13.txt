@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?allowInsecure=1&sni=il.ylkszy.eu.org&type=ws&path=/?ed=2560security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B512%20%7C%20%201.1MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:31800?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0001
-ssr://34.216.142.212:443:origin:aes-256-cfb:plainYW1hem9uc2tyMDU=remarks=Mnzwn4e68J-HuDIwIHwgIDUuMk1CL3M=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzUgfCAgNS4zTUIvcyIsICJhZGQiOiAiMTg4LjExNC45OS4xODMiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJwYXRoIjogIi9saW5rd3MifQ==
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.109:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=Telegram@WangCai2/?ed=2560flow=-udp443&fp=#2%7C%F0%9F%87%AB%F0%9F%87%AE1%20%7C%20%202.5MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY#2%2C14%7CNL_speednode_0026
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B513%20%7C%20%204.8MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:34313?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC11%20%7C%20%201.2MB/s
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.19.174.68:443?sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=/?ed=2560flow=-udp443&fp=&security=tls#2%7C%F0%9F%87%A8%F0%9F%87%A66%20%7C%20%204.2MB/s
 vless://fdd7d333-033c-43d6-aaf4-3cd4a1ad4018@vpnmizban.iranigamebaz.ir:2087?sni=crm.iranigamebaz.ir&type=ws&host=crm.iranigamebaz.ir&path=/V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizbanflow=-udp443&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%AE2%20%7C%20%205.6MB/s
 vless://b2b7f2fd-58af-46c3-aa31-b00a32e3c781@23.227.38.0:443?sni=us1_pq_user_vip_api.xn--ghqu5fm27b67w.com&type=ws&host=us1_pq_user_vip_api.xn--ghqu5fm27b67w.com&path=/pq/us1flow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B821%20%7C%20%205.5MB/s
