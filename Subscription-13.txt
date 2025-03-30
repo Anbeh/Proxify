@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://vs6f8hvt@162.159.140.1:2087?security=tls&type=ws&sni=trojan.cchappy.eu.org&path=/?ed=2560&host=trojan.cchappy.eu.org#%E6%9C%AA%E7%9F%A5108
-trojan://Aimer@108.165.152.59:2087?sni=agepw.ambercc.filegear-sg.me#US24
-trojan://Aimer@154.218.15.250:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#HK9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#US25%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY=@176.124.202.137:81#%E6%9C%AA%E7%9F%A5109
-trojan://Aimer@206.238.236.252:2096?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5110
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.245:4444#US26%201.9MB%2Fs
-trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@68.183.44.246:443?security=tls&sni=uk2-full.privateip.net#%E6%9C%AA%E7%9F%A5111
-trojan://ouo@65.75.193.154:14491?type=ws&sni=tr.koiok.us.kg&host=tr.koiok.us.kg#US27
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2053?security=tls&type=ws&sni=mIzAn.tWn24.Ir&path=/vNF7RJtVepEuGq7R6Cczl&host=mizan.twn24.ir#%E6%9C%AA%E7%9F%A5112
-trojan://0000000@18.238.109.37:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US28
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#US29%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#%E6%9C%AA%E7%9F%A5113%201.8MB%2Fs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.134.94.141:6697#US30%20148.2KB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE0IDk2Mi40S0IvcyIsImFkZCI6IjYyLjE0Ni4yMzIuMTUzIiwicG9ydCI6IjUzMTQ0IiwiaWQiOiIxM2UxM2EzZS1lOTgxLTRlZWEtYTlmYy0xM2U1MDYyOGZkOWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMTQifQ==
 trojan://Aimer@206.238.237.86:2087?sni=agepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5115
 trojan://Aimer@108.165.152.76:2096?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US31
