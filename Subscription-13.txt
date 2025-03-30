@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.32.1:2053?security=tls&type=ws&sni=mIzAn.tWn24.Ir&path=/vNF7RJtVepEuGq7R6Cczl&host=mizan.twn24.ir#%E6%9C%AA%E7%9F%A5112
 trojan://0000000@18.238.109.37:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US28
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#US29%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#%E6%9C%AA%E7%9F%A5113%201.8MB%2Fs
