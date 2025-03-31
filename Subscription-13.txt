@@ -3,31 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://Aimer@185.119.117.146:8443?sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A553
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@154.90.63.80:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A554
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443?security=tls&type=ws&sni=sanjose02.852224.ggff.net&path=/T5yZBrY2Qkg2cThJQeJb&host=sanjose02.852224.ggff.net#%E6%9C%AA%E7%9F%A555
-trojan://261ccd4c-425d-43a2-bf2a-59c3d1f02e94@5.83.221.31:30054?security=tls&sni=v1jp01.fuqiangren.com#HK7
-trojan://Aimer@188.164.159.43:2083?security=tls&type=ws&sni=agepb.ambercc.filegear-sg.me&host=agepb.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A556
-trojan://blue2024@104.17.21.144:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A557
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NTBjZGM3ZS1jMGI5LTRjMWQtYmMzOC05M2U1NGYyNzE3NjE=@free.2weradf.xyz:36721#%F0%9F%87%B2%F0%9F%87%BEMY%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
-trojan://Uk%2AdIGV0BkVb@104.21.32.1:2083?security=tls&type=ws&sni=tasnim.twn24.ir&path=/HCVjhhL2&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A558
-trojan://Aimer@31.43.179.27:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A559
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A560
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@134.195.196.12:5004#%E6%9C%AA%E7%9F%A561
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%E6%9C%AA%E7%9F%A562%201.9MB%2Fs
-trojan://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:8443?security=tls&type=ws&sni=TasnIM.FarSoNLiNe24.iR&path=/x8xN4dH28mo7U3sS&host=tasnim.farsonline24.ir#%E6%9C%AA%E7%9F%A563
-trojan://Aimer@44.224.24.91:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443#%E6%9C%AA%E7%9F%A564
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?security=tls&sni=trus.moonfree.top#US13
-trojan://NISHIKUITAN111@104.19.44.160:443?#%E6%9C%AA%E7%9F%A565
-trojan://Aimer@104.19.103.190:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A566
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443#%E6%9C%AA%E7%9F%A567
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTova0dwWU13QlVmSlVTM0FOQ0l2YnI3RnpPRDdmclUvVDd3bVhMa0RJSDVRPQ==@23.88.54.248:443#%E6%9C%AA%E7%9F%A568
-trojan://Aimer@220.117.126.46:12462?sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A569
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ==@146.19.106.5:8388#%E6%9C%AA%E7%9F%A570
-trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&type=tcp&sni=pl1.trojanvh.xyz#%E6%9C%AA%E7%9F%A571
-trojan://Aimer@154.197.64.240:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A572
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSzRXRW9iVGVlQlM=@120.233.44.70:998#%E6%9C%AA%E7%9F%A573
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#%E6%9C%AA%E7%9F%A574
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NTBjZGM3ZS1jMGI5LTRjMWQtYmMzOC05M2U1NGYyNzE3NjE=@free.2weradf.xyz:36741#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
 trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#%E6%9C%AA%E7%9F%A575
