@@ -3,26 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.16.1:8443?security=tls&type=ws&sni=tABNaK.TwN24.ir&path=/vNF7RJtVepEuGq7R6Cczl&host=tabnak.twn24.ir#%E6%9C%AA%E7%9F%A5112
-trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A5113
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.54:443?security=tls&sni=trus.moonfree.top#%E6%9C%AA%E7%9F%A5114
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.97:2376#US24%20641.7KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%E6%9C%AA%E7%9F%A5115
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.235:8443?security=tls&sni=official.taipeicitygovernment.dp.ua#%E6%9C%AA%E7%9F%A5116
-trojan://Aimer@162.159.134.143:2096?sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5117
-trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&type=ws&sni=NOp-55q.pAgEs.dEv&host=NOp-55q.pAgEs.dEv#%E6%9C%AA%E7%9F%A5118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NTBjZGM3ZS1jMGI5LTRjMWQtYmMzOC05M2U1NGYyNzE3NjE=@free.2weradf.xyz:36175#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@111.62.241.211:20086?security=tls&type=tcp&sni=6.p5zqtpj2n7.xyz#%E6%9C%AA%E7%9F%A5119
-trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@183.240.228.139:20038?sni=8.tgz3yef6gd.xyz#%E6%9C%AA%E7%9F%A5120
-trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A5121
-trojan://73456460-0e3c-46cd-a1aa-92d4fc17584c@45.146.232.172:27102?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#HK11
-trojan://amclubs2024@198.62.62.156:443?security=tls&type=ws&sni=tr.amclub.us.kg&host=tr.amclub.us.kg#US25
-ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#%E6%9C%AA%E7%9F%A5122
-trojan://Aimer@77.74.228.4:2087?security=tls&type=ws&sni=agepm.ambercc.filegear-sg.me&path=/?ed=2560&host=agepm.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5123
-trojan://0q%2776Evm32qz%40Q%27%28@172.66.47.30:2087?security=tls&type=ws&sni=JOInMahdiserver-11R.PaGES.dEv&path=/trlEKJDs7HkPpxs8rk?ed=2560&host=joinmahdiserver-11r.pages.dev#%E6%9C%AA%E7%9F%A5124
-trojan://Aimer@27.50.49.37:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5125
-trojan://dc773e17-d94e-4f6e-a3cd-26c972a08b89@5.83.221.31:30049?security=tls&sni=v2sg02.fuqiangren.com#HK12
-trojan://Aimer@5.182.85.28:443?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA==@45.84.1.33:8388#%E6%9C%AA%E7%9F%A5127
 ss://YWVzLTI1Ni1nY206TE44NTVCQUNNWldDMUNSNw==@156.245.190.21:15012#HK13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.126.49:443#%E6%9C%AA%E7%9F%A5128
