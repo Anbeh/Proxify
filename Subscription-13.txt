@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://telegram-id-privatevpns@13.38.242.52:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://telegram-id-directvpn@52.57.94.219:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5122
-trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&type=grpc&sni=getgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5123
-trojan://Aimer@192.200.160.169:2096?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#US35
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#%E6%9C%AA%E7%9F%A5124%201.2MB%2Fs
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#%E6%9C%AA%E7%9F%A5125%201.7MB%2Fs
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@4.9n3pqn1406.xyz:20004?sni=4.9n3pqn1406.xyz#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD12
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#%E6%9C%AA%E7%9F%A5126%201.6MB%2Fs
