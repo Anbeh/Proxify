@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.154:8443?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC70%20%7C%20%204.7MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@13.228.142.218:443?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC26%20%7C%20%205.6MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.131:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2flow=-udp443&fp=#1%7C%F0%9F%87%BA%F0%9F%87%B816%20%7C%20%202.1MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.59:2087?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC27%20%7C%20%203.1MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@183.102.173.114:10032?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC36%20%7C%20%202.1MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@83.229.123.36:8443?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC29%20%7C%20%202.4MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@103.116.7.103:2083?allowInsecure=1&sni=edccq.ambercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC30%20%7C%20%202.1MB/s
