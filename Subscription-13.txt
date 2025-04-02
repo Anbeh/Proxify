@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:62157?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%8C%805-CN%20%7C%20%201.9MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@209.94.90.87:2087?allowInsecure=1&sni=edccq.ambercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC38%20%7C%20%201.1MB/s
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?sni=147135001195.sec22org.com&flow=-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%202.5MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%205.1MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:48121?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AF%F0%9F%87%B53%20%7C%20%201.1MB/s
-hysteria2://cbd1d425-5379-4c44-82fc-5765d1d34dc9@pl3.xn--04q43rwxe.eu.org:27142?insecure=1&sni=pl3.xn--04q43rwxe.eu.org#1%7C%F0%9F%87%B5%F0%9F%87%B13%20%7C%20%204.8MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.116:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2flow#1%2C14%7CNL_speednode_0063
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.97.135.19:21242?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC19%20%7C%20%206.1MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:30274?allowInsecure=0&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0040
-vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@155.248.219.197:16700?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCA_speednode_0001
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@45.87.102.122:444?allowInsecure=1&sni=edccq.ambercc.filegear-sg.me&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%201.1MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.147.147.180:443?allowInsecure=1&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=/?ed=2560security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC20%20%7C%20%202.3MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:57926?allowInsecure=1&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0034
