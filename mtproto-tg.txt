@@ -529,6 +529,7 @@ https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.acz
 https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267
 https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=voloom.voloomvip.top&port=443&secret=eeb5ceaf3e2cc8db8567b214f1be6936e26170617261742e636f6d
+https://t.me/proxy?server=w.10.y.mtproto.ru&port=443&secret=ee211122223333444455556666777788886d6170732e676f6f676c652e636f6d
 https://t.me/proxy?server=web.eitaa.com.linkkhan.ir&port=465&secret=ee611c797ef18bd1db2f786a95875ca87c7765622e65697461612e636f6d
 https://t.me/proxy?server=web.majalekari.ir&port=443&secret=eeade6f9170923e69eeecb2db2345aa0057765622e727562696b612e6972
 https://t.me/proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
