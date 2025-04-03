@@ -3,6 +3,32 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDcVNodzh2Z3I0NXNQSVVsSVBaN3NQ@92.118.112.101:9483#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.101:9483
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52.199.164.162:2377#🔒 SS-TCP-NA 🇯🇵 JP-52.199.164.162:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.169.51.68:2377#🔒 SS-TCP-NA 🇸🇬 SG-54.169.51.68:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@217.195.200.95:8080#🔒 SS-TCP-NA 🇦🇪 AE-217.195.200.95:8080
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.165:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.59.165:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#🔒 SS-TCP-NA 🇷🇸 RS-194.71.126.31:989
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.79:443#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.79:443
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9031
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.66:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.72.214.66:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.48:2377#🔒 SS-TCP-NA 🇹🇼 TW-125.227.86.48:2377
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9019
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#🔒 SS-TCP-NA 🇬🇧 GB-141.98.101.180:443
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.64.138.145:443#🔒 SS-TCP-NA 🇺🇸 US-38.64.138.145:443
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9030
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.247.151:989#🔒 SS-TCP-NA 🇧🇬 BG-38.60.247.151:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.136:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.136:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.179.197.162:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.179.197.162:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjZmMmI3NzdhOTkzNDc3@198.244.149.43:15743#🔒 SS-TCP-NA 🇬🇧 GB-198.244.149.43:15743
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZGY5ZDlmMC1jNWRiLTRlNjYtYmUwYy1jOTY3YzBkNjU4OGU=@38.150.12.187:39029#🔒 SS-TCP-NA 🇺🇸 US-38.150.12.187:39029
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.81:443#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.81:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.96:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.96:2377
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#🔒 SS-TCP-NA 🇪🇪 EE-147.45.60.33:16356
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.95.215.125:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.95.215.125:2377
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.210.217:443#🔒 SS-TCP-NA 🇸🇬 SG-13.229.210.217:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjU2JCT09yRlpTbkhYS3JjMHphSWNs@91.103.253.151:19057#🔒 SS-TCP-NA 🇨🇭 CH-91.103.253.151:19057
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.18:9025#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9025
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.121.249:5498#🔒 SS-TCP-NA 🇺🇸 US-38.114.121.249:5498
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🔒 SS-TCP-NA 🇳🇱 NL-103.106.1.92:23492
@@ -477,29 +503,3 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?sni=&type=ws&host=g
 hysteria2://c8ed6f77-3a96-46f9-9959-79118f9c1019@85.194.246.115:53252?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%B5%F0%9F%87%B11%20%7C%20%203.3MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:42426?allowInsecure=1&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0028
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:37809?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%205.9MB/s
-vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?allowInsecure=1&sni=YAPC-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCH_speednode_0005
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:32193?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%801-TH%20%7C%20%205.6MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:8080?type=ws&host=gozargah.validbv7996.ir&path=/#2%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%201.3MB/s
-vless://c3c6c631-7414-4e76-ad18-6a052adf4db7@85.192.28.89:443?sni=stackoverflow.com&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoPflow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%204.0MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:44003?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0022
-hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#2%2C10%7C%40V2aryng_vpn
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.124.230:443#2%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%204.1MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.182:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2flow=-udp443&fp=#2%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%202.6MB/s
-vless://d68e4cff-2a5a-40ad-92dd-eb7b22d7f6c4@190.93.245.137:443?sni=WWW.EsfahAnsimaN.infO.&type=ws&host=WWW.EsfahAnsimaN.infO.&path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_configflow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%204.3MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.182:80?sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳 @MxlShare@WangCai2#2%7C%F0%9F%87%A7%F0%9F%87%B72%20%7C%20%202.1MB/s
-hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@164.152.19.229:47262?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%204.5MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4er8J+HtzIgfCAgMy4wTUIvcyIsICJhZGQiOiAidjM3LmhlZHVpYW4ubGluayIsICJwb3J0IjogMzA4MzcsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28ifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4yAMi1JRCB8ICAxLjBNQi9zIiwgImFkZCI6ICJxdWl6LmludC52aWRpby5jb20iLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiOWM3YzcwMzktYTVmMS00N2IyLTkyMjUtY2JiNWJmMDNiOWU2IiwgInNuaSI6ICJzZXJ2MS5pZGtzMS53ZWIuaWQiLCAiaG9zdCI6ICJzZXJ2MS5pZGtzMS53ZWIuaWQiLCAicGF0aCI6ICIvdm1lc3MifQ==
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?sni=&type=ws&host=gozargah.validbv7996.ir&path=/Telegram@ShadowProxy66flow=-udp443&fp=#2%7C%F0%9F%87%AF%F0%9F%87%B54%20%7C%20%201.4MB/s
-vless://f6a0fd16-a7d9-4933-a0e4-512993b55a52@128.140.43.104:2083?sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%202.2MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.126:80?allowInsecure=0&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2#2%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%203.2MB/s
-vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@192.3.130.103:443?sni=us10-01.iran2030.ggff.net&type=grpc&serviceName=HlAPZV9g9xmyAVVV002zYFTmiIegflow=-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%203.1MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.179:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2#2%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%201.4MB/s
-vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?allowInsecure=1&sni=YAPC-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCH_speednode_0004
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.73.58:443#2%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%204.5MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:16497?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B55%20%7C%20%201.4MB/s
-vless://d9074e14-c4e4-4e58-8fff-3727e83af868@170.114.45.6:80?allowInsecure=1&sni=free.pranithsandaruwan.shop&type=ws&host=free.pranithsandaruwan.shop&path=/#2%2C14%7CUS_speednode_0079
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%204.2MB/s
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.178:80?type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳 @MxlShare@WangCai2#2%7C%F0%9F%87%A7%F0%9F%87%B73%20%7C%20%205.3MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:13989?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B56%20%7C%20%205.6MB/s
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@132.145.105.88:30300?insecure=1&sni=www.bing.com#2%7C%F0%9F%87%A8%F0%9F%87%A61%20%7C%20%203.6MB/s
