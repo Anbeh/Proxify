@@ -530,7 +530,6 @@ https://t.me/proxy?server=w.10.y.mtproto.ru&port=443&secret=ee211122223333444455
 https://t.me/proxy?server=web.eitaa.com.linkkhan.ir&port=465&secret=ee611c797ef18bd1db2f786a95875ca87c7765622e65697461612e636f6d
 https://t.me/proxy?server=web.majalekari.ir&port=443&secret=eeade6f9170923e69eeecb2db2345aa0057765622e727562696b612e6972
 https://t.me/proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
-https://t.me/proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd15284e8d5ebd948dd7ce746769746875622e636f6d
 https://t.me/proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 https://t.me/proxy?server=yahoo.phosphorus.emryuvw.medium.radon.wikipedia.jaewxtawp.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=zara.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk22.live-69istanbul.cloud.bluenight.bingo&port=443&secret=ee32b920dffb51643028e2f6b878d4eac1202020202020202020202020202020
