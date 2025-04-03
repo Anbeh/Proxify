@@ -3,9 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://Aimer@192.0.54.221:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-192.0.54.221:2083
-trojan://Aimer@172.64.35.82:443?sni=agepn.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.82:443
-trojan://aabcbca-aacb-acab-cbad-babccabacacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.171:27002?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.171:27002
+trojan://Aimer@199.34.228.50:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-199.34.228.50:2053
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.138.58:443
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.47.176:443
+trojan://accaabb-abac-aabc-adcb-babbcabcaacc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ss://bm9uZTphYWNhY2JiLWNhYmEtYWNiYS1iYWNkLWNjYWJhYWNiYmJjYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 THU-14-FARVARDIN-1404 🕑 21:26
 ss://bm9uZTpiYmFhYWNjLWFiY2EtYWFiYy1hZGNiLWJhYWJjYWNjYWJjYg==@127.0.0.1:2080#🤖 TELEGRAM-CHANNEL 💡 NEUROVANCE 🧠
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.16.219:443#🔒 SS-TCP-NA 🇬🇧 GB-131.145.16.219:443
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1nY206MUg1S1g1UVpCVU9XUDJQNA==@156.231.104.17:18007#🔒 SS-TCP-N
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8009
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.160:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#🔒 SS-TCP-NA 🇪🇪 EE-185.193.49.88:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.43:2377#🔒 SS-TCP-NA 🇸🇬 SG-5.44.249.43:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🔒 SS-TCP-NA 🇨🇿 CZ-195.181.160.6:990
