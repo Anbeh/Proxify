@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&path=flow=-udp443&fp=&security=tls#1%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.9MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:38302?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%203.5MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:14659?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.3MB/s
 trojan://2bc1d12b-be42-3a9d-9c03-290111f9ed2b@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#1%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%206.3MB/s
 trojan://VMhGp5wEIyCDf90T@gysz0000.dynu.net:38340?allowInsecure=1&sni=hk39.work.gd#1%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%205.9MB/s
