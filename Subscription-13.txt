@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:14659?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.3MB/s
-trojan://2bc1d12b-be42-3a9d-9c03-290111f9ed2b@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#1%7C%F0%9F%87%AD%F0%9F%87%B02%20%7C%20%206.3MB/s
-trojan://VMhGp5wEIyCDf90T@gysz0000.dynu.net:38340?allowInsecure=1&sni=hk39.work.gd#1%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%205.9MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:46716?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C13%7CCN_speednode_0004
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e58J+HvDIgfCAgMS4xTUIvcyIsICJhZGQiOiAiNDUuMTIxLjUwLjExNiIsICJwb3J0IjogMjcyMjgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIxZDRkOGZiOC1jNzNjLTQ0NzQtZTMwMS1kY2I5NTcwOTQzY2EiLCAic25pIjogIiJ9
-trojan://2bc1d12b-be42-3a9d-9c03-290111f9ed2b@gy.58n.net:21970?allowInsecure=1&sni=x41.flybar.work#1%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%205.2MB/s
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.126:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram🇨🇳@WangCai2/?ed#1%7C%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%202.7MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e48J+HrDQgfCAgMS4yTUIvcyIsICJhZGQiOiAiYjI2OGNmM2Mtc3U3eGMwLXN3eDEwcC1jdzl2LmIuZm9zYW50LmNvbSIsICJwb3J0IjogMzY4MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImYzOWJhYWJjLWVmNzgtMTFlZi1iNzE0LWYyM2M5MzEzNmNiMyJ9
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:15823?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C13%7CCN_speednode_0013
