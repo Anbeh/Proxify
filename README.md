@@ -1,5 +1,7 @@
 # Proxify: Get Latest Proxies Instantly
 
+![repo banner](proxify.png)
+
 Proxify is a repository for accessing the latest proxies and V2Ray configurations, all kept up-to-date automatically.
 
 ## Supported protocols
