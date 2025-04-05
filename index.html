@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proxify: Private Browsing, Free Proxy</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: #161b22;
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+            text-align: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .logo {
+            width: 110px;
+        }
+        .status {
+            display: block;
+            margin-top: 10px;
+            padding: 5px 10px;
+            background: #238636;
+            border-radius: 7px;
+            font-weight: bold;
+        }
+        .data-usage {
+            margin: 20px 0;
+        }
+        .tab-container {
+            margin-top: 20px;
+        }
+        .tab-buttons {
+            display: flex;
+            border-bottom: 1px solid #30363d;
+        }
+        .tab-btn {
+            flex: 1;
+            padding: 10px;
+            background: none;
+            border: none;
+            color: #c9d1d9;
+            cursor: pointer;
+            font-weight: bold;
+            border-bottom: 2px solid transparent;
+        }
+        .tab-btn.active {
+            border-bottom: 2px solid #ff4f4f;
+            color: #ff4f4f;
+        }
+        .tab-content {
+            display: none;
+            padding: 10px 0;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .servers ul, .apps ul {
+            list-style: none;
+            padding: 0;
+        }
+        .servers li, .apps li {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #21262d;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+        .copy-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0;
+            margin-left: 8px;
+        }
+        .copy-icon {
+            width: 18px;
+            height: 18px;
+            vertical-align: middle;
+            transition: transform 0.2s;
+        }
+        .copy-btn:hover .copy-icon {
+            transform: scale(1.1);
+            opacity: 0.8;
+        }
+        .download-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0;
+        }
+        .download-icon {
+            width: 18px;
+            height: 18px;
+            vertical-align: middle;
+            transition: transform 0.2s;
+        }
+        .download-btn:hover .download-icon {
+            transform: scale(1.1);
+            opacity: 0.8;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile">
+            <img src="/assets/logo.png" alt="Logo" class="logo">
+            <h3>Proxify: Private Browsing, Free Proxy</h3>
+            <span class="status active">Active</span>
+        </div>
+        <div class="data-usage">
+            <p>Data Allowance: <strong id="usage">∞</strong></p>
+        </div>
+        <!-- Removed expiration and remaining days -->
+        <div class="tab-container">
+            <div class="tab-buttons">
+                <button class="tab-btn active" data-tab="subscriptions">Subscriptions</button>
+                <button class="tab-btn" data-tab="apps">Apps</button>
+            </div>
+            
+            <div class="tab-content active" id="subscriptions">
+                <div class="servers">
+                    <ul>
+                        <li>
+                            Subscription 1
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-1.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 2
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-2.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 3
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-3.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 4
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-4.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 5
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-5.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 6
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-6.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 7
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-7.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 8
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-8.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 9
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-9.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 10
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-10.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 11
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-11.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Subscription 12
+                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-12.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="copy-icon">
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="tab-content" id="apps">
+                <div class="apps">
+                    <ul>
+                        <li>
+                            Hiddify (Windows)
+                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Hiddify (MacOS .DMG)
+                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS.dmg', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Hiddify (MacOS .PKG)
+                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS-Installer.pkg', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                        <li>
+                            Hiddify (Android)
+                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                        <li>
+                            V2RayNG (Android)
+                            <button class="download-btn" onclick="window.open('https://getv2rayng.com/wp-content/uploads/2023/10/v2rayNG_1.8.5.apk', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                        <li>
+                            NekoRay (Linux .DEB)
+                            <button class="download-btn" onclick="window.open('https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                        <li>
+                            V2Box (IOS)
+                            <button class="download-btn" onclick="window.open('https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="download-icon">
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Tab switching functionality
+        const tabBtns = document.querySelectorAll('.tab-btn');
+        const tabContents = document.querySelectorAll('.tab-content');
+        
+        tabBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const tabId = btn.getAttribute('data-tab');
+                
+                // Update active tab button
+                tabBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                // Show corresponding content
+                tabContents.forEach(content => {
+                    content.classList.remove('active');
+                    if (content.id === tabId) {
+                        content.classList.add('active');
+                    }
+                });
+            });
+        });
+        
+        // Copy button functionality
+        document.querySelectorAll('.copy-btn').forEach(button => {
+            button.addEventListener('click', () => {
+                const link = button.getAttribute('data-link');
+                navigator.clipboard.writeText(link)
+                    .then(() => {
+                        const originalIcon = button.innerHTML;
+                        button.innerHTML = '<img src="/assets/copied-icon.png" alt="Copied" class="copy-icon">';
+                        setTimeout(() => {
+                            button.innerHTML = originalIcon;
+                        }, 2000);
+                    })
+                    .catch(err => {
+                        console.error('Failed to copy:', err);
+                        alert('Failed to copy link');
+                    });
+            });
+        });
+    </script>
+</body>
+</html>
