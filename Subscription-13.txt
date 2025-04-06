@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://4Tze3Ri*i%23Fo@104.21.44.185:8443?security=tls&type=httpupgrade&sni=soft.onetwothree123.ir&path=/L9sBUTui&host=soft.onetwothree123.ir#%E6%9C%AA%E7%9F%A562
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjMiLCJhZGQiOiI5Mi4yMjMuNDQuMTY4IiwicG9ydCI6IjIwMTE4IiwiaWQiOiJlOWY2NjZmYi0xMmQ5LTRmMWItZTllNi0zZTQ4ZTYxNWU3MTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2MyJ9
+ss://YWVzLTI1Ni1nY206UTlIV1EwTVpRSkYxWUtDVA==@185.126.237.58:20027#%E6%9C%AA%E7%9F%A564
 trojan://NISHIKUITAN111@162.159.16.224:443?#%E6%9C%AA%E7%9F%A565
 ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA==@156.231.104.19:18009#%E6%9C%AA%E7%9F%A566
 trojan://Aimer@141.11.203.191:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A567
