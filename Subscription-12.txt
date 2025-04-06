@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206RFEyQkJNVzFBUFNDVzhIRA==@154.196.244.11:16001#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.11:16001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.176.215.63:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.176.215.63:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🔒 SS-TCP-NA 🇳🇱 NL-213.109.147.242:62685
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg=@89.221.225.88:443#🔒 SS-TCP-NA 🇮🇱 IL-89.221.225.88:443
@@ -503,3 +501,5 @@ trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.888888
 trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.171:43591?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK5
 trojan://Aimer@54.180.230.114:4433?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A523
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.249.79.143:2377#%E6%9C%AA%E7%9F%A524
+trojan://0597af27-0972-45de-a32f-d320348cb765@45.146.232.171:44397?sni=q08m.vgraxiw73s.hasyaf.cn#HK6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Rmh5T2lCQnN2Tm43MkFScEhHdVp1@109.120.177.122:6774#%E6%9C%AA%E7%9F%A525%20473.6KB%2Fs
