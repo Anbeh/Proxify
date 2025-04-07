@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTEyOC1nY206Y2EzNWZhZDQtMDk5MC00ODgwLTgwYzktYjUwN2ZmMTliYmNh@83.147.13.92:45614#🔒 SS-TCP-NA 🇹🇼 TW-83.147.13.92:45614
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMjJvcnMzdU45ODlsclQ4d2R4YnZW@147.45.221.105:55515#🔒 SS-TCP-NA 🇷🇺 RU-147.45.221.105:55515
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.138:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.138:2377
+ss://YWVzLTI1Ni1nY206UjVTWEE3MFAzQVJOQlVCTw==@156.245.190.21:15012#🔒 SS-TCP-NA 🇭🇰 HK-156.245.190.21:15012
 ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#🔒 SS-TCP-NA 🇸🇬 SG-154.196.244.26:16016
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@80.92.204.106:9024#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9024
 ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@62.72.163.136:45580#🔒 SS-TCP-NA 🇭🇰 HK-62.72.163.136:45580
@@ -498,8 +503,3 @@ trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.15.232:443?security=tls&typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.109:2377#US19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg=@89.221.225.88:443#%E6%9C%AA%E7%9F%A589%20160.2KB%2Fs
 ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21115#US20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#%E6%9C%AA%E7%9F%A590%201.1MB%2Fs
-trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@137.184.120.86:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#US21
-trojan://Aimer@5.182.84.244:443?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A591
-trojan://Aimer@108.165.152.202:2083?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&path=/?ed=2560&host=agepy.ambercc.filegear-sg.me#US22
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@173.244.56.9:443#US23
