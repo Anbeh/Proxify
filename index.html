@@ -3,128 +3,219 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="/manifest.json">
     <title>Proxify: Private Browsing, Free Proxy</title>
     <style>
+        :root {
+            --bg-color: #0d1117;
+            --container-color: #161b22;
+            --text-color: #c9d1d9;
+            --accent-color: #ff4f4f;
+            --item-bg: #21262d;
+            --border-color: #30363d;
+            --active-status: #238636;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
         body {
-            background-color: #0d1117;
-            color: #c9d1d9;
+            background-color: var(--bg-color);
+            color: var(--text-color);
             font-family: Arial, sans-serif;
+            min-height: 100vh;
+            padding: 20px;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
-            margin: 0;
         }
+        
         .container {
-            background: #161b22;
+            background: var(--container-color);
             padding: 20px;
             border-radius: 10px;
-            width: 400px;
+            width: 100%;
+            max-width: 500px;
             text-align: center;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
+        
         .logo {
-            width: 110px;
+            width: 80px;
+            height: auto;
+            margin-bottom: 10px;
         }
+        
+        h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+        
         .status {
-            display: block;
-            margin-top: 10px;
-            padding: 5px 10px;
-            background: #238636;
-            border-radius: 7px;
+            display: inline-block;
+            margin-top: 5px;
+            padding: 5px 15px;
+            background: var(--active-status);
+            border-radius: 20px;
             font-weight: bold;
+            font-size: 0.9rem;
         }
+        
         .data-usage {
-            margin: 20px 0;
+            margin: 15px 0;
+            font-size: 0.95rem;
         }
+        
         .tab-container {
             margin-top: 20px;
         }
+        
         .tab-buttons {
             display: flex;
-            border-bottom: 1px solid #30363d;
+            border-bottom: 1px solid var(--border-color);
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
         }
+        
         .tab-btn {
             flex: 1;
-            padding: 10px;
+            min-width: 120px;
+            padding: 12px 5px;
             background: none;
             border: none;
-            color: #c9d1d9;
+            color: var(--text-color);
             cursor: pointer;
             font-weight: bold;
+            font-size: 0.9rem;
             border-bottom: 2px solid transparent;
+            white-space: nowrap;
         }
+        
         .tab-btn.active {
-            border-bottom: 2px solid #ff4f4f;
-            color: #ff4f4f;
+            border-bottom: 2px solid var(--accent-color);
+            color: var(--accent-color);
         }
+        
         .tab-content {
             display: none;
-            padding: 10px 0;
+            padding: 15px 0;
         }
+        
         .tab-content.active {
             display: block;
         }
+        
         .servers ul, .apps ul {
             list-style: none;
             padding: 0;
+            max-height: 400px;
+            overflow-y: auto;
         }
+        
         .servers li, .apps li {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background: #21262d;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
+            background: var(--item-bg);
+            padding: 12px 15px;
+            margin: 8px 0;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            text-align: right;
         }
-        .copy-btn {
+        
+        .action-btn {
             background: none;
             border: none;
             cursor: pointer;
-            padding: 0;
+            padding: 5px;
             margin-left: 8px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
         }
-        .copy-icon {
+        
+        .action-icon {
             width: 18px;
             height: 18px;
-            vertical-align: middle;
             transition: transform 0.2s;
         }
-        .copy-btn:hover .copy-icon {
-            transform: scale(1.1);
-            opacity: 0.8;
-        }
-        .download-btn {
-            background: none;
-            border: none;
-            cursor: pointer;
-            padding: 0;
-        }
-        .download-icon {
-            width: 18px;
-            height: 18px;
-            vertical-align: middle;
-            transition: transform 0.2s;
-        }
-        .download-btn:hover .download-icon {
+        
+        .action-btn:hover .action-icon {
             transform: scale(1.1);
             opacity: 0.8;
         }
         
+        footer {
+            margin-top: 20px;
+            font-size: 0.9rem;
+            color: #8b949e;
+        }
+        
+        footer a {
+            color: #ffffff;
+            text-decoration: none;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 480px) {
+            .container {
+                padding: 15px;
+            }
+            
+            .logo {
+                width: 70px;
+            }
+            
+            h3 {
+                font-size: 1.1rem;
+            }
+            
+            .servers li, .apps li {
+                padding: 10px 12px;
+                font-size: 0.9rem;
+            }
+            
+            .tab-btn {
+                font-size: 0.85rem;
+                padding: 10px 5px;
+            }
+        }
+        
+        @media (max-width: 350px) {
+            .container {
+                padding: 12px;
+            }
+            
+            .logo {
+                width: 60px;
+            }
+            
+            h3 {
+                font-size: 1rem;
+            }
+            
+            .tab-btn {
+                min-width: 100px;
+                font-size: 0.8rem;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="profile">
-            <img src="logo.png" alt="Logo" class="logo">
+            <img src="/assets/logo.png" alt="Logo" class="logo">
             <h3>Proxify: Private Browsing, Free Proxy</h3>
             <span class="status active">Active</span>
         </div>
         <div class="data-usage">
             <p>Data Allowance: <strong id="usage">∞</strong></p>
         </div>
-        <!-- Removed expiration and remaining days -->
+        
         <div class="tab-container">
             <div class="tab-buttons">
                 <button class="tab-btn active" data-tab="subscriptions">Subscriptions</button>
@@ -136,74 +227,74 @@
                     <ul>
                         <li>
                             Subscription 1
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-1.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-1.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 2
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-2.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-2.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 3
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-3.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-3.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 4
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-4.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-4.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 5
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-5.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-5.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 6
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-6.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-6.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 7
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-7.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-7.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 8
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-8.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-8.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 9
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-9.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-9.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 10
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-10.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-10.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 11
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-11.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-11.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Subscription 12
-                            <button class="copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-12.txt">
-                                <img src="copy-icon.png" alt="Copy" class="copy-icon">
+                            <button class="action-btn copy-btn" data-link="https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-12.txt">
+                                <img src="/assets/copy-icon.png" alt="Copy" class="action-icon">
                             </button>
                         </li>
                     </ul>
@@ -215,54 +306,56 @@
                     <ul>
                         <li>
                             Hiddify (Windows)
-                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Hiddify (MacOS .DMG)
-                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS.dmg', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS.dmg', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Hiddify (MacOS .PKG)
-                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS-Installer.pkg', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-MacOS-Installer.pkg', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                         <li>
                             Hiddify (Android)
-                            <button class="download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                         <li>
                             V2RayNG (Android)
-                            <button class="download-btn" onclick="window.open('https://getv2rayng.com/wp-content/uploads/2023/10/v2rayNG_1.8.5.apk', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://getv2rayng.com/wp-content/uploads/2023/10/v2rayNG_1.8.5.apk', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                         <li>
                             NekoRay (Linux .DEB)
-                            <button class="download-btn" onclick="window.open('https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-debian-x64.deb', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                         <li>
                             V2Box (IOS)
-                            <button class="download-btn" onclick="window.open('https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690', '_blank')">
-                                <img src="download-icon.png" alt="Download" class="download-icon">
+                            <button class="action-btn download-btn" onclick="window.open('https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690', '_blank')">
+                                <img src="/assets/download-icon.png" alt="Download" class="action-icon">
                             </button>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
-        <div>
-        Made with ❤️ by <a href="https://github.com/anbeh" target="_blank" style="color: #ffffff; text-decoration: none;">🥭 Anbeh</a>
-        </div>
+        
+        <footer>
+            Made with ❤️ by <a href="https://github.com/anbeh" target="_blank">🥭 Anbeh</a>
+        </footer>
     </div>
+    
     <script>
         // Tab switching functionality
         const tabBtns = document.querySelectorAll('.tab-btn');
@@ -293,7 +386,7 @@
                 navigator.clipboard.writeText(link)
                     .then(() => {
                         const originalIcon = button.innerHTML;
-                        button.innerHTML = '<img src="copied-icon.png" alt="Copied" class="copy-icon">';
+                        button.innerHTML = '<img src="/assets/copied-icon.png" alt="Copied" class="action-icon">';
                         setTimeout(() => {
                             button.innerHTML = originalIcon;
                         }, 2000);
