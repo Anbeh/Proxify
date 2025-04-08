@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+ss://YWVzLTI1Ni1nY206c2dnN3ZSZUhuZkV0VXRBc1dGUGVlRk9TSjZRM2Q5b3dZZkNRU3dRTVBuaz0=@45.80.181.77:28187#🔒 SS-TCP-NA 🇸🇬 SG-45.80.181.77:28187
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.95.215.125:2377#🔒 SS-TCP-NA 🇯🇵 JP-54.95.215.125:2377
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:4444
 ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@23.81.40.197:45612#🔒 SS-TCP-NA 🇯🇵 JP-23.81.40.197:45612
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.137:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.28.137:2377
@@ -501,5 +503,3 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.151:80?allowInsecure=0&sni
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.228:80?allowInsecure=0&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/TelegramU0001F1E8U0001F1F3 @MxlShare@WangCai2#14%7CNL_speednode_0050
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.27:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2flow=-udp443#14%7CNL_speednode_0052
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.99:80?allowInsecure=0&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/#14%7CNL_speednode_0053
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.27:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2#14%7CNL_speednode_0055
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.145:80?allowInsecure=1&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳@WangCai2#14%7CNL_speednode_0057
