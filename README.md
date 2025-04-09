@@ -1,10 +1,10 @@
-# Proxify: Get Latest Proxies Instantly
+# 🚀 Proxify: Get Latest Proxies Instantly
 
 ![repo banner](proxify.png)
 
 Proxify is a repository for accessing the latest proxies and V2Ray configurations, all kept up-to-date automatically.
 
-## Supported protocols
+## 🚧 Supported protocols
 
 - SOCKS5
 - SOCKS4
@@ -12,7 +12,11 @@ Proxify is a repository for accessing the latest proxies and V2Ray configuration
 - HTTPS
 - MTProto / SOCKS For Telegram messenger
 
-## Subscriptions 
+## 🌐 Web Version / Online Access
+You can also access Proxify subscription links and supported clients through web interface:
+#### 🔗 https://anbeh.github.io/Proxify-web
+
+## 📋 Subscriptions 
 
 Here are the generated subscription links for easy access to the latest proxy configurations. Simply copy and paste them into your preferred client.
 
@@ -81,7 +85,7 @@ https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-15.
 https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-16.txt
 ```
 
-## Contributing
+## 👥 Contributing
 
 Contributions are encouraged! New sources for proxies or v2ray configurations can be added by opening a pull request or creating an issue. Feedback and suggestions to improve the project are always welcome.
 
