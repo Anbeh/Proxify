@@ -3,7 +3,6 @@ https://t.me/proxy?server=1.font-bartar.ir&port=443&secret=eeff620b1c16c47bfc28f
 https://t.me/proxy?server=1.magalevarzeshi.ir&port=443&secret=ee82b10ac506a90a25e9970f370fc69e027765622e65697461612e636f6d
 https://t.me/proxy?server=1.majalekari.ir&port=443&secret=ee51d5423613a2ae54dfc3d88b90359f117765622e65697461612e636f6d
 https://t.me/proxy?server=103.126.50.38&port=443&secret=ee071071071071071071071071071071076d6963726f736f66742e636f6f
-https://t.me/proxy?server=103.161.35.17&port=443&secret=ee0000f00f0f775555fffffff5006e2e69612d2d2d2d2d2d2d2d
 https://t.me/proxy?server=103.3.60.129&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae63646e2e646973636f72646170702e636f6d
 https://t.me/proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 https://t.me/proxy?server=103.82.101.250&port=8443&secret=ee4fb863563a5a00040afd242b9b4027c4617a7572652e6d6963726f736f66742e636f6d
