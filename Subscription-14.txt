@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-hysteria2://4e84400e-f4bc-11ef-81b7-f23c932f2c32@57ad5f46-submo0-sv7alj-ctxx.la.shifen.uk:443?insecure=0&sni=57ad5f46-submo0-sv7alj-ctxx.la.shifen.uk#1%7C%F0%9F%87%BA%F0%9F%87%B842%20%7C%20%205.3MB/s
-vless://9f53d9dc-8e5d-4a96-d940-fb542631e1e4@162.247.5.91:443?allowInsecure=0&sni=tw.qhahd.shop&type=ws&host=tw.qhahd.shop&path=/bingsecurity=tls#1%2C14%7CHK_speednode_0085
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.187:80?type=ws&host=gozargah.validbv7996.ir&path=/#1%7C%F0%9F%87%A7%F0%9F%87%B71%20%7C%20%203.4MB/s
-hysteria2://18463200c271aa6d@rplcehysttya6.airlineshoma.com:443?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=6c80ade6#1%7C%F0%9F%87%A9%F0%9F%87%AA10%20%7C%20%204.2MB/s
-hysteria2://8de795d2-a06f-11ed-8edf-f23c913c8d2b@bec3dd81-suk9s0-sxv16d-1k09w.hy2.gotochinatown.net:8443?insecure=0&sni=bec3dd81-suk9s0-sxv16d-1k09w.hy2.gotochinatown.net#1%7C%F0%9F%87%BA%F0%9F%87%B843%20%7C%20%204.7MB/s
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.164.142.10:50001?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC11%20%7C%20%205.3MB/s
-vless://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443?sni=Work-YUU00.pageS.dEv&type=ws&host=work-yuu00.pages.dev&path=flow=-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B844%20%7C%20%202.1MB/s
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?sni=147135004002.sec20org.com&flow=-udp443&fp=&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.0MB/s
-hysteria2://3c461e2c-9d13-11ef-8563-f23c913c8d2b@4e4babe3-suk9s0-t234dm-eso8.hy2.gotochinatown.net:8443?insecure=0&sni=4e4babe3-suk9s0-t234dm-eso8.hy2.gotochinatown.net#1%7C%F0%9F%87%BA%F0%9F%87%B846%20%7C%20%203.8MB/s
 vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?sni=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&type=ws&host=37c60f8d.albangurakuqi.pages.dev&path=/telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420?ed=2560flow=-udp443&fp=randomized&security=tls#1%7C%F0%9F%87%AB%F0%9F%87%AE1%20%7C%20%201.5MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:29023?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0071
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:42426?allowInsecure=1&sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0032
