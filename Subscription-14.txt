@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.163.248.127:50000?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC10%20%7C%20%203.7MB/s
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@155.248.219.28:42557?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCA_speednode_0003
+vless://93a55bf9-7f6c-4a4c-a547-25099f0aaea5@84.234.29.203:3497?sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A8%F0%9F%87%AD2%20%7C%20%205.0MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0042
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@175.211.154.200:10041?allowInsecure=1&sni=edccr.ambercc.filegear-sg.me&type=ws&host=edccr.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC11%20%7C%20%206.7MB/s
 vless://5627861d-2607-4423-c3b6-b3bfc9b95a9a@91.134.88.205:443?sni=france.linceed.se&flow=-udp443&fp=safari&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.7MB/s
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@130.250.137.63:2083?sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=/?ed=2560flow=-udp443flow=-udp443flow=-udp443&fp=&security=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC12%20%7C%20%203.4MB/s
