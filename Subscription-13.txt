@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.253:8080#🔒 SS-TCP-NA 🇺🇸 US-107.151.182.253:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNndOVFNEV05EQXJRcmJkZWg3ZEJZ@86.104.74.203:32404#🔒 SS-TCP-NA 🇲🇩 MD-86.104.74.203:32404
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#🔒 SS-TCP-NA 🇩🇪 DE-185.177.229.245:1866
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#🔒 SS-TCP-NA 🇯🇵 JP-85.208.108.60:443
 ss://YWVzLTI1Ni1nY206QUlXN05JWVlZRVA4RzE2Rg==@185.47.253.144:20010#🔒 SS-TCP-NA 🇪🇨 EC-185.47.253.144:20010
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3389
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@5.188.181.201:9000#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9000
@@ -503,3 +499,7 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:45114?sni=www.nv
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4ev8J+HtTIgfCAgMy42TUIvcyIsICJhZGQiOiAiYTBhNDBkZTMtc3VrOXMwLXQ3bXQwcC0xc2xsZy5jbTUucDVwdi5jb20iLCAicG9ydCI6IDE3MjMzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDZlMTIwN2MtZjQxYS0xMWVmLTk0OTUtZjIzYzkxY2ZiYmM5In0=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@135.84.64.77:2096?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC9%20%7C%20%201.3MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4yAMTEtSUQgfCAgMS42TUIvcyIsICJhZGQiOiAiNjkzZGViZDQtc3VtNGcwLXN2bHFubC0yYzA4LmNtNS5wNXB2LmNvbSIsICJwb3J0IjogIjE3MjM0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYzc2YWJlZDQtZjJkMi1lNGRlLTUwY2UtYTU0NWZmNzRlY2QwIn0=
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.163.248.127:50000?allowInsecure=1&sni=edccy.ambercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#2%7C%F0%9F%87%B9%F0%9F%87%BC10%20%7C%20%203.7MB/s
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@155.248.219.28:42557?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCA_speednode_0003
+vless://93a55bf9-7f6c-4a4c-a547-25099f0aaea5@84.234.29.203:3497?sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A8%F0%9F%87%AD2%20%7C%20%205.0MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?allowInsecure=1&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0042

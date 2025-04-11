@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.146.241:443?security=tls&sni=ppal03.YeYESiB146.WoRKERS.DEv&type=ws&host=ppaL03.YEYesIB146.WorkERs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.241:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.202:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.202:443
-vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.195.50:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.50:443
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.80.1:8080?sni=201.58vtg99l.workers.dev&type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.80.1:8080
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.214.133:443?security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-199.232.214.133:443
 vless://c3215f6b-bd47-4123-989d-ee59baf7c1f2@104.16.61.8:443?security=tls&sni=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&type=ws&host=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
@@ -503,3 +500,6 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&sni=P
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?security=tls&sni=dee33.azurewebsites.net&type=ws&host=dee33.azurewebsites.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-20.189.104.97:443
 vless://b481bdf0-bf4b-464a-8357-725a0bb5a7d9@194.76.18.158:443?security=tls&sni=hdfyreplace3.parthianempire.org&type=ws&host=hdfyreplace3.parthianempire.org&path=%2Fb481bdf0-bf4b-464a-8357-725a0bb5a7d9#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.158:443
 vless://8757944c-6128-4959-a982-7d336a51e2a3@172.66.47.130:443?security=tls&sni=bESTIivpn.paGEs.dEV&type=ws&host=bestiivpn.pages.dev&path=%2FOPRkomv5SMpWs06V%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
+vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?security=none&type=ws&host=0210.uous1wog.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇾 CY-195.85.59.95:2082
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.201:443
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@188.114.99.144:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.144:443

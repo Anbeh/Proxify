@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.71:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.71:80
-vless://d1aca49a-e5bc-48b2-870a-d590004099b0@185.16.110.44:2096?security=tls&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.44:2096
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@173.245.58.154:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.154:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.226:80?type=ws&host=301.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.226:80
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:443?security=tls&sni=SUpPoRt.fArSONLinE24.Ir&type=ws&host=support.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.6:443
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp#🔒 VL-TCP-NA 🇦🇺 AU-170.64.171.83:36402
@@ -503,3 +500,6 @@ vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.121:443?security=tls&sn
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
 vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?security=tls&sni=dewuxian.pai50288.uk&type=ws&host=dewuxian.pai50288.uk&path=%2Fa8e84392&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
 vless://0d710c53-876d-401f-97f0-6bd1a8db941a@172.67.135.195:2052?sni=sWEeT-DIsK-b69d.TUdTudtrUHtRU.wOrkERS.dev&type=ws&path=%2FProxyIP#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.135.195:2052
+vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@104.21.69.44:8080?security=none&type=ws&host=seyyed.webdade.ip-ddns.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.46:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.46:80
+vless://34b3cbba-e6ac-485a-9481-976a0415eab9@172.67.141.28:443?security=tls&sni=ESEtSeCuriTYliCEnse.nZEWlx.wOrKeRs.DeV&type=ws&host=esEtSecURITYLicEnse.NzeWLx.WorKErs.deV&path=%2FTelegram%40V2ray_Alpha%2Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.28:443
