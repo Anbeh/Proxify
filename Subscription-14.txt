@@ -3,20 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#%E6%9C%AA%E7%9F%A592
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@31.223.184.248:17721?sni=data.52daishu.life#%E6%9C%AA%E7%9F%A593
-trojan://Aimer@211.114.180.156:10533?sni=epcct.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US22%2015.0MB%2Fs
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%E6%9C%AA%E7%9F%A594
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjM1Mjg3ZC0wZDU4LTQzYzItYmQ3My1hNmYyYmRhNWIyYmQ=@free.2apzhfa.xyz:31671#%F0%9F%87%A7%F0%9F%87%B7BR%E5%B7%B4%E8%A5%BF
-trojan://Aimer@27.50.49.207:443?sni=epccy.ambercc.filegear-sg.me#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
-trojan://Aimer@54.180.230.114:4433?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A595
-trojan://NISHIKUITAN111@5.182.84.93:443?#%E6%9C%AA%E7%9F%A596
-trojan://Aimer@213.241.198.59:2083?security=tls&type=ws&sni=agepn.ambercc.filegear-sg.me&path=/?ed=2560&host=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
-trojan://Aimer@188.164.159.22:2096?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.29:2377#TW3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk02.x.quickcht3.club:52612#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2%2040.3KB%2Fs
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:2053?security=tls&sni=official.tokyometropolis.kharkov.ua#%E6%9C%AA%E7%9F%A599
 trojan://Aimer@172.64.35.199:443?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#%E6%9C%AA%E7%9F%A5101
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A5102
