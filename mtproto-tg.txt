@@ -181,6 +181,7 @@ https://t.me/proxy?server=4.majalehelmi.ir&port=443&secret=ee230254403069672e8d2
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 https://t.me/proxy?server=45.136.5.201&port=443&secret=ee901e8938967bd25c7942d4519ab2b0937777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=45.67.139.102&port=8882&secret=eed700433aba3557d5e83d82beb4ab735873332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
 https://t.me/proxy?server=45.87.43.211&port=443&secret=eee751840c97f2d111ec833a86762c2fa6736869722e616c692e696f
 https://t.me/proxy?server=47.238.233.111&port=443&secret=ee90b14cc5e09daf640e84ab3be6421460617a7572652e6d6963726f736f66742e636f6d
@@ -333,6 +334,8 @@ https://t.me/proxy?server=78.111.89.97&port=443&secret=eea93c297d237f4756c1a01ff
 https://t.me/proxy?server=78.46.135.59&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 https://t.me/proxy?server=8.212.135.63&port=443&secret=eec5383d373c80e26d34dbd8d62b2a4995617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.212.154.157&port=443&secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=8.212.166.50&port=443&secret=eeaf96973921ac13872a69d7bd003a7bbb617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=8.212.172.128&port=443&secret=eeea3a03f2183e73c210d5ee03c5e5d0ee617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.216.64.216&port=443&secret=ee58e31be7af54581762ccde04b49a8b61617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.216.67.106&port=443&secret=ee06f2cc3fb6caff197c91a3c1bf098f85617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.216.67.118&port=443&secret=eee5299e0e100bce3b1213ee09cefb76f5617a7572652e6d6963726f736f66742e636f6d
