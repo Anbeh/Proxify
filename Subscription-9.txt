@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.19.173.68:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.173.68:443
+vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:8443?security=tls&sni=meHRnEWS.FARSOnLInE24.IR&type=ws&host=mehrnews.farsonline24.ir&path=%2F7uihmWjuk28mo7U3sS&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.40:8443
+vless://bb29c155-d55e-4c07-8403-0581e384f7a2@104.18.129.165:2087?security=tls&sni=a19.bewface-smart.rest&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.129.165:2087
 vless://68509c26-cfad-4dc8-9def-e8190a98d647@162.159.152.2:8880?security=none&type=ws&host=revolutiontime-dailyconfigs.vigilante.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:8880
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yapc-1.afshin.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇨🇭 CH-152.67.68.116:443
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
@@ -500,6 +503,3 @@ vless://fb0fdedc-44f4-455b-ba5d-72bf914f6be3@172.67.141.68:2053?security=tls&sni
 vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.64.1:2083?security=tls&sni=TaBNAK.TWn24.iR&type=ws&host=tabnak.twn24.ir&path=%2F1TEFUc8jfVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2083
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.218.90:80
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@104.20.1.94:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.1.94:443
-vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.168:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.168:2096
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.13:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.13:80
