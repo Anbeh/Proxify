@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.132:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.132:80
-vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.64.1:2053?security=tls&sni=mehrNEws.TWN24.ir&type=ws&host=mehrnews.twn24.ir&path=%2F1TEFUc8jfVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2053
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@162.159.192.145:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.145:443
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:443?security=tls&sni=old-DISk-EFCD.jOjahoF109.WORKERs.Dev&type=ws&host=oLD-disK-efcD.jOjAhof109.WOrKERs.DeV&path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.202:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.207:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.207:443
@@ -503,3 +501,5 @@ vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2052?type=ws&host=022
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.43.245:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.228:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.228:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.30:443?security=tls&sni=zz.bgm2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.30:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.54:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.54:443
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.6.44:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.6.44:443

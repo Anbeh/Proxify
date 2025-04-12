@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://b3d4cf64-be93-4bc5-a58f-3145a70e29c3@172.66.44.124:2083?security=tls&sni=mAHDiSeRver-D9N.PAGES.Dev&type=ws&host=mahdiserver-d9n.pages.dev&path=%2F0nV5bznLGDhgkift%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.124:2083
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@176.105.253.98:443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇵🇱 PL-176.105.253.98:443
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@195.85.59.155:8880?type=ws&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.155:8880
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@185.135.9.80:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2FTABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%3Fed%3D2560#🔒 VL-WS-NONE 🇩🇪 DE-185.135.9.80:8880
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.128.254:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.254:80
@@ -503,3 +501,5 @@ vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@198.202.211.78:2053?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.87:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2Ftelegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.121.87:80
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@162.159.192.180:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.180:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.169:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.169:443
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:8443?security=tls&sni=il-8.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:8443
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@188.114.98.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.150:443
