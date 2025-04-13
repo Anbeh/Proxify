@@ -204,7 +204,6 @@ https://t.me/proxy?server=4.majalehelmi.ir&port=443&secret=ee230254403069672e8d2
 https://t.me/proxy?server=43.155.74.97&port=443&secret=ee60832b3cd80f894e56850f294fb6b2b2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 https://t.me/proxy?server=45.67.139.102&port=8882&secret=eed700433aba3557d5e83d82beb4ab735873332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
 https://t.me/proxy?server=45.87.43.211&port=443&secret=eee751840c97f2d111ec833a86762c2fa6736869722e616c692e696f
 https://t.me/proxy?server=46.101.91.183&port=8443&secret=eed77db43ee3721f0fcb40a4ff63b5cd27666173742e636f6d
 https://t.me/proxy?server=47.238.233.111&port=443&secret=ee90b14cc5e09daf640e84ab3be6421460617a7572652e6d6963726f736f66742e636f6d
@@ -539,7 +538,6 @@ https://t.me/proxy?server=outgoing-connection.port-ssh.co.uk&port=3443&secret=ee
 https://t.me/proxy?server=oxes.ir.tajhizara.ir.babol-ads.ir.ali-n_oo__ri.ir.ne_gincms.ir.mandana_cont.com.s__ivancells.ir.openport.ir.lego-megamind.ir.vshareei.com.ebrahimahmadi.com.shirinmaneshgaz.com.resomix.ir.wimsky.ir.raikashop.ir.sayarehnarenji.com.tinos.ir.hypershoma.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 https://t.me/proxy?server=parya1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
-https://t.me/proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef262510972636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=products.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee70726f64756374732e6e656564686f73742e6972
 https://t.me/proxy?server=proxy.mainshop.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=pwtyzmewb32f.librekit.com&port=443&secret=ee915818963f39435ebc8d07feb36afcb76564782e636f6d
