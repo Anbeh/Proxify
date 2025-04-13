@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#HK19
-trojan://tg-fq521free@45.67.215.95:443?security=tls&type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A5130
-trojan://vip@104.26.5.57:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A5131
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bjRFbTJocFdVU0NEUWFt@131.145.40.9:443#%E6%9C%AA%E7%9F%A5132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2Y0MzEyYi02Y2Y5LTQ4MGYtOGU1OS1kNGUxNDRiMjMxNWI=@free.2weradf.xyz:36721#%F0%9F%87%B2%F0%9F%87%BEMY%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A
 trojan://Aimer@162.120.94.232:8443?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#US28
 trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&type=tcp&sni=z9.gozargah.one#US29
