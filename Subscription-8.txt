@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://576d5e09-997b-47b8-9783-afa6c72e9364@172.66.44.185:443?security=tls&sni=sjgi.pages.dev&type=ws&host=sjgi.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.185:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.39:8880?type=grpc#🔒 VL-GRPC-NA 🇱🇹 LT-185.150.117.39:8880
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.195.127:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.127:443
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.138:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.138:80
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.5:2086?security=none&type=ws&host=iriknet.ir#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:2086
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.9:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.9:80
 vless://ba6b9e44-3ea3-405d-a9eb-d5fcda84fdda@172.67.162.74:443?security=tls&sni=Yu.irAn.pp.Ua&type=ws&host=yu.iran.pp.ua&path=%2FLdK4tlc2QASULQ4Era5IOo&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.74:443
@@ -499,7 +503,3 @@ vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@45.131.4.100:80?security=none&sni=v
 vless://ed335936-9285-4c26-9d9a-a829f7e4ce4b@162.159.44.157:443?security=tls&sni=r36e69.alligator27app.com&type=ws&host=r36e69.alligator27app.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.157:443
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@38.180.29.115:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-38.180.29.115:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.127:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.127:80
-vless://594dd6b7-657d-4154-96e7-7c7698f8fdac@185.126.9.109:57107?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.9.109:57107
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.64.70:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.64.70:443
-vless://552b2a43-49b4-4f0f-a23a-79e2b5e63e58@172.67.69.236:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.69.236:2087
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@220.77.114.12:11075?sni=ngedo.ambercc.filegear-sg.me&type=ws&host=ngedo.ambercc.filegear-sg.me#🔒 VL-WS-NA 🇰🇷 KR-220.77.114.12:11075
