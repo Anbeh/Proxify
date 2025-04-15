@@ -412,6 +412,7 @@ https://t.me/proxy?server=95.211.186.230&port=80&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=95.211.214.134&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
 https://t.me/proxy?server=95.216.199.56&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
 https://t.me/proxy?server=a.abccloudd.ir&port=2087&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
+https://t.me/proxy?server=adminpro.ip-dns.shop&port=443&secret=eef08094975f49473382562c87c277943c68616d69626173682e636f6d
 https://t.me/proxy?server=all.needhost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee616c6c2e6e656564686f73742e6972
 https://t.me/proxy?server=api.geohost.ir&port=443&secret=ee796766928008632f04a82ff64abdabee6170692e67656f686f73742e6972
 https://t.me/proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574
