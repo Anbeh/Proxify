@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://939f62bc-3255-495a-8b9b-f0a3da02e513@190.93.247.56:8080?security=none&type=ws&host=it1.hpcdn.info&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.56:8080
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.7.214:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.214:443
 vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80?type=ws&host=sweet-glade-2430-ppal03.xasev15708.workers.dev&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.254.125:80
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.98.123:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.123:443
@@ -503,3 +502,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.228:80?security=none&ty
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?security=none&type=ws&host=redw.pooriam.ir#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.163:2095
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.114:443?security=tls&sni=vkvd127.mycdn.me&type=ws&host=ayeqehnn.kopoly.info&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇲🇩 MD-91.225.219.114:443
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2082?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.1:2082
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.2:8443?security=tls&sni=edfgv.aimercc.filegear-sg.me&type=ws&host=edfgv.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.2:8443

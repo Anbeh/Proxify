@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?security=tls&sni=lmn39.sbs&type=ws&host=lmn39.sbs&path=%2Ffflsws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.36:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.80.43:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.80.43:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.21:80?security=none&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=telegram-_-_-_-_-__-free_shekan-_-_-_-%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.21:80
 vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@104.31.16.250:80?security=none&type=ws&host=ac7.zxv.biz.id#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.250:80
@@ -503,3 +502,4 @@ vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:443?security=tls&sni
 vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@104.21.59.168:443?security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2FTelegram%40mtmvpn%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.168:443
 vless://d8f1fa98-be39-47e8-8107-335f0afc77eb@104.17.148.22:2095?security=none&type=httpupgrade&host=h1.N.iranshopering.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.88.215:59483?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-142.93.88.215:59483
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.46:2082?security=none&type=httpupgrade&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.46:2082

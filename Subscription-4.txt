@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.2:8443?security=tls&sni=edfgv.aimercc.filegear-sg.me&type=ws&host=edfgv.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.2:8443
 vless://1f124bb0-6264-45fc-f61e-ef2701317f17@85.133.202.10:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.133.202.10:2052
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.253:443
 vless://e404df18-a2a5-4ca0-b878-8cda9cec7163@173.245.59.132:2052?security=none&type=httpupgrade&host=External_net.ysphs.top.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.132:2052
@@ -503,3 +502,4 @@ vless://792ee41a-991a-4f29-9b90-cec3149b7bef@104.21.27.177:2087?security=tls&sni
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2053?security=tls&sni=1F9o0U7j2D.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2053
 vless://cb6e5952-e662-458f-a32c-fb25fa4014a8@104.31.16.65:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.65:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.157:80?path=Telegram🇮🇷#🔒 VL-TCP-NA 🇳🇱 NL-45.131.4.157:80
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?security=tls&sni=lmn39.sbs&type=ws&host=lmn39.sbs&path=%2Ffflsws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.36:443
