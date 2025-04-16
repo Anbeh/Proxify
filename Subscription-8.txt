@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.18.0.181:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.0.181:443
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?type=ws&host=cc.ailicf.us.kg&path=/b5cdabf0-e04#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.27.46:80
+vless://30a082ad-3ebb-43d8-813c-f25072205c6d@104.18.20.135:443?security=tls&sni=25700.lanpinguo.cloud-ip.biz&type=ws&host=25700.lanpinguo.cloud-ip.biz&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.135:443
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.98.90:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.90:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.136:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-27.50.49.136:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.187:443?security=tls&sni=cb.dong2025.cfd&type=ws&host=cb.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.187:443
 vless://d6660712-4d18-47fd-b095-0c36db667250@104.24.213.42:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.213.42:443
 vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.183.83:80
 vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@2.56.173.227:443?security=tls&sni=blog.demo98.ir&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇨🇾 CY-2.56.173.227:443
@@ -497,9 +503,3 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.193:80?security=none&ty
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.0.137:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.137:80
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.17.199.117:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.199.117:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.58:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.58:80
-vless://83a7505b-e777-4663-8d5f-793b8288fb04@89.144.145.202:443?security=none&type=tcp&host=cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.144.145.202:443
-vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?type=ws&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.189:2086
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.136:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-185.236.233.136:2198
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.210.150:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.210.150:443
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.202:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.202:80
-vless://55520747-311e-4015-83ce-be46e2060ce3@206.238.237.243:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.243:443
