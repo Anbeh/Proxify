@@ -3,39 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8119
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9031
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.46:2377#🔒 SS-TCP-NA 🇹🇼 TW-125.227.86.46:2377
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9097
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@211.72.214.21:2377#🔒 SS-TCP-NA 🇹🇼 TW-211.72.214.21:2377
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#🔒 SS-TCP-NA 🇺🇸 US-216.39.248.133:7001
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443#🔒 SS-TCP-NA 🇸🇪 SE-37.19.222.214:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.30:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.30:2377
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.10:8388#🔒 SS-TCP-NA 🇭🇰 HK-103.149.183.10:8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.101:2377#🔒 SS-TCP-NA 🇺🇸 US-95.174.71.101:2377
-ss://YWVzLTI1Ni1nY206RlMzN0Y2MUdCQUlYSkY2RQ==@206.245.211.13:19003#🔒 SS-TCP-NA 🇬🇧 GB-206.245.211.13:19003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.96:2377#🔒 SS-TCP-NA 🇹🇼 TW-60.249.35.96:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#🔒 SS-TCP-NA 🇸🇪 SE-46.246.98.155:44013
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9020
-ss://YWVzLTI1Ni1nY206WTBUSUxKMzk5UTI3ME9aMA==@37.143.128.125:20012#🔒 SS-TCP-NA 🇨🇱 CL-37.143.128.125:20012
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@45.89.52.66:9030#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9030
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@80.92.204.106:9019#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9019
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeDhXdklqcEJxTTNDR2tnOFlIYWxr@37.235.53.254:443#🔒 SS-TCP-NA 🇪🇸 ES-37.235.53.254:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#🔒 SS-TCP-NA 🇳🇱 NL-89.23.103.125:42090
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.80:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🔒 SS-TCP-NA 🇺🇸 US-64.74.163.130:990
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#🔒 SS-TCP-NA 🇬🇧 GB-62.100.205.48:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.171:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVWd3dmU1UnpvU0tuS2lUOGlheXB4@64.7.198.124:34255#🔒 SS-TCP-NA 🇷🇴 RO-64.7.198.124:34255
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#🔒 SS-TCP-NA 🇸🇪 SE-37.19.222.211:443
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#🔒 SS-TCP-NA 🇺🇸 US-79.110.53.169:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.206:8080
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:4444
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@5.44.249.43:2377#🔒 SS-TCP-NA 🇸🇬 SG-5.44.249.43:2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@103.135.102.151:52612#🔒 SS-TCP-NA 🇭🇰 HK-103.135.102.151:52612
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:3389
-ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw==@156.245.190.19:15010#🔒 SS-TCP-NA 🇭🇰 HK-156.245.190.19:15010
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@80.92.204.106:9061#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9061
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#🔒 SS-TCP-NA 🇰🇷 KR-154.90.63.193:990
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.245:7002
 ss://YWVzLTI1Ni1nY206SDBQODg5Q1gwN0VRTkdOVg==@156.231.104.15:18005#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.15:18005
@@ -503,3 +470,36 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM2FkNjcxOS0yYTc5LTQzZWMtYThlYy1lNTVhODQ0ZWI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM2FkNjcxOS0yYTc5LTQzZWMtYThlYy1lNTVhODQ0ZWI5ZTY=@free.2apzhfa.xyz:31677#0%7C%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?allowInsecure=0&sni=yapc-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C13%7CCH_speednode_0004
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.253:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram🇨🇳@WangCai2/?ed=2560flow=-udp443&fp=#1%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%205.6MB/s
+vless://f87a5cb2-8ab9-40a2-f90e-a87bbd2933e4@173.245.59.100:2095?sni=&type=ws&host=www.speedtest.net.isv.spEedtest5.sOckschanGert.ir.&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048flow=-udp443&fp=#1%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%205.7MB/s
+vless://55520747-311e-4015-83ce-be46e2060ce3@192.0.54.0:443?allowInsecure=1&sni=vb.bgm2024.dpdns.org&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%203.1MB/s
+vless://55520747-311e-4015-83ce-be46e2060ce3@220.118.248.123:30012?allowInsecure=1&sni=vb.bgm2024.dpdns.org&type=ws&path=/?ed=2560security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%203.0MB/s
+hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@170.9.225.44:47262?insecure=1&sni=www.bing.com#1%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%204.8MB/s
+hysteria2://dongtaiwang.com@46.29.163.171:32555?insecure=1&sni=apple.com#1%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%204.7MB/s
+trojan://9e9ef571-5a94-47e9-916f-95c14f75f6f2@aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#1%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%205.3MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:16011?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%A8%F0%9F%87%A61%20%7C%20%203.8MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:54220?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%203.1MB/s
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.210.16:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram🇨🇳@WangCai2/?ed=2560flow=-udp443&fp=#1%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%205.6MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDIwIHwgIDIuOE1CL3MiLCAiYWRkIjogIjc2MzI4MTQxLXN2MnNnMC10OThlNHEtMW0yYXMuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImU0NGI3OWZhLWVjMDYtMTFlZS1hZWNkLWYyM2M5MTY0Y2E1ZCJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDQwIHwgIDMuNE1CL3MiLCAiYWRkIjogIjE1Ny4xNDguOTYuOTIiLCAicG9ydCI6IDUyMjgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2YWRhMTYyMi1lMDE4LTExZWMtYmI3NC1mMjNjOTE2NGNhNWQifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDggfCAgMy41TUIvcyIsICJhZGQiOiAiMmU5MzkxMmQtc3V0ajQwLXN1dGdhdS0xcjYyZi5jdS5wbGViYWkubmV0IiwgInBvcnQiOiAiNTIyOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE1NGIwYmY4LWY5YTctMTFlZS1hMjE4LWYyM2M5MWNmYmJjOSJ9
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:29023?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%204.7MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:30206?sni=addons.mozilla.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%201.9MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:15464?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%8C%801-AR%20%7C%20%202.9MB/s
+vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.102:443?allowInsecure=0&sni=vb.bgm2024.dpdns.org&type=ws&host=vb.bgm2024.dpdns.org&path=/?ed=2560security=tls#1%2C13%7CUS_speednode_0054
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:17930?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%8C%802-RO%20%7C%20%201.6MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40581?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%8C%803-ES%20%7C%20%203.3MB/s
+vless://dca00ac0-050b-42f8-ad56-ededaeaef2e7@104.17.148.22:8443?sni=wi.filmekade.site&type=ws&host=wi.filmekade.site&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048flow=-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA2%20%7C%20%205.0MB/s
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?allowInsecure=1&sni=vb.bgm2024.dpdns.org&type=ws&path=/ss.vs2024.us.kgsecurity=tls#1%7C%F0%9F%87%BA%F0%9F%87%B812%20%7C%20%205.8MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:47531?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%204.7MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:20216?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%B7%F0%9F%87%BA2%20%7C%20%205.0MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDEzIHwgIDEuME1CL3MiLCAiYWRkIjogIjdkYWE2ZjNhLXN1eDhnMC10YXZmM20tMThpbXYuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogNTIyOCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjlhODQ2Y2Q0LTdhODYtMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSJ9
+vless://6c050a90-b69d-421c-b01a-230ce6b96377@104.19.54.50:8080?sni=&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048flow=-udp443&fp=#1%7C%F0%9F%87%A9%F0%9F%87%AA3%20%7C%20%204.9MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDQyIHwgIDMuOU1CL3MiLCAiYWRkIjogImNkMDQ4MDliLXN1eDhnMC10M2Y3cXItMTQxdHYuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiZDc3YmZlOC1lMGYzLTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIifQ==
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:49699?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.1MB/s
+trojan://9e9ef571-5a94-47e9-916f-95c14f75f6f2@aafrtpfxr.pkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42883?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#1%7C%F0%9F%8C%804-PK%20%7C%20%204.8MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDE1IHwgIDIuNk1CL3MiLCAiYWRkIjogIjJjMjIyN2UxLXN1dGo0MC10OTA3Y3ItMWMxbXIuY3UucGxlYmFpLm5ldCIsICJwb3J0IjogIjUyMjkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhMTI2NDBkMC1lMmFkLTExZWYtOGY1Yi1mMjNjOTEzYzhkMmIifQ==
+vless://35fff34b-37f5-41fd-8252-aeef568b4684@www.parsvds.com:2096?sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpnflow=-udp443&fp=randomized&security=tls#1%7C%F0%9F%87%AB%F0%9F%87%B72%20%7C%20%201.2MB/s
+vless://af8e7760-4993-4393-9db7-e84f05a06d21@104.18.20.20:443?allowInsecure=0&sni=us3.globals-download.com&type=ws&host=us3.globals-download.com&path=/pq/us3fp=chrome&security=tls#1%2C13%7CUS_speednode_0072
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:27631?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C13%7CCN_speednode_0023
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:29023?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B817%20%7C%20%204.0MB/s
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:46372?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B818%20%7C%20%201.9MB/s
