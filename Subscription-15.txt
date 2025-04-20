@@ -3,6 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://Aimer@104.16.57.199:443?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A584
+trojan://Aimer@220.78.106.96:50000?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A585
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODYgMjI3LjJLQi9zIiwiYWRkIjoiNDYuMjUwLjIzNC4zMiIsInBvcnQiOiI0NTMxNyIsImlkIjoiYjI4MzYzNjktMjIwYi00ODQwLTgwYzQtOGNmOTA0YzczNWVlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4NiJ9
+trojan://uV8u9Q41e2@104.18.165.147:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A587
+trojan://Aimer@104.196.250.34:2087?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#US22
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.153:2096?security=tls&type=grpc&sni=1744156312.speed.nycvara.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A588
+trojan://Aimer@162.159.38.105:2083?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A589
+trojan://blue2024@104.17.40.244:443?security=tls&type=tcp&sni=td.promote.icu#%E6%9C%AA%E7%9F%A590
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@154.205.147.24:8080#%E6%9C%AA%E7%9F%A591
+trojan://auto@104.17.148.22:2087?security=tls&type=ws&sni=abbas.ab841vpn.workers.dev&host=abbas.ab841vpn.workers.dev#%E6%9C%AA%E7%9F%A592
+trojan://trojan@104.18.5.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A593
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTQgNzY4LjZLQi9zIiwiYWRkIjoiODQuMjQ3LjE0Ny42NyIsInBvcnQiOiI1NDE3OSIsImlkIjoiZDE0M2ViYmMtNzgyNS00YjQzLWE1NWUtZjExY2IxNTNiZDViIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijk0In0=
+trojan://Aimer@221.164.192.95:50003?sni=agepj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A595
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%E6%9C%AA%E7%9F%A596%2057.5KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaHNrVzQ1SnpjM1loSmk0MTVPdVhV@38.107.235.239:58080#%E6%9C%AA%E7%9F%A597
+trojan://bpb-trojan@104.17.102.149:2053?security=tls&type=ws&sni=bpb-WorkEr-panel-bcr.PagEs.DEv&host=bpb-worker-panel-bcr.pages.dev#%E6%9C%AA%E7%9F%A598
+trojan://67aae342-d53e-4b33-bc16-b70e15b30dc4@45.146.232.172:43590?sni=q08m.vgraxiw73s.hasyaf.cn#HK14
+trojan://vip@104.22.14.132:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A599
+trojan://telegram-id-privatevpns@3.11.248.107:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5100
+trojan://0000000@18.238.109.41:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#US23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTU2MTJmMC0wNzJhLTQyY2QtYmUwMi03MjJmNGY5Mzg5Y2Y=@free.2apzhfa.xyz:31271#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 trojan://amclubs@103.160.204.1:443?security=tls&type=ws&sni=tran.amclubstest.nyc.mn&path=/Telegram@V2ray_Alpha/?ed=2560&host=tran.amclubstest.nyc.mn#%E6%9C%AA%E7%9F%A5101
 trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5102
