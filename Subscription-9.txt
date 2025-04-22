@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@195.85.23.96:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇨🇿 CZ-195.85.23.96:443
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.24:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.24:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.40:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.85.118.40:2095
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.99:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.99:443
 vless://332af47e-3375-4be0-8f2f-8ca98bf640c6@172.67.73.253:8880?security=none&type=ws&host=orangeorange阿斯達十點三十分.boxiaa.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.253:8880
@@ -501,5 +503,3 @@ vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.96.113:443?security=tls&sni
 vless://69d6a749-1cc8-4322-da5e-b9a74ae83ba5@172.67.212.82:2053?security=tls&flow=xtls-rprx-vision&sni=m1s.131.pp.ua&type=ws&host=m1s.131.pp.ua&path=%2Fm1s.131.pp.ua#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.82:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.185.85.196:2501?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-89.185.85.196:2501
 vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.18.6.228:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.228:443
-vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@199.34.228.47:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=%2F2096%2F%40VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:2096
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@199.34.228.135:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.135:2083
