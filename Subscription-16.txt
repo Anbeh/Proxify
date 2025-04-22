@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+trojan://3828095943467868160@mutual-gannet.dolphin109.quest:443?allowInsecure=1&sni=mutual-gannet.dolphin109.quest#0%7C%F0%9F%87%B3%F0%9F%87%B14%20%7C%20%205.0MB/s
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.175.158.24:50000?sni=photosair.ir&type=ws&host=photosair.ir&path=flow=-udp443&fp=&security=tls#0%7C%F0%9F%87%A9%F0%9F%87%AA3%20%7C%20%204.3MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:13989?sni=gateway.icloud.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%7C%F0%9F%87%AF%F0%9F%87%B58%20%7C%20%205.0MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#0%2C14%7CCN_speednode_0026
