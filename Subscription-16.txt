@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.87:443?sni=maviks.eu&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA25%20%7C%20%203.5MB/s
+vless://61435a04-0e16-436f-b81d-552d70145fd9@24.199.110.152:443?sni=refersion.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%BA%F0%9F%87%B826%20%7C%20%205.8MB/s
 ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.230.66:30332#1%7C%F0%9F%87%B9%F0%9F%87%BC3%20%7C%20%202.5MB/s
 vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?sni=www.iij.ad.jp&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%B8%F0%9F%87%AC4%20%7C%20%201.1MB/s
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@39.116.19.171:50004?sni=photosair.ir&type=ws&host=photosair.ir&path=/bingflow=-udp443&fp=&security=tls#1%7C%F0%9F%87%AB%F0%9F%87%B79%20%7C%20%201.2MB/s
