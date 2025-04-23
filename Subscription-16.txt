@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://64fc5976-ee5a-4ba7-8f2e-c1e72330be20@185.85.241.196:37222?sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%202.5MB/s
+vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.211.62.200:80?allowInsecure=1&sni=refersion.com&fp=chrome&security=tls#1%2C14%7CNL_speednode_0072
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4e68J+HuDEgfCAgNS44TUIvcyIsICJhZGQiOiAiZDI4NjBkN2QtMDdlZS1hMGRiLWVmN2ItNTQ4MDhkYjAwYjAzLjg5MDYwMS5wcC51YSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI1NDUzYWUyNi0yNTBkLTRlNzktYjRlYy0wMTZiYWY4MDY4NjUiLCAiaG9zdCI6ICJEMjg2MGQ3ZC0wN2VlLUEwRGItRUY3Qi01NDgwOGRCMDBiMDMuODkwNjAxLnBQLlVBIiwgInBhdGgiOiAiL2g3UmN1MHkzMGxoamRWakozZ2M0YWoifQ==
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:15823?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0009
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4ep8J+HqjIgfCAgMS40TUIvcyIsICJhZGQiOiAiMTc4LjIzOS4xNDQuMTA3IiwgInBvcnQiOiAyNDU3MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTgwOTAxMDMtOWQ3Ny00ZmE0LWI0ZGUtYTAwODU5ZjEzMDc0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJhemFkYmFzaGlkLmF6YWQuc2RjZDVzc2Yuc2l0ZSIsICJwYXRoIjogIi8ifQ==
