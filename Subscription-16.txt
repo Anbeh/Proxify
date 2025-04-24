@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?sni=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&type=ws&host=37c60f8d.albangurakuqi.pages.dev&path=/telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420,telegram-@EXPRESSVPN_420?ed=2560flow=-udp443&fp=randomized&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA10%20%7C%20%201.7MB/s
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.163:443?allowInsecure=1&sni=xx.bgm2024.dpdns.org&type=ws&path=/ss.vs2024.us.kgsecurity=tls#2%7C%F0%9F%87%BA%F0%9F%87%B850%20%7C%20%203.2MB/s
-trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.23.162:443?allowInsecure=0&sni=6tghjk.131.pp.ua&type=ws&host=6tghjk.131.pp.ua&path=%2FYu29UN3Yz8hcnI3SlZor0#2%7C%F0%9F%87%BA%F0%9F%87%B851%20%7C%20%205.8MB/s
-vless://39d4ce03-f896-48db-8d2e-c95daa4898e4@185.85.241.196:28697?sni=yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A9%F0%9F%87%AA11%20%7C%20%202.0MB/s
-vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?allowInsecure=0&sni=YAPC-1.afshin.ir&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%A8%F0%9F%87%AD2%20%7C%20%205.5MB/s
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@pk.saint.ydns.eu:443?sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%8015-PK%20%7C%20%205.2MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:17930?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%8C%8016-RO%20%7C%20%204.9MB/s
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.17.135.91:443?sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=flow=-udp443&fp=random&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B852%20%7C%20%201.1MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:32193?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0032
 hysteria2://88925c12-4222-4ed3-84bd-6bfac300360f@dg1.gywanglug.xyz:8443?insecure=0&sni=dg1.gywanglug.xyz#2%7C%F0%9F%87%A9%F0%9F%87%AA12%20%7C%20%204.8MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40387?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AD%F0%9F%87%B014%20%7C%20%201.9MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:29877?allowInsecure=0&sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0019
