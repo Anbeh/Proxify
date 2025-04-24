@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://d35eba2f-7504-48ab-84ab-b6460a3f303f@172.66.47.15:2096?security=tls&sni=MaHDiSERveR-533.PAges.Dev&type=ws&host=mahdiserver-533.pages.dev&path=%2FdrJKqXievyg4Mlr6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.15:2096
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.4:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.4:80
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.49.53.185:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-194.49.53.185:443
-vless://3716c4de-069a-8d8c-3e30-cd18a20a8f40@185.126.2.164:1379?security=none&type=tcp&host=uptvs.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.2.164:1379
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.125:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.125:80
 vless://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@62.60.193.226:8443?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.193.226:8443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%40ShadowProxy66#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.245:80
@@ -503,3 +499,7 @@ vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.27.50:8880?type=ws&host=%76%
 vless://5b101fa9-9711-4fdf-8512-43490edee4ac@185.230.162.53:39704?security=tls&flow=xtls-rprx-vision-udp443&sni=aa.com&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-185.230.162.53:39704
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.116:80?sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram??@WangCai2flow&allowInsecure=1#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.116:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.52:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1-TABREZ.NET%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.52:2095
+vless://b28f60af-d0b9-4ddf-baaa-7e49c93c380b@104.224.88.15:443?type=ws&host=us.webhostmost.isfree.pp.ua#🔒 VL-WS-NA 🇺🇸 US-104.224.88.15:443
+vless://2e7b1501-74a0-4f74-be84-559625aa3100@185.85.241.196:33117?security=tls&flow=xtls-rprx-vision-udp443&sni=yahoo.com&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇩🇪 DE-185.85.241.196:33117
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.121:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.121:80
+vless://b5540249-9ac4-4037-aacd-79c71052864f@170.114.46.6:80?security=none&type=ws&host=free.pranithsandaruwan.cfd&path=/#🔒 VL-WS-NONE 🇺🇸 US-170.114.46.6:80
