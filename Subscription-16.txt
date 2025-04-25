@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://Aimer@188.164.159.91:2083?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.tw#2%7C%F0%9F%87%B9%F0%9F%87%BC9%20%7C%20%205.0MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:35311?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%202.7MB/s
-hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@152.69.220.212:35000?insecure=1&sni=api.push.apple.com#2%7C%F0%9F%87%B8%F0%9F%87%AC6%20%7C%20%202.9MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@beiyong.dynuddns.net:65053?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0048
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?sni=ToAjCzUh14.bRaVeNtO.OrG&type=ws&host=ToAjCzUh14.bRaVeNtO.OrG&path=/flow=-udp443&fp=&security=tls#2%7C%F0%9F%8C%8011-CY%20%7C%20%205.8MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0034
