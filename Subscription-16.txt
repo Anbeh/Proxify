@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%2C14%7CCN_speednode_0034
-ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@3.0.139.112:80#2%7C%F0%9F%87%B8%F0%9F%87%AC8%20%7C%20%203.5MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:10635?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B826%20%7C%20%202.3MB/s
-vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.44.241:443?sni=GgGgr.PaGES.dEV&type=ws&host=ggggr.pages.dev&path=/gLHWGBXwDuMKHx2C?ed=2560flow=-udp443&fp=randomized&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B827%20%7C%20%201.2MB/s
-hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@217.142.230.50:35000?insecure=1&sni=www.apple.com#2%7C%F0%9F%87%AF%F0%9F%87%B59%20%7C%20%205.0MB/s
-vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082?sni=&type=ws&host=0210.uous1wog.workers.dev&path=flow=-udp443&fp=#2%7C%F0%9F%87%B9%F0%9F%87%BC10%20%7C%20%204.6MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:19620?sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B828%20%7C%20%203.5MB/s
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:25768?sni=www.nvidia.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AF%F0%9F%87%B510%20%7C%20%201.2MB/s
-vless://8757944c-6128-4959-a982-7d336a51e2a3@172.66.44.126:443?sni=bESTIivpn.paGEs.dEV&type=ws&host=bestiivpn.pages.dev&path=flow=-udp443&fp=randomized&security=tls#2%7C%F0%9F%87%BA%F0%9F%87%B829%20%7C%20%205.1MB/s
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098#2%7C%F0%9F%87%B0%F0%9F%87%B711%20%7C%20%201.3MB/s
-vless://b543c066-2189-4aa4-8afb-445ac8ee28d4@pq.aws51.yydjc.top:443?sni=buylite.tv.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%B8%F0%9F%87%AC9%20%7C%20%206.2MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDMwIHwgIDEuNk1CL3MiLCAiYWRkIjogIjEwNC4yNi4xMy4zMSIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjgxMmViMDg2LTg0NDItNDc5OS05ZDkyLTExMmZkMWEyMjVhZiIsICJob3N0IjogIjkwMTk2NDI4OTM5NzI2MjAyNTA0MTExNTI2MTQyMDY1My5zMTUuY2hpYmFiYS5maWxlZ2Vhci1zZy5tZSIsICJwYXRoIjogIi9zMTUuaHRtbCJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.254.216:443#2%7C%F0%9F%87%BA%F0%9F%87%B831%20%7C%20%205.5MB/s
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:40072?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#2%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%204.4MB/s
 hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@167.234.210.122:35000?insecure=1&sni=www.apple.com#2%7C%F0%9F%8C%8012-%20%7C%20%204.3MB/s
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.247:443?allowInsecure=1&sni=cn.ylks0033.dpdns.org&type=ws&path=/?ed=2560security=tls#2%7C%F0%9F%87%B0%F0%9F%87%B712%20%7C%20%202.2MB/s
