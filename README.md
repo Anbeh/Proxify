@@ -14,7 +14,7 @@ Proxify is a repository for accessing the latest proxies and V2Ray configuration
 
 ## 🌐 Web Version / Online Access
 You can also access Proxify subscription links and supported clients through web interface:
-#### 🔗 https://anbeh.github.io/Proxify-web
+#### 🔗 https://anbeh.github.io/Proxify-web (Unavailable Right now)
 
 ## 📋 Subscriptions 
 
