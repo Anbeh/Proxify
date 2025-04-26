@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.66.194.180:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.194.180:443
-vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.192.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.150:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@199.34.228.162:443?security=tls&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%40V2ray_Alphaflow%3D-udp443&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.72.49:443?security=tls&sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.72.49:443
 vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.146:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.146:443
@@ -503,3 +501,5 @@ vless://cc6b985d-0362-4129-8763-38564174fb3e@154.194.12.188:443?security=tls&sni
 vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.84:8080
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.165:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.165:2096
 vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.19.255.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.255.51:443
+vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@172.67.217.31:443?security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.31:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.135.157:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.157:443
