@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://woCp0eJnQ5It@172.67.141.68:8443?security=tls&type=httpupgrade&sni=shabestan.itn24.ir&path=/🆔@M3HDIO1&host=shabestan.itn24.ir#%E6%9C%AA%E7%9F%A57
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.99:2377#US3
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@usa-sanjose-one.890614.filegear-sg.me:443?security=tls&type=ws&sni=usa-sanjose-one.890614.filegear-sg.me&path=/T5yZBrY2Qkg2cThJQeJb#%E6%9C%AA%E7%9F%A58
-trojan://Aimer@3.75.170.179:443?sni=epcco.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@13.231.105.239:2377#%E6%9C%AA%E7%9F%A510
 trojan://vip@104.18.27.94:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#%E6%9C%AA%E7%9F%A511
 trojan://Aimer@162.159.143.8:443?type=ws&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A512
 trojan://Cl150MQWlG@209.250.236.93:443?security=tls&type=grpc&sni=irancell-ir-4.mmdruby13.store#%E6%9C%AA%E7%9F%A513
