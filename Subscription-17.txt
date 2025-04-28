@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
-trojan://74260678056890000@grown-doberman.shiner427.skin:443?allowInsecure=0&sni=grown-doberman.shiner427.skin#14%7CSG_speednode_0050
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?allowInsecure=1&sni=redfree8mahsang6.redfree8.ir&type=ws&host=redfree8mahsang6.redfree8.ir&path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#14%7CUS_speednode_0052
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?allowInsecure=0&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/#14%7CUS_speednode_0057
 vless://a02f4706-8451-433b-b02a-93b584b54fa0@fastaly.dollardoon.com:80?allowInsecure=0&sni=vipfast_7.com&type=ws&host=vipfast_7.com&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#14%7CUS_speednode_0058
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?allowInsecure=0&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512#14%7CUS_speednode_0066
 trojan://Aimer@104.129.167.255:8443?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=/?ed=2560#14%7CUS_speednode_0068
