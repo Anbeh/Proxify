@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://2a8e6c01-49d3-4023-9955-1dd8ef2acd6c@152.53.91.37:19290?allowInsecure=0#14%7CAT_speednode_0003
 vless://a35e396d-0c85-4a57-a6db-643006a86b69@152.53.88.121:50610?allowInsecure=0#14%7CAT_speednode_0004
 vless://f28b23ed-6eb2-da9a-c112-6918a83654a6@37.156.46.44:59838?allowInsecure=1&sni=stackoverflow.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CCH_speednode_0007
 trojan://292f149a-33cb-4ecd-b432-5447764ea339@sla.cn.964e995b760.gogodns.xin:27103?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#14%7CCN_speednode_0012

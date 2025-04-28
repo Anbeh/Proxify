@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Anbeh/Proxify
 #profile-web-page-url: https://github.com/Anbeh/Proxify
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.159:443?security=tls&sni=il.ylkszy.eu.org&type=ws&host=il.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.159:443
 vless://b9e98405-0454-474e-a5b3-1d6e164ba40d@45.144.51.195:35036?type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-GRPC-NA 🇵🇱 PL-45.144.51.195:35036
 vless://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.210.157:80?sni=1224.j9q1xuv8.workers.dev&type=ws&host=1224.j9q1xuv8.workers.dev&path=/Telegram#🔒 VL-WS-NA 🇳🇱 NL-45.131.210.157:80
 vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.96.1:2087?security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&type=ws&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:2087
@@ -502,4 +503,3 @@ vless://e3b74b3a-38f3-489b-bdf0-2d4019e801ec@151.101.1.194:80?type=ws&host=www.b
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.149.12.183:2052?security=none&type=ws&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.183:2052
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?security=tls&sni=azadNet-SeMej.PAGES.DEV&type=ws&host=AZaDnet-SEmEj.pAgEs.DeV&path=%2FoyF1T0jNP2ARuOYS%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.20:443
 vless://ec18f06a-4f88-4ad8-aae4-e55d1eec305a@104.21.27.112:2087?security=tls&sni=good.speedtest3.online&type=ws&host=good.speedtest3.online&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.112:2087
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.239:8443?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.239:8443
