@@ -510,7 +510,6 @@ https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-inter
 https://t.me/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=jooje.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=kabab.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=kabab.koobideh.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=mainmtproxy.filimo.news&port=443&secret=ee2c9935dcec47525aeb6d559d4bdd5a597777772e7370656564746573742e6e6574
 https://t.me/proxy?server=mast.moosir.tcp-max.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=mihanyas.ir.www.zula.ir.haydayshop.ir&port=243&secret=ee87c5278e6c5e03f3d19a4fa7ed4e8dd7636c6f7564696e6172792e636f6d
