@@ -12,77 +12,73 @@ Proxify is a repository for accessing the latest proxies and V2Ray configuration
 - HTTPS
 - MTProto / SOCKS For Telegram messenger
 
-## 🌐 Web Version / Online Access
-You can also access Proxify subscription links and supported clients through web interface:
-#### 🔗 https://anbeh.github.io/Proxify-web (Unavailable Right now)
-
 ## 📋 Subscriptions 
 
 Here are the generated subscription links for easy access to the latest proxy configurations. Simply copy and paste them into your preferred client.
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-1.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-1.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-2.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-2.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-3.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-3.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-4.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-4.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-5.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-5.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-6.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-6.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-7.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-7.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-8.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-8.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-9.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-9.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-10.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-10.txt
 ```
 
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-11.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-11.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-12.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-12.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-13.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-13.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-14.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-14.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-15.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-15.txt
 ```
 
 ```
-https://raw.githubusercontent.com/Anbeh/Proxify/refs/heads/main/Subscription-16.txt
+https://raw.githubusercontent.com/74647/Proxify/refs/heads/main/Subscription-16.txt
 ```
 
 ## 👥 Contributing
