@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXRodWI6IEBBbmJlaCB8IFRHOiBAUXVpY2tIaWRl
+#profile-title: base64:8J+GkyBHaXRodWI6IEA3NDY0NyB8IFRHOiBAWmVyb0RheVRN
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Anbeh/Proxify
-#profile-web-page-url: https://github.com/Anbeh/Proxify
+#support-url: https://github.com/74647/Proxify
+#profile-web-page-url: https://github.com/74647/Proxify
 trojan://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.80.1:8443?security=tls&sni=tABNaK.TwN24.ir&type=ws&host=tabnak.twn24.ir&path=%2FvNF7RJtVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:8443
 trojan://Aimer@188.164.159.43:2083?security=tls&sni=agepb.ambercc.filegear-sg.me&type=ws&host=agepb.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.43:2083
 trojan://blue2024@104.17.40.244:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.40.244:443

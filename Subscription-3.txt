@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXRodWI6IEBBbmJlaCB8IFRHOiBAUXVpY2tIaWRl
+#profile-title: base64:8J+GkyBHaXRodWI6IEA3NDY0NyB8IFRHOiBAWmVyb0RheVRN
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Anbeh/Proxify
-#profile-web-page-url: https://github.com/Anbeh/Proxify
+#support-url: https://github.com/74647/Proxify
+#profile-web-page-url: https://github.com/74647/Proxify
 vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@104.21.95.29:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.29:443
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.98.218:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.218:443
 vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@91.195.240.13:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒 VL-GRPC-TLS 🇩🇪 DE-91.195.240.13:443
