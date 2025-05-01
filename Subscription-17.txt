@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://aa34901b-0877-4143-8e50-67de188e178a@45.146.232.172:46926?sni=q08m.vgraxiw73s.hasyaf.cn#HK10
+trojan://Aimer@27.50.49.47:2083?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A578
+trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&type=tcp&sni=uk-02.allhubb.info#%E6%9C%AA%E7%9F%A579
+trojan://Aimer@193.122.114.82:443?sni=epccs.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A580
+trojan://Aimer@172.67.77.64:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A581
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US31
 trojan://123456@104.25.165.83:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A582
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.113:9101#US32%201.7MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A583%2014.4MB%2Fs
