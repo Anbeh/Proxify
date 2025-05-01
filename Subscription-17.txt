@@ -3,6 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://Aimer@154.197.64.228:2083?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A596
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#US21%201.6MB%2Fs
+trojan://Aimer@192.200.160.19:8443?type=ws&sni=epcca.ambercc.filegear-sg.me#US22
+trojan://vs6f8hvt@104.16.177.79:2087?security=tls&type=ws&sni=trojan.cchappy.eu.org&path=/?ed=2560&host=trojan.cchappy.eu.org#%E6%9C%AA%E7%9F%A597
+trojan://Aimer@108.165.152.67:2053?sni=epccy.ambercc.filegear-sg.me#US23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDQ0Y2VjYS00ZjE5LTQwZGEtYmM4Yi1iNjMzZTQ2MTMxOWU=@free.2weradf.xyz:36175#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://Aimer@20.243.85.49:10443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
+trojan://Aimer@108.165.152.66:2083?type=ws&sni=epcca.ambercc.filegear-sg.me#US24
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua#%E6%9C%AA%E7%9F%A599
+trojan://Aimer@156.225.72.199:2096?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&path=/&host=epcca.ambercc.filegear-sg.me#US25
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#US26%201.9MB%2Fs
+trojan://Aimer@162.159.142.238:443?security=tls&type=ws&sni=epcca.ambercc.filegear-sg.me&host=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
 trojan://tb5PqFczGQ@104.16.83.8:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A5101
 trojan://Aimer@104.19.57.58:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5102
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@172.67.149.172:443?security=tls&type=ws&sni=usa-sanjose-one.890614.filegear-sg.me&path=/T5yZBrY2Qkg2cThJQeJb#%E6%9C%AA%E7%9F%A5103
@@ -491,15 +503,3 @@ vless://25636ecf-9958-48a3-9b0d-63c25a9db541@103.21.244.69:2087?allowInsecure=0&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.6.3:2052?allowInsecure=0&sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&path=/?ed=2048#15%7CUS_speednode_0128
 vless://8aa1de58-8ddb-4230-bc63-9ab3152ed136@hajlab.ucdavis.edu:80?allowInsecure=0&sni=joinxvproxybedee.ir&type=ws&host=joinxvproxybedee.ir&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#15%7CUS_speednode_0132
 vless://9450fd6c-fe9b-4135-935b-62e84ee2fca9@104.24.14.164:443?allowInsecure=0&sni=workers.0115.eu.org&type=ws&host=workers.0115.eu.org&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0134
-vless://1f9a3b42-043b-43dc-a7b3-781db1b91fca@103.21.244.189:443?allowInsecure=0&sni=vlessv5.yeleivless.sbs&type=ws&host=vlessv5.yeleivless.sbs&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0136
-vless://8b6ad77f-aeef-413d-b1a1-6419770a8bc7@104.24.191.191:443?allowInsecure=0&sni=vless-new.linginglu.eu.org&type=ws&host=vless-new.linginglu.eu.org&path=/?ed=2560security=tls#15%7CUS_speednode_0137
-vless://da5d2d40-df2c-49fb-a3be-77f0f0299d23@104.24.236.108:443?allowInsecure=0&sni=520588.xyz&type=ws&host=520588.xyz&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0139
-vless://ef812791-33df-4808-964a-45e20bad57a3@hajlab.ucdavis.edu:80?allowInsecure=0&sni=joinshhproxybedeeeeeee.ir&type=ws&host=joinshhproxybedeeeeeee.ir&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#15%7CUS_speednode_0142
-vless://25636ecf-9958-48a3-9b0d-63c25a9db541@104.24.94.106:2087?allowInsecure=0&sni=w-am1.pages.dev&type=ws&host=w-am1.pages.dev&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0145
-vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?allowInsecure=0&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM@AZAFBAYJAB1#15%7CUS_speednode_0146
-vless://236a00ab-f5c0-4dcf-a453-d795c1fd7e1e@172.66.47.138:443?allowInsecure=0&sni=BEsTiIIiiIiIIIVpN.PAges.dEv&alpn=h2%2Chttp/1.1&type=ws&host=BEsTiIIiiIiIIIVpN.PAges.dEv&path=/DCn52y7EZbW8snBf?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0156
-vless://9f387ad9-043b-40b2-97c5-265d30cbfbf1@172.66.44.156:443?allowInsecure=0&sni=besTiIvPn-6t8.PAGes.DEV&alpn=h2%2Chttp/1.1&type=ws&host=besTiIvPn-6t8.PAGes.DEV&path=/Telegram@mtmvpn---mtmvpn---mtmvpn?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0158
-vless://b2211bd9-5eba-4141-b80d-a6c335b2e751@172.66.47.49:443?allowInsecure=0&sni=bESttIvPN.paGEs.Dev&alpn=h2%2Chttp/1.1&type=ws&host=bESttIvPN.paGEs.Dev&path=/g3fpXHnYa6VAnTBL?ed=2560fp=randomized&security=tls#15%7CUS_speednode_0159
-trojan://123@104.24.92.207:2053?allowInsecure=1&sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev&path=/?ed=2560#15%7CUS_speednode_0160
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504301450290-B3cnEnRz1z.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504301450290-B3cnEnRz1z.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
