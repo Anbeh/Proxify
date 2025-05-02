@@ -3,25 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://Aimer@211.114.180.156:12383?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD2
-trojan://fnufMt%3AsQ%26rC0HUu@172.66.47.84:2083?security=tls&type=ws&sni=joinmAHDIsERVER-6vv.PaGeS.dEv&host=joinmahdiserver-6vv.pages.dev#%E6%9C%AA%E7%9F%A587
-trojan://vpn@89.191.234.182:2025?security=none&type=ws&path=/&host=vkvd127.mycdn.me#%E6%9C%AA%E7%9F%A588
-trojan://Aimer@duke.ns.cloudflare.com:443?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-trojan://Aimer@162.159.153.187:443?type=ws&sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A589
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#US20%201.9MB%2Fs
-trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443?security=tls&type=ws&sni=golinkwuxian.top&path=/apple&host=8888.golinkwuxian.top#%E6%9C%AA%E7%9F%A590
-trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@143.244.191.231:443?security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#US21
-trojan://NISHIKUITAN111@45.131.7.206:443?#%E6%9C%AA%E7%9F%A591
-trojan://684dd432-74bc-4c40-8d20-5c26a84725f8@45.146.232.171:42882?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#HK10%20269.3KB%2Fs
-ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.247.206:30332#TW3%20910.2KB%2Fs
-trojan://Mikahyh%40l4fg@104.21.23.215:443?security=tls&type=ws&sni=1da8C916-rouND-moon-05e0.Soren-CybGu.WORKERS.deV&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev#%E6%9C%AA%E7%9F%A592
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjlhMzEwZS02NjQ3LTQ0YjItOWM3Mi1mMjIyYjg1MDA5MmE=@free.2apzhfa.xyz:31341#%F0%9F%87%B5%F0%9F%87%ADPH%E8%8F%B2%E5%BE%8B%E5%AE%BE
-trojan://Aimer@162.159.44.230:2053?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A593
-trojan://Aimer@46.254.93.211:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A594
-trojan://Aimer@67.226.221.102:80?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US22
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&type=tcp&sni=hdfyc1.achaemenidempireofpersia.uk#%E6%9C%AA%E7%9F%A595
-trojan://Aimer@92.243.74.23:2096?sni=epcct.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A596
-trojan://Aimer@162.159.38.104:2087?sni=epccf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A597
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjlhMzEwZS02NjQ3LTQ0YjItOWM3Mi1mMjIyYjg1MDA5MmE=@free.2apzhfa.xyz:31111#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://Aimer@188.164.159.25:2053?security=tls&type=tcp&sni=acepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
