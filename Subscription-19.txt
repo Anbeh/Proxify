@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGU2OGEyOC1mZmVlLTRkMDYtYjU1OC01MzZiYWUzNTEwZjQ=@free.2weradf.xyz:36641#15%7C%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGU2OGEyOC1mZmVlLTRkMDYtYjU1OC01MzZiYWUzNTEwZjQ=@free.2weradf.xyz:36671#15%7C%F0%9F%87%A7%F0%9F%87%B7%20%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGU2OGEyOC1mZmVlLTRkMDYtYjU1OC01MzZiYWUzNTEwZjQ=@free.2weradf.xyz:36677#15%7C%F0%9F%87%AE%F0%9F%87%A9%20%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Foqhygtklyhwi%3Bhost%3Dwt8v1.kvote.cn%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
