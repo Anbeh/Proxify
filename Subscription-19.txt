@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://da5d2d40-df2c-49fb-a3be-77f0f0299d23@104.24.236.108:443?allowInsecure=0&sni=520588.xyz&type=ws&host=520588.xyz&path=/?ed=2560security=tls#15%7CUS_speednode_0035
+vless://6453293c-512f-4862-979b-f65f4a3dd3ff@104.24.163.64:443?allowInsecure=0&sni=66.sgfc.dpdns.org&type=ws&host=66.sgfc.dpdns.org&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0036
+vless://a268ce39-7687-4817-aa5f-def4f653fb88@104.24.231.66:443?allowInsecure=0&sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&path=/?ed=2560security=tls#15%7CUS_speednode_0037
 vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443?allowInsecure=0&sni=66.sgfc.dpdns.org&type=ws&host=66.sgfc.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0038
 vless://422f7f8a-2f97-444f-8ec1-2505c9b8482b@172.64.80.228:443?allowInsecure=0&sni=bantony199.top&type=ws&host=bantony199.top&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0039
 vless://97f26790-6e5a-4adc-83a8-5b17d873a4f0@104.19.160.0:443?allowInsecure=0&sni=lrnz.xyz&type=ws&host=lrnz.xyz&path=/?ed=2560security=tls#15%7CUS_speednode_0040
