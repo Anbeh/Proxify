@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.22.95.183:443#%E6%9C%AA%E7%9F%A562
-ss://YWVzLTI1Ni1nY206ODRYQUpMOFNZVTVERkVPMQ==@156.231.104.14:18004#%E6%9C%AA%E7%9F%A563
 trojan://NISHIKUITAN111@104.20.138.222:443?#%E6%9C%AA%E7%9F%A564
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&type=ws&sni=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq&host=series-v1.samanehha.co#%E6%9C%AA%E7%9F%A565
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:52105#US21
@@ -503,3 +501,5 @@ vless://af713c0c-a79e-464b-b08e-831ce00fe235@104.24.188.214:443?allowInsecure=0&
 vless://c562022e-c51f-4742-cda8-9bff6b917558@4.255.56.137:443?allowInsecure=0&sni=usb.carvic.me&type=ws&host=usb.carvic.me&path=/bingsecurity=tls#15%7CUS_speednode_0103
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505051364196-DdoXJ0PjId.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjM2U5YzRhZjMwOTA@137.220.142.145:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fpnkedddxby%3Bhost%3Djp5v1.8vote.cn%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505051364196-DdoXJ0PjId.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:11497?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
