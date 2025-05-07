@@ -218,6 +218,7 @@ https://t.me/proxy?server=47.245.113.210&port=443&secret=ee6789531aa5162ae740616
 https://t.me/proxy?server=47.245.114.144&port=443&secret=ee8fd523dc1ffe71acd1656d4be56d71b3617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.250.117.39&port=443&secret=ee95281df4ca7657d98301d20a753cb03b617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.250.118.222&port=443&secret=eefad3ac3eb56812485e5d3f136b97e807617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=47.250.123.246&port=443&secret=ee2734703dca8b9a804a71e610944c4672617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.250.128.156&port=443&secret=eee17813c81f8b3a72c1588ee4eefb9970617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.250.13.37&port=443&secret=eedf81fd268876833dff5c930d46fb0575617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=47.250.130.213&port=443&secret=ee47c094ea0488c61b79fdf2487fd9d45c617a7572652e6d6963726f736f66742e636f6d
@@ -296,7 +297,6 @@ https://t.me/proxy?server=54.37.131.98&port=443&secret=eeeea78078078078078078078
 https://t.me/proxy?server=62.60.244.99&port=24&secret=ee9559dd5b4bfd6bb2e3d29e47e6534650687364667364612e737065656474657374322e636664
 https://t.me/proxy?server=62.84.100.6&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=63.141.252.204&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267
-https://t.me/proxy?server=64.7.199.195&port=443&secret=ee6e4d02112e92308c52d2c325dcbef4c47373683a2f2f7373682e64656269616e2e6f72672fe193aae1939ae19283e191902f
 https://t.me/proxy?server=65.108.31.119&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
 https://t.me/proxy?server=65.108.84.7&port=443&secret=ee0000000000000000000000000000000064656570696e73616e652e636f6d
 https://t.me/proxy?server=65.109.129.53&port=443&secret=eee8f660f2c82cbe12a82adfb9805e30b773332e616d617a6f6e6177732e6301020001000100000000000000000000000000000000
@@ -349,6 +349,7 @@ https://t.me/proxy?server=8.219.108.146&port=443&secret=ee4a6fb9ac5e2fa0a2ae2feb
 https://t.me/proxy?server=8.219.111.130&port=443&secret=eec1d9a715694118929ba27d2e23ef84a2617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.219.112.6&port=443&secret=eefaa1155eb2073e58b781ca66d6ca0f12617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.219.117.6&port=443&secret=ee312e0dd13134f08438849db477804a60617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=8.219.117.95&port=443&secret=ee3496ad68f4de42a2b04a927d189e0637617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.219.125.124&port=443&secret=eefc37089c680b64c1ce98e093e2f7b918617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.219.137.235&port=443&secret=ee41b06991c81871117eb7734c65966453617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.219.139.26&port=443&secret=ee1ef097a1ff59f83d691d90f394451758617a7572652e6d6963726f736f66742e636f6d
@@ -464,6 +465,7 @@ https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-inter
 https://t.me/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=jooje.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=kabab.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=limoo.es&port=443&secret=ee4b8c173157404680bfeb1744e86c3b3f656c7068612e636f6d
 https://t.me/proxy?server=mmm.mmmmmmmmmmmm.eeeeeeeeeeeeeeeeeeeeeee.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.eeeeeeeeeeeeeeeeeeeeeeeeedddd.nanoliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 https://t.me/proxy?server=my.irtower-a.ir&port=3598&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 https://t.me/proxy?server=omega.silicon.rho.twitch.dbmjmhir.jgzlsvuntk.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
