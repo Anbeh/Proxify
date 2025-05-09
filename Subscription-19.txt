@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a02.taipeicitygovernment.chernovtsy.ua:3462?allowInsecure=0&sni=45.32.28.232#14%7CCN_speednode_0006
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462?allowInsecure=0&sni=45.32.28.232#14%7CCN_speednode_0007
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@45.80.110.75:8880?allowInsecure=0&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/?ed=2560#14%7CEE_speednode_0013
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?allowInsecure=0&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&path=/security=tls#14%7CGB_speednode_0016
