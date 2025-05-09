@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.242:8443?allowInsecure=0&sni=edccj.ambercc.filegear-sg.me&alpn=h3&type=ws&host=edccj.ambercc.filegear-sg.me&path=/?ed=2560fp=random&security=tls#15%7CSG_speednode_0034
+trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#15%7CSG_speednode_0035
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?allowInsecure=0&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/?ed=2560#15%7CUS_speednode_0038
+vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.16.211.129:443?allowInsecure=0&sni=taoj.eu.org&type=ws&host=taoj.eu.org&path=/?ed=2560fp=random&security=tls#15%7CUS_speednode_0040
+vless://5467fe26-87fd-459c-95b8-2e8da008b71d@192.9.129.206:443?allowInsecure=0&sni=dcpqjs.yydjc.top&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#15%7CUS_speednode_0041
+vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0042
 vless://1c4c856f-6ef1-4d32-a556-068d948a2158@104.16.83.224:443?allowInsecure=0&sni=taoj.eu.org&type=ws&host=taoj.eu.org&path=/?ed=2560security=tls#15%7CUS_speednode_0044
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.75.75:8880?allowInsecure=0&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=/?ed=2560#15%7CUS_speednode_0045
 vless://0fc8452a-17f9-47de-95dd-65de502d39da@45.32.131.28:31001?allowInsecure=0&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&path=/?ed=2560security=tls#15%7CUS_speednode_0048
