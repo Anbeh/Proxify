@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.226:2087?security=tls&type=grpc&sni=1744156312.speed.rdsactaa.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A592
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.91:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A593
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%E6%9C%AA%E7%9F%A594%204.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#%E6%9C%AA%E7%9F%A595
+vmess://eyJ2IjoiMiIsInBzIjoiVVMyNyIsImFkZCI6IjE1Ny4yMzAuMTg0LjEwNSIsInBvcnQiOiIzMDg0MCIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFwaTEwMC1jb3JlLXF1aWMtbGYuYW1lbXYuY29tIiwicGF0aCI6Ii9pbmRleCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMjcifQ==
 trojan://Aimer@104.19.42.244:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A596
 trojan://Aimer@104.19.44.38:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
 trojan://Aimer@162.159.133.40:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
