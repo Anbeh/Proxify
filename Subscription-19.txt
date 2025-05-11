@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://amclubs@104.16.134.27:2083?sni=tran.amclubs.rr.nu#%E6%9C%AA%E7%9F%A596
-trojan://Aimer@104.16.158.89:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
-trojan://Aimer@104.19.56.130:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#US19%201.1MB%2Fs
-trojan://Aimer@206.238.236.31:8443?sni=agept.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
-trojan://Aimer@162.159.140.211:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5100
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.143:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5101
-trojan://Aimer@210.222.30.180:17100?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#%E6%9C%AA%E7%9F%A5102
-trojan://juzi@5.75.201.8:2053?sni=juzi8186-sr1.pages.dev#%E6%9C%AA%E7%9F%A5103
-trojan://Aimer@104.19.144.135:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5104
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#US20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ3RFdGw3TlRmc2tNMTJPRURkZUVW@212.34.131.154:43879#%E6%9C%AA%E7%9F%A5105
 trojan://Aimer@161.145.150.29:2083?sni=epccf.ambercc.filegear-sg.me#US21
 trojan://Aimer@162.159.135.47:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5106
