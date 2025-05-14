@@ -169,7 +169,6 @@ https://t.me/proxy?server=38.181.219.235&port=8443&secret=ee548593a9c0688f4f7d9d
 https://t.me/proxy?server=43.100.10.141&port=443&secret=ee9fd550c0f2adf46d6a8008b60c1b1a01617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.10.143&port=443&secret=ee67aa131be26fabc514f7e9a735a6938d617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.10.38&port=443&secret=eef84e5c0e8ed4cd8a38ece6df1d362395617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=43.100.10.43&port=443&secret=ee58f0c6ae52160aac55d6a252c15f5748617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.10.45&port=443&secret=ee47f5fa9c70a1ea000743215b6f5e7aa8617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.10.46&port=443&secret=ee0603885c349856a571388bfd0a8c7c37617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.10.47&port=443&secret=ee50c0c6b992dffea9a78b8d6b00813108617a7572652e6d6963726f736f66742e636f6d
@@ -183,10 +182,12 @@ https://t.me/proxy?server=43.100.10.89&port=443&secret=ee5ed551f292b49bb0b514e7b
 https://t.me/proxy?server=43.100.10.92&port=443&secret=ee75daedec55ac7b079d0dd42ad6726eb5617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.100&port=443&secret=ee133c7b8b84e9c0e4777db79196f1b8c6617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.101&port=443&secret=ee0a6c15396075f70ef1bab5ca01f11045617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=43.100.78.102&port=443&secret=ee189bcd4c84ce4484893c9ce1f21cb7a3617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.103&port=443&secret=eec8098f4e2362c1f9cbc57e9358210b0e617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.113&port=443&secret=ee8d7f6a833961877b66e0e57bb0049fbb617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.114&port=443&secret=eeae6e2359f5c45b5d70ac94bcd5172b5f617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.115&port=443&secret=ee6ee8813cf55cbec40fdae2741486ceb0617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=43.100.78.117&port=443&secret=eeb02723688ba119832a9fcdc336359208617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.118&port=443&secret=ee341e4c4312d982b8e7f3f08596666609617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.119&port=443&secret=ee76aeafb7bac00899f838a361c4ab5f07617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=43.100.78.120&port=443&secret=eebe9c5bc3cc838ec817e21f0c97dd712b617a7572652e6d6963726f736f66742e636f6d
@@ -419,7 +420,6 @@ https://t.me/proxy?server=ipv-4-ipv-6.firewall.rules.nat.winbox.webfig.new-inter
 https://t.me/proxy?server=ipv-6-ipv-4.firewall.rules.nat.winbox.webfig.new-interfaces.acceptall-udp-connections.mikrotik-webfig.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=jooje.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=kabab.koobideh.icmp-connection.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=limoo.es&port=443&secret=ee4b8c173157404680bfeb1744e86c3b3f656c7068612e636f6d
 https://t.me/proxy?server=lx.ccwink.cc&port=520&secret=ee9970fa88014e629c8b7a10d591604d10617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=lxtw.ccwink.cc&port=8520&secret=ee9970fa88014e629c8b7a10d591604d10617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=mmm.mmmmmmmmmmmm.eeeeeeeeeeeeeeeeeeeeeee.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.eeeeeeeeeeeeeeeeeeeeeeeeedddd.nanoliya.shop&port=1&secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
@@ -434,4 +434,5 @@ https://t.me/proxy?server=svic.ir.iran-side.com.fullkickboxing.org.behintrans.co
 https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267
 https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=www.alzocloud.site&port=8443&secret=ee3d5e39bdcce4da304f49a4b8898876a9616c7a6f636c6f75642e73697465
 https://t.me/proxy?server=yahoo.phosphorus.emryuvw.medium.radon.wikipedia.jaewxtawp.wordpress-mail.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
