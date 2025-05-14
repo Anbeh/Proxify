@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://Aimer@104.17.165.213:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A554
-trojan://aTArbZ2F0E@172.66.168.213:443?type=ws&sni=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#%E6%9C%AA%E7%9F%A555
-trojan://Aimer@104.26.6.199:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A556
-trojan://Aimer@104.18.186.145:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A557
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.33.123:443#%E6%9C%AA%E7%9F%A558
 trojan://30fc711e-8325-4f0c-8454-1bb55ba1a65d@119.237.241.18:43020?sni=www.amazon.com#HK4
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.12.31:443?sni=fwd-refuse-senators-brought.trycloudflare.com#%E6%9C%AA%E7%9F%A559
