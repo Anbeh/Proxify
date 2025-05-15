@@ -360,6 +360,8 @@ https://t.me/proxy?server=78.111.89.97&port=443&secret=eea93c297d237f4756c1a01ff
 https://t.me/proxy?server=78.46.135.59&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 https://t.me/proxy?server=79.133.57.167&port=443&secret=ee00000000000000000000000000000000646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d00000000000000000000000000000000
 https://t.me/proxy?server=8.215.31.234&port=443&secret=ee66f404b6924c8eadcdfe83ead545beee617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=8.215.33.102&port=443&secret=ee25e312b3d007cbba20a282bdee6e075a617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=8.215.36.162&port=443&secret=ee67e9cfc6ce777cb53180b76af6bc8761617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.215.38.114&port=443&secret=ee7548a5020ac77c9a5fbf628c281eab50617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.215.42.166&port=443&secret=ee4fa903e7083d3f5b827b8c0e8ef014c6617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=8.217.199.182&port=443&secret=eefd984b30f92a405a0fde7ab941b72e56617a7572652e6d6963726f736f66742e636f6d
@@ -432,7 +434,6 @@ https://t.me/proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913
 https://t.me/proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 https://t.me/proxy?server=spider.hackquest.com&port=443&secret=ee4202e1c80d4eacf5cb93b629830f9c9f7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=spider.serverpit.com&port=443&secret=eeef1350c96e7794f4ac2a15da8be007937777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=svic.ir.iran-side.com.fullkickboxing.org.behintrans.com.dacmk.ir.bahardl.ir.tikalcenter.ir.tak-miveh.ir.mahta.ir.bornaonline.com.iranhankooktire.ir.sardkhooneh.com.boo-kap.ir.zanaax.ir.fdderp.ir.tikin.org.poolshomar.com.kimiacarbon.com.tipaxcompany.site&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=twitch.airbnb.taleibj.xwwamohwaa.spotify.microsoft.aczkpqfp.alpha.artificial-generator.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=vasl.rubika-iir.co.uk&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d6d6972726f722d6b65726e656c2e6f7267
 https://t.me/proxy?server=vjuzb.theta.beta.hp.aatctv.tau.fnzyythng.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
