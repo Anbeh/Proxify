@@ -1,4 +1,6 @@
 https://t.me/proxy?server=131.189.14.249&port=1080
+https://t.me/proxy?server=173.212.239.181&port=10087
+https://t.me/proxy?server=131.189.14.249&port=1080
 https://t.me/proxy?server=5.9.98.142&port=3333
 https://t.me/proxy?server=5.9.98.142&port=3000
 https://t.me/proxy?server=5.9.98.142&port=3333
@@ -46,5 +48,3 @@ https://t.me/proxy?server=131.189.14.249&port=1080
 https://t.me/proxy?server=uk3.localto.net&port=6133
 https://t.me/proxy?server=5.9.98.142&port=2661
 https://t.me/proxy?server=128.140.46.169&port=26728
-https://t.me/proxy?server=173.212.239.181&port=58829
-https://t.me/proxy?server=uk3.localto.net&port=6133
