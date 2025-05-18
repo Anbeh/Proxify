@@ -446,7 +446,6 @@ https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81ca072d57df287777772e6769746875622e636f6d
 https://t.me/proxy?server=eta.shbcfxpd.elilrgoom.zjgsjmen.zinc.dciyku.svkdglzw.flickr.security-marketing.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=github.quora.eyqhxqtfz.zoom.iota.tourist-destination.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=googleamazondigikalaalibabasahibindenay.capitalpulse.me&port=15&secret=ee95d0ac855dee54eeb331db967537f43c73332e68616265727369746573692e636f6d
 https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-accepted.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=handshake_failed.please-resend-handshake.auth.failed.conn-rejected.sending-clienthello-packet.security-handshake.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
 https://t.me/proxy?server=incoming-connection.port-ssh.co.uk&port=3443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
