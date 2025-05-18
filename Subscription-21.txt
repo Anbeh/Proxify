@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.102:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0284
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.124:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0285
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.195:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0287
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.17:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0288
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.242:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0289
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.55:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0290
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.57:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0291

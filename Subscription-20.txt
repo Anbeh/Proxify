@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://123456@192.65.217.53:8443?security=tls&type=ws&sni=top-azx.pages.dev&path=/Az1.vpn.33.TOP/?ed=2560&host=top-azx.pages.dev#%E6%9C%AA%E7%9F%A595
-trojan://er668@104.21.32.1:443?security=tls&type=ws&sni=kfjdi.pages.dev&path=/#%E6%9C%AA%E7%9F%A596
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A597
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxOSA5MjYuN0tCL3MiLCJhZGQiOiI1LjE4MC4zMC4xMTAiLCJwb3J0IjoiNTEzNTIiLCJpZCI6ImJjZjg2NDc5LWFhYjQtNDdjZi05ZDZlLTM0ZDM1M2JhYTFhMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTkifQ==
 trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A598
 trojan://NISHIKUITAN111@104.25.22.6:443?#%E6%9C%AA%E7%9F%A599
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?security=tls&type=ws&sni=5ttt.191288.xyz&path=/BFBuPh4SuxTxCwkqKrjE&host=5ttt.191288.xyz#%E6%9C%AA%E7%9F%A5100
@@ -503,3 +499,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.160:8880?allowInsecure=0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.139:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0281
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.209:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/ss.vs2024.us.kgsecurity=tls#15%7CUS_speednode_0282
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.155:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare+@WangCai2+/?ed=2560#15%7CUS_speednode_0283
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.102:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CUS_speednode_0284
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.124:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0285
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.195:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0287
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.17:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#15%7CUS_speednode_0288
