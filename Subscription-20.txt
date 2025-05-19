@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.179:8080
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:2376
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#🔒 SS-TCP-NA 🇺🇸 US-79.110.53.169:8080
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.82:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.82:443
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFamxWMklBdG5PemVTekQzcDQ2M1Vu@62.133.60.60:21712#🔒 SS-TCP-NA 🇩🇪 DE-62.133.60.60:21712
+ss://YWVzLTI1Ni1nY206MTdKMjRHQkRHTFRVSERGMw==@156.231.104.21:18011#🔒 SS-TCP-NA 🇯🇵 JP-156.231.104.21:18011
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.175.96.74:16899#🔒 SS-TCP-NA 🇺🇸 US-107.175.96.74:16899
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.14:8091#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.14:8091
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.138:8080
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5601
@@ -495,11 +503,3 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?allowInsecure=1&
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.221:443&proxyIP=null#14%7CGB_speednode_0083
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.227:443#14%7CGB_speednode_0084
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CJO_speednode_0085
-vless://6c7a6a6a-6a6a-4000-8000-000000000002@45.77.28.75:443?allowInsecure=1&sni=freehk.lzj520hxw.dpdns.org&type=ws&host=freehk.lzj520hxw.dpdns.org&path=/lzjjjj666security=tls#14%7CJP_speednode_0086
-vless://55520747-311e-4015-83ce-be46e2060ce3@211.229.177.55:11007?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#14%7CKR_speednode_0087
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@149.129.8.215:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=149.129.8.215:443&proxyIP=null#14%7CKR_speednode_0090
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.129:443&proxyIP=null#14%7CKZ_speednode_0091
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.122:443&proxyIP=null#14%7CKZ_speednode_0092
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@88.216.66.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CLT_speednode_0093
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.250.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CLT_speednode_0094
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CLT_speednode_0095
