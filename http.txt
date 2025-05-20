@@ -29114,6 +29114,7 @@
 168.228.36.22:27234
 168.228.44.66:999
 168.232.174.43:3128
+168.90.13.33:999
 168.90.252.17:999
 168.90.255.156:999
 168.90.255.15:999
@@ -43305,7 +43306,6 @@
 36.140.124.206:10188
 36.147.86.103:3128
 36.151.194.43:8087
-36.156.142.27:8083
 36.225.28.234:3128
 36.225.40.152:3128
 36.225.41.250:3128
@@ -49292,7 +49292,6 @@
 54.37.95.218:47154
 54.38.179.23:3128
 54.38.181.125:3128
-54.38.181.125:80
 54.38.217.92:22929
 54.38.33.122:3128
 54.39.41.20:48218
@@ -50547,7 +50546,7 @@
 67.43.228.251:19677
 67.43.228.251:19715
 67.43.228.251:19787
-67.43.228.251:20065
+67.43.228.251:20373
 67.43.228.251:20401
 67.43.228.251:21055
 67.43.228.251:21621
@@ -50782,7 +50781,6 @@
 67.43.236.18:13931
 67.43.236.18:14229
 67.43.236.18:14441
-67.43.236.18:14643
 67.43.236.18:15139
 67.43.236.18:16293
 67.43.236.18:16461
@@ -50825,9 +50823,10 @@
 67.43.236.18:31703
 67.43.236.18:31821
 67.43.236.18:31895
+67.43.236.18:32273
 67.43.236.18:32579
-67.43.236.18:32817
 67.43.236.18:3607
+67.43.236.18:3651
 67.43.236.18:3801
 67.43.236.18:3927
 67.43.236.18:3967
@@ -51103,7 +51102,6 @@
 67.43.236.21:29315
 67.43.236.21:31395
 67.43.236.21:31517
-67.43.236.21:33177
 67.43.236.21:3633
 67.43.236.21:3973
 67.43.236.21:5403
@@ -51343,6 +51341,7 @@
 72.10.160.170:19191
 72.10.160.170:1955
 72.10.160.170:19595
+72.10.160.170:19673
 72.10.160.170:19709
 72.10.160.170:20117
 72.10.160.170:20331
@@ -51365,6 +51364,7 @@
 72.10.160.170:25491
 72.10.160.170:25627
 72.10.160.170:25953
+72.10.160.170:26081
 72.10.160.170:26927
 72.10.160.170:26935
 72.10.160.170:27237
@@ -51889,7 +51889,6 @@
 72.10.160.92:32775
 72.10.160.92:4003
 72.10.160.92:4395
-72.10.160.92:4519
 72.10.160.92:5453
 72.10.160.92:8143
 72.10.160.92:8181
@@ -54216,7 +54215,6 @@
 99.107.240.88:1080
 99.20.24.9:8888
 99.233.64.71:3128
-99.244.130.89:3128
 99.45.137.21:3128
 99.56.147.242:56250
 99.80.11.54:3128
@@ -54278,17 +54276,17 @@ body{
 <h1>Forbidden</h1>
 <p>You don't have permission to access this resource.</p>
 </body></html>
-158.255.77.168:80
-159.65.245.255:80
-92.124.154.154:8080
-195.88.240.162:80
-34.87.109.175:443
-121.41.52.170:5353
-47.92.93.226:8888
-121.41.52.170:5353
-72.10.160.170:27303
-171.43.196.231:6677
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "multiproxy.org",cType: 'non-interactive',cRay: '94298c634e81093a',cH: 'epjCH2pO62iy0y8DXBErtyHTiuJDTm6ug9FDCcbPg0c-1747720141-1.2.1.1-rNxy5mr.ECcEdOwHcQRugTZI_J3iLtf9ctlXEygwlkdwioiDVDepldC_f4gmbk6N',cUPMDTk: "\/txt_all\/proxy.txt?__cf_chl_tk=nx3xHpb3d2CQ1YdSyB.YcQRCZS3.o5cXJTyC53aDAks-1747720141-1.0.1.1-yaKEkbQ8vRtL6vdk4gHNP6I2zoX0PT5iPtCtqViG8ZE",cFPWv: 'g',cITimeS: '1747720141',cTplC: 0,cTplV: 5,cTplB: 'cf',fa: "\/txt_all\/proxy.txt?__cf_chl_f_tk=nx3xHpb3d2CQ1YdSyB.YcQRCZS3.o5cXJTyC53aDAks-1747720141-1.0.1.1-yaKEkbQ8vRtL6vdk4gHNP6I2zoX0PT5iPtCtqViG8ZE",md: "w5Wrm2BmMYEQdG606q6lkI6JnilDViD6MEgogEH3p3M-1747720141-1.2.1.1-J.4lz3RUVIfgScUOevp07hu1ne2lRKRzveKpKhlHaATsKmyVGJyjGY2soB6aDuAFiAqWAZ.b16iufOnNJ4oRsvauAFDyzQgfb0S5m_k4h_E1mEOW.m_oFbCWzKYcXrL9a_K.jQcWD1TdRe06UL0EiyebkiXso967mkclf6k4CiFcL1TI88UBpeUmKYkD0n34FbfccBm0VBU9Oynn1CF.U1F.PYanPf2vGqnQcjA_Qtd6TX7CkIWNqipeY8s5PXa701CCFMiR6N_Xwpjjff_I9WBHtyGJhiF2kqfkTTOvT.dlLy5KvtslmmPC1TfgFkje_ACsMUspIikER9oL.X.Gu8X7tqg4QFt56YlaOVFeTE9uwVdagfJsRzo0JS14D4oMTFGuWpoQNZZiN4ODgTlOgUlhpQF5t6vpTdAb4y_kvAdEb574TNDu0KqWzNll0XdJgpLB7YPsFJTgSLXD2sHsEoaffNijmHZha.dYOtA2hAiP6kucPZnA1PUee5lJRQVvgPvfjLAEI_LZTU_vprpFg.tz5Ru1hs_LLZMVHqKQkq6YvHJRMaYGAyrJ1sjEj40PTPSGhcvFIdOOcQOy5V49wsIztchrR8BM2HpNtRtxqId9Nkf3qsGtwhvUOxlZLdbAVubz4Ypo9XctO._AKTRlLlqJAu2qEILoCe3pzkYCE3tCBva_Iqg6FWig5dssv4mLg3fGIpHA2scpOT133Ab.1JVkw6.JPuUV0sPq.IAtTMOdxbywjj2imgOaXr_C0I5w3mLiqFQChUFDTd2ep8eU1MFw22k4lpdOlz6zBahStFBCRt4A7VeSDBoPGANELDSxU.HivB1U1ZmWL0TykLN7SHiybSMvkG7epF6Ueg3Bo9FRJRbdErf_beuCTWP7gY.w0mlK4xWibSjI9S4EbHnLRUJo5P4H3VAHfo32zhZMP.g",mdrd: "hsLzfghQw3ezp5n70rl94ydXe5_OB0p4TV0_Mn6JnaQ-1747720141-1.2.1.1-VRcS_MMevnqP7vHOp7SDKhgMoYBzKJDAI21WHvLcJ8Nht58UKyXngFf8FU7HlaJnKmFz0aIYHWYf7uJbn3bskHit3cBw3A7NPdzNANAljsKQOl0YgA8fa0yc2mucvYAVLOl_U02OVkTRcuPS.pmkBU9LyRS2yKeHeMQ10QYe2WbUnTPesmSUehK4YyVY50nqJXhRf_BEVF1RhnDBMNak6kwKgmL61zK5RpKmiRbLXNNVm25WjDDA.69CPxo1aPmN1gSl8s9g6jLMN1oOPxdPM5wQcs3lqW41bspeBG0iAwVPrna_9lHVOW56Tozfz7DpURdWZf.EHlcft1A3hgcJLsrpMmSytuHHA0fAFAZHg_Z0QHcb.Wyt9qyT4FzIdrEKSsJQR0EhQRd4XiIAsfqhf69z4d3WQI0UUV0zLxrGr7.BB3WBLxZiGd0JE0fTeSthVJH5sJodIy8Tql8_IL1wtVWKoX34j3ljByk4IzZ.Tf4uRSJ30W_Mq.qm35qJUBIGn_LO5DU7GLE2oZBRn8acOw4yZsGayEgbx.yotbJ4vsI9w1lWqo9X5wVJbKQORaoWIcSC_ZLKN1yEhN8kHK8VABwDOmvlo2Zzaw5DbzulrXxi_9KrwE5OzGYxZhjXN57ih7NhnPCpUk3M0Wl44EmKnUzKstgyisKyv928Efvv0v9IghqqaTG1tCp1tdF4xvg2jIqLW10xzmYj7SYmNXj35oucLLlP1aIBJa390UXdRnEUjH2bvQB7KGma67KhfIokkUBo4Kv.wvARThFddLgf1TwIcMb7TKwLAz7E.jOwsroYPFqnKRb_3t4YW_EzkdHkqcIKR4j0r4paAxw_9diOtTtUrcoTkxKZABf.3JgdGVZJybz10kz0qxuCJGHI6BWVKkTH3Gmr92DzLRa2F0yM2zybArENOgL3DA2sLN2pIH5.dMyzk80oltTJ0gaUw2YpBy_QVz4Md0pbKgRsfXJUn9rPKiR4E.9K7qBDvBh97ghitwVIQpBdcEPbAXZEa2DhwtsRHgioyQH3vza5wNEXsYoyDBjgNawa7XRKTwM8KBUZqITCHvWg5pfDHFUVeR0xSLnZ8rYNR6LQrsxJuZGgfxNLMucrGXlviN8Jje_d.PKh030275qhFofPfwhsY6D7s8OrnPnkIKF.67BqRcR04crkxfXP60.xl2lK4tEg2YNMA8rUyr2Ssq.Cwb2xRnN9C.oOHHhwi5O0kfAdSbqzdB4lKL_S6QeE7q6T01ADH0DIvKM2A7znsNp7X2c_myHRHCVahZYbYlyi0K6r2mko9HT1wquaIx3QvZqYtraZzgeqxBs3Kb9SqsSI7NeXUlXGzC_dpjXZSfOCSLEEi34v8B2aBRTFpaMf.YH0X2XOaQhAPF4e3m3In4DXl1HiddU0cwPaJUqw8CkBJUIM8P.XGjXRa74TyZVYu6n_D6HiLOs4uyAsizNY1Vtb22dkqU7MmuwZDU4gR4Udhmj15Qb8IChsJIyXziJiNI7Y9Sk7APc0IKX9mJ3Qk2IY_fNMyU5V2G5o3GRlYQJ3cwnWsLev0sM6HWrN3cD.HaSaOowXOHSy9cH_CtLm6_8.M3kdgFTUhrhysXoPNvGYwtgeiU07aDJTciRcFX1Ka_rM9dRwF7TtmQ3Fi9FJmCRwbbSVWZw9SIMeOK9o1LSZjt6kC2p49QUEqJjlOrXjlWdXgpVZkBjVZvKK3aRcsaX85PEVaGFJGCfmOqabp7VXX0rkITIbrYM_ZveOn35Fq79VFUxBRV75dfx5AvlDV2rkrEOZCEBgqY2c77t45ta6n_lXQsU0xsxqlrdo0A7Vur9KtDXNx33Oro4jm3zpIg6AsVByUqHps8vws_eK2qlK2jG55lsrounyPuYoV7B1ZpsYDr1grZHPt2pCsmfZ9bXJw38devSCmfpHJbSkGpAdEd._I0lxz.Q_5lB8hfPj_JXwYcw3f_OBLkZo5Fg.NJzqwpjZnBFCRbX858FxDdzSEYyTMv6x9kY9EMonufYqFvuWFIS1lqyy6sP9U6m6kN3HsNtdO2dQrLKG5__J1vebadz0pQCkRvoeBTo4.vDteeDQcs.rPL_UExC.LEaXPods_rnHjXlE88efKxwEy5uBz0VdH_GKfbkuG1lG.ekXLCShL00lNyp7MdNhaTAUE8eRWJWpDZhLCGek1mL2ppwi0p3al8PngONg9kKjJPS82lXT.R1P7GL7wMWzovBZqkFex7_KaQUB5pyFR1hN35wdpI7Ipf7MfQ"};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=94298c634e81093a';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/txt_all\/proxy.txt?__cf_chl_rt_tk=nx3xHpb3d2CQ1YdSyB.YcQRCZS3.o5cXJTyC53aDAks-1747720141-1.0.1.1-yaKEkbQ8vRtL6vdk4gHNP6I2zoX0PT5iPtCtqViG8ZE" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
+188.68.52.244:80
+37.140.51.159:80
+46.35.9.110:80
+124.135.65.222:10040
+47.96.225.104:10086
+36.138.53.26:10019
+129.226.155.235:8080
+159.69.57.20:8880
+47.97.121.189:1000
+158.255.77.169:80
+<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "multiproxy.org",cType: 'non-interactive',cRay: '942995142fef2232',cH: 'i7IdDvlegmpqYXK5f9WxoK8gpSPDhCh0MMfuaf7yZVY-1747720497-1.2.1.1-lGpghlEVE2bHeEM2199y3_z8JKgbWHVxA5XoU3WWtD6CGhaYY07N5uiaGFeSDt.i',cUPMDTk: "\/txt_all\/proxy.txt?__cf_chl_tk=8_tAOiTgKQOAb7RGhjS7DtHmcDP9k9n0rLZqGP3X.b0-1747720497-1.0.1.1-tPa_d.en511IFKmWQAFfDF.29GfSgH0T9JdDOhQ37.c",cFPWv: 'g',cITimeS: '1747720497',cTplC: 0,cTplV: 5,cTplB: 'cf',fa: "\/txt_all\/proxy.txt?__cf_chl_f_tk=8_tAOiTgKQOAb7RGhjS7DtHmcDP9k9n0rLZqGP3X.b0-1747720497-1.0.1.1-tPa_d.en511IFKmWQAFfDF.29GfSgH0T9JdDOhQ37.c",md: "FFof36ASu5.zV_keJDwzVT1HNUoQ1ZyWjHhkeMjkE3A-1747720497-1.2.1.1-HNBEd6zwhKkh4blBz9ZGY4RWId9IDNvUtXXoWxx4tXCGdVNJIoMiW9qzjFqB1Au6GufJHfqtixfw.qZXc6HMlr8rnHLY66YCHDi.FDg0ChoXv2VrNCTnkG9FXvdHnGWS_NnJmq7DbwjJVLW5aOtkJlX03O5iM1nnoZT045ulCpjGOBtHUrNA17BKzne7hgDLS1MWysHpShLTlTiJA.Ccz2gOp1_33PiRVLLqcpm7jvx2ldyNcRul3qDtg6x9SbfnMw.phQMimH8GQNQdG37kb8zesktShHanp9UvmSYPYs9pNWwqTiE28nFUAKQUuF3cpFSNCDaX.3IvmGZZbDEz1gD26UZjBX16Tgz_f3B82aO9XZjYSZC8fkIIEMxwS.c3K13eAfRKwE_4qigvL73JPvUrSP1OQvMiPCoCHRvKsPVp_fn73WOrF4PE2.gH3TYHes6.InTecV3d945.JV_D94kUIgZLBJvbyzovkt6wySW_ob7MXUjILw3rY6HIQm5HhT6IhpykBJGKVQzuiZ.X671OlTy5Ipf78Gl7AfLpNzJbXrPSeKENAJddJgp8D7JUlGp9JpZjsS3wVNhlwKIz.1QVOOR6W92wwqKdR8vxPISEGJSTsMckG09fHp8uHjQVAHEpiUjxKtEFMtIfyqJewAlKcAjlYCmxESqDeb3azx_CdgfMIgfVDavDOxIZ70zQT5ryMpwf6j0zWruwSVfVlGO_MN6zYaRnomsu8RIJ0cFLKHI07OzU4bCxmExL9_vIMJq3Bp4HiXGZfbNQJqaC8eJ816CMtoEnGUp5s_VtTUPJ_Sba7LL11A6rr.EON31Y.TUV4GkpIesPcUFfphjwyEoOPX48HltDQ2HLgHgYz2Xrz6lYncJBkpGUKlqcWDvxPusjJ.PuYk3dC.xwcKoStzpdiNkUrRGlW55xuYWs.7E",mdrd: "WhQguR32umGBZ19Io3dIYobhCVNHdSpalmYdQXo1Lnc-1747720497-1.2.1.1-zgKSAA8l6PEYsTNP0sOLG70Y_w3YtAzsiRQ7hGAEMT3cFuuFo1._3jvCjVypjYFbnxcNdXaaoTyLtl3bXVLod_FH_J4AIFMT4m6_pCLGLm_TY1V3kRKCuScYNkkWd8CfV1tVfndToO_KhikysPhi3A8I8VtSDmJyxsQyMsxHJ7gJo.MDO3JiWeeglLCTkJHH2K4qWoynPFMRSSlVgjdUu2KK6bzrvVWdt2xTY.R29NKJIGOyZdMZeVFgUMeGM9LA4Hsu0NWmZCx.BXj61UaAxWGFzLePo4BDfVs1fpVcGpKal2vqFY3P0xCc7kSdcynOXtuw3aWWO0XVQMvi9sb5v5aiIyJDaiBIh8m5tZ2.WFOmn5jl_JMyAc2c1IvLbBO9NO3uJR8u9SrQEksM0d6gm74gRVRnJQbkS9wkiUq2G3ZxOvCvGOGsfnoXj4.LU0NptCkrfvPizE.XOMNN2nczLQDbjvbxhuCYQr66c3wbTBoA1tiaSUpaSAfRKLt4vcc8gR7KOe1FN9iH_UlzOXPvo.eSoejmOCsiVpmTbq7GFoigm8DfyKP1MYHLUGHvoAxiudJQtX3Yz9ML8YgnoYRA7URFVo3FzHSjden7tDjwf2G7zike5DpnSjUATmZuruxXXtCE4ToNqNIPshraV6VTmHvRijfCQfeIIxGy_YF_OA7iaZDEVJc2hNbeIMNpkt7TZJCNzNhegSi.ePIqpGM4YHCqOLVEcgu27.vxrBYCTJlwiV8juNDxtYc6sH7fiuZw75QeWWgZQ98uMqfwE29vNq3Pnx0a3wGkqI3pEZihmPThrAfR04tzTuVfN3CPR6K7n1iYTJx1AAyuTX_85FHXjfPdBKT6OVEjcEx5OtKyBiOnVUkOQGZi7k_8O9k5qAPLPXzfFrMjEQ8CGsnmTBCaH5KrR7K2pOdkCObeemeoBNuPmnceoBxS3QRv96JYbXP1GPg_yJcuYb0Uyn0YUWzGe3S9MHGTLobUEPYNG3J39GZIox1hWO0KWP1DofpOTEPSy1Pf48ntNbRsKg42bds_GXO93GtqGk9HPgjgQnCR8vs.7x.2WsOzmhOKkzdmo82k2BnXgTUzbPKjlzFUTktnOsva5Uk8gWHLivrdu7Zf2zkobVXPHY.8c9DFrARtLLIkszJXy.Vkp76OkSnnRcqGoJwbRZya50SsFagRIw2Q6BMzXc.0rfPqKAslrownXA8VqFarJh1.Rgdoi8Cnvxm39AfBqbVzCZmS8xS56G7B3KC21kDI.HTVbq5NbzGylYNt8bNBLTAmXzi67yh4CmjY82jll0tJOPLIAWdyW0YpnuGvhB8gxdeG7umG9XGiIFDIxlGroI8rIm3B8kgtkFcBNJvBOgSoDEjjldfO7mxFpnuWGiVUAUq4UK1l62rXochFlQPihbXI0r3CBs9D_.rC1EPAfmbFmnryW9UpQh18GbwE9ULOpqco_KqXTsNSpYZ5YcEMthtOSo7cSYdz5hpDGRrZtCjUnS0jGuMA6nLs_HoQRxLyR_xjf0uAkpR9NQlpKm8j9xs3U33WILk2RpkCWmFd5nR7IcvSZRWBUJp0HBc4fs_OlOpcZPOsenFkpGSmdyXLB0pVpy__jYroCIcd8QJDPBRYqz8kdWNf73OYpXsBKvj_.QRQCO.rvmRBh7fMO4_yfn1eU4imA522mPZJVmK0HKHC_HZrXGT9HNesXy6ZQYRK2ylW3HqOtnT0Svxn8JB.EAzMFirRSq.Eh4qPveGGwuF4ygQEpJ1oVl3MIH._GnrRTpYZGp4qu21QtUBHT9_.gtOUuhXwTqWnPpGGLUDZDg9D9y5qsrJD4Un9RV6S.GINV8_V1LDHi1H_E7hjDpQuh6lhQBOEtoNvxBfV_hKRDikjq4s9adDKjV_9IEAsAHfSKtQphCNSBchiYJNESwfdQf_E5f4p_cbXIAU5wQk0EH7BotCy8U3Yiyk33RWrH2lEfzqf9jihmGCJutBedN_ggueVisI4thHGBoKbqvsS17uUn_HjdYNV8qEJnjD5mD.jBhovydKg85ykYBBLazWjeIiCZK5j7dMPZQlKZ7loyBpKAdgEWoeJ4us3mCsUyCHqEcqhP7VqLrV9BefJh3qq4OljPlfjF_ZSqLFw4S17nY7QCUJGwlBUWZpeDgKvXOhEVfFk11x4ndVNVUlVByLDI_usNfz7A3DzoYCwoAboC5ukGB6xa2ntv4AjWLe52f9LIn8BUy36zHftC55E43a5r5.U0v.R09lXtG.tTImBtUqf1ByWxKbqREdFIp8"};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=942995142fef2232';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/txt_all\/proxy.txt?__cf_chl_rt_tk=8_tAOiTgKQOAb7RGhjS7DtHmcDP9k9n0rLZqGP3X.b0-1747720497-1.0.1.1-tPa_d.en511IFKmWQAFfDF.29GfSgH0T9JdDOhQ37.c" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
 0.0.0.0:80
 1.0.170.50:80
 1.0.170.50:8080
