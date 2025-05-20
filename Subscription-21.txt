@@ -3,6 +3,30 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://Aimer@168.138.204.44:587?sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A545
+trojan://Aimer@213.241.198.56:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A546
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#US11
+ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@173.234.79.117:45615#%E6%9C%AA%E7%9F%A547
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbFh4NDVaR3kxUTEyd0Z5RVVCUU5R@81.94.158.148:64300#%E6%9C%AA%E7%9F%A548
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%E6%9C%AA%E7%9F%A549%20163.7KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppclRDWTZFNXMxZXJISVZyZzBKaXQ3@77.110.109.86:4443#%E6%9C%AA%E7%9F%A550
+trojan://NISHIKUITAN111@198.41.217.62:443?#%E6%9C%AA%E7%9F%A551
+ss://YWVzLTI1Ni1nY206dTlBUTBlTU1HTTV6ZnhHQQ==@185.239.48.109:8388#%E6%9C%AA%E7%9F%A552
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#US12%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#%E6%9C%AA%E7%9F%A553
+ss://YWVzLTI1Ni1nY206UFJDVUo4SU5QTjlLWlc3Mg==@185.186.78.220:20035#%E6%9C%AA%E7%9F%A554
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZmZmYjg2Mi05NzM3LTRkZmMtODM4YS01N2M4ZTBmODUyMGY=@free.2weradf.xyz:36145#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
+trojan://U592RRvl1vSW@104.21.80.1:2053?security=tls&type=ws&sni=tasnim.twn24.ir&path=/🆔@M3HDIO1&host=tasnim.twn24.ir#%E6%9C%AA%E7%9F%A555
+trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A556
+trojan://blue2024@162.159.44.161:443?security=tls&type=tcp&sni=tc.promote.icu#%E6%9C%AA%E7%9F%A557
+trojan://gIRrGnuuNm@45.85.119.0:2096?security=tls&type=ws&sni=aa.v2jey.fun&path=/&host=aa.v2jey.fun#%E6%9C%AA%E7%9F%A558
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@23.227.38.33:443?security=tls&type=ws&sni=icecream.955850.xyz&path=/proxyip=45.67.215.153:443&proxyIP=null&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A559
+trojan://Aimer@162.159.138.147:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A560
+trojan://Aimer@108.165.152.58:2087?sni=epccf.ambercc.filegear-sg.me#US13
+trojan://trojan@104.18.12.229:8443?sni=pangpi.pages.dev#%E6%9C%AA%E7%9F%A561
+trojan://Aimer@103.116.7.230:443?sni=epccf.ambercc.filegear-sg.me#US14
+ss://YWVzLTI1Ni1nY206SFdKTE5ON0lKQVk5M1NPMQ==@45.154.207.246:20030#%E6%9C%AA%E7%9F%A562
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#US15%2098.2MB%2Fs
 trojan://Aimer@104.19.57.58:443?sni=epcca.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A563
 trojan://Aimer@162.159.130.192:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A564
 trojan://Aimer@156.225.72.246:2087?sni=agepj.ambercc.filegear-sg.me#US16
