@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTM5YmVmNy04MzRlLTQzY2UtOWQ5YS01ZjgxNzQ3NWMxNWY=@free.2apzhfa.xyz:31641#3%7C%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2001%20%7C%201x%20VN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTM5YmVmNy04MzRlLTQzY2UtOWQ5YS01ZjgxNzQ3NWMxNWY=@free.2apzhfa.xyz:31671#3%7C%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMTM5YmVmNy04MzRlLTQzY2UtOWQ5YS01ZjgxNzQ3NWMxNWY=@free.2apzhfa.xyz:31677#3%7C%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%2001%20%7C%201x%20ID
 hysteria2://b3429796-fd3b-488a-b137-8886a9717b32@195.14.189.109:25565?insecure=1#10%2C12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%A8%F0%9F%87%B4%20%231

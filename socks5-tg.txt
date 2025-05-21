@@ -1,3 +1,10 @@
+https://t.me/proxy?server=173.212.239.181&port=28227
+https://t.me/proxy?server=188.132.232.210&port=1234
+https://t.me/proxy?server=168.119.118.142&port=10013
+https://t.me/proxy?server=178.32.202.54&port=39188
+https://t.me/proxy?server=168.119.118.142&port=48169
+https://t.me/proxy?server=173.212.239.181&port=28227
+https://t.me/proxy?server=173.212.239.181&port=49440
 https://t.me/proxy?server=168.119.118.142&port=52191
 https://t.me/proxy?server=168.119.118.142&port=51097
 https://t.me/proxy?server=173.212.239.181&port=12721
@@ -7,8 +14,8 @@ https://t.me/proxy?server=173.212.239.181&port=49440
 https://t.me/proxy?server=173.212.239.181&port=14273
 https://t.me/proxy?server=173.212.239.181&port=12721
 https://t.me/proxy?server=173.212.239.181&port=22558
-https://t.me/proxy?server=173.212.239.181&port=28227
 https://t.me/proxy?server=178.32.202.54&port=39188
+https://t.me/proxy?server=173.212.239.181&port=28227
 https://t.me/proxy?server=178.32.202.54&port=39188
 https://t.me/proxy?server=193.29.62.48&port=37459
 https://t.me/proxy?server=193.29.62.48&port=37459
@@ -23,11 +30,11 @@ https://t.me/proxy?server=173.212.239.181&port=28227
 https://t.me/proxy?server=173.212.239.181&port=22558
 https://t.me/proxy?server=173.212.239.181&port=12721
 https://t.me/proxy?server=188.132.232.210&port=1082
-https://t.me/proxy?server=168.119.118.142&port=20002
 https://t.me/proxy?server=168.119.118.142&port=50335
-https://t.me/proxy?server=173.212.239.181&port=42141
 https://t.me/proxy?server=168.119.118.142&port=52673
+https://t.me/proxy?server=168.119.118.142&port=20002
 https://t.me/proxy?server=168.119.118.142&port=40763
+https://t.me/proxy?server=173.212.239.181&port=42141
 https://t.me/proxy?server=168.119.118.142&port=52191
 https://t.me/proxy?server=168.119.118.142&port=57495
 https://t.me/proxy?server=168.119.118.142&port=48169
@@ -41,10 +48,3 @@ https://t.me/proxy?server=173.212.239.181&port=40831
 https://t.me/proxy?server=173.212.239.181&port=28227
 https://t.me/proxy?server=68.183.211.118&port=1216
 https://t.me/proxy?server=168.119.118.142&port=51647
-https://t.me/proxy?server=168.119.118.142&port=54321
-https://t.me/proxy?server=168.119.118.142&port=51647
-https://t.me/proxy?server=168.119.118.142&port=54321
-https://t.me/proxy?server=173.212.239.181&port=50123
-https://t.me/proxy?server=168.119.118.142&port=54321
-https://t.me/proxy?server=173.212.239.181&port=50123
-https://t.me/proxy?server=173.212.239.181&port=40831
