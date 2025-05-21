@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://trojan@172.67.130.66:443?security=tls&type=tcp&sni=test-a23.pages.dev#%E6%9C%AA%E7%9F%A542
-trojan://Aimer@104.17.242.34:443?sni=epccg.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A543
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5004#US8%201.2MB%2Fs
-trojan://SSorg@172.67.156.115:2087?security=tls&type=tcp&sni=ssjj.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A544
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.28:2377#US9
-trojan://Aimer@103.116.7.67:2083?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#US10
-trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.16.1:443?security=tls&type=ws&sni=eeERrrR.999815.xYZ&path=/eS3prPmcpzbScA5VUAi1psm38Tz&host=eeerrrr.999815.xyz#%E6%9C%AA%E7%9F%A545
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%E6%9C%AA%E7%9F%A546%20266.4KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bDlZUVpDZzE4R2tlWk9aNGtVaTdl@195.133.193.170:60896#%E6%9C%AA%E7%9F%A547
-trojan://Aimer@162.159.130.206:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A548
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Y2M0NWU0ZC03ODc2LTRhMWItYTU0MS0yNzQ2OTZiY2E3Zjc=@free.2weradf.xyz:36311#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?security=tls&type=ws&sni=6667.HUAnGSHanG.dpdNs.orG&path=/TomYJoQX0RSt1mktNrT&host=6667.HUAnGSHanG.dpdNs.orG#%E6%9C%AA%E7%9F%A549
 trojan://Aimer@104.16.10.64:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A550
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#%E6%9C%AA%E7%9F%A551
@@ -503,3 +492,14 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@27.50.49.29:8880?allowInsecure=0&sn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.75.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CSG_speednode_0161
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.60.74.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CSI_speednode_0162
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.190.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CSI_speednode_0163
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CSI_speednode_0164
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CSI_speednode_0165
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.191.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CSI_speednode_0166
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CSI_speednode_0167
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.60.74.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CSI_speednode_0168
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.246.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CTR_speednode_0169
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.3.12.76:80?allowInsecure=1&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#14%7CTR_speednode_0171
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#14%7CUA_speednode_0173
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.219.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CUS_speednode_0174
+vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?allowInsecure=1&sni=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&path=/?ed=2560#14%7CUS_speednode_0175
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.42.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#14%7CUS_speednode_0177
