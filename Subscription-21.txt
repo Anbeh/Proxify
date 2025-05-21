@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://nEKYp2bQim@104.21.15.33:443?security=tls&type=httpupgrade&sni=support.sabapardaziran.ir&path=/30662/@M3HDIO1&host=support.sabapardaziran.ir#%E6%9C%AA%E7%9F%A562
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbXJwVU02VjhXYThwcFVIM1EzcFRp@91.103.253.151:19057#%E6%9C%AA%E7%9F%A563
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.214:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A564
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.100:4002?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A565
