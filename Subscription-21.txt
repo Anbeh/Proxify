@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
+trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&type=ws&sni=3derty.852224.dpdns.org&path=/YPTDHLX8qjvTU5JqXZxjQ5ILc&host=3derty.852224.dpdns.org#%E6%9C%AA%E7%9F%A552
+trojan://Aimer@167.68.4.223:2096?sni=epccd.ambercc.filegear-sg.me#US11
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#%E6%9C%AA%E7%9F%A553
+trojan://Aimer@172.64.33.144:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A554
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?security=tls&type=ws&sni=T.taipEi108.Dpdns.Org&path=/Dmby2AKiZKvMo1YauoQwY5&host=t.taipei108.dpdns.org#%E6%9C%AA%E7%9F%A555
+trojan://Aimer@104.19.144.198:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A556
+trojan://Aimer@108.162.195.227:443?sni=epccn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A557
+trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A558
+trojan://uV8u9Q41e2@104.18.165.147:443?security=tls&type=ws&sni=DieGo.DIEgoMAraDOnA.iR.&path=/&host=DieGo.DIEgoMAraDOnA.iR.#%E6%9C%AA%E7%9F%A559
+ss://YWVzLTI1Ni1nY206NTNSSVVRRFpSM0IyM1RBMw==@156.231.104.18:18008#%E6%9C%AA%E7%9F%A560
+trojan://Aimer@47.245.95.160:1443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A561
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMmFjOGEyYy1lMzhkLTRhMjYtYTEyOS00OTNhMmQxM2E3MjU=@free.2apzhfa.xyz:31341#%F0%9F%87%B5%F0%9F%87%ADPH%E8%8F%B2%E5%BE%8B%E5%AE%BE
+trojan://Aimer@108.165.152.207:443?sni=epcca.ambercc.filegear-sg.me#US12
 trojan://nEKYp2bQim@104.21.15.33:443?security=tls&type=httpupgrade&sni=support.sabapardaziran.ir&path=/30662/@M3HDIO1&host=support.sabapardaziran.ir#%E6%9C%AA%E7%9F%A562
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbXJwVU02VjhXYThwcFVIM1EzcFRp@91.103.253.151:19057#%E6%9C%AA%E7%9F%A563
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.214:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A564
