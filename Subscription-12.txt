@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-51.81.36.172:443
-vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@172.67.38.99:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&path=%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.38.99:443
-vless://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.18.160.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.0:443
 vless://79b9ba15-de8d-4b43-9e35-f763f483ce90@104.25.174.85:443?security=tls&sni=refiner-tls.autoimmune4.workers.dev&type=ws&host=refiner-tls.autoimmune4.workers.dev&path=%2Fde2-full.privateip.net%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.174.85:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.252:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.252:80
 vless://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.188.77:443?security=tls&sni=9dswerty.890604.dpdns.org&type=ws&host=9dswerty.890604.dpdns.org&path=/vUUL3CyENdTbFYDBimbKYmPIggy&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.77:443
@@ -503,3 +500,6 @@ vless://e1155f68-1178-4226-8afc-e26ab1cb4f30@162.159.152.101:443?security=tls&sn
 vless://79d40805-c7eb-49cb-bb88-61d18b6c52b2@172.66.46.227:2053?security=tls&sni=mAHDiseRveR-ac2.pagEs.deV&type=ws&host=mahdiserver-ac2.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.227:2053
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.177.39:443?security=tls&sni=147135011033.sec21org.com&type=raw#🔒 VL-RAW-TLS 🇺🇸 US-135.148.177.39:443
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@172.67.169.136:2087?security=tls&sni=divrt.bamako-amrikayekesafat.org&type=ws&host=divrt.bamako-amrikayekesafat.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.136:2087
+vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:2086?sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.10.128:2086
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.70:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.70:2096
+vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@104.21.1.134:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.134:443

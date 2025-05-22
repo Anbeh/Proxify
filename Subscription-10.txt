@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.200:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.10.200:2086
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.194:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.194:443
-vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.251.4:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.251.4:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.247.142.107:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-94.247.142.107:80
 vless://c6919990-40ee-448c-a716-1cfbd4f0165e@188.114.97.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.15:443
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.96.217:80
@@ -503,3 +500,6 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?security=tls&sni
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.137:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2082?security=none&type=httpupgrade&host=LondoN-Ar-24.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-154.197.121.138:2082
 vless://5c6460ab-5eb1-41c0-8187-6a57d7cfbfab@162.159.38.232:443?security=tls&sni=news6.testsnew.com&type=ws&host=news6.testsnew.com&path=%2Fwss&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.232:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.39:8880
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.127.173.202:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-194.127.173.202:443
+vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@172.67.170.132:443?security=tls&sni=m1swxrtk.777236.xyz&type=ws&host=m1swxrtk.777236.xyz&path=%2F6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.132:443

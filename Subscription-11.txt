@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇳🇱 NL-88.216.187.39:8880
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.127.173.202:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-194.127.173.202:443
-vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@172.67.170.132:443?security=tls&sni=m1swxrtk.777236.xyz&type=ws&host=m1swxrtk.777236.xyz&path=%2F6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.132:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.107.95:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.107.95:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.191:80?type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJoin_Bade_Channel%40ShadowProxy66#🔒 VL-WS-NA 🇦🇲 AM-185.162.228.191:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.22.29.204:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.29.204:443
@@ -503,3 +500,6 @@ vless://538ec70c-b386-51ad-8155-aeaed37a22b6@162.159.195.212:443?security=tls&sn
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@172.67.181.161:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.181.161:443
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@45.77.28.75:443?sni=freehk.lzj520hxw.dpdns.org&type=ws&host=freehk.lzj520hxw.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-45.77.28.75:443
 vless://fbc325f6-1d61-4c1e-8752-9e12b5463f82@185.146.173.58:8080?security=none&type=ws&host=Kanal-polproxy.Vipnufilter.Online.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.58:8080
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-51.81.36.172:443
+vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@172.67.38.99:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&path=%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.38.99:443
+vless://6dae3114-fb66-4e74-87d5-d48e271c0d04@104.18.160.0:443?security=tls&sni=lrnz.xyz&type=ws&host=lrnz.xyz&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.160.0:443
