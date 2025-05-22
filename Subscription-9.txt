@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.16.194.204:80?security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.194.204:80
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.99.101:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.101:443
 vless://2ba922c9-9294-457e-abdd-cfe6250330dd@45.131.5.37:2052?type=ws&host=%76pn%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.37:2052
 vless://4c56316a-6fa0-4f1e-8f97-9f0ce56c1f9e@188.114.97.146:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.146:443
@@ -503,3 +502,4 @@ vless://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?security=none&t
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.52.89:80
 vless://c49fda18-023b-4886-8ef5-71e1ddafa3c3@152.42.226.35:443?security=tls&flow=none&sni=media.licdn.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-152.42.226.35:443
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@104.18.18.222:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.18.222:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.59:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#🔒 VL-WS-NA 🇺🇸 US-151.101.67.59:80
