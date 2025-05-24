@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://acc6369e-7efc-4654-a094-4673a33c603e@128.199.75.180:80?security=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-128.199.75.180:80
-vless://1fed1d91-d9c6-4388-c5ff-a1b20cb5cba9@104.21.15.33:2053?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.15.33:2053
-vless://a3fdef53-af0c-4777-b941-c52707d5afe9@195.85.59.95:8880?type=ws&host=0215.kiefcascz.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🇨🇾 CY-195.85.59.95:8880
-vless://60ea9f64-5ac3-4521-a1f4-3c93fb0710c3@104.24.39.194:443?security=tls&sni=vpn.6662221.xyz&type=ws&host=vpn.6662221.xyz&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.39.194:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?security=none&type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NONE 🇯🇵 JP-156.238.18.153:2095
 vless://d5e4bac0-3777-5c82-8482-0784f5a7f79c@151.101.2.228:443?security=tls&sni=fishlab.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&path=%2Fvless%3Fed%3D443&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.228:443
 vless://bc37cb73-a103-4af3-a3a7-9f3bc8e23bfe@172.66.46.213:8443?security=tls&sni=MaHDiSERvEr-wds.paGes.DEV&type=ws&host=mahdiserver-wds.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:8443
@@ -503,3 +499,7 @@ vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?security=tls&sni=
 vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.16.184.194:443?security=tls&sni=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=%2F@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.184.194:443
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.17.173.246:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.173.246:443
 vless://bf517df9-a4e4-4a70-9667-7f695f23a369@104.21.71.8:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=%2F31365%2F%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.71.8:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.188:2096?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=random&alpn=h3#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.188:2096
+vless://7818c1dc-bdf8-4fad-a272-21b8484c48d6@190.93.246.186:443?security=tls&sni=free.thhy.one&type=ws&host=free.thhy.one&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.186:443
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.228:80
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.53.53.114:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇺 RU-194.53.53.114:8443

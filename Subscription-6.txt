@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.25.112.7:443?security=tls&sni=hq3.newretr432as.info&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.112.7:443
-vless://3a15467f-4554-4579-a586-a07a1e23e3de@104.24.207.17:2053?sni=8.kongcheng666.dpdns.org&type=ws&host=8.kongcheng666.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.207.17:2053
-vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?security=tls&sni=esetsecuritylicense.kitonap759.workers.dev&type=ws&host=esetsecuritylicense.kitonap759.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.148.106.20:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.135:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.135:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-199.34.230.29:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@152.67.125.161:443?sni=s0.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇦🇺 AU-152.67.125.161:443
@@ -503,3 +499,7 @@ vless://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@172.67.212.82:443?security=tls&sni=
 vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@104.21.7.193:2052?security=none&type=ws&host=520.msdtlasm.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.193:2052
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.76:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.76:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.13:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇱🇹 LT-84.32.9.13:8880
+vless://c9619867-f4a0-4f2c-a358-3d22db64dabc@172.64.32.100:443?security=tls&sni=fari25.molti1clod.com&type=ws&host=fari25.molti1clod.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.100:443
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.42.57:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.42.57:8880
+vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?type=ws&host=danuwazero.com&path=/#🔒 VL-WS-NA 🇺🇸 US-151.101.1.124:80
+vless://7930c633-8aa1-4d6e-80a0-14f59b27c5c5@170.114.45.33:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.33:443

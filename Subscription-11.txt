@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.92.9.132:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-154.92.9.132:8880
-vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.0.84:80?security=none&type=xhttp&host=yyyy-dd-mm-de.global.ssl.fastly.net&path=%2F#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.0.84:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.6:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.6:80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.116:443?sni=vx.ylks0033.dpdns.org&type=ws&host=vx.ylks0033.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-192.0.63.116:443
 vless://d2947a55-5fa6-4d21-93c6-b558c662ec8d@46.29.239.149:443?security=tls&sni=unixkey.nobatow.site&type=ws&host=unixkey.nobatow.site&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🇳🇱 NL-46.29.239.149:443
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?security=tls&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV&type=ws&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&path=%2Fz0HrW-43pVRvOrQE%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.57:443
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?security=tls&sni=fr.vless.comnpmjs.com&type=ws&host=fr.vless.comnpmjs.com&path=/vless#🔒 VL-WS-TLS 🇫🇷 FR-138.124.31.187:443
@@ -503,3 +499,7 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@88.216.66.10:8880?security=none&typ
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.32.196:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.32.196:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@88.216.67.250:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-88.216.67.250:8880
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.195.214:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.214:443
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.16:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40Azarbayjab1#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.10.16:2086
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.92.9.88:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-154.92.9.88:8880
+vless://51542914-e2ff-4b72-9229-268f4c04f8ba@172.66.44.119:2083?security=tls&sni=MAhDISErveR-URx.pAGes.Dev&type=ws&host=mahdiserver-urx.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.119:2083
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.198:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-27.50.48.198:8880

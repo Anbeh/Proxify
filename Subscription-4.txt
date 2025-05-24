@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://1fed1d91-d9c6-4388-c5ff-a1b20cb5cba9@172.67.161.74:2053?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.74:2053
-vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?sni=ppal03-ppal03.letiwe3303.workers.dev&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.147.64:80
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@47.79.92.16:443?security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-47.79.92.16:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.12.30.173:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇴 RO-45.12.30.173:8880
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@170.114.46.148:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.148:443
 vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@188.114.98.230:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.230:443
 vless://6f2814e5-ce0a-4a8f-be92-08cee6f6b0aa@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=/Telegram:@metavpnn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.76:443
@@ -503,3 +499,7 @@ vless://61543d72-aa2d-4066-bbd3-5d470d4c77a1@104.17.147.22:80?security=none&type
 vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@104.18.148.234:443?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.148.234:443
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@108.162.193.10:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.10:443
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&sni=147135010072.sec21org.com&type=raw#🔒 VL-RAW-TLS 🇺🇸 US-135.148.157.112:443
+vless://13a544e8-3055-4f6a-b280-967433f46049@104.16.114.142:443?security=tls&sni=zlgmz.top&type=ws&host=zlgmz.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.114.142:443
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:2053
+vless://03ae39fd-ec71-4db5-b234-94de99a6e514@172.67.161.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.150:443
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.6.10:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.10:2087
