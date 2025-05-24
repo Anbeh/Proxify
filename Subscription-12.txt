@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.104:2086?type=ws&host=redw.pooriam.ir#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.56.104:2086
-vless://43367b08-d0d3-4253-b326-6392ee857d56@172.67.177.221:443?security=tls&sni=mu.4056860.xyz&type=ws&host=mu.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.221:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.174.21:443?sni=hj.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.174.21:443
 vless://dfb6f849-e7d7-4994-80f7-1bd19b593a2a@172.66.168.199:443?security=tls&sni=Uk-FuLl.pRIvAteiP.nET&type=ws&host=Uk-FuLl.pRIvAteiP.nET&path=/VLESS#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.168.199:443
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.92.9.88:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-154.92.9.88:8880
@@ -503,3 +501,5 @@ vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2095?type=ws&host=work
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.209:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.209:2096
 vless://647c5c62-01e4-426e-90ac-b97e00d039b5@104.16.41.105:2083?sni=my126.worldip.dpdns.org&type=ws&host=my126.worldip.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.41.105:2083
 vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.24.35.106:443?security=tls&sni=sbs666.jjjj2024.sbs&type=ws&host=sbs666.jjjj2024.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.35.106:443
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.102:443
+vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.36.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.36.21:443

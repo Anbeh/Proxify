@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://a21f2530-1e1c-4b74-8cdd-2de95a0560fe@172.67.179.43:443?security=tls&sni=D73D10d2-WiNTEr-UnioN-3936.NeWPAnEl54.WorkeRs.Dev&type=ws&host=d73d10d2-winter-union-3936.newpanel54.workers.dev&path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.43:443
-vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.46.27:80
 vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@198.41.192.174:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.174:443
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.166:2053
 vless://d6660712-4d18-47fd-b095-0c36db667250@104.21.75.191:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.191:443
@@ -503,3 +501,5 @@ vless://890c9650-809e-445b-a4b0-2cd883e0de62@173.245.49.59:443?security=tls&sni=
 vless://438f9559-1671-45cf-9d2c-338fe6766acf@170.114.45.6:80?sni=14.sahanwickramasinghe.shop&type=ws&host=14.sahanwickramasinghe.shop&path=/&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-170.114.45.6:80
 vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@104.18.26.50:8880?type=ws&host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.26.50:8880
 vless://e458db4b-4e43-4b26-b012-70b053b44f30@160.79.105.29:443?security=tls&sni=0107-7z4.pages.dev&type=ws&host=0107-7z4.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.29:443
+vless://bf517df9-a4e4-4a70-9667-7f695f23a369@172.67.141.68:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=%2F31365%2F%40M3HDIO1&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.68:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.48:2095

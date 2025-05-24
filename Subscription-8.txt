@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-103.214.68.133:587
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.178.218.138:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.19.48.236:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.48.236:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.234.239.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇨🇦 CA-104.234.239.29:8880
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.168.120:8443?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.168.120:8443
@@ -503,3 +501,5 @@ vless://96d0f49c-4562-4280-80f9-b9994fcb14e7@104.21.90.98:2083?security=tls&sni=
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.17.195.81:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.195.81:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.192.142:443?security=tls&sni=ppal03-sHANbEH2.mRS-aNtOinETTE-OhArA.WorKerS.deV&type=ws&host=ppAl03-sHANBeH2.mRS-AntoINetTe-OHarA.wOrkerS.deV&path=%2F0ZMEGjVSSsqFUJqv%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.142:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.60.74.28:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.60.74.28:8880
+vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.26.9.91:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.91:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.86.235:80?security=none&type=ws&host=c.lkzb-0t0.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.235:80

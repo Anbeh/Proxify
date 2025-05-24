@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.155:443?sni=cc.bgm2024.dpdns.org&type=ws&host=cc.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.155:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.67:2053?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.67:2053
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.132:80?security=none&type=ws&host=301.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.132:80
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@195.85.23.24:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇨🇿 CZ-195.85.23.24:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇿 CZ-80.211.194.250:80
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.190:8880?sni=sk.laoyoutia
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.185.161.45:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.45:2096
 vless://a04be978-3b21-42cf-a80c-4832894d26f0@104.21.56.210:8080?security=none&type=ws&host=shahed2.novintecc.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.56.210:8080
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.30:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇿🇦 ZA-160.123.255.30:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.104:2086?type=ws&host=redw.pooriam.ir#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.56.104:2086
+vless://43367b08-d0d3-4253-b326-6392ee857d56@172.67.177.221:443?security=tls&sni=mu.4056860.xyz&type=ws&host=mu.4056860.xyz&alpn=h3%2Ch2%2Chttp/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.221:443

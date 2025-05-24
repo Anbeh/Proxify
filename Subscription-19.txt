@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-trojan://Aimer@192.200.160.109:8443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-192.200.160.109:8443
-trojan://Aimer@104.22.53.90:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.53.90:443
 trojan://Aimer@104.17.235.245:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.235.245:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.17.147.22:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
 trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.68.56:2096
@@ -503,3 +501,5 @@ trojan://blue2024@104.18.121.158:443?security=tls&sni=td.promote.icu&type=tcp#�
 trojan://Aimer@162.159.137.13:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.137.13:443
 trojan://Aimer@104.19.44.91:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.44.91:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip#🔒 TR-WS-TLS 🇬🇧 GB-217.163.76.227:443
+trojan://bpb-trojan@154.211.8.72:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#🔒 TR-WS-NA 🇺🇸 US-154.211.8.72:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.150.202:443

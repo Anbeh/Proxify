@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.217:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTABRIZ.NET%2C+%40Azarbayjab1.googleapis.com%2C+%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3Dtabrizm137.com#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.217:8880
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@50.62.172.113:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#🔒 VL-WS-NONE 🇺🇸 US-50.62.172.113:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.155:443?sni=s0.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.155:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.143.237:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.143.237:2052
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.246:2095
@@ -503,3 +501,5 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.29:2096?security=tls&sn
 vless://55520747-311e-4015-83ce-be46e2060ce3@23.94.208.154:53485?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-23.94.208.154:53485
 vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@199.34.228.162:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=%2F2096%2F%40VRayyNGvpn#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:2096
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.47.184:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.184:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-103.214.68.133:587
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-192.178.218.138:443

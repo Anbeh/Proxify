@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.102:443
-vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.36.21:443?security=tls&sni=gcdn.freenet-rd.xyz&type=ws&host=gcdn.freenet-rd.xyz&path=%2Fms138%2F#🔒 VL-WS-TLS 🇺🇸 US-216.239.36.21:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇰🇿 KZ-31.43.179.43:443
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.141:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.141:2052
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.67:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTABRIZ.NET%2C+%40Azarbayjab1.googleapis.com%2C+%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3Dtabrizm137.com#🔒 VL-WS-NONE 🇳🇱 NL-45.149.12.67:8880
@@ -503,3 +501,5 @@ vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2053?security=tls&sni=M
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.237.105:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.105:443
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🇱🇹 LT-86.38.214.30:2052
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.34:80?security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.34:80
+vless://a21f2530-1e1c-4b74-8cdd-2de95a0560fe@172.67.179.43:443?security=tls&sni=D73D10d2-WiNTEr-UnioN-3936.NeWPAnEl54.WorkeRs.Dev&type=ws&host=d73d10d2-winter-union-3936.newpanel54.workers.dev&path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.43:443
+vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.46.27:80

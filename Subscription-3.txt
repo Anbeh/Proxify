@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/74647/Proxify
 #profile-web-page-url: https://github.com/74647/Proxify
-vless://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.216.10:443?security=tls&sni=e3.freEvPn2027.DPdNs.ORG&type=grpc&serviceName=RVZdZGSrg42QMKbEc4N8D&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.216.10:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.67.154.177:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.177:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.244.23:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.244.23:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.128:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.128:443
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@172.66.44.198:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.198:443
@@ -503,3 +501,5 @@ vless://b75ca4e1-d5e4-4282-b627-9e88ba8535b5@104.24.239.79:80?security=none&type
 vless://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.16.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.1:8443
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.117:443
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.13.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.13.101:8880
+vless://4587e98c-ec45-408e-b395-67923b6e9ded@104.21.8.24:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.24:443
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.65:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.65:2096
